@@ -1,6 +1,6 @@
 {
   "individual_transcript_analysis": {
-    "687a3c76def8059841a33291.txt": {
+    "6872142e5560c851d62a384c.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -12,71 +12,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686d6427d14f3abcfb24a99a.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6872142e5560c851d62a384c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6853039ecb9e39794c02ac33.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685acbfc9ae6a419f3d1c635.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6856addd1be7d3da06cb1b86.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6877e9dd73d0cf0f7e87be28.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6868149545548bd51cd98663.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6857265b1be7d3da06d9b63a.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6877e5ad73d0cf0f7e876585.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686e7f4dd14f3abcfb382c5e.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685c101732ebb07e593dd625.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6855b1e91be7d3da06bb25af.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer requested a hot latte, but the AI agent encountered an internal server error and was unable to retrieve the item, indicating that the item was unavailable."
-      }
-    },
-    "6852af82cb9e39794cf5b726.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68594ce51be7d3da060626a1.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685910d51be7d3da06ff5e8d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6858fbaf1be7d3da06fac9ee.txt": {
+    "687a3c76def8059841a33291.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -85,22 +21,94 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested an Omelet Wrap, but the AI Agent informed them that it was out of stock, offering alternatives instead."
+        "item_unavailable": "The customer requested an Omelet Wrap, but the AI agent informed them that it was out of stock, offering alternatives instead."
       }
     },
-    "68567bf91be7d3da06c5e33a.txt": {
+    "6856addd1be7d3da06cb1b86.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68714afe5560c851d622e0e9.txt": {
+    "685acbfc9ae6a419f3d1c635.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "6877e5ad73d0cf0f7e876585.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6868149545548bd51cd98663.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6853039ecb9e39794c02ac33.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6857265b1be7d3da06d9b63a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6877e9dd73d0cf0f7e87be28.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6855b1e91be7d3da06bb25af.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer requested a hot latte, but the AI agent encountered an error and could not find the item in the system, indicating that the item is unavailable."
+      }
+    },
+    "686e7f4dd14f3abcfb382c5e.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68594ce51be7d3da060626a1.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686d6427d14f3abcfb24a99a.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding a bag of rice chips to the order, which the customer accepted. This demonstrates effective upselling by the agent."
+      }
+    },
+    "6852af82cb9e39794cf5b726.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer specifically asks for interesting wrap options, indicating a desire for more details about the menu items."
+      }
+    },
+    "685910d51be7d3da06ff5e8d.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6858fbaf1be7d3da06fac9ee.txt": {
+      "tags": [
+        "agent_upsell_success",
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The customer accepted the suggestion to add a hot chocolate to their order, indicating a successful upsell by the agent.",
+        "customer_menu_question": "The customer asked for details about the menu options multiple times, showing interest and engagement in exploring the available choices."
+      }
+    },
+    "685c101732ebb07e593dd625.txt": {
+      "tags": [
+        "agent_upsell_success",
+        "customer_happy"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding 4oz of premium Acme smoked nova to the Breakfast Bundle, which the customer accepted, indicating an upsell success.",
+        "customer_happy": "The customer expressed gratitude and satisfaction multiple times throughout the call, thanking the AI agent for assistance and expressing appreciation for the service provided."
+      }
     },
     "68599fb31be7d3da06116625.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687297675560c851d63ec178.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -108,19 +116,19 @@
       "tags": [],
       "explanations": {}
     },
+    "687297675560c851d63ec178.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68567bf91be7d3da06c5e33a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6858f9671be7d3da06fa686c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "68760a4473d0cf0f7e5b77a6.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6856852e1be7d3da06c74da5.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852b836cb9e39794cf68059.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685997d81be7d3da0610e3d0.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -128,51 +136,11 @@
       "tags": [],
       "explanations": {}
     },
-    "68567b6e1be7d3da06c5c9ec.txt": {
-      "tags": [
-        "frequent_repetitions"
-      ],
-      "explanations": {
-        "frequent_repetitions": "The customer repeated 'Hello?' multiple times, indicating a lack of clear communication or understanding, leading to repeated statements."
-      }
-    },
-    "6856c7461be7d3da06cf547b.txt": {
+    "6852b836cb9e39794cf68059.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685702f91be7d3da06d87c42.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685926721be7d3da0602e108.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer requested a specific bagel type, Scallion/Onion Chive, for the Breakfast Bundle, but the agent mentioned that it was not available. This caused confusion and a failed customization process."
-      }
-    },
-    "6874a80f5560c851d661733b.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6858c6ed1be7d3da06f8f837.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685985d41be7d3da060f04da.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686e9362d14f3abcfb3b6aef.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer requested an Avocado BLT sandwich, but the AI agent clearly states that it is not available on the menu and offers alternative options like the Big City BLT, Avocado Toast, or Avocado Veg Out."
-      }
-    },
-    "6858f9671be7d3da06fa686c.txt": {
+    "6856852e1be7d3da06c74da5.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -181,18 +149,88 @@
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the order multiple times, such as changing all 13 garlic bagels to all 13 blueberry bagels and customizing the Avocado Toast with specific condiments and vegetables."
+        "order_correction_needed": "The customer had to correct the order multiple times, first changing all 13 bagels to garlic, then to blueberry, and later customizing the Avocado Toast with specific condiments and vegetables."
       }
     },
-    "685c5ef232ebb07e594644ad.txt": {
+    "68714afe5560c851d622e0e9.txt": {
+      "tags": [
+        "agent_upsell_success",
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding Provolone cheese to the order, which the customer accepted.",
+        "customer_menu_question": "The customer asked for more details about the cheese options available, showing interest in the menu and ingredients."
+      }
+    },
+    "6856c7461be7d3da06cf547b.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685910e91be7d3da06ff61c1.txt": {
+    "68567b6e1be7d3da06c5c9ec.txt": {
+      "tags": [
+        "technical_issue"
+      ],
+      "explanations": {
+        "technical_issue": "The customer repeatedly asks 'Hello? Can you hear me?' indicating a technical issue with the call, possibly related to difficulty hearing or a bad connection."
+      }
+    },
+    "685997d81be7d3da0610e3d0.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses satisfaction and gratitude by saying 'Okay. Thank you.' at the end of the call."
+      }
+    },
+    "685926721be7d3da0602e108.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer repeatedly asked for a bagel type named 'Scanlon' or 'Scallion/Onion Chive', but the agent confirmed the availability of 'Scallion' instead. Despite the customer's insistence on the specific bagel type, the agent later admitted that 'Scallion/Onion Chive' was not actually available, leading to confusion and a failed customization process."
+      }
+    },
+    "685702f91be7d3da06d87c42.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6858f7911be7d3da06fa26b2.txt": {
+    "6874a80f5560c851d661733b.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested the Classic Nova Lox Sandwich as an alternative when the customer requested salmon on the Everything bagel. The customer agreed to the suggestion and changed their order, indicating a successful upsell."
+      }
+    },
+    "686e9362d14f3abcfb3b6aef.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer requested an Avocado BLT sandwich, which is not available according to the agent's response."
+      }
+    },
+    "6858c6ed1be7d3da06f8f837.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding cheddar cheese and avocado to the Multigrain Bagel, which the customer agreed to. This indicates a successful upsell attempt."
+      }
+    },
+    "685985d41be7d3da060f04da.txt": {
+      "tags": [
+        "customer_menu_question",
+        "agent_upsell_attempt",
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer asked for clarification about the Avocado Toast, indicating interest and engagement with the menu item.",
+        "agent_upsell_attempt": "The agent made multiple attempts to upsell additional items (hard-boiled egg, eggs) to the customer, even though the customer declined each time.",
+        "customer_happy": "The customer expressed gratitude by saying 'Thank you so much' at the end of the call, indicating a positive customer experience."
+      }
+    },
+    "6858ca281be7d3da06f8f9cf.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -200,39 +238,27 @@
       "tags": [],
       "explanations": {}
     },
-    "685b10ea9ae6a419f3d733a4.txt": {
+    "685bf59732ebb07e5939a6c8.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6858f7911be7d3da06fa26b2.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685c5ef232ebb07e594644ad.txt": {
       "tags": [
-        "human_requested"
+        "agent_upsell_success"
       ],
       "explanations": {
-        "human_requested": "The customer explicitly asks to speak to a person or human agent when they express frustration with the language model's inability to access their previous order."
+        "agent_upsell_success": "The agent successfully suggested adding a box of coffee to the Breakfast Bundle order, which the customer accepted by choosing House Blend coffee."
       }
     },
     "685920a21be7d3da060230b9.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6852c8f1cb9e39794cf8acb7.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6855a7af1be7d3da06ba72f2.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687247185560c851d632ab04.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "6855b5561be7d3da06bb5c11.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6877d10273d0cf0f7e84928a.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6868ed6245548bd51ce588de.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -241,50 +267,106 @@
         "technical_issue"
       ],
       "explanations": {
-        "technical_issue": "The transcript clearly shows technical issues with the order processing, as indicated by the repeated 'ERROR: 500 - Internal Server Error' messages. This disrupted the ordering process and led to the call being transferred to a specialist."
+        "technical_issue": "The transcript indicates technical issues with the order processing, as the AI agent encountered an 'ERROR: 500 - Internal Server Error' multiple times while trying to place the order."
       }
     },
-    "6858ca281be7d3da06f8f9cf.txt": {
+    "6877d10273d0cf0f7e84928a.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6879a7ba970f265df9e6ac98.txt": {
+    "685b10ea9ae6a419f3d733a4.txt": {
+      "tags": [
+        "customer_annoyed",
+        "human_requested"
+      ],
+      "explanations": {
+        "customer_annoyed": "The customer expresses frustration and impatience when the AI agent mentions it cannot access previous orders, as seen in the customer's response 'Language model and you can't tell me. Okay.'",
+        "human_requested": "The customer requests to speak to a human agent after being unable to get the information needed from the AI agent, as indicated by the transfer to a human agent in the call summary."
+      }
+    },
+    "686bb25b0245c8178429114d.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "687247185560c851d632ab04.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685910e91be7d3da06ff61c1.txt": {
+      "tags": [
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The AI agent repeats the bagel choices multiple times due to customer's request for clarification on how many bagels can be selected, indicating a potential misunderstanding."
+      }
+    },
+    "6868ed6245548bd51ce588de.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6855a7af1be7d3da06ba72f2.txt": {
+      "tags": [
+        "technical_issue"
+      ],
+      "explanations": {
+        "technical_issue": "The AI agent encountered a technical issue where the search_for_item tool timed out, leading to the call ending before a response could be received."
+      }
+    },
+    "6852c8f1cb9e39794cf8acb7.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The customer initially ordered a Santa Fe Egg White but then decided to add a Hash Brown to the order based on the agent's suggestion. The customer accepted the upsell, indicating a successful upselling attempt by the agent."
+      }
     },
     "685675261be7d3da06c491ea.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685bf59732ebb07e5939a6c8.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686bb25b0245c8178429114d.txt": {
-      "tags": [],
-      "explanations": {}
+    "6855b6691be7d3da06bb6de2.txt": {
+      "tags": [
+        "technical_issue"
+      ],
+      "explanations": {
+        "technical_issue": "The call ended abruptly before the agent could respond, indicating a technical issue that prevented the completion of the customer's request for a hot latte."
+      }
     },
     "686e81b1d14f3abcfb38a0b7.txt": {
       "tags": [
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the agent's misunderstanding of their order by specifying the bagel types and quantities they wanted, which were different from what the agent initially suggested."
+        "order_correction_needed": "The customer had to correct the agent's misunderstanding of their order by specifying the correct bagel selections, indicating a need for order correction."
       }
     },
-    "6855b6691be7d3da06bb6de2.txt": {
+    "6879a7ba970f265df9e6ac98.txt": {
       "tags": [
-        "frequent_repetitions"
+        "customer_happy",
+        "agent_upsell_success"
       ],
       "explanations": {
-        "frequent_repetitions": "The AI agent repeated the phrase 'I'm searching for 'hot latte' in our menu. Give me just a moment...' multiple times, indicating a lack of understanding or technical issue causing the repetition."
+        "customer_happy": "The customer expresses gratitude and satisfaction by saying 'Okay. Great. Thank you so much.'",
+        "agent_upsell_success": "The agent successfully suggests upgrading to Lays chips as a side, which the customer accepts."
       }
+    },
+    "68596b7f1be7d3da060a67a2.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686d2981d14f3abcfb1b3626.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686e915fd14f3abcfb3b163f.txt": {
+      "tags": [],
+      "explanations": {}
     },
     "6868da1b45548bd51ce13d71.txt": {
       "tags": [],
       "explanations": {}
     },
-    "686d2981d14f3abcfb1b3626.txt": {
+    "686a6cb245548bd51c070105.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -293,50 +375,14 @@
       "explanations": {}
     },
     "6855b77f1be7d3da06bb7a6f.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68596b7f1be7d3da060a67a2.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686e915fd14f3abcfb3b163f.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686a6cb245548bd51c070105.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68573ed21be7d3da06d9c790.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6856a8111be7d3da06ca93ff.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6868c6fe45548bd51cdd8be7.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6859b4bb1be7d3da06124ff7.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6877d51c73d0cf0f7e853b8b.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687a527ba1698f75072c0810.txt": {
       "tags": [
         "frequent_repetitions"
       ],
       "explanations": {
-        "frequent_repetitions": "The customer repeats the question about the menu structure multiple times, indicating a lack of understanding or clarity in the agent's responses."
+        "frequent_repetitions": "The AI agent repeated the phrase 'I'm searching for hot latte in our menu. Give me just a moment...' multiple times, indicating a loop or technical issue causing the repetition."
       }
     },
-    "686c59510245c817843754c2.txt": {
+    "6868c6fe45548bd51cdd8be7.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -344,29 +390,49 @@
       "tags": [],
       "explanations": {}
     },
+    "687a527ba1698f75072c0810.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer repeatedly asks about the menu structure and content, showing confusion and seeking clarification on what items are available for order. This indicates a customer menu question tag is applicable."
+      }
+    },
+    "6856a8111be7d3da06ca93ff.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding whipped cream to the hot latte, which was accepted by the customer. This upsell demonstrates effective customer engagement and satisfaction."
+      }
+    },
     "6857b13e1be7d3da06dd3595.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6852f34dcb9e39794c00f5df.txt": {
+    "686c59510245c817843754c2.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6855b5c31be7d3da06bb61eb.txt": {
+    "6877d51c73d0cf0f7e853b8b.txt": {
       "tags": [
-        "frequent_repetitions"
+        "agent_upsell_success"
       ],
       "explanations": {
-        "frequent_repetitions": "The AI agent repeats the phrase 'I'm searching for 'hot latte' in our menu. Give me just a moment...' multiple times, indicating a repetitive behavior due to misunderstanding."
+        "agent_upsell_success": "The agent successfully suggested upgrading the customer's bagel choice from Sesame to Multigrain, which the customer accepted. This demonstrates effective upselling."
       }
     },
-    "686c176f0245c817843644ac.txt": {
+    "68573ed21be7d3da06d9c790.txt": {
       "tags": [
-        "order_correction_needed"
+        "customer_happy"
       ],
       "explanations": {
-        "order_correction_needed": "The customer initially asked for 'French orange juice' instead of just 'orange juice.' The agent had to clarify and confirm the correct item, which indicates a correction was needed."
+        "customer_happy": "The customer expresses clear satisfaction and gratitude by saying 'Thanks so much' at the end of the call."
       }
+    },
+    "6852f34dcb9e39794c00f5df.txt": {
+      "tags": [],
+      "explanations": {}
     },
     "687231015560c851d6300d79.txt": {
       "tags": [
@@ -376,19 +442,35 @@
         "item_unavailable": "The customer requested a French Toast Bagel for the Avocado BLT Sandwich, but the AI agent mentioned that it is not available as an option for that specific sandwich."
       }
     },
-    "6859114f1be7d3da06ff7563.txt": {
-      "tags": [],
-      "explanations": {}
+    "6855b5c31be7d3da06bb61eb.txt": {
+      "tags": [
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The tag 'frequent_repetitions' applies because the AI agent repeated the phrase 'I'm searching for hot latte in our menu. Give me just a moment...' multiple times, indicating a loop or technical issue causing repetition."
+      }
+    },
+    "686c176f0245c817843644ac.txt": {
+      "tags": [
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer initially asked for 'orange juice' but then corrected the order to specify 'Fresh Squeezed Orange Juice', indicating a need for correction in the order."
+      }
+    },
+    "6859b4bb1be7d3da06124ff7.txt": {
+      "tags": [
+        "agent_upsell_success",
+        "frequent_repetitions",
+        "customer_happy"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding a box of coffee to the order, which the customer accepted.",
+        "frequent_repetitions": "There were multiple instances where the agent had to repeat the customer's order details back to confirm, indicating some level of misunderstanding.",
+        "customer_happy": "The customer expressed gratitude and satisfaction at the end of the call, thanking the agent for their help and stating that the service was very good."
+      }
     },
     "686bb23f0245c81784290e6e.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68570bb71be7d3da06d9089c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686a20f645548bd51cfca509.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -396,19 +478,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68796f50970f265df9e6a42c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68578ece1be7d3da06d9efd9.txt": {
-      "tags": [
-        "order_correction_needed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer did not complete the customization process for the Big Breakfast Burrito. When asked to choose the meat option, the customer requested more options, indicating a need for correction or clarification."
-      }
-    },
-    "685932de1be7d3da06041e8e.txt": {
+    "6859114f1be7d3da06ff7563.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -416,35 +486,31 @@
       "tags": [],
       "explanations": {}
     },
-    "6859ab9a1be7d3da0611f946.txt": {
+    "68796f50970f265df9e6a42c.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "686a20f645548bd51cfca509.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer asked for more details about the Farmhouse Egg Sandwich, specifically inquiring about adding vegetables to it. This shows interest and engagement with the menu items."
+      }
     },
     "6859439f1be7d3da06056f1b.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68568e901be7d3da06c862f2.txt": {
-      "tags": [],
-      "explanations": {}
+    "68578ece1be7d3da06d9efd9.txt": {
+      "tags": [
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The agent repeated the options for the Big Breakfast Burrito multiple times due to the customer's request for more options, leading to a back and forth exchange that repeated the same information."
+      }
     },
-    "687a4d0ea1698f75072b3b9f.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6856832d1be7d3da06c70587.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68583a8b1be7d3da06f5be69.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68696bab45548bd51cf8afe7.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685d564adda6a93eb94cae58.txt": {
+    "6859ab9a1be7d3da0611f946.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -452,23 +518,87 @@
       "tags": [],
       "explanations": {}
     },
-    "68720ca45560c851d6289cc4.txt": {
+    "68570bb71be7d3da06d9089c.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses gratitude by saying 'Thank you' at the end of the call, indicating clear satisfaction with the service provided."
+      }
+    },
+    "6856832d1be7d3da06c70587.txt": {
       "tags": [],
       "explanations": {}
     },
+    "687a4d0ea1698f75072b3b9f.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685932de1be7d3da06041e8e.txt": {
+      "tags": [
+        "agent_upsell_success",
+        "customer_menu_question",
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested the Santa Fe Egg White sandwich to the customer, and the customer accepted the recommendation.",
+        "customer_menu_question": "The customer asked for details about the Santa Fe Egg White sandwich, indicating interest and engagement with the menu.",
+        "frequent_repetitions": "There were multiple instances where the agent had to repeat the options for customization, indicating a potential misunderstanding or confusion."
+      }
+    },
+    "68696bab45548bd51cf8afe7.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68568e901be7d3da06c862f2.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding extra grilled chicken to the Big Breakfast Burrito, which the customer accepted. This upsell resulted in an increase in the total order value."
+      }
+    },
+    "685d564adda6a93eb94cae58.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer asks for more details about the menu by requesting information on the sesame bagel, indicating an interest in understanding the options available before making a decision."
+      }
+    },
     "687267135560c851d635a203.txt": {
+      "tags": [
+        "frequent_repetitions",
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The customer repeatedly asked for a list of items in the breakfast, bagels, and sweets category, indicating a lack of clarity or understanding on the agent's part, leading to multiple repetitions of the same information.",
+        "customer_menu_question": "The customer consistently requested detailed information about the menu items, showing a strong interest in understanding the available options and validating the menu content."
+      }
+    },
+    "68583a8b1be7d3da06f5be69.txt": {
       "tags": [
         "frequent_repetitions"
       ],
       "explanations": {
-        "frequent_repetitions": "The customer repeated the request for a list of breakfast, bagel, and sweet items multiple times, indicating a lack of clarity or understanding on the customer's part, leading to repetitive information sharing."
+        "frequent_repetitions": "The customer repeats 'Okay' and 'Fine' multiple times in response to the agent's bagel options, indicating a potential misunderstanding or confusion that led to repetition of information."
       }
     },
-    "6855a0741be7d3da06b9cf0a.txt": {
+    "68720ca45560c851d6289cc4.txt": {
+      "tags": [
+        "frequent_repetitions",
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The customer had to repeat their bagel and cream cheese choices multiple times due to misunderstandings with the agent. This led to a back and forth repetition of the order details.",
+        "order_correction_needed": "The customer had to correct the agent multiple times regarding their bagel and cream cheese choices, indicating a need for order corrections."
+      }
+    },
+    "68573b791be7d3da06d9c643.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68573b791be7d3da06d9c643.txt": {
+    "6855a0741be7d3da06b9cf0a.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -480,51 +610,55 @@
       "tags": [],
       "explanations": {}
     },
-    "685969a51be7d3da060a0bcf.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68683dde45548bd51cdc1b4e.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68596bb41be7d3da060a70a2.txt": {
-      "tags": [],
-      "explanations": {}
+    "68722eba5560c851d62fbbbd.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer requested an Avocado BLT sandwich, but the AI agent informed them that it is not available on the Manhattan Bagel menu."
+      }
     },
     "687a5795a1698f75072ceb08.txt": {
       "tags": [
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested a Palmouse Egg Sandwich, which the agent confirmed was not available on the menu. The agent then offered alternative egg sandwich options."
+        "item_unavailable": "The customer requested a Palmouse Egg Sandwich, which the agent confirmed was not available on the menu. This tag applies as the requested item is unavailable."
       }
-    },
-    "6877ebc073d0cf0f7e87dff3.txt": {
-      "tags": [],
-      "explanations": {}
     },
     "685969901be7d3da060a0641.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68724ef75560c851d6335194.txt": {
+    "685969a51be7d3da060a0bcf.txt": {
       "tags": [
+        "agent_upsell_success",
         "frequent_repetitions"
       ],
       "explanations": {
-        "frequent_repetitions": "The customer asked the agent to repeat the details of the Breakfast Bundle multiple times, indicating a lack of clarity or understanding, leading to repeated information sharing."
+        "agent_upsell_success": "The agent successfully suggested adding a hot latte to the order, which the customer agreed to, showcasing an upsell success.",
+        "frequent_repetitions": "There were multiple instances where the agent had to repeat the available options to the customer, indicating a need for clarification and leading to frequent repetitions."
       }
     },
-    "68722eba5560c851d62fbbbd.txt": {
+    "6877ebc073d0cf0f7e87dff3.txt": {
       "tags": [
-        "item_unavailable"
+        "customer_happy"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested an Avocado BLT sandwich, but the agent clearly stated that it is not available on the Manhattan Bagel menu."
+        "customer_happy": "The customer, Jitin, is a returning customer and the AI agent greets him warmly, expressing that it is great to see him again. This indicates clear satisfaction and positive sentiment from the customer."
       }
     },
-    "6872593d5560c851d634269d.txt": {
+    "68724ef75560c851d6335194.txt": {
+      "tags": [
+        "frequent_repetitions",
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The agent and customer repeated the discussion about the types of bagels and muffins multiple times due to misunderstanding. This is evident from the customer asking for clarification and the agent restating the options.",
+        "order_correction_needed": "The customer had to correct the agent regarding the incorrect mention of a Vanilla bagel in the order. This indicates a need for correction in the order details."
+      }
+    },
+    "68596bb41be7d3da060a70a2.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -532,23 +666,33 @@
       "tags": [],
       "explanations": {}
     },
-    "6872d5e05560c851d64245e8.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "6867a26812c193450e278a53.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6855a49f1be7d3da06ba2fb9.txt": {
+    "6872d5e05560c851d64245e8.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6872593d5560c851d634269d.txt": {
       "tags": [
-        "technical_issue"
+        "frequent_repetitions"
       ],
       "explanations": {
-        "technical_issue": "The call experienced technical difficulties as the agent was unable to find the customer's requested item, a hot latte, due to tool timeouts during the search process."
+        "frequent_repetitions": "The customer and the AI agent repeated the details of the Breakfast Bundle multiple times due to the customer's confusion. This back and forth repetition indicates a lack of clarity and understanding, leading to the need for multiple explanations."
       }
     },
-    "686b86ec0ba117a21b237651.txt": {
+    "6855a49f1be7d3da06ba2fb9.txt": {
+      "tags": [
+        "technical_issue",
+        "item_unavailable"
+      ],
+      "explanations": {
+        "technical_issue": "The AI agent encountered technical difficulties multiple times while trying to find the customer's requested item, a hot latte, through the search tool.",
+        "item_unavailable": "The customer requested a hot latte, but the AI agent was unable to locate it in the system, indicating that the item was unavailable."
+      }
+    },
+    "6877e78d73d0cf0f7e878c24.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -557,16 +701,26 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer repeatedly asked for apple juice, but the agent confirmed multiple times that it is not available on the menu."
+        "item_unavailable": "The customer repeatedly asked for apple juice, but the AI agent confirmed multiple times that it was not available on the menu."
       }
     },
-    "6877e78d73d0cf0f7e878c24.txt": {
-      "tags": [],
-      "explanations": {}
+    "68683dde45548bd51cdc1b4e.txt": {
+      "tags": [
+        "order_correction_needed",
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the agent regarding the size options for the smoothie, as the agent initially provided incorrect information about the available sizes.",
+        "frequent_repetitions": "There were multiple instances where the customer had to repeat or clarify information due to misunderstandings, such as confirming the price and size of the smoothie."
+      }
     },
-    "6870f52da2fac3dbe4e685ce.txt": {
-      "tags": [],
-      "explanations": {}
+    "686b86ec0ba117a21b237651.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding extra bacon to the customer's order, which was accepted by the customer."
+      }
     },
     "6871e9c45560c851d625e09d.txt": {
       "tags": [],
@@ -576,15 +730,11 @@
       "tags": [],
       "explanations": {}
     },
-    "6868d71745548bd51ce090e2.txt": {
+    "6857d3ad1be7d3da06e45d3e.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68527b7acb9e39794cefcc57.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68725a055560c851d634396e.txt": {
+    "6870f52da2fac3dbe4e685ce.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -592,23 +742,41 @@
       "tags": [],
       "explanations": {}
     },
-    "6857d3ad1be7d3da06e45d3e.txt": {
+    "68527b7acb9e39794cefcc57.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses clear satisfaction and gratitude by saying 'No. Thank you so much.' This indicates a positive customer experience."
+      }
+    },
+    "6868d71745548bd51ce090e2.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding whipped cream to the customer's order, which was accepted by the customer. This upsell attempt was acknowledged and fulfilled, indicating a successful interaction."
+      }
+    },
+    "686d2249d14f3abcfb19f329.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6872c27a5560c851d641e773.txt": {
-      "tags": [],
-      "explanations": {}
+    "68725a055560c851d634396e.txt": {
+      "tags": [
+        "order_correction_needed",
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the order by specifying that they did not want butter in the Breakfast Bundle, leading to a modification in the order.",
+        "customer_menu_question": "The customer asked for specific details about the menu items, such as the types of bagels available and the flavors of cream cheese, indicating an interest in customization and options."
+      }
     },
-    "6859a5711be7d3da0611b541.txt": {
+    "686eacbad14f3abcfb3e14fb.txt": {
       "tags": [],
       "explanations": {}
     },
     "686e4310d14f3abcfb3151fc.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686eacbad14f3abcfb3e14fb.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -620,10 +788,6 @@
       "tags": [],
       "explanations": {}
     },
-    "687a6b54a1698f75073111ec.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "687266875560c851d6358df3.txt": {
       "tags": [
         "item_unavailable"
@@ -632,59 +796,61 @@
         "item_unavailable": "The customer attempted to order an Avocado BLT Sandwich and Manhattan Cheesestick, but both items were not found on the menu by BagelBot."
       }
     },
-    "6858ae3c1be7d3da06f8eec2.txt": {
-      "tags": [],
-      "explanations": {}
+    "6859a5711be7d3da0611b541.txt": {
+      "tags": [
+        "order_correction_needed",
+        "technical_issue"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the order by removing milk from the Lemon Ginger tea after it was initially included by the AI agent.",
+        "technical_issue": "There was an error (Internal Server Error) during the order placement process, indicating a technical issue."
+      }
+    },
+    "6872c27a5560c851d641e773.txt": {
+      "tags": [
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The tag 'frequent_repetitions' applies because there is a repeated back and forth exchange between the customer and the AI agent regarding the selection of bagels for the Breakfast Bundle. The customer initially misunderstands that they need to choose 12 different bagels, leading to multiple clarifications from the agent."
+      }
     },
     "687271b15560c851d6377a07.txt": {
       "tags": [
         "frequent_repetitions"
       ],
       "explanations": {
-        "frequent_repetitions": "The customer repeated the phrase 'What is zone what is zone' multiple times, indicating a lack of understanding or confusion, leading to repetitive communication."
+        "frequent_repetitions": "The agent and customer repeated the bread choice for the Chelsea Grilled Chicken multiple times due to a misunderstanding. The customer's repeated question about the bagel choice indicates confusion and the need for clarification."
       }
+    },
+    "687a6b54a1698f75073111ec.txt": {
+      "tags": [],
+      "explanations": {}
     },
     "68579d071be7d3da06da6b63.txt": {
       "tags": [
-        "customer_happy"
+        "customer_happy",
+        "agent_upsell_success"
       ],
       "explanations": {
-        "customer_happy": "The customer explicitly expresses happiness and gratitude by saying 'That's perfect. That's perfect.' This indicates a positive customer experience."
+        "customer_happy": "The customer expresses satisfaction by stating 'That's perfect. That's perfect.' after confirming the order without wanting it to be repeated.",
+        "agent_upsell_success": "The agent successfully upsells the customer on a Small 12oz hot coffee with Hazelnut syrup and Oat milk, which the customer accepts."
       }
     },
-    "686d2249d14f3abcfb19f329.txt": {
+    "6858ae3c1be7d3da06f8eec2.txt": {
       "tags": [
-        "order_correction_needed"
+        "agent_upsell_success",
+        "customer_menu_question"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the agent on their name at the beginning of the call, indicating a need for order correction."
+        "agent_upsell_success": "The AI agent successfully suggested adding butter to the Cinnamon Raisin Bagel, which the customer agreed to. This upsell attempt was accepted by the customer, indicating a successful interaction.",
+        "customer_menu_question": "The customer asked specific questions about the sweetness level of the Cinnamon Raisin Bagel, showing interest in the menu details and ingredients. This demonstrates engagement and a desire for more information."
       }
-    },
-    "6869709545548bd51cf9082d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6877dffa73d0cf0f7e86c9d9.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68792bad970f265df9e31ba1.txt": {
-      "tags": [],
-      "explanations": {}
     },
     "686e7f67d14f3abcfb38329a.txt": {
       "tags": [],
       "explanations": {}
     },
-    "686ea9b3d14f3abcfb3ddd6d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68681b7845548bd51cda3b50.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685a7a1e1be7d3da061c8841.txt": {
+    "6869709545548bd51cf9082d.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -692,13 +858,29 @@
       "tags": [],
       "explanations": {}
     },
-    "6857014e1be7d3da06d85e15.txt": {
+    "68792bad970f265df9e31ba1.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "6877dffa73d0cf0f7e86c9d9.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses gratitude and satisfaction by saying 'No. All good. Thank you so much.' at the end of the call."
+      }
     },
     "685d40ecdda6a93eb949fc8a.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "685a7a1e1be7d3da061c8841.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses satisfaction by confirming the order without any corrections and thanking the agent for their help."
+      }
     },
     "685925111be7d3da0602b95f.txt": {
       "tags": [],
@@ -708,15 +890,25 @@
       "tags": [],
       "explanations": {}
     },
-    "6877cf2973d0cf0f7e8441be.txt": {
-      "tags": [],
-      "explanations": {}
+    "68681b7845548bd51cda3b50.txt": {
+      "tags": [
+        "customer_annoyed",
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "customer_annoyed": "The customer expresses frustration and impatience by repeatedly asking the agent to check the menu again and questioning why the proper menu is not being followed.",
+        "frequent_repetitions": "There are multiple instances where the agent repeats information back to the customer due to misunderstanding, such as confirming the menu items and modifier groups."
+      }
     },
-    "68760a3573d0cf0f7e5b73e2.txt": {
-      "tags": [],
-      "explanations": {}
+    "686ea9b3d14f3abcfb3ddd6d.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully upsold the customer from a sixteen ounce to a twenty-four ounce Mint Oreo Chillerz, resulting in a higher-priced order."
+      }
     },
-    "6872c2395560c851d641e62c.txt": {
+    "6857014e1be7d3da06d85e15.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -725,10 +917,30 @@
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the order when the agent couldn't find the item 'Plain' in the menu. This indicates a need for order correction."
+        "order_correction_needed": "The customer had to correct the item 'Plain' as it was not found in the menu, indicating a need for correction in the order."
       }
     },
+    "6877cf2973d0cf0f7e8441be.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68760a3573d0cf0f7e5b73e2.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6868340e45548bd51cdbca62.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68594f131be7d3da06065788.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6856aa551be7d3da06cac94a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6872c2395560c851d641e62c.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -740,15 +952,7 @@
         "item_unavailable": "The customer attempted to order an Omelet Wrap, but the agent informed them that it was out of stock. This indicates that the item requested by the customer is unavailable."
       }
     },
-    "68594f131be7d3da06065788.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6868340e45548bd51cdbca62.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68701aefd14f3abcfb5c9da7.txt": {
+    "687a6d70a1698f75073186a8.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -756,7 +960,7 @@
       "tags": [],
       "explanations": {}
     },
-    "687a6d70a1698f75073186a8.txt": {
+    "6856cb251be7d3da06d03f8d.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -764,11 +968,71 @@
       "tags": [],
       "explanations": {}
     },
-    "6856cb251be7d3da06d03f8d.txt": {
+    "68593ae41be7d3da0604c873.txt": {
+      "tags": [
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The agent repeated the customization options for bagels and muffins multiple times due to the customer's unclear responses, indicating a lack of understanding or miscommunication."
+      }
+    },
+    "686a76a845548bd51c0805b9.txt": {
       "tags": [],
       "explanations": {}
     },
     "685a8b96f664fde5010e4369.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses satisfaction by confirming the order and acknowledging the total price without any objections. They also thank the AI agent for the service, indicating a positive experience."
+      }
+    },
+    "68701aefd14f3abcfb5c9da7.txt": {
+      "tags": [
+        "customer_annoyed"
+      ],
+      "explanations": {
+        "customer_annoyed": "The customer expresses frustration and confusion when mentioning that the agent cannot see the numbers and is having trouble with the totals. This indicates annoyance with the handling of the order."
+      }
+    },
+    "68572ee11be7d3da06d9c143.txt": {
+      "tags": [
+        "customer_happy",
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses clear satisfaction and gratitude by stating 'Nope. That sounds perfect. I'm all set with that order. Thank you so much.'",
+        "agent_upsell_success": "The agent's suggestion of a lighter roast to complement the Avocado Toast is accepted by the customer when they choose the House Blend coffee."
+      }
+    },
+    "6878049273d0cf0f7e88e77f.txt": {
+      "tags": [
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct their bagel choices after the agent seemingly confirmed them. The customer initially requested 2 vanilla and 2 strawberry bagels, which were not valid options for the Breakfast Bundle. The agent had to inform the customer of the invalid choices and offer alternative options."
+      }
+    },
+    "687a5395a1698f75072c37d8.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer attempted to order an Omelet Wrap, but the agent informed them that it was out of stock, indicating that the item requested by the customer was unavailable."
+      }
+    },
+    "687a7104a1698f75073244fc.txt": {
+      "tags": [
+        "order_correction_needed",
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the bagel selection multiple times due to misunderstandings with the agent. Initially, the agent misunderstood the customer's request for vanilla bagels and included onion bagels instead. This required multiple adjustments to reach the correct order.",
+        "frequent_repetitions": "There were multiple instances where the agent and customer had to repeat and confirm the bagel and cream cheese selections, indicating a lack of clarity and understanding between them. This repetition suggests a need for clearer communication."
+      }
+    },
+    "68696dff45548bd51cf8dcc1.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -776,29 +1040,23 @@
       "tags": [],
       "explanations": {}
     },
-    "68593ae41be7d3da0604c873.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686a76a845548bd51c0805b9.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6878049273d0cf0f7e88e77f.txt": {
+    "6859b2331be7d3da061243e8.txt": {
       "tags": [
-        "order_correction_needed",
-        "item_unavailable"
+        "human_requested"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct their bagel choices after the agent pointed out that 'Vanilla' and 'Strawberry' are not valid options for the Breakfast Bundle, and 'Garlic Veggie' is also not a valid choice.",
-        "item_unavailable": "The agent informed the customer that 'Vanilla' and 'Strawberry' are not available as bagel options, offering alternative flavors like Cinnamon Raisin, Chocolate Chip, or Onion instead."
+        "human_requested": "The tag 'human_requested' applies because the customer explicitly requested to be transferred to a human agent instead of placing an order. This indicates a preference for human interaction over automated assistance."
       }
     },
-    "68696dff45548bd51cf8dcc1.txt": {
+    "685594941be7d3da06b84cc2.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685594941be7d3da06b84cc2.txt": {
+    "6856e51e1be7d3da06d56d3a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685981b61be7d3da060e68c5.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -806,47 +1064,19 @@
       "tags": [],
       "explanations": {}
     },
-    "687a5395a1698f75072c37d8.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer requested an Omelet Wrap, but the agent informed them that it was out of stock, leading to the offer of alternative breakfast items."
-      }
-    },
-    "685981b61be7d3da060e68c5.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6856e51e1be7d3da06d56d3a.txt": {
-      "tags": [
-        "technical_issue"
-      ],
-      "explanations": {
-        "technical_issue": "The transcript clearly shows a technical issue occurring when the AI Agent encounters an error with the message 'ERROR: 400 - Bad Request. Missing required parameters: modifier_group_ids'. This technical problem hinders the successful placement of the customer's order."
-      }
-    },
-    "6859b2331be7d3da061243e8.txt": {
-      "tags": [
-        "human_requested"
-      ],
-      "explanations": {
-        "human_requested": "The customer explicitly asks to speak to a human agent, as seen in the transcript: 'Hello? I don't want to order anything. You just transfer this call to a human agent, please.'"
-      }
-    },
-    "687a7104a1698f75073244fc.txt": {
-      "tags": [
-        "order_correction_needed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer had to correct the bagel selection multiple times during the order process. Initially, the agent mentioned 16 bagels instead of the required 13, leading to adjustments and corrections in the bagel choices."
-      }
-    },
     "686e9fd3d14f3abcfb3cf2b5.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer asked for more details about the menu items, specifically the types of bagels, cream cheese flavors, muffin options, and coffee choices. This indicates a genuine interest in understanding the available options before making a decision."
+      }
+    },
+    "68780dd473d0cf0f7e890c65.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68572ee11be7d3da06d9c143.txt": {
+    "68593de31be7d3da0605015f.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -854,7 +1084,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68593de31be7d3da0605015f.txt": {
+    "6856a3be1be7d3da06ca386b.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -863,18 +1093,22 @@
       "explanations": {}
     },
     "686ed240d14f3abcfb3f629e.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687270895560c851d6373a9c.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer asked about the vegan sandwich options, types of beverages available, and if sandwiches could be made on something other than a bagel, showing interest in menu details and customization."
+      }
     },
     "686d41cfd14f3abcfb2031c7.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "customer_annoyed"
+      ],
+      "explanations": {
+        "customer_annoyed": "The customer abruptly requests to disconnect the call after the agent asks about the cheese selection, indicating possible frustration or impatience."
+      }
     },
-    "6856a3be1be7d3da06ca386b.txt": {
+    "687270895560c851d6373a9c.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -886,10 +1120,6 @@
       "tags": [],
       "explanations": {}
     },
-    "68780dd473d0cf0f7e890c65.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "6868dab845548bd51ce15d59.txt": {
       "tags": [],
       "explanations": {}
@@ -898,23 +1128,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6877da9e73d0cf0f7e860ef0.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "685997771be7d3da0610dd1a.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6868edb545548bd51ce59ef3.txt": {
-      "tags": [
-        "frequent_repetitions"
-      ],
-      "explanations": {
-        "frequent_repetitions": "The customer repeated their bagel and cream cheese choices multiple times due to misunderstanding. The agent had to clarify and confirm the selections repeatedly, indicating a lack of clarity in communication."
-      }
-    },
-    "685730371be7d3da06d9c21d.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -922,11 +1136,15 @@
       "tags": [],
       "explanations": {}
     },
-    "686f41dcd14f3abcfb3fa0a4.txt": {
+    "6877da9e73d0cf0f7e860ef0.txt": {
       "tags": [],
       "explanations": {}
     },
     "686fe134d14f3abcfb55f38a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6868edb545548bd51ce59ef3.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -935,18 +1153,14 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested a pastry, but the AI agent informed them that it is out of stock, offering alternative options instead."
+        "item_unavailable": "The customer requested a pastry, but the AI agent informed them that it is currently out of stock. This led to the customer not being able to place the desired order."
       }
     },
-    "685a951ef664fde5010eff1f.txt": {
+    "685730371be7d3da06d9c21d.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6859373d1be7d3da06047e25.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687a3e4fdef8059841a357bc.txt": {
+    "686f41dcd14f3abcfb3fa0a4.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -954,19 +1168,15 @@
       "tags": [],
       "explanations": {}
     },
-    "6855b0001be7d3da06bb0450.txt": {
-      "tags": [
-        "technical_issue"
-      ],
-      "explanations": {
-        "technical_issue": "The transcript clearly shows that the AI agent encountered internal server errors multiple times while trying to find the hot latte item for the customer, indicating a technical issue affecting the order process."
-      }
-    },
-    "6852c743cb9e39794cf86684.txt": {
+    "686eac32d14f3abcfb3e0ac4.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685a96ddf664fde5010f2001.txt": {
+    "687a3e4fdef8059841a357bc.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685a951ef664fde5010eff1f.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -975,10 +1185,10 @@
         "technical_issue"
       ],
       "explanations": {
-        "technical_issue": "The order could not be successfully placed due to technical issues, as mentioned in the transcript. The customer expressed a desire to place the order but encountered difficulties, leading to the order not being processed."
+        "technical_issue": "The order could not be successfully placed due to technical issues, as mentioned in the summary and transcript."
       }
     },
-    "686a7d8c45548bd51c08ff1d.txt": {
+    "6855b0001be7d3da06bb0450.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -987,10 +1197,14 @@
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer attempted to order an Avocado BLT Sandwich but encountered errors in the update_order tool, leading to the agent needing to correct the order multiple times due to technical issues."
+        "order_correction_needed": "The customer had to correct the bread choice from 'everything bagel' to 'everything bigger' after the agent seemingly confirmed it. This indicates an error in the order process."
       }
     },
-    "686eac32d14f3abcfb3e0ac4.txt": {
+    "6859373d1be7d3da06047e25.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685a96ddf664fde5010f2001.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1002,7 +1216,23 @@
       "tags": [],
       "explanations": {}
     },
+    "6852c743cb9e39794cf86684.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686a7d8c45548bd51c08ff1d.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6852a038cb9e39794cf49135.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686b7b4d45548bd51c1ca585.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685904a51be7d3da06fc9e15.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1010,7 +1240,11 @@
       "tags": [],
       "explanations": {}
     },
-    "685904a51be7d3da06fc9e15.txt": {
+    "687206355560c851d627829a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6859326d1be7d3da060412c6.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1019,18 +1253,10 @@
         "technical_issue"
       ],
       "explanations": {
-        "technical_issue": "There is a clear mention of a technical problem with the error 'ERROR: 500 - Internal Server Error' causing a disruption in the order process."
+        "technical_issue": "The transcript indicates an 'ERROR: 500 - Internal Server Error' message, suggesting a technical problem during the order process."
       }
     },
-    "6859326d1be7d3da060412c6.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686b7b4d45548bd51c1ca585.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687206355560c851d627829a.txt": {
+    "686d1c6cd14f3abcfb193849.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1038,19 +1264,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686d96cfd14f3abcfb26251e.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "685938c21be7d3da060499c1.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852ebf6cb9e39794cffd78b.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686d1c6cd14f3abcfb193849.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1058,11 +1272,27 @@
       "tags": [],
       "explanations": {}
     },
-    "686b7b2a45548bd51c1c9bf9.txt": {
+    "686d96cfd14f3abcfb26251e.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding extra toppings and condiments to the customer's Chicken Cuban, including pickles and extra cheese, which the customer agreed to. This demonstrates a successful upsell attempt."
+      }
+    },
+    "68594d611be7d3da060631d5.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding 2 tubs of spread (Strawberry and Honey Almond) to the customer's order, which was accepted by the customer."
+      }
+    },
+    "6852ebf6cb9e39794cffd78b.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68594d611be7d3da060631d5.txt": {
+    "686b7b2a45548bd51c1c9bf9.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1074,35 +1304,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686970b545548bd51cf90b55.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6859a1bd1be7d3da061185fd.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687a6551a1698f75072fbf99.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6877dd0c73d0cf0f7e8662db.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686c34770245c81784372e3b.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "68527019cb9e39794ced1b7f.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68721ca65560c851d62c2781.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68701d3bd14f3abcfb5cad89.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1110,15 +1312,43 @@
       "tags": [],
       "explanations": {}
     },
+    "6859a1bd1be7d3da061185fd.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6877dd0c73d0cf0f7e8662db.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68721ca65560c851d62c2781.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686970b545548bd51cf90b55.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686c34770245c81784372e3b.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68701d3bd14f3abcfb5cad89.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "687a6551a1698f75072fbf99.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "687a6bc1a1698f75073124cd.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding 2 Brownies to the order, which was accepted by the customer without any further changes or additions."
+      }
     },
-    "686d4175d14f3abcfb2020b7.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685923131be7d3da06027b60.txt": {
+    "68529cd3cb9e39794cf44e6c.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1126,11 +1356,11 @@
       "tags": [],
       "explanations": {}
     },
-    "68729b665560c851d63f49b0.txt": {
+    "686d4175d14f3abcfb2020b7.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68529cd3cb9e39794cf44e6c.txt": {
+    "68729b665560c851d63f49b0.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1139,7 +1369,7 @@
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the agent's mistake when the agent mentioned that the cart was empty, indicating that the order was not successfully placed as intended."
+        "order_correction_needed": "The customer had to correct the agent as the order was not successfully placed due to an empty cart error. This indicates a need for correction in the order process."
       }
     },
     "686eda02d14f3abcfb3f7ccc.txt": {
@@ -1154,19 +1384,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686d8a19d14f3abcfb260954.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686c41e10245c817843751da.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "685b111d9ae6a419f3d7344c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68714c425560c851d62307cc.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1174,7 +1392,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68728a375560c851d63ca627.txt": {
+    "68714c425560c851d62307cc.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1182,11 +1400,31 @@
       "tags": [],
       "explanations": {}
     },
-    "685838c81be7d3da06f57909.txt": {
+    "686c41e10245c817843751da.txt": {
       "tags": [],
       "explanations": {}
     },
     "686b9cbd0245c8178426eeb9.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68728a375560c851d63ca627.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686d8a19d14f3abcfb260954.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685923131be7d3da06027b60.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer, Gaurav, is greeted warmly and welcomed back to the restaurant, indicating a positive customer experience."
+      }
+    },
+    "685838c81be7d3da06f57909.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1198,23 +1436,11 @@
       "tags": [],
       "explanations": {}
     },
-    "68568fd71be7d3da06c882b8.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6858e4781be7d3da06f90c9e.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "685706e71be7d3da06d8bcd7.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685919ee1be7d3da06012ba0.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685938b41be7d3da0604989d.txt": {
+    "68568fd71be7d3da06c882b8.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1222,11 +1448,27 @@
       "tags": [],
       "explanations": {}
     },
-    "686b8e550ba117a21b250777.txt": {
+    "685938b41be7d3da0604989d.txt": {
       "tags": [],
       "explanations": {}
     },
-    "686a780045548bd51c08312a.txt": {
+    "6856fdc61be7d3da06d8269a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6858e4781be7d3da06f90c9e.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685919ee1be7d3da06012ba0.txt": {
+      "tags": [
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer requested 'No French toast' after the agent had already mentioned 'French Toast BAGEL' as an option. This indicates a correction needed in the order."
+      }
+    },
+    "686b8e550ba117a21b250777.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1234,21 +1476,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6856fdc61be7d3da06d8269a.txt": {
-      "tags": [
-        "frequent_repetitions",
-        "technical_issue"
-      ],
-      "explanations": {
-        "frequent_repetitions": "The agent repeated the process of getting the options for the omelet wrap multiple times due to technical issues, as seen in the transcript.",
-        "technical_issue": "There were clear mentions of technical problems with the tool timing out and the call ending before a response was received, indicating a technical issue."
-      }
-    },
-    "6852be65cb9e39794cf72516.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852984bcb9e39794cf3dc64.txt": {
+    "686a780045548bd51c08312a.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1260,7 +1488,15 @@
       "tags": [],
       "explanations": {}
     },
+    "685972e81be7d3da060be77c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "687a5b1aa1698f75072d979d.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6852984bcb9e39794cf3dc64.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1268,9 +1504,13 @@
       "tags": [],
       "explanations": {}
     },
-    "685972e81be7d3da060be77c.txt": {
-      "tags": [],
-      "explanations": {}
+    "6852be65cb9e39794cf72516.txt": {
+      "tags": [
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the agent's misunderstanding of 'Lays chips' to 'chips' and the agent's error in the 'update_order' action, leading to an incomplete order."
+      }
     },
     "6868ea4c45548bd51ce4db58.txt": {
       "tags": [],
@@ -1281,6 +1521,18 @@
       "explanations": {}
     },
     "68599b9d1be7d3da0611277e.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6855b6d71be7d3da06bb71fa.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686e7d29d14f3abcfb37cace.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685997811be7d3da0610dd7c.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1296,27 +1548,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686e7d29d14f3abcfb37cace.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6855b6d71be7d3da06bb71fa.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685997811be7d3da0610dd7c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68696df345548bd51cf8dc01.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6877e3c273d0cf0f7e8739ed.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6857d8181be7d3da06e5015b.txt": {
+    "68696e1545548bd51cf8de13.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1324,27 +1556,35 @@
       "tags": [],
       "explanations": {}
     },
+    "68696df345548bd51cf8dc01.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "686b9c9e0245c8178426eb7b.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68696e1545548bd51cf8de13.txt": {
-      "tags": [],
-      "explanations": {}
+    "6877e3c273d0cf0f7e8739ed.txt": {
+      "tags": [
+        "technical_issue"
+      ],
+      "explanations": {
+        "technical_issue": "The call transcript indicates a technical issue with the AI agent's tool as it timed out while trying to calculate the total for the customer's order. This is evident from the error message 'ERROR: Tool timed out' and the subsequent customer prompts asking if the agent is still there."
+      }
     },
     "6868ce9245548bd51cde92f4.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6877cd5d73d0cf0f7e83e7d2.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687211525560c851d62992ed.txt": {
+    "6857d8181be7d3da06e5015b.txt": {
       "tags": [],
       "explanations": {}
     },
     "686a7c6645548bd51c08cb46.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6877cd5d73d0cf0f7e83e7d2.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1361,18 +1601,26 @@
         "customer_annoyed"
       ],
       "explanations": {
-        "customer_annoyed": "The customer expresses clear dissatisfaction by stating 'I see that. That's very upsetting.' This indicates frustration and dissatisfaction with the service."
+        "customer_annoyed": "The customer's statement 'I see that. That's very upsetting' indicates clear dissatisfaction and annoyance with the situation."
       }
     },
+    "687211525560c851d62992ed.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "685c333532ebb07e5943e25d.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer asked for more details about the menu item, specifically inquiring about the options available for the breakfast sandwich customization."
+      }
+    },
+    "68727e325560c851d63a2823.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6868115d45548bd51cd919cc.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685903c11be7d3da06fc6217.txt": {
+    "6878df6f970f265df9d7cd47.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1384,19 +1632,39 @@
       "tags": [],
       "explanations": {}
     },
-    "6878df6f970f265df9d7cd47.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68727e325560c851d63a2823.txt": {
-      "tags": [],
-      "explanations": {}
+    "6868115d45548bd51cd919cc.txt": {
+      "tags": [
+        "agent_upsell_attempt"
+      ],
+      "explanations": {
+        "agent_upsell_attempt": "The AI agent attempted to upsell additional items such as different cream cheese options and toppings for the grilled chicken, even though the customer declined these suggestions. This tag helps track agent performance in suggesting additional items."
+      }
     },
     "6856f5e81be7d3da06d788b9.txt": {
+      "tags": [
+        "technical_issue"
+      ],
+      "explanations": {
+        "technical_issue": "The transcript clearly shows multiple technical errors occurring during the order placement process, as indicated by the 'ERROR: Tool timed out' and 'ERROR: 500 - Internal Server Error' messages. These errors disrupted the smooth flow of the call and hindered the completion of the order."
+      }
+    },
+    "685903c11be7d3da06fc6217.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6871ea005560c851d625e187.txt": {
       "tags": [],
       "explanations": {}
     },
     "6855aa591be7d3da06baa51a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6856c86e1be7d3da06cf9668.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6878f81e970f265df9d9cf75.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1412,19 +1680,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6856c86e1be7d3da06cf9668.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6878f81e970f265df9d9cf75.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "6852a0c7cb9e39794cf49b77.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6878ea8e970f265df9d8995f.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1440,33 +1696,11 @@
       "tags": [],
       "explanations": {}
     },
-    "6871ea005560c851d625e187.txt": {
-      "tags": [
-        "order_correction_needed",
-        "item_unavailable",
-        "frequent_repetitions",
-        "customer_annoyed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer had to correct the total number of bagels in the order from 13 to 14, and then had to remove an item to meet the 13-bagel requirement.",
-        "item_unavailable": "The customer requested a Blueberry cream cheese which was not available on the menu, leading to a substitution discussion.",
-        "frequent_repetitions": "The customer had to repeat their order multiple times due to misunderstandings, especially regarding the correct count of bagels and muffins.",
-        "customer_annoyed": "The customer expressed frustration with the mistakes made by the AI agent, indicating annoyance with the errors in the order process."
-      }
+    "6878ea8e970f265df9d8995f.txt": {
+      "tags": [],
+      "explanations": {}
     },
     "68578bd91be7d3da06d9e955.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6871f8115560c851d6262a40.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685a8b88f664fde5010e41e5.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6858cb4f1be7d3da06f8fa64.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1474,7 +1708,7 @@
       "tags": [],
       "explanations": {}
     },
-    "687277595560c851d638a753.txt": {
+    "685a8b88f664fde5010e41e5.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1482,15 +1716,37 @@
       "tags": [],
       "explanations": {}
     },
+    "6871f8115560c851d6262a40.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses enthusiasm and engagement throughout the call, eagerly selecting specific bagel flavors, cream cheese types, and muffin varieties for their order."
+      }
+    },
+    "6858cb4f1be7d3da06f8fa64.txt": {
+      "tags": [
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the agent multiple times regarding the item being ordered. Initially, the agent mentioned 'Avocado Bagel' but later referred to 'Avocado Toast', causing confusion and the need for corrections."
+      }
+    },
+    "6878cf68970f265df9d64878.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "687277595560c851d638a753.txt": {
+      "tags": [
+        "order_correction_needed",
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the agent multiple times during the order process, indicating that there was a need for order correction.",
+        "frequent_repetitions": "There were multiple instances where the agent repeated the bagel selection process, causing confusion and unnecessary repetition in the conversation."
+      }
+    },
     "687a4f25a1698f75072b8a1c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68599dc71be7d3da0611496e.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68702422d14f3abcfb5cdea9.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1498,7 +1754,27 @@
       "tags": [],
       "explanations": {}
     },
-    "6878cf68970f265df9d64878.txt": {
+    "68702422d14f3abcfb5cdea9.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68599dc71be7d3da0611496e.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68567ba31be7d3da06c5d4b0.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686ba1d20245c817842780ed.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6859222d1be7d3da06026221.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685a8f54f664fde5010e8985.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1510,15 +1786,11 @@
       "tags": [],
       "explanations": {}
     },
-    "685a8f54f664fde5010e8985.txt": {
+    "68596b541be7d3da060a6007.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6859222d1be7d3da06026221.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686ba1d20245c817842780ed.txt": {
+    "686dcf88d14f3abcfb262e31.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1527,28 +1799,8 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested Hash Brown, but the agent informed them that it is currently out of stock, indicating that the item is unavailable."
+        "item_unavailable": "The customer requested Hash Brown, but the AI Agent informed them that it is currently out of stock. This indicates that the item requested by the customer is unavailable."
       }
-    },
-    "686dcf88d14f3abcfb262e31.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68567ba31be7d3da06c5d4b0.txt": {
-      "tags": [
-        "frequent_repetitions"
-      ],
-      "explanations": {
-        "frequent_repetitions": "The customer repeatedly says 'Hello?' multiple times, indicating a lack of understanding or communication issue, leading to the same information being repeated multiple times."
-      }
-    },
-    "68596b541be7d3da060a6007.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686909ee45548bd51ce9a387.txt": {
-      "tags": [],
-      "explanations": {}
     },
     "687211075560c851d6298316.txt": {
       "tags": [],
@@ -1558,23 +1810,11 @@
       "tags": [],
       "explanations": {}
     },
-    "68525349cb9e39794ce8a745.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "686cda100245c817843ec470.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68724ddc5560c851d6333d41.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6857b4f81be7d3da06ddf57b.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686e469dd14f3abcfb31b305.txt": {
+    "6868230b45548bd51cdadf49.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1582,19 +1822,27 @@
       "tags": [],
       "explanations": {}
     },
+    "686909ee45548bd51ce9a387.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68724ddc5560c851d6333d41.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686e469dd14f3abcfb31b305.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6855b0c51be7d3da06bb1384.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6868230b45548bd51cdadf49.txt": {
-      "tags": [
-        "order_correction_needed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer had to correct the agent on the available sizes for hot chocolate, indicating a mistake in the information provided by the agent."
-      }
+    "68525349cb9e39794ce8a745.txt": {
+      "tags": [],
+      "explanations": {}
     },
-    "6855aa4c1be7d3da06baa478.txt": {
+    "6857b4f81be7d3da06ddf57b.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1602,11 +1850,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6857bd801be7d3da06dfdbfd.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685674961be7d3da06c46f11.txt": {
+    "6855aa4c1be7d3da06baa478.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1614,11 +1858,7 @@
       "tags": [],
       "explanations": {}
     },
-    "685691db1be7d3da06c8b1e4.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6856a5f61be7d3da06ca6347.txt": {
+    "685674961be7d3da06c46f11.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1627,30 +1867,54 @@
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer explicitly corrects the agent's mistake by specifying that they want the Breakfast Bundle, not the Breakfast Platter. This indicates a need for order correction."
+        "order_correction_needed": "The customer had to correct the agent's misunderstanding of the order by specifying that they wanted the Breakfast Bundle, not the Breakfast Platter. This indicates a need for correction in the order process."
       }
+    },
+    "6857bd801be7d3da06dfdbfd.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685691db1be7d3da06c8b1e4.txt": {
+      "tags": [],
+      "explanations": {}
     },
     "687a6197a1698f75072eee28.txt": {
       "tags": [],
       "explanations": {}
     },
+    "6856a5f61be7d3da06ca6347.txt": {
+      "tags": [
+        "technical_issue"
+      ],
+      "explanations": {
+        "technical_issue": "The AI agent encountered a technical problem with the tool timing out while trying to replace the customer's order. This is evident from the transcript where the agent mentions 'ERROR: Tool timed out' and apologizes for the inconvenience."
+      }
+    },
     "68529ca8cb9e39794cf449a0.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6870049ad14f3abcfb5b6497.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68690a9d45548bd51ce9b4a6.txt": {
-      "tags": [],
-      "explanations": {}
+    "68598e7c1be7d3da06101936.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding a Box of Coffee to the order, which the customer accepted. This upsell attempt was effective in increasing the order value."
+      }
     },
     "68727f1d5560c851d63a5ad1.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer asks about a specific menu item, the avocado BLT sandwich, indicating interest in learning more about the ingredients or preparation of the item."
+      }
+    },
+    "6856b55d1be7d3da06cbe824.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6856b55d1be7d3da06cbe824.txt": {
+    "685933d11be7d3da06043338.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1659,14 +1923,10 @@
         "technical_issue"
       ],
       "explanations": {
-        "technical_issue": "The transcript shows that there was an 'ERROR: 500 - Internal Server Error' message, indicating a technical issue during the call."
+        "technical_issue": "The transcript shows multiple instances of 'ERROR: 500 - Internal Server Error', indicating a technical problem during the call."
       }
     },
-    "685933d11be7d3da06043338.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68598e7c1be7d3da06101936.txt": {
+    "68690a9d45548bd51ce9b4a6.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1678,7 +1938,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68569dc41be7d3da06c9c306.txt": {
+    "68704401d14f3abcfb5d1f49.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1686,23 +1946,11 @@
       "tags": [],
       "explanations": {}
     },
-    "68704401d14f3abcfb5d1f49.txt": {
+    "68569dc41be7d3da06c9c306.txt": {
       "tags": [],
       "explanations": {}
     },
-    "687a4afea1698f75072aff48.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687239af5560c851d63148a6.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852bc8ecb9e39794cf6f4d0.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685d4f1ddda6a93eb94b891a.txt": {
+    "6870049ad14f3abcfb5b6497.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1710,19 +1958,43 @@
       "tags": [],
       "explanations": {}
     },
+    "685d4f1ddda6a93eb94b891a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "687239af5560c851d63148a6.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "68596fea1be7d3da060b463b.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "687a4afea1698f75072aff48.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer attempted to order an Omelet Wrap, but the agent informed them that it was out of stock. This indicates that the requested item was unavailable."
+      }
     },
     "686f3e37d14f3abcfb3f9dac.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68529998cb9e39794cf3fdc6.txt": {
+    "6852bc8ecb9e39794cf6f4d0.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer, Rahul, is greeted warmly by the assistant, Emily, who expresses that it is great to see him again. This indicates a positive customer experience."
+      }
+    },
+    "685a79f71be7d3da061c8479.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685a79f71be7d3da061c8479.txt": {
+    "6877d76273d0cf0f7e85988a.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1730,11 +2002,23 @@
       "tags": [],
       "explanations": {}
     },
-    "6872c1485560c851d641dee3.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "68703208d14f3abcfb5d1754.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses clear satisfaction and gratitude by stating 'You know what? I'm all set. Thank you so much.' This indicates a positive customer experience."
+      }
+    },
+    "6872c1485560c851d641dee3.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding extra cream cheese to the order, which the customer accepted. This upsell demonstrates effective salesmanship and customer engagement."
+      }
+    },
+    "68529998cb9e39794cf3fdc6.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1743,22 +2027,18 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested a Pastry, but the AI agent informed them that it is currently out of stock. This is evident from the agent's response: 'According to our menu, the Pastry is currently out of stock.'"
+        "item_unavailable": "The customer requested a Pastry, but the AI agent informed them that it is currently out of stock. This indicates that the item is unavailable for purchase."
       }
     },
     "6852bd34cb9e39794cf705ba.txt": {
       "tags": [
-        "customer_happy",
-        "agent_upsell_success"
+        "agent_upsell_success",
+        "customer_happy"
       ],
       "explanations": {
-        "customer_happy": "The customer expresses gratitude and satisfaction by saying 'Thank you so much for helping me' and 'customer relations'.",
-        "agent_upsell_success": "The agent successfully suggests additional items like flavor cream cheese, Swiss cheese, and doubling the lunch protein, which the customer agrees to add to their order."
+        "agent_upsell_success": "The agent successfully suggested adding flavor cream cheese and Swiss cheese to the Avocado BLT Sandwich, which the customer agreed to, resulting in an upsell.",
+        "customer_happy": "The customer expresses clear satisfaction and gratitude towards the end of the call, mentioning good customer relations and thanking the agent."
       }
-    },
-    "6877d76273d0cf0f7e85988a.txt": {
-      "tags": [],
-      "explanations": {}
     },
     "686d9615d14f3abcfb262438.txt": {
       "tags": [],
@@ -1772,6 +2052,10 @@
       "tags": [],
       "explanations": {}
     },
+    "685bbb7704963ba172ff66c4.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6877d37073d0cf0f7e84fb58.txt": {
       "tags": [],
       "explanations": {}
@@ -1780,15 +2064,19 @@
       "tags": [],
       "explanations": {}
     },
-    "685bbb7704963ba172ff66c4.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "68770fbf73d0cf0f7e6f984f.txt": {
       "tags": [],
       "explanations": {}
     },
+    "686e5623d14f3abcfb332218.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "68591e611be7d3da0601dfba.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685947411be7d3da0605b6bc.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1800,19 +2088,11 @@
       "tags": [],
       "explanations": {}
     },
-    "686e5623d14f3abcfb332218.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685947411be7d3da0605b6bc.txt": {
+    "68596b341be7d3da060a59e6.txt": {
       "tags": [],
       "explanations": {}
     },
     "686d2349d14f3abcfb1a1cbf.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686d6828d14f3abcfb24ed9f.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1824,19 +2104,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68596b341be7d3da060a59e6.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687291bc5560c851d63df533.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68572e101be7d3da06d9c02f.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686b65c445548bd51c18ee38.txt": {
+    "686d6828d14f3abcfb24ed9f.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1844,7 +2112,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6877dfdd73d0cf0f7e86c51b.txt": {
+    "686b65c445548bd51c18ee38.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1852,19 +2120,19 @@
       "tags": [],
       "explanations": {}
     },
-    "685c0fd632ebb07e593dc916.txt": {
+    "6877dfdd73d0cf0f7e86c51b.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6852a825cb9e39794cf528b3.txt": {
-      "tags": [],
-      "explanations": {}
+    "68572e101be7d3da06d9c02f.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses clear satisfaction by stating 'That was super smooth. The bot did a great job taking my order.' This indicates a positive customer experience."
+      }
     },
-    "686cc0140245c8178438fcd4.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6858fcb01be7d3da06faf328.txt": {
+    "6852f2c8cb9e39794c00e2d4.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1872,19 +2140,35 @@
       "tags": [],
       "explanations": {}
     },
-    "6852f2c8cb9e39794c00e2d4.txt": {
+    "6858fcb01be7d3da06faf328.txt": {
       "tags": [],
       "explanations": {}
     },
-    "686a7fed45548bd51c0974b6.txt": {
-      "tags": [
-        "order_correction_needed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer corrected the agent about his name, stating it is Jitin, not Jipan. This indicates a correction was needed in the order-taking process."
-      }
+    "686cc0140245c8178438fcd4.txt": {
+      "tags": [],
+      "explanations": {}
     },
     "6868290445548bd51cdb3e6a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685c0fd632ebb07e593dc916.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer expressed confusion and requested clarification on the menu item, indicating a need for more details about the Business Bundle."
+      }
+    },
+    "6852a825cb9e39794cf528b3.txt": {
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The tag 'agent_upsell_success' applies because the agent successfully suggested adding the Original Classic sandwich to the customer's order, and the customer agreed by saying 'Please add that in order.' This indicates a successful upsell attempt."
+      }
+    },
+    "686a7fed45548bd51c0974b6.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1893,7 +2177,15 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested a Big Breakfast Burrito, but the AI agent informed them that it is out of stock. This is evident from the transcript where the agent states 'According to our menu, the Big Breakfast Burrito is currently out of stock.'"
+        "item_unavailable": "The customer requested a Big Breakfast Burrito, but the AI agent informed them that it is currently out of stock. This indicates an item unavailability issue."
+      }
+    },
+    "687291bc5560c851d63df533.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer, Jutin, attempted to order an Avocado BLT sandwich, which is not on the menu. The AI Agent then offered alternative options like the Big City BLT, Avocado Toast, or Avocado Veg Out, indicating that Jutin was inquiring about menu options and seeking clarification on available choices."
       }
     },
     "6871ff4e5560c851d626b36c.txt": {
@@ -1908,23 +2200,23 @@
       "tags": [],
       "explanations": {}
     },
+    "685911561be7d3da06ff7744.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685908a51be7d3da06fd824a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6852a84fcb9e39794cf52ccc.txt": {
       "tags": [
         "customer_annoyed"
       ],
       "explanations": {
-        "customer_annoyed": "The customer expresses frustration by stating 'Not an order today. I had a problem with my order ID.' This indicates annoyance with the previous order."
+        "customer_annoyed": "The customer expresses frustration by stating 'Not an order today. I had a problem with my order ID.' This indicates dissatisfaction with a previous order."
       }
     },
-    "686eaad5d14f3abcfb3df2a9.txt": {
-      "tags": [
-        "order_correction_needed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer initially requested 'total trailers' instead of the correct item, Mint Oreo Chillerz. The agent had to correct the customer's order multiple times regarding the size options available, indicating a need for order correction."
-      }
-    },
-    "685911561be7d3da06ff7744.txt": {
+    "6868ce7245548bd51cde8dbb.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1933,22 +2225,24 @@
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the agent's understanding of their order when they mentioned 'four everything for plain' and 'rest of them are, car like vehicle.' This indicates a need for order correction."
+        "order_correction_needed": "The customer had to correct the agent's misunderstanding of their order. The customer initially mentioned 'four everything for plain' which was misinterpreted by the agent. This led to a need for correction in the bagel selection."
       }
     },
-    "685908a51be7d3da06fd824a.txt": {
+    "686d845cd14f3abcfb25e91d.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6868ce7245548bd51cde8dbb.txt": {
-      "tags": [],
-      "explanations": {}
+    "686eaad5d14f3abcfb3df2a9.txt": {
+      "tags": [
+        "order_correction_needed",
+        "technical_issue"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer initially mentioned 'total trailers' instead of 'Mint Oreo Chillerz', indicating a need for correction by the agent.",
+        "technical_issue": "The transcript ends abruptly with 'ERROR: 500 - Internal Server Error' messages, suggesting a technical issue during the call."
+      }
     },
     "685915071be7d3da0600380c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6878b81a73d0cf0f7e911590.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1956,11 +2250,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68701ac2d14f3abcfb5c9ab3.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686d845cd14f3abcfb25e91d.txt": {
+    "686d2878d14f3abcfb1b041a.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1968,7 +2258,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686d2878d14f3abcfb1b041a.txt": {
+    "68701ac2d14f3abcfb5c9ab3.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1976,11 +2266,19 @@
       "tags": [],
       "explanations": {}
     },
-    "687269ed5560c851d6360669.txt": {
+    "6856a0bf1be7d3da06c9fde3.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6856a0bf1be7d3da06c9fde3.txt": {
+    "6878b81a73d0cf0f7e911590.txt": {
+      "tags": [
+        "technical_issue"
+      ],
+      "explanations": {
+        "technical_issue": "The call was cut short due to technical issues, as mentioned by the customer when they asked why the call was dropped. This indicates a potential problem with the call connection or network issue."
+      }
+    },
+    "687269ed5560c851d6360669.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -1988,7 +2286,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686a7e8a45548bd51c0929f4.txt": {
+    "686e7d72d14f3abcfb37d600.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2001,7 +2299,15 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer attempted to order an Avocado BLT Sandwich, but the AI agent mentioned that it is not available on the menu."
+        "item_unavailable": "The customer attempted to order an Avocado BLT Sandwich, but the AI agent mentioned that it is not available on the menu, indicating that the item is unavailable."
+      }
+    },
+    "686a7e8a45548bd51c0929f4.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses gratitude by saying 'Thank you' at the end of the call, indicating a positive customer experience."
       }
     },
     "6878e75a970f265df9d861fb.txt": {
@@ -2009,10 +2315,14 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested a Hash Brown, but the agent informed them that it is currently out of stock, offering alternative options instead."
+        "item_unavailable": "The customer requested a Hash Brown, but the agent informed them that it is currently out of stock. This indicates an item unavailability issue."
       }
     },
     "68793d1a970f265df9e4efd8.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6859917a1be7d3da061062b2.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2022,33 +2332,27 @@
     },
     "685924651be7d3da0602a4f6.txt": {
       "tags": [
-        "order_correction_needed"
+        "order_correction_needed",
+        "customer_annoyed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the agent's misunderstanding of their order when they requested 'all of scallion' for the bagels, which was not a valid option. This indicates a need for order correction."
+        "order_correction_needed": "The customer had to correct the agent's misunderstanding of their customization choices, indicating a need for order correction.",
+        "customer_annoyed": "The customer's tone and language ('Why are you not validating the options which I have selected?') suggest frustration and annoyance with the agent's handling of the order."
       }
-    },
-    "6859917a1be7d3da061062b2.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686e7d72d14f3abcfb37d600.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687a3925def8059841a2f410.txt": {
-      "tags": [],
-      "explanations": {}
     },
     "685b0f9b9ae6a419f3d72f44.txt": {
       "tags": [],
       "explanations": {}
     },
     "685c057832ebb07e593bca30.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "agent_upsell_attempt"
+      ],
+      "explanations": {
+        "agent_upsell_attempt": "The AI Agent suggested adding a box of coffee to the order, even though the customer initially declined. This shows an attempt to upsell additional items, indicating good sales tactics by the agent."
+      }
     },
-    "6879b7d6970f265df9e6aede.txt": {
+    "687a3925def8059841a2f410.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2064,31 +2368,31 @@
       "tags": [],
       "explanations": {}
     },
-    "687a5d0ea1698f75072dfbd9.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer attempted to order a Hash Brown, but the agent informed them that it was out of stock, offering alternative side options instead."
-      }
-    },
-    "685987961be7d3da060f3e43.txt": {
+    "6879b7d6970f265df9e6aede.txt": {
       "tags": [],
       "explanations": {}
     },
     "686f4a6cd14f3abcfb3faf64.txt": {
-      "tags": [
-        "order_correction_needed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer had to correct the assistant multiple times regarding the availability of blueberry cream cheese on the menu. The assistant initially mentioned it as an option, which was incorrect, leading to the customer's correction."
-      }
+      "tags": [],
+      "explanations": {}
     },
     "687292985560c851d63e15b1.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6871f9455560c851d6263a7c.txt": {
+    "685987961be7d3da060f3e43.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "687a5d0ea1698f75072dfbd9.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer attempted to order a Hash Brown, but was informed it was out of stock, leading to the offer of alternative side options."
+      }
+    },
+    "6872143d5560c851d62a3b03.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2096,11 +2400,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6872143d5560c851d62a3b03.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6859abe61be7d3da0611fd13.txt": {
+    "68714c255560c851d6230342.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2112,7 +2412,15 @@
       "tags": [],
       "explanations": {}
     },
-    "68714c255560c851d6230342.txt": {
+    "686d274bd14f3abcfb1ac516.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6871f9455560c851d6263a7c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6856e4e71be7d3da06d5655c.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2120,7 +2428,19 @@
       "tags": [],
       "explanations": {}
     },
-    "686eb35cd14f3abcfb3e725f.txt": {
+    "686a76b845548bd51c080712.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6859abe61be7d3da0611fd13.txt": {
+      "tags": [
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the agent multiple times during the order process. For example, the customer initially asked for three blueberry muffins and two corn muffins, but the agent misunderstood and selected 3 blueberry muffins and 1 corn muffin. This led to the customer having to correct the order."
+      }
+    },
+    "686eab6ad14f3abcfb3dfa72.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2132,23 +2452,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686d274bd14f3abcfb1ac516.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer inquired about the availability of Vanilla cream cheese in the Breakfast Bundle multiple times, and the AI Agent initially confirmed its availability but later corrected the information, stating that Vanilla cream cheese is not actually included in the options for the 2 Tubs of Spread in the Breakfast Bundle."
-      }
-    },
-    "6856e4e71be7d3da06d5655c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686eab6ad14f3abcfb3dfa72.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686a76b845548bd51c080712.txt": {
+    "686eb35cd14f3abcfb3e725f.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2164,15 +2468,23 @@
       "tags": [],
       "explanations": {}
     },
-    "6852dbf2cb9e39794cfcac9d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "6879af5b970f265df9e6ad60.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6856f9651be7d3da06d7d2a9.txt": {
+    "6852dbf2cb9e39794cfcac9d.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686d2fccd14f3abcfb1c787c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68715e9a5560c851d62490f5.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685997461be7d3da0610da04.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2180,7 +2492,7 @@
       "tags": [],
       "explanations": {}
     },
-    "685997461be7d3da0610da04.txt": {
+    "6856f9651be7d3da06d7d2a9.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2189,18 +2501,38 @@
       "explanations": {}
     },
     "687a66e7a1698f7507301679.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer requested the Original Classic sandwich, but the AI agent informed them that it was out of stock. This led to the customer opting for a pastry instead."
+      }
+    },
+    "6873580c5560c851d6440321.txt": {
+      "tags": [
+        "frequent_repetitions",
+        "order_correction_needed",
+        "technical_issue"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The customer had to repeatedly correct the bagel types for the Big Breakfast Bundle, indicating a misunderstanding between the customer and the AI agent.",
+        "order_correction_needed": "The customer had to correct the bagel types multiple times during the customization process, highlighting the need for order correction.",
+        "technical_issue": "There was a technical issue when the AI agent failed to include the Medium Decaf Coffee in the total price calculation, leading to confusion about the final cost."
+      }
+    },
+    "6879bac7970f265df9e6b0c7.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68715e9a5560c851d62490f5.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686d2fccd14f3abcfb1c787c.txt": {
+    "685bba9804963ba172ff3f94.txt": {
       "tags": [],
       "explanations": {}
     },
     "686a797845548bd51c086436.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6872721c5560c851d6378fe0.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2212,35 +2544,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6879bac7970f265df9e6b0c7.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6872721c5560c851d6378fe0.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685bba9804963ba172ff3f94.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6873580c5560c851d6440321.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "685914081be7d3da06000664.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685941f01be7d3da06055073.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852b7a5cb9e39794cf67413.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852e7d4cb9e39794cff10ae.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2248,23 +2552,19 @@
       "tags": [],
       "explanations": {}
     },
+    "6852b7a5cb9e39794cf67413.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685941f01be7d3da06055073.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6852e7d4cb9e39794cff10ae.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6852e7f3cb9e39794cff1746.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685703261be7d3da06d87e96.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68593a821be7d3da0604c05b.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685298d5cb9e39794cf3eaef.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686d41afd14f3abcfb202c41.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2276,13 +2576,33 @@
       "tags": [],
       "explanations": {}
     },
+    "686d41afd14f3abcfb202c41.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "687a3d70def8059841a34748.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685298d5cb9e39794cf3eaef.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68593a821be7d3da0604c05b.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685703261be7d3da06d87e96.txt": {
       "tags": [
-        "item_unavailable"
+        "technical_issue"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested pastries, but the AI agent informed them that pastries are out of stock. Additionally, the AI agent mentioned that hash browns are also unavailable, confirming that multiple items are currently unavailable."
+        "technical_issue": "The transcript indicates that there was an internal server error while trying to place the customer's order, leading to a technical problem in the system."
       }
+    },
+    "685a00f11be7d3da0612adcb.txt": {
+      "tags": [],
+      "explanations": {}
     },
     "686b7b0a45548bd51c1c921d.txt": {
       "tags": [],
@@ -2292,23 +2612,11 @@
       "tags": [],
       "explanations": {}
     },
-    "6853047fcb9e39794c02bd0e.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685a00f11be7d3da0612adcb.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "686cddbd0245c817843f7ccd.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685953dc1be7d3da0606d4a8.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686d4264d14f3abcfb204fa6.txt": {
+    "6853047fcb9e39794c02bd0e.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2316,7 +2624,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68794fa2970f265df9e604d7.txt": {
+    "685953dc1be7d3da0606d4a8.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2324,7 +2632,11 @@
       "tags": [],
       "explanations": {}
     },
-    "686ccb690245c817843b70ff.txt": {
+    "68794fa2970f265df9e604d7.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686d4264d14f3abcfb204fa6.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2337,22 +2649,18 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested a Vanilla Bagel, but the AI agent confirmed that it is not available on the menu. This indicates that an item requested by the customer is unavailable."
+        "item_unavailable": "The customer requested a Vanilla Bagel, which was not available on the menu. The AI agent confirmed that Vanilla Bagel is not an option and suggested alternatives."
+      }
+    },
+    "686ccb690245c817843b70ff.txt": {
+      "tags": [
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The customer repeatedly asked for the options available for the Avocado BLT sandwich, indicating a lack of clarity or understanding. The agent had to repeat the bagel options multiple times, leading to a back-and-forth repetition of information."
       }
     },
     "68593d001be7d3da0604f0f6.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687216c45560c851d62ad284.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687a4daba1698f75072b5469.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686eb541d14f3abcfb3e8b61.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2360,11 +2668,23 @@
       "tags": [],
       "explanations": {}
     },
-    "6868127245548bd51cd93b55.txt": {
+    "687a4daba1698f75072b5469.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "687216c45560c851d62ad284.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686eb541d14f3abcfb3e8b61.txt": {
       "tags": [],
       "explanations": {}
     },
     "6878f2b0970f265df9d94a1d.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6868127245548bd51cd93b55.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2373,7 +2693,7 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer inquired about Blueberry Cream Cheese, which is not available, as confirmed by the AI Agent's response stating that it is not on the menu."
+        "item_unavailable": "The customer inquired about Blueberry Cream Cheese, which is not available according to the AI Agent's response."
       }
     },
     "6872c25c5560c851d641e6f1.txt": {
@@ -2396,15 +2716,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6856b2c91be7d3da06cb9c84.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "686eaefdd14f3abcfb3e33f8.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6856aa661be7d3da06caca94.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2412,11 +2724,11 @@
       "tags": [],
       "explanations": {}
     },
-    "6859a9b01be7d3da0611e3c0.txt": {
+    "68696fea45548bd51cf8fd81.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68696fea45548bd51cf8fd81.txt": {
+    "6856aa661be7d3da06caca94.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2424,15 +2736,19 @@
       "tags": [],
       "explanations": {}
     },
-    "685917ad1be7d3da0600bf55.txt": {
+    "6856b2c91be7d3da06cb9c84.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6859a9011be7d3da0611dda4.txt": {
-      "tags": [],
-      "explanations": {}
+    "6859a9b01be7d3da0611e3c0.txt": {
+      "tags": [
+        "technical_issue"
+      ],
+      "explanations": {
+        "technical_issue": "The transcript indicates a technical issue with the internal server error preventing the order placement, leading to a negative customer experience."
+      }
     },
-    "6878d043970f265df9d65e85.txt": {
+    "68529ae9cb9e39794cf42028.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2440,7 +2756,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6859b3771be7d3da061248ef.txt": {
+    "68593d101be7d3da0604f298.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2448,23 +2764,41 @@
       "tags": [],
       "explanations": {}
     },
-    "68529ae9cb9e39794cf42028.txt": {
-      "tags": [],
-      "explanations": {}
+    "6878d043970f265df9d65e85.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses satisfaction and gratitude by saying 'No. Right now, that that's thank you so much.' This indicates a positive customer experience."
+      }
     },
-    "68593d101be7d3da0604f298.txt": {
-      "tags": [],
-      "explanations": {}
+    "6859a9011be7d3da0611dda4.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer specifically inquired about the Breakfast Sandwiches category and showed interest in the Original Classic, indicating a desire for more details about the menu items."
+      }
     },
-    "686d23aad14f3abcfb1a2a88.txt": {
-      "tags": [],
-      "explanations": {}
+    "6859b3771be7d3da061248ef.txt": {
+      "tags": [
+        "customer_happy",
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses satisfaction and enthusiasm throughout the call, indicating a positive customer experience.",
+        "agent_upsell_success": "The customer adds a hot latte to their order after the agent suggests it, showing a successful upsell attempt."
+      }
+    },
+    "685917ad1be7d3da0600bf55.txt": {
+      "tags": [
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The tag 'frequent_repetitions' applies because there is a repeated back and forth between the customer and the AI agent regarding the customization of the order. The customer initially asks for Butter Bagels, but the agent misunderstands and suggests Everything bagels. This back-and-forth repetition occurs multiple times during the order process."
+      }
     },
     "686b85c60ba117a21b232ab1.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6857bdae1be7d3da06dfe747.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2472,31 +2806,27 @@
       "tags": [],
       "explanations": {}
     },
-    "6869285245548bd51cec7206.txt": {
+    "686d23aad14f3abcfb1a2a88.txt": {
       "tags": [],
       "explanations": {}
-    },
-    "687a589fa1698f75072d176c.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer attempted to order a pastry, but the AI agent informed him that it was out of stock. This led to the customer ordering a hash brown instead."
-      }
     },
     "687a58dba1698f75072d2239.txt": {
       "tags": [
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested a pastry, but the AI agent confirmed that it is currently out of stock, leading to the item_unavailable tag being applied."
+        "item_unavailable": "The customer attempted to order a pastry, but the AI agent confirmed that it is currently out of stock. This indicates that the item requested by the customer is unavailable."
       }
     },
-    "686ccef40245c817843c4a30.txt": {
+    "6869285245548bd51cec7206.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6877ce8073d0cf0f7e841c55.txt": {
+    "687a589fa1698f75072d176c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686ccef40245c817843c4a30.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2508,23 +2838,23 @@
       "tags": [],
       "explanations": {}
     },
+    "6877ce8073d0cf0f7e841c55.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6857bdae1be7d3da06dfe747.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "685291a9cb9e39794cf336c7.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68571f501be7d3da06d9964f.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6879148c970f265df9deec15.txt": {
+    "686cd0360245c817843c945c.txt": {
       "tags": [],
       "explanations": {}
     },
     "6877c60073d0cf0f7e8279f9.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686836c845548bd51cdbe203.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2533,18 +2863,36 @@
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the quantity of items in the order, indicating that a correction was needed."
+        "order_correction_needed": "The customer had to correct the agent as the order could not be placed due to an empty cart. This indicates a need for correction in the order process."
       }
     },
-    "686cd0360245c817843c945c.txt": {
+    "68736edf5560c851d6485f6e.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68571f501be7d3da06d9964f.txt": {
       "tags": [],
       "explanations": {}
     },
     "6857157d1be7d3da06d95dd9.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "agent_upsell_attempt"
+      ],
+      "explanations": {
+        "agent_upsell_attempt": "The AI agent suggested adding Chips as a side for an extra dollar, even though the customer did not initially mention a side preference. This shows an attempt at upselling by the agent."
+      }
     },
-    "68736edf5560c851d6485f6e.txt": {
+    "686836c845548bd51cdbe203.txt": {
+      "tags": [
+        "agent_upsell_success",
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The agent successfully suggested adding extra cheese and doubling the lunch protein to the Manhattan Cheesesteak, which the customer accepted.",
+        "frequent_repetitions": "There were multiple instances where the agent repeated back the customization details to ensure accuracy, indicating a need for clarification."
+      }
+    },
+    "6879148c970f265df9deec15.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2552,11 +2900,11 @@
       "tags": [],
       "explanations": {}
     },
-    "685d5331dda6a93eb94c299f.txt": {
+    "686d0e5dd14f3abcfb17ec8b.txt": {
       "tags": [],
       "explanations": {}
     },
-    "686d0e5dd14f3abcfb17ec8b.txt": {
+    "685d5331dda6a93eb94c299f.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2564,23 +2912,7 @@
       "tags": [],
       "explanations": {}
     },
-    "685961af1be7d3da0608aa07.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68760aac73d0cf0f7e5b90b8.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6858a8ad1be7d3da06f8ed3d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68793cdf970f265df9e4ebf9.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68790c63970f265df9dd1a4f.txt": {
+    "6852e3b0cb9e39794cfe484e.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2588,23 +2920,43 @@
       "tags": [],
       "explanations": {}
     },
+    "6858a8ad1be7d3da06f8ed3d.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68760aac73d0cf0f7e5b90b8.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68793cdf970f265df9e4ebf9.txt": {
+      "tags": [
+        "human_requested"
+      ],
+      "explanations": {
+        "human_requested": "The customer explicitly asks to be transferred to a person who can assist with job inquiries, indicating a request to speak to a human agent."
+      }
+    },
     "68792aa7970f265df9e2f58b.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6852e3b0cb9e39794cfe484e.txt": {
-      "tags": [],
-      "explanations": {}
+    "685961af1be7d3da0608aa07.txt": {
+      "tags": [
+        "technical_issue"
+      ],
+      "explanations": {
+        "technical_issue": "The transcript indicates that there was an internal server error (ERROR: 500) which prevented the order from being placed. This technical problem affected the customer's ordering experience."
+      }
     },
-    "6855a4e51be7d3da06ba35c7.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68721cca5560c851d62c2f2d.txt": {
+    "68790c63970f265df9dd1a4f.txt": {
       "tags": [],
       "explanations": {}
     },
     "685a764b1be7d3da061c1fce.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6855a4e51be7d3da06ba35c7.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2621,20 +2973,18 @@
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer requested Vanilla and Vegetable Cream Cheese for the Breakfast Bundle, but the AI agent informed them that Vanilla is not a valid option. The customer had to correct their choice and choose a different cream cheese option, indicating a need for order correction."
+        "order_correction_needed": "The customer had to correct the selection of cream cheese spreads as the AI agent initially allowed the selection of Vanilla, which was not a valid option. This led to the need for correction during the customization process."
       }
     },
-    "6878552873d0cf0f7e893c25.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685a0c901be7d3da0612ae5b.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "687208d25560c851d627f3d7.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "order_correction_needed",
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the agent multiple times regarding the bagel flavors and cream cheese options, indicating a need for order corrections.",
+        "frequent_repetitions": "There were multiple instances where the agent repeated back and forth with the customer to clarify the order details, leading to frequent repetitions."
+      }
     },
     "686a78a145548bd51c0846dd.txt": {
       "tags": [],
@@ -2644,15 +2994,19 @@
       "tags": [],
       "explanations": {}
     },
+    "685a0c901be7d3da0612ae5b.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6878552873d0cf0f7e893c25.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "68714ff25560c851d62374b0.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6856a6781be7d3da06ca701d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687a4753a1698f75072a9955.txt": {
+    "6859b1531be7d3da06123bd1.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2660,15 +3014,27 @@
       "tags": [],
       "explanations": {}
     },
+    "68721cca5560c851d62c2f2d.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "68760cb773d0cf0f7e5c0b13.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "6856a6781be7d3da06ca701d.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses clear satisfaction and gratitude by saying 'Thank you so much for asking' when the agent inquires about any special requests or allergies. This positive sentiment indicates a positive customer experience."
+      }
     },
     "68593e141be7d3da060505d2.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6859b1531be7d3da06123bd1.txt": {
+    "687a4753a1698f75072a9955.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2680,19 +3046,19 @@
       "tags": [],
       "explanations": {}
     },
-    "6868e9e745548bd51ce4c5d4.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6856919d1be7d3da06c8ac85.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "68721c155560c851d62c0991.txt": {
       "tags": [],
       "explanations": {}
     },
+    "6868e9e745548bd51ce4c5d4.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6855ad9f1be7d3da06badafc.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6856919d1be7d3da06c8ac85.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2704,11 +3070,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686822a745548bd51cdad789.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6856fc7f1be7d3da06d80fbb.txt": {
+    "6857b6d41be7d3da06de5ff3.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2716,11 +3078,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6857b6d41be7d3da06de5ff3.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687219a45560c851d62b76f1.txt": {
+    "6877e25173d0cf0f7e870e90.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2728,27 +3086,23 @@
       "tags": [],
       "explanations": {}
     },
-    "6872c1325560c851d641dd84.txt": {
+    "6856fc7f1be7d3da06d80fbb.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6877e25173d0cf0f7e870e90.txt": {
-      "tags": [],
-      "explanations": {}
+    "686822a745548bd51cdad789.txt": {
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer requested clarification on the customization options for the Manhattan Cheesesteak, indicating a need for more information about the menu items."
+      }
     },
     "6855b5981be7d3da06bb6088.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68794243970f265df9e552dc.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852a69ecb9e39794cf50be1.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685728a51be7d3da06d9baa7.txt": {
+    "6872c1325560c851d641dd84.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2760,15 +3114,19 @@
       "tags": [],
       "explanations": {}
     },
-    "686e9fafd14f3abcfb3ceebc.txt": {
+    "687219a45560c851d62b76f1.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6858f60d1be7d3da06f9ff75.txt": {
+    "68794243970f265df9e552dc.txt": {
       "tags": [],
       "explanations": {}
     },
-    "687291ae5560c851d63df32f.txt": {
+    "685728a51be7d3da06d9baa7.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6852a69ecb9e39794cf50be1.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2776,7 +3134,19 @@
       "tags": [],
       "explanations": {}
     },
+    "687291ae5560c851d63df32f.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6858f60d1be7d3da06f9ff75.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "687274fa5560c851d6382843.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686e9fafd14f3abcfb3ceebc.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2788,9 +3158,21 @@
       "tags": [],
       "explanations": {}
     },
-    "686fbd61d14f3abcfb4ee25d.txt": {
+    "6856d3761be7d3da06d2217c.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "68729b005560c851d63f3afd.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686fbd61d14f3abcfb4ee25d.txt": {
+      "tags": [
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The agent repeats the options for bagels and muffins multiple times due to the customer's confusion or lack of response, indicating a need for clarification and repetition."
+      }
     },
     "68760b4e73d0cf0f7e5bb606.txt": {
       "tags": [],
@@ -2800,11 +3182,11 @@
       "tags": [],
       "explanations": {}
     },
-    "68729b005560c851d63f3afd.txt": {
+    "687a6588a1698f75072fc9e7.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6855b3221be7d3da06bb3af1.txt": {
+    "6858c95b1be7d3da06f8f931.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2812,23 +3194,15 @@
       "tags": [],
       "explanations": {}
     },
-    "6856d3761be7d3da06d2217c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687a6588a1698f75072fc9e7.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "68527039cb9e39794ced2574.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68715cbf5560c851d6247565.txt": {
+    "6855b3221be7d3da06bb3af1.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6858c95b1be7d3da06f8f931.txt": {
+    "68715cbf5560c851d6247565.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2849,38 +3223,34 @@
       "explanations": {}
     },
     "687914dc970f265df9defe7d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686dd04fd14f3abcfb262f45.txt": {
       "tags": [
-        "order_correction_needed"
+        "customer_happy"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the agent twice when the agent mistakenly mentioned 'Avocado Bagel Sandwich' instead of 'Avocado BLT Sandwich'. This shows a need for order correction."
+        "customer_happy": "The customer expresses clear satisfaction and gratitude by saying 'That's all. Thank you very much.' This indicates a positive customer experience."
       }
-    },
-    "6872398c5560c851d631445c.txt": {
-      "tags": [],
-      "explanations": {}
     },
     "687a53dca1698f75072c451f.txt": {
       "tags": [
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer attempted to order various items such as pastries, omelet wrap, hash browns, and a big breakfast burrito, but all were stated to be out of stock by the AI agent."
+        "item_unavailable": "The customer attempted to order various items such as pastries, omelet wrap, hash browns, and a big breakfast burrito, but all were out of stock according to the agent's responses."
       }
     },
+    "6872398c5560c851d631445c.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer requested an Avocado BLT sandwich, which was not available according to the AI Agent's response."
+      }
+    },
+    "686dd04fd14f3abcfb262f45.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6858f9671be7d3da06fa683a.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685acab69ae6a419f3d183e7.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686d9826d14f3abcfb262711.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2888,11 +3258,7 @@
       "tags": [],
       "explanations": {}
     },
-    "685d4120dda6a93eb94a030a.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685964401be7d3da06091c1b.txt": {
+    "685acab69ae6a419f3d183e7.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2900,11 +3266,15 @@
       "tags": [],
       "explanations": {}
     },
-    "68780b2873d0cf0f7e8902de.txt": {
+    "685964401be7d3da06091c1b.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6878e448970f265df9d82a95.txt": {
+    "685d4120dda6a93eb94a030a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68780b2873d0cf0f7e8902de.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2913,10 +3283,26 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested a Big Breakfast Burrito, but the AI agent informed them that it was out of stock, offering alternative breakfast options instead."
+        "item_unavailable": "The customer attempted to order a Big Breakfast Burrito but was informed it was out of stock, leading to the agent offering alternative breakfast options."
       }
     },
-    "6856cb311be7d3da06d04213.txt": {
+    "686d9826d14f3abcfb262711.txt": {
+      "tags": [
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer initially mentioned a Chicken Cutlet but later clarified that it was a Chicken Cuban, indicating a correction was needed for the order."
+      }
+    },
+    "68725c6d5560c851d6347165.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The customer requested an Avocado BLT sandwich, which is not on the Manhattan Bagel menu. The agent confirmed that it is not available, indicating that the item is unavailable."
+      }
+    },
+    "686b9bd60245c8178426d305.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2924,19 +3310,15 @@
       "tags": [],
       "explanations": {}
     },
-    "686b9bd60245c8178426d305.txt": {
+    "6856cb311be7d3da06d04213.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68725c6d5560c851d6347165.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer requested an Avocado BLT sandwich, but the agent stated that it is not on the Manhattan Bagel menu, indicating that the item is unavailable."
-      }
+    "6878e448970f265df9d82a95.txt": {
+      "tags": [],
+      "explanations": {}
     },
-    "686a6cb745548bd51c0701b1.txt": {
+    "686a799d45548bd51c08699e.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2944,7 +3326,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686a799d45548bd51c08699e.txt": {
+    "686a6cb745548bd51c0701b1.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2953,22 +3335,26 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested a Margherita Pizza, but the agent clearly states that it is not available on the menu."
+        "item_unavailable": "The customer attempted to order a Margherita Pizza, which is not available on the Manhattan Bagel menu. The agent confirms this by stating 'I don't see Margherita Pizza on our menu.'"
       }
-    },
-    "686dd18cd14f3abcfb26303f.txt": {
-      "tags": [],
-      "explanations": {}
     },
     "686e9339d14f3abcfb3b6425.txt": {
       "tags": [
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer requested an Avocado BLT sandwich, which the agent stated is not available on the menu."
+        "item_unavailable": "The customer requested an Avocado BLT sandwich, which is not available on the menu. The agent then presented alternative options like the Big City BLT, Avocado Toast, or Avocado Veg Out."
       }
     },
+    "686dd18cd14f3abcfb26303f.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "68598b871be7d3da060fba63.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685938371be7d3da06048fe3.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2980,7 +3366,11 @@
       "tags": [],
       "explanations": {}
     },
-    "685938371be7d3da06048fe3.txt": {
+    "6857b7e81be7d3da06de9c32.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6866ba1712c193450e1978a9.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -2989,22 +3379,10 @@
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer attempted to order an Avocado BLT sandwich, but the AI agent informed them that it was not available on the menu, offering alternative options instead."
+        "item_unavailable": "The customer attempted to order an Avocado BLT sandwich, but the AI agent informed them that it was not available on the menu. This indicates that the item requested by the customer was unavailable."
       }
     },
-    "6866ba1712c193450e1978a9.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6857b7e81be7d3da06de9c32.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686c33d20245c81784372a38.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6866bfd612c193450e1a2dea.txt": {
+    "6859b2de1be7d3da061246ca.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3012,47 +3390,23 @@
       "tags": [],
       "explanations": {}
     },
-    "68591a4a1be7d3da06013c68.txt": {
+    "6866bfd612c193450e1a2dea.txt": {
       "tags": [],
       "explanations": {}
     },
     "687268b75560c851d635dd24.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer inquired about a specific Buffalo Chicken Wrap that was not on the menu, and the AI agent confirmed that it is not available."
-      }
+      "tags": [],
+      "explanations": {}
+    },
+    "68591a4a1be7d3da06013c68.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686c33d20245c81784372a38.txt": {
+      "tags": [],
+      "explanations": {}
     },
     "687806e873d0cf0f7e88f133.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6859b2de1be7d3da061246ca.txt": {
-      "tags": [
-        "human_requested"
-      ],
-      "explanations": {
-        "human_requested": "The tag 'human_requested' applies because the customer explicitly requested to speak with a human agent, as seen in the transcript where the customer says, 'I want to talk to a human agent, please.'"
-      }
-    },
-    "68593e131be7d3da0605058a.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68573c411be7d3da06d9c729.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6859ab6a1be7d3da0611f754.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685698df1be7d3da06c95299.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685d4144dda6a93eb94a0753.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3060,11 +3414,35 @@
       "tags": [],
       "explanations": {}
     },
-    "6872111b5560c851d62986a7.txt": {
+    "68593e131be7d3da0605058a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6859ab6a1be7d3da0611f754.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685d4144dda6a93eb94a0753.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685698df1be7d3da06c95299.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68573c411be7d3da06d9c729.txt": {
       "tags": [],
       "explanations": {}
     },
     "6856aded1be7d3da06cb1d16.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6872111b5560c851d62986a7.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68529975cb9e39794cf3f9f2.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3076,23 +3454,25 @@
       "tags": [],
       "explanations": {}
     },
-    "68529975cb9e39794cf3f9f2.txt": {
+    "68570ecc1be7d3da06d9254f.txt": {
       "tags": [],
       "explanations": {}
     },
     "6868196c45548bd51cda07bd.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68570ecc1be7d3da06d9254f.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "frequent_repetitions",
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The agent and customer repeated information about the sandwich customizations multiple times due to misunderstanding. This is evident from the back and forth clarification on the sandwich details.",
+        "customer_menu_question": "The customer asked for more details about the menu item, specifically the customizations available for the Manhattan Cheesesteak Sandwich. This is shown by the customer's request to check the menu again and confirm the options."
+      }
     },
     "6871fa605560c851d6264dd6.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6852998ecb9e39794cf3fc57.txt": {
+    "6855a7821be7d3da06ba70d2.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3100,11 +3480,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68593b3a1be7d3da0604cfa5.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6855a7821be7d3da06ba70d2.txt": {
+    "6852998ecb9e39794cf3fc57.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3113,20 +3489,22 @@
         "order_correction_needed"
       ],
       "explanations": {
-        "order_correction_needed": "The customer had to correct the agent's misunderstanding when they mentioned wanting vanilla cream cheese, which was not available. This led to the agent offering the choices again for the spread."
+        "order_correction_needed": "The customer had to correct the agent's mistake when they mistakenly mentioned 'Vanilla' as an option for the spread, which was not available. This indicates a need for correction in the order."
       }
     },
+    "68593b3a1be7d3da0604cfa5.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "685736201be7d3da06d9c33d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68567b541be7d3da06c5c6bd.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6855a86c1be7d3da06ba81b9.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "customer_menu_question",
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer repeatedly asked about the different juice and smoothie options available, showing interest in the menu details and flavors.",
+        "agent_upsell_success": "The agent successfully suggested and upsold the customer from wanting apple juice to ordering a medium-sized Tropicana Apple Juice and a 16oz Strawberry Banana smoothie, resulting in a successful upsell."
+      }
     },
     "68696a0a45548bd51cf88a77.txt": {
       "tags": [],
@@ -3136,23 +3514,49 @@
       "tags": [],
       "explanations": {}
     },
-    "6868337d45548bd51cdbc572.txt": {
+    "685c301232ebb07e594387ef.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68567b541be7d3da06c5c6bd.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6855a86c1be7d3da06ba81b9.txt": {
       "tags": [
-        "frequent_repetitions"
+        "agent_upsell_attempt"
       ],
       "explanations": {
-        "frequent_repetitions": "The customer and the AI agent repeated the information about the size of the Taylor Ham, Egg & Cheese on a Sesame Bagel multiple times due to misunderstanding."
+        "agent_upsell_attempt": "The AI agent suggested adding a pastry or a bagel to the order, even though the customer only inquired about the price of a hot coffee. This shows an attempt at upselling by the agent."
       }
     },
     "687a6808a1698f75073052b0.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer initially requested two blueberry muffins and two blueberry goat pastries, but then corrected the order to two brownie pastries. This indicates a need for correction in the order."
+      }
+    },
+    "6868337d45548bd51cdbc572.txt": {
+      "tags": [
+        "frequent_repetitions",
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "frequent_repetitions": "The agent repeatedly asked the customer to choose a size for the Taylor Ham, Egg & Cheese on a Sesame Bagel, resulting in back and forth repetition of the same information.",
+        "customer_menu_question": "The customer asked for more details about the menu item, specifically questioning the size options for the Taylor Ham, Egg & Cheese on a Sesame Bagel."
+      }
+    },
+    "68727e0c5560c851d63a1d97.txt": {
+      "tags": [
+        "order_correction_needed"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer initially requested a Ricardo BLT sandwich, but the AI agent mistakenly assumed they wanted an Avocado BLT sandwich. This indicates a need for order correction as the customer's preference was not accurately captured."
+      }
     },
     "686a6fb045548bd51c074af9.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686d9afdd14f3abcfb262962.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3160,11 +3564,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68727e0c5560c851d63a1d97.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685c301232ebb07e594387ef.txt": {
+    "686d9afdd14f3abcfb262962.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3172,19 +3572,11 @@
       "tags": [],
       "explanations": {}
     },
-    "68715f045560c851d62496db.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "685a7a0b1be7d3da061c863d.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68568b9d1be7d3da06c812f0.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685931761be7d3da0603fdd3.txt": {
+    "68715f045560c851d62496db.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3192,7 +3584,11 @@
       "tags": [],
       "explanations": {}
     },
-    "6855b29a1be7d3da06bb3126.txt": {
+    "685931761be7d3da0603fdd3.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68568b9d1be7d3da06c812f0.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3201,10 +3597,14 @@
       "explanations": {}
     },
     "687101015560c851d61640d6.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "customer_menu_question"
+      ],
+      "explanations": {
+        "customer_menu_question": "The customer inquired about the menu, specifically asking for more details about a breakfast sandwich with specific modifications. This indicates a customer menu question."
+      }
     },
-    "68696ddd45548bd51cf8d987.txt": {
+    "6855b29a1be7d3da06bb3126.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3220,19 +3620,33 @@
       "tags": [],
       "explanations": {}
     },
+    "68696ddd45548bd51cf8d987.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6868cf0845548bd51cdea9ae.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6852b8a6cb9e39794cf68c19.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6855adc51be7d3da06badddb.txt": {
+    "686a794b45548bd51c085df9.txt": {
       "tags": [],
       "explanations": {}
     },
     "6866bcb312c193450e19d31c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6855adc51be7d3da06badddb.txt": {
+      "tags": [
+        "order_correction_needed",
+        "technical_issue"
+      ],
+      "explanations": {
+        "order_correction_needed": "The customer had to correct the order multiple times due to errors in the agent's input, as seen when the customer requested a hot latte with oat milk and whipped cream but the agent initially mentioned a different set of options.",
+        "technical_issue": "There were multiple instances of technical issues with the order processing, as indicated by the 'ERROR: 500 - Internal Server Error' messages that occurred when the agent tried to update the order."
+      }
+    },
+    "6852b2e3cb9e39794cf5fc24.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3244,15 +3658,7 @@
       "tags": [],
       "explanations": {}
     },
-    "685913a41be7d3da06fff1ec.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686a794b45548bd51c085df9.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852b2e3cb9e39794cf5fc24.txt": {
+    "6852b8a6cb9e39794cf68c19.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3260,7 +3666,15 @@
       "tags": [],
       "explanations": {}
     },
-    "68571c3c1be7d3da06d98669.txt": {
+    "685913a41be7d3da06fff1ec.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68592e7b1be7d3da0603bf84.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68760b0973d0cf0f7e5ba588.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3272,15 +3686,23 @@
       "tags": [],
       "explanations": {}
     },
-    "68760b0973d0cf0f7e5ba588.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "68594f381be7d3da06065d51.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68592e7b1be7d3da0603bf84.txt": {
+    "68571c3c1be7d3da06d98669.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6872c11c5560c851d641dcd7.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6874b6475560c851d6643d9c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685912cf1be7d3da06ffc899.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3292,23 +3714,19 @@
       "tags": [],
       "explanations": {}
     },
-    "685912cf1be7d3da06ffc899.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6874b6475560c851d6643d9c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6872c11c5560c851d641dcd7.txt": {
+    "6874f26a73d0cf0f7e4a341f.txt": {
       "tags": [],
       "explanations": {}
     },
     "6858f6d21be7d3da06fa115b.txt": {
-      "tags": [],
-      "explanations": {}
+      "tags": [
+        "agent_upsell_success"
+      ],
+      "explanations": {
+        "agent_upsell_success": "The customer initially ordered a hot coffee, but the AI agent successfully upsold a medium 16oz hot decaf coffee with Half & Half, resulting in a higher-priced order."
+      }
     },
-    "686cd4040245c817843d8717.txt": {
+    "687211335560c851d6298b54.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3316,23 +3734,11 @@
       "tags": [],
       "explanations": {}
     },
-    "687211335560c851d6298b54.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "68714ebb5560c851d6234fd0.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6856b2cc1be7d3da06cb9cb8.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6874f26a73d0cf0f7e4a341f.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687239555560c851d6313c85.txt": {
+    "686cd4040245c817843d8717.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3340,7 +3746,11 @@
       "tags": [],
       "explanations": {}
     },
-    "6878e973970f265df9d886e9.txt": {
+    "687239555560c851d6313c85.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6856b2cc1be7d3da06cb9cb8.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3348,15 +3758,19 @@
       "tags": [],
       "explanations": {}
     },
+    "6878e973970f265df9d886e9.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6878b7d673d0cf0f7e9106fd.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685962fc1be7d3da0608e35f.txt": {
+    "68724c985560c851d633203e.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68724c985560c851d633203e.txt": {
+    "685962fc1be7d3da0608e35f.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3368,6 +3782,10 @@
       "tags": [],
       "explanations": {}
     },
+    "6857bdbb1be7d3da06dfe9eb.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6852c7a2cb9e39794cf8748a.txt": {
       "tags": [],
       "explanations": {}
@@ -3376,27 +3794,15 @@
       "tags": [],
       "explanations": {}
     },
-    "6857bdbb1be7d3da06dfe9eb.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687146125560c851d62234dc.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6857a80c1be7d3da06db9643.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "686c16660245c817843634f0.txt": {
       "tags": [],
       "explanations": {}
     },
-    "686e82f2d14f3abcfb38d5f2.txt": {
+    "6879be59970f265df9e6b1a5.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6879be59970f265df9e6b1a5.txt": {
+    "687146125560c851d62234dc.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3408,15 +3814,11 @@
       "tags": [],
       "explanations": {}
     },
-    "686e5586d14f3abcfb3313ff.txt": {
+    "686e82f2d14f3abcfb38d5f2.txt": {
       "tags": [],
       "explanations": {}
     },
-    "686839f745548bd51cdbffdc.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6859888c1be7d3da060f5db7.txt": {
+    "6857a80c1be7d3da06db9643.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3424,7 +3826,19 @@
       "tags": [],
       "explanations": {}
     },
+    "6859888c1be7d3da060f5db7.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686839f745548bd51cdbffdc.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6877e38473d0cf0f7e8732b0.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686c32860245c81784372350.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3440,15 +3854,17 @@
       "tags": [],
       "explanations": {}
     },
-    "686c32860245c81784372350.txt": {
-      "tags": [],
-      "explanations": {}
+    "686e5586d14f3abcfb3313ff.txt": {
+      "tags": [
+        "technical_issue",
+        "frequent_repetitions"
+      ],
+      "explanations": {
+        "technical_issue": "There are clear mentions of technical issues with the AI system, as indicated by 'ERROR: 500 - Internal Server Error' messages during the call.",
+        "frequent_repetitions": "Frequent repetitions occur as the customer asks the AI agent to repeat the order multiple times due to system errors, leading to back and forth repetition of the same information."
+      }
     },
-    "687a3a55def8059841a30857.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6878e78b970f265df9d865ef.txt": {
+    "685711a01be7d3da06d93ee9.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3456,35 +3872,39 @@
       "tags": [],
       "explanations": {}
     },
-    "685711a01be7d3da06d93ee9.txt": {
-      "tags": [],
-      "explanations": {}
+    "685299f9cb9e39794cf404c8.txt": {
+      "tags": [
+        "item_unavailable"
+      ],
+      "explanations": {
+        "item_unavailable": "The 'Everything Bagel' item was not found in the menu, leading to the inability to complete the customer's order."
+      }
     },
     "687356d75560c851d643d7cb.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "6878e78b970f265df9d865ef.txt": {
+      "tags": [
+        "customer_happy"
+      ],
+      "explanations": {
+        "customer_happy": "The customer expresses clear satisfaction and gratitude by thanking the AI agent for asking about allergies and appreciating the gesture."
+      }
     },
     "68727f595560c851d63a6743.txt": {
       "tags": [
         "item_unavailable"
       ],
       "explanations": {
-        "item_unavailable": "The customer inquired about the Avocado BLT sandwich, which the AI agent confirmed was not available on the menu."
+        "item_unavailable": "The customer inquired about the Avocado BLT sandwich, which was not available according to the AI Agent's response."
       }
     },
-    "685299f9cb9e39794cf404c8.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The AI agent encountered an error stating that the 'Everything Bagel' item was not found in the menu, leading to the inability to complete the order."
-      }
-    },
-    "6871fcb95560c851d6267d65.txt": {
+    "6859b2041be7d3da06124310.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6859b2041be7d3da06124310.txt": {
+    "687a3a55def8059841a30857.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3492,11 +3912,15 @@
       "tags": [],
       "explanations": {}
     },
+    "68525f8acb9e39794ce9aa27.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "685938f91be7d3da06049dac.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68525f8acb9e39794ce9aa27.txt": {
+    "6855b4f51be7d3da06bb56a6.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3508,15 +3932,11 @@
       "tags": [],
       "explanations": {}
     },
-    "6855b4f51be7d3da06bb56a6.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "6877f09373d0cf0f7e8829da.txt": {
       "tags": [],
       "explanations": {}
     },
-    "686d657cd14f3abcfb24c04b.txt": {
+    "6871fcb95560c851d6267d65.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3524,7 +3944,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686e09b4d14f3abcfb26fc9e.txt": {
+    "686d657cd14f3abcfb24c04b.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3532,11 +3952,19 @@
       "tags": [],
       "explanations": {}
     },
-    "685a70c21be7d3da061b782b.txt": {
+    "686e09b4d14f3abcfb26fc9e.txt": {
       "tags": [],
       "explanations": {}
     },
     "68593e131be7d3da060505bc.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68570f831be7d3da06d92d65.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6868ede445548bd51ce5aba4.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3548,15 +3976,7 @@
       "tags": [],
       "explanations": {}
     },
-    "68570f831be7d3da06d92d65.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686fbfccd14f3abcfb4f2697.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6868ede445548bd51ce5aba4.txt": {
+    "685a70c21be7d3da061b782b.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3568,31 +3988,15 @@
       "tags": [],
       "explanations": {}
     },
-    "687242fc5560c851d6324e4d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6868258545548bd51cdb06a0.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "687122f25560c851d61b0eb4.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6872089f5560c851d627e9c6.txt": {
+    "686fbfccd14f3abcfb4f2697.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6858e4d81be7d3da06f90cf8.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6855b08f1be7d3da06bb0ff8.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68529ac3cb9e39794cf41d27.txt": {
+    "687242fc5560c851d6324e4d.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3600,11 +4004,15 @@
       "tags": [],
       "explanations": {}
     },
-    "685bbaf604963ba172ff5300.txt": {
+    "6858e4d81be7d3da06f90cf8.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685929b91be7d3da06033a58.txt": {
+    "6868258545548bd51cdb06a0.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6855b08f1be7d3da06bb0ff8.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3612,15 +4020,19 @@
       "tags": [],
       "explanations": {}
     },
-    "685938d41be7d3da06049b57.txt": {
+    "685929b91be7d3da06033a58.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6852c696cb9e39794cf8482f.txt": {
+    "6872089f5560c851d627e9c6.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6855b09f1be7d3da06bb113e.txt": {
+    "68529ac3cb9e39794cf41d27.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685bbaf604963ba172ff5300.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3632,67 +4044,15 @@
       "tags": [],
       "explanations": {}
     },
-    "6857b16d1be7d3da06dd4037.txt": {
+    "685938d41be7d3da06049b57.txt": {
       "tags": [],
       "explanations": {}
     },
-    "687357e75560c851d643ff82.txt": {
+    "6855b09f1be7d3da06bb113e.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6859ad211be7d3da061217d0.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685981ec1be7d3da060e7098.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686dc85cd14f3abcfb262d69.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685291b8cb9e39794cf33819.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "687928ac970f265df9e2ab73.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852f30fcb9e39794c00eb0c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6852b29dcb9e39794cf5f41b.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686f44c2d14f3abcfb3fa502.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer requested an Avocado Bagel, which is not available, and agreed to try the Avocado Toast instead."
-      }
-    },
-    "685a16381be7d3da0612af4d.txt": {
-      "tags": [
-        "order_correction_needed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer had to correct the agent on the flavors of cream cheese they wanted. This indicates a need for order correction."
-      }
-    },
-    "685928181be7d3da06030cc5.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "685933fb1be7d3da06043719.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686ea227d14f3abcfb3d3071.txt": {
+    "6852c696cb9e39794cf8482f.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3704,7 +4064,71 @@
         "order_correction_needed": "The customer had to correct the agent's misunderstanding about the options available for the Chicken Cuban, indicating a need for order correction."
       }
     },
-    "685a62541be7d3da061928df.txt": {
+    "687357e75560c851d643ff82.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6857b16d1be7d3da06dd4037.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685981ec1be7d3da060e7098.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686dc85cd14f3abcfb262d69.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6859ad211be7d3da061217d0.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6852f30fcb9e39794c00eb0c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685291b8cb9e39794cf33819.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "687928ac970f265df9e2ab73.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6852b29dcb9e39794cf5f41b.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686f44c2d14f3abcfb3fa502.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685a16381be7d3da0612af4d.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685933fb1be7d3da06043719.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "685928181be7d3da06030cc5.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686ea227d14f3abcfb3d3071.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "687609e973d0cf0f7e5b653a.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686e93fbd14f3abcfb3b8205.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6856c72c1be7d3da06cf4dc1.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3712,7 +4136,7 @@
       "tags": [],
       "explanations": {}
     },
-    "687609e973d0cf0f7e5b653a.txt": {
+    "685a62541be7d3da061928df.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3724,7 +4148,11 @@
       "tags": [],
       "explanations": {}
     },
-    "6856c72c1be7d3da06cf4dc1.txt": {
+    "686e80f9d14f3abcfb387df6.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "687213a25560c851d62a171d.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3732,59 +4160,7 @@
       "tags": [],
       "explanations": {}
     },
-    "686e93fbd14f3abcfb3b8205.txt": {
-      "tags": [
-        "item_unavailable"
-      ],
-      "explanations": {
-        "item_unavailable": "The customer requested an Avocado BLT sandwich, but the agent clearly states that it is not available on their lunch menu and offers alternative options instead."
-      }
-    },
-    "687213a25560c851d62a171d.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686e80f9d14f3abcfb387df6.txt": {
-      "tags": [
-        "order_correction_needed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer had to correct the agent's mistake when the agent mentioned a Vanilla bagel, which was not available. The customer pointed out the error, leading to a correction in the order."
-      }
-    },
-    "686dc36ad14f3abcfb262be5.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68683ced45548bd51cdc150a.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "6858c7501be7d3da06f8f861.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686a782645548bd51c083532.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686a768845548bd51c08016c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6857d90a1be7d3da06e5220e.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6859b0061be7d3da06122e33.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686a767545548bd51c07ff29.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686962a245548bd51cf7d036.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3792,27 +4168,43 @@
       "tags": [],
       "explanations": {}
     },
-    "6878b7d173d0cf0f7e9105a7.txt": {
+    "68683ced45548bd51cdc150a.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68722e8b5560c851d62fb4f9.txt": {
+    "6857d90a1be7d3da06e5220e.txt": {
       "tags": [],
       "explanations": {}
+    },
+    "686dc36ad14f3abcfb262be5.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686962a245548bd51cf7d036.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686a768845548bd51c08016c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686a782645548bd51c083532.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686a767545548bd51c07ff29.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6859b0061be7d3da06122e33.txt": {
+      "tags": [
+        "human_requested"
+      ],
+      "explanations": {
+        "human_requested": "The customer, Jitin, explicitly requests to speak with a human agent, indicating a preference for human interaction over AI assistance."
+      }
     },
     "687a483da1698f75072ab31c.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "686d1c7fd14f3abcfb193bde.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "68725c355560c851d6346d50.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6869094e45548bd51ce9947c.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3820,7 +4212,19 @@
       "tags": [],
       "explanations": {}
     },
+    "686d1c7fd14f3abcfb193bde.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68722e8b5560c851d62fb4f9.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "686d2301d14f3abcfb1a0f3c.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68725c355560c851d6346d50.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3828,7 +4232,7 @@
       "tags": [],
       "explanations": {}
     },
-    "687914be970f265df9def6f6.txt": {
+    "6869094e45548bd51ce9947c.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3840,10 +4244,6 @@
       "tags": [],
       "explanations": {}
     },
-    "685744a21be7d3da06d9c9d4.txt": {
-      "tags": [],
-      "explanations": {}
-    },
     "685a96d0f664fde5010f1f71.txt": {
       "tags": [],
       "explanations": {}
@@ -3852,7 +4252,7 @@
       "tags": [],
       "explanations": {}
     },
-    "6857389b1be7d3da06d9c475.txt": {
+    "685744a21be7d3da06d9c9d4.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3860,7 +4260,11 @@
       "tags": [],
       "explanations": {}
     },
-    "687a7f56a1698f750734da54.txt": {
+    "6857389b1be7d3da06d9c475.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6878b7d173d0cf0f7e9105a7.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3872,23 +4276,11 @@
       "tags": [],
       "explanations": {}
     },
-    "68529bc7cb9e39794cf432e3.txt": {
+    "687914be970f265df9def6f6.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6877780873d0cf0f7e7917e4.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6868408645548bd51cdc2fad.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6877e2f873d0cf0f7e8721eb.txt": {
-      "tags": [],
-      "explanations": {}
-    },
-    "6872a3bb5560c851d6402a12.txt": {
+    "687a7f56a1698f750734da54.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3896,15 +4288,31 @@
       "tags": [],
       "explanations": {}
     },
+    "6877780873d0cf0f7e7917e4.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "68529bc7cb9e39794cf432e3.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6877e2f873d0cf0f7e8721eb.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6868408645548bd51cdc2fad.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "685ca5b632ebb07e594685f4.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6852a42bcb9e39794cf4db90.txt": {
+    "685918db1be7d3da0600f419.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68592df21be7d3da0603b1a2.txt": {
+    "6852a42bcb9e39794cf4db90.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3916,19 +4324,11 @@
       "tags": [],
       "explanations": {}
     },
-    "6855aeb81be7d3da06baede3.txt": {
+    "68592df21be7d3da0603b1a2.txt": {
       "tags": [],
       "explanations": {}
     },
-    "685918db1be7d3da0600f419.txt": {
-      "tags": [
-        "order_correction_needed"
-      ],
-      "explanations": {
-        "order_correction_needed": "The customer had to correct the agent's misunderstanding when they requested all 13 bagels as butter bagels, which was not an available option. The agent then clarified and the customer settled on Asiago bagels instead."
-      }
-    },
-    "685909ca1be7d3da06fdc566.txt": {
+    "6855aeb81be7d3da06baede3.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3936,11 +4336,15 @@
       "tags": [],
       "explanations": {}
     },
-    "686cd3030245c817843d3f3c.txt": {
+    "68529d0bcb9e39794cf450f9.txt": {
       "tags": [],
       "explanations": {}
     },
-    "6855b5761be7d3da06bb5f0d.txt": {
+    "6872a3bb5560c851d6402a12.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "686cd3030245c817843d3f3c.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3948,15 +4352,23 @@
       "tags": [],
       "explanations": {}
     },
+    "685909ca1be7d3da06fdc566.txt": {
+      "tags": [],
+      "explanations": {}
+    },
+    "6855b5761be7d3da06bb5f0d.txt": {
+      "tags": [],
+      "explanations": {}
+    },
     "6856ee8a1be7d3da06d6c5ae.txt": {
       "tags": [],
       "explanations": {}
     },
-    "68529d0bcb9e39794cf450f9.txt": {
+    "686e5217d14f3abcfb32bf7f.txt": {
       "tags": [],
       "explanations": {}
     },
-    "686c419b0245c8178437517a.txt": {
+    "68696ec345548bd51cf8ea4a.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3964,7 +4376,7 @@
       "tags": [],
       "explanations": {}
     },
-    "685698b01be7d3da06c94f61.txt": {
+    "686c419b0245c8178437517a.txt": {
       "tags": [],
       "explanations": {}
     },
@@ -3976,50 +4388,45 @@
       "tags": [],
       "explanations": {}
     },
-    "68696ec345548bd51cf8ea4a.txt": {
+    "685698b01be7d3da06c94f61.txt": {
       "tags": [],
       "explanations": {}
     },
     "6872151f5560c851d62a7137.txt": {
       "tags": [],
       "explanations": {}
-    },
-    "686e5217d14f3abcfb32bf7f.txt": {
-      "tags": [],
-      "explanations": {}
     }
   },
   "tag_frequency": {
-    "item_unavailable": 37,
-    "frequent_repetitions": 12,
-    "order_correction_needed": 26,
-    "human_requested": 3,
-    "technical_issue": 8,
-    "customer_happy": 2,
-    "customer_annoyed": 3,
-    "agent_upsell_success": 1
+    "item_unavailable": 33,
+    "agent_upsell_success": 32,
+    "customer_menu_question": 23,
+    "customer_happy": 26,
+    "order_correction_needed": 32,
+    "technical_issue": 20,
+    "agent_upsell_attempt": 5,
+    "customer_annoyed": 7,
+    "human_requested": 4,
+    "frequent_repetitions": 28
   },
   "total_transcripts_analyzed": 908,
-  "total_tags_generated": 92,
-  "unique_tags": 8,
+  "total_tags_generated": 210,
+  "unique_tags": 10,
   "batches_processed": 46,
   "recommended_tags": {
     "Positive_Experience": [
       "customer_happy",
-      "smooth",
-      "quick call",
-      "agent_upsell_success"
+      "agent_upsell_success",
+      "quick call"
     ],
     "Negative_Experience": [
       "customer_annoyed",
       "frequent_repetitions",
-      "item_unavailable",
       "technical_issue"
     ],
     "Order_Quality": [
-      "high order value",
-      "order_correction_needed",
-      "agent_upsell_success"
+      "agent_upsell_attempt",
+      "order_correction_needed"
     ],
     "Special_Cases": [
       "human_requested",
