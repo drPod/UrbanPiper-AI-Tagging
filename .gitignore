@@ -78,8 +78,3 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
-
-# Project specific
-transcripts/
-*.json
-*.txt
