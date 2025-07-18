@@ -6,20 +6,32 @@ import json
 from collections import Counter
 import argparse
 from dotenv import load_dotenv
+import threading
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Load environment variables from .env file
 load_dotenv()
 
 class TranscriptTagAnalyzer:
-    def __init__(self, openai_api_key: str = None):
+    def __init__(self, openai_api_key: str = None, batch_size: int = 10, max_workers: int = 5):
         """
         Initialize the transcript analyzer with OpenAI API key.
         If no key provided, will look for OPENAI_API_KEY environment variable.
+        
+        Args:
+            openai_api_key: OpenAI API key
+            batch_size: Number of transcripts to process before saving batch results
+            max_workers: Maximum number of concurrent API calls
         """
         if openai_api_key:
             self.client = OpenAI(api_key=openai_api_key)
         else:
             self.client = OpenAI()  # Uses OPENAI_API_KEY env var
+        
+        self.batch_size = batch_size
+        self.max_workers = max_workers
+        self.results_lock = threading.Lock()
     
     def read_transcript_files(self, directory_path: str) -> List[Dict[str, str]]:
         """
@@ -90,42 +102,168 @@ class TranscriptTagAnalyzer:
             print(f"Error analyzing transcript: {e}")
             return {"tags": [], "explanations": {}}
     
-    def generate_comprehensive_tag_suggestions(self, transcripts: List[Dict[str, str]]) -> Dict[str, any]:
+    def analyze_single_transcript(self, transcript: Dict[str, str]) -> Dict[str, any]:
         """
-        Analyze all transcripts and generate comprehensive tag suggestions.
+        Analyze a single transcript and return the result with filename.
         """
-        print("Analyzing transcripts to generate tag suggestions...")
+        analysis = self.analyze_transcript_for_tags(transcript['content'])
+        return {
+            'filename': transcript['filename'],
+            'tags': analysis.get('tags', []),
+            'explanations': analysis.get('explanations', {})
+        }
+    
+    def save_batch_results(self, results: Dict[str, any], output_file: str, batch_num: int = None):
+        """
+        Save batch results to file with thread safety.
+        """
+        with self.results_lock:
+            try:
+                # Try to load existing results
+                if os.path.exists(output_file):
+                    with open(output_file, 'r', encoding='utf-8') as f:
+                        existing_results = json.load(f)
+                else:
+                    existing_results = {
+                        'individual_transcript_analysis': {},
+                        'tag_frequency': {},
+                        'total_transcripts_analyzed': 0,
+                        'total_tags_generated': 0,
+                        'unique_tags': 0,
+                        'batches_processed': 0
+                    }
+                
+                # Merge new results
+                existing_results['individual_transcript_analysis'].update(results['individual_transcript_analysis'])
+                
+                # Update tag frequency
+                for tag, count in results['tag_frequency'].items():
+                    existing_results['tag_frequency'][tag] = existing_results['tag_frequency'].get(tag, 0) + count
+                
+                # Update totals
+                existing_results['total_transcripts_analyzed'] += results['total_transcripts_analyzed']
+                existing_results['total_tags_generated'] += results['total_tags_generated']
+                existing_results['unique_tags'] = len(set(existing_results['tag_frequency'].keys()))
+                existing_results['batches_processed'] = existing_results.get('batches_processed', 0) + 1
+                
+                # Save updated results
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    json.dump(existing_results, f, indent=2, ensure_ascii=False)
+                
+                batch_info = f" (batch {batch_num})" if batch_num else ""
+                print(f"Batch results saved to {output_file}{batch_info}")
+                
+            except Exception as e:
+                print(f"Error saving batch results: {e}")
+    
+    def process_batch(self, batch_transcripts: List[Dict[str, str]], batch_num: int, output_file: str):
+        """
+        Process a batch of transcripts with parallel processing.
+        """
+        print(f"Processing batch {batch_num} with {len(batch_transcripts)} transcripts...")
+        
+        batch_results = {
+            'individual_transcript_analysis': {},
+            'tag_frequency': {},
+            'total_transcripts_analyzed': 0,
+            'total_tags_generated': 0
+        }
         
         all_tags = []
-        transcript_analysis = {}
         
-        for i, transcript in enumerate(transcripts, 1):
-            print(f"Processing transcript {i}/{len(transcripts)}: {transcript['filename']}")
+        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
+            # Submit all tasks
+            future_to_transcript = {
+                executor.submit(self.analyze_single_transcript, transcript): transcript
+                for transcript in batch_transcripts
+            }
             
-            analysis = self.analyze_transcript_for_tags(transcript['content'])
-            tags = analysis.get('tags', [])
-            explanations = analysis.get('explanations', {})
+            # Process completed tasks
+            for future in as_completed(future_to_transcript):
+                transcript = future_to_transcript[future]
+                try:
+                    result = future.result()
+                    filename = result['filename']
+                    tags = result['tags']
+                    explanations = result['explanations']
+                    
+                    # Store results
+                    batch_results['individual_transcript_analysis'][filename] = {
+                        'tags': tags,
+                        'explanations': explanations
+                    }
+                    
+                    all_tags.extend(tags)
+                    batch_results['total_transcripts_analyzed'] += 1
+                    batch_results['total_tags_generated'] += len(tags)
+                    
+                    print(f"✓ Completed: {filename} ({len(tags)} tags)")
+                    
+                except Exception as e:
+                    print(f"✗ Error processing {transcript['filename']}: {e}")
+        
+        # Calculate tag frequency for this batch
+        batch_results['tag_frequency'] = dict(Counter(all_tags))
+        
+        # Save batch results
+        self.save_batch_results(batch_results, output_file, batch_num)
+        
+        return batch_results
+    
+    def generate_comprehensive_tag_suggestions(self, transcripts: List[Dict[str, str]], output_file: str = None) -> Dict[str, any]:
+        """
+        Analyze all transcripts and generate comprehensive tag suggestions using batch processing.
+        """
+        print(f"Analyzing {len(transcripts)} transcripts using batch processing...")
+        
+        # Clear existing output file if it exists and we're not resuming
+        if output_file and os.path.exists(output_file) and not getattr(self, '_resume_mode', False):
+            os.remove(output_file)
+            print(f"Cleared existing output file: {output_file}")
+        
+        # Process transcripts in batches
+        total_batches = (len(transcripts) + self.batch_size - 1) // self.batch_size
+        
+        for batch_num in range(1, total_batches + 1):
+            start_idx = (batch_num - 1) * self.batch_size
+            end_idx = min(start_idx + self.batch_size, len(transcripts))
+            batch_transcripts = transcripts[start_idx:end_idx]
             
-            all_tags.extend(tags)
-            transcript_analysis[transcript['filename']] = {
-                'tags': tags,
-                'explanations': explanations
+            print(f"\n=== Processing Batch {batch_num}/{total_batches} ===")
+            print(f"Transcripts {start_idx + 1}-{end_idx} of {len(transcripts)}")
+            
+            self.process_batch(batch_transcripts, batch_num, output_file)
+        
+        # Load final results
+        if output_file and os.path.exists(output_file):
+            with open(output_file, 'r', encoding='utf-8') as f:
+                final_results = json.load(f)
+        else:
+            final_results = {
+                'individual_transcript_analysis': {},
+                'tag_frequency': {},
+                'total_transcripts_analyzed': 0,
+                'total_tags_generated': 0,
+                'unique_tags': 0
             }
         
-        # Count tag frequency
-        tag_frequency = Counter(all_tags)
+        # Generate final recommendations
+        if final_results['tag_frequency']:
+            tag_frequency = Counter(final_results['tag_frequency'])
+            all_tags = []
+            for tag, count in tag_frequency.items():
+                all_tags.extend([tag] * count)
+            
+            final_recommendations = self.generate_final_recommendations(all_tags, tag_frequency)
+            final_results['recommended_tags'] = final_recommendations
         
-        # Generate final tag recommendations
-        final_recommendations = self.generate_final_recommendations(all_tags, tag_frequency)
+        # Save final results with recommendations
+        if output_file:
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(final_results, f, indent=2, ensure_ascii=False)
+            print(f"\nFinal results saved to {output_file}")
         
-        return {
-            'individual_transcript_analysis': transcript_analysis,
-            'tag_frequency': dict(tag_frequency),
-            'recommended_tags': final_recommendations,
-            'total_transcripts_analyzed': len(transcripts),
-            'total_tags_generated': len(all_tags),
-            'unique_tags': len(set(all_tags))
-        }
+        return final_results
     
     def generate_final_recommendations(self, all_tags: List[str], tag_frequency: Counter) -> Dict[str, List[str]]:
         """
@@ -219,6 +357,9 @@ def main():
     parser.add_argument('transcript_directory', help='Directory containing transcript .txt files')
     parser.add_argument('--output', '-o', default='tag_analysis_results.json', help='Output file for results')
     parser.add_argument('--api-key', help='OpenAI API key (or set OPENAI_API_KEY env var)')
+    parser.add_argument('--batch-size', '-b', type=int, default=10, help='Number of transcripts to process in each batch (default: 10)')
+    parser.add_argument('--max-workers', '-w', type=int, default=5, help='Maximum number of concurrent API calls (default: 5)')
+    parser.add_argument('--resume', '-r', action='store_true', help='Resume from existing output file instead of starting fresh')
     
     args = parser.parse_args()
     
@@ -228,8 +369,12 @@ def main():
         return
     
     try:
-        # Initialize analyzer
-        analyzer = TranscriptTagAnalyzer(openai_api_key=args.api_key)
+        # Initialize analyzer with batch processing parameters
+        analyzer = TranscriptTagAnalyzer(
+            openai_api_key=args.api_key,
+            batch_size=args.batch_size,
+            max_workers=args.max_workers
+        )
         
         # Read transcripts
         transcripts = analyzer.read_transcript_files(args.transcript_directory)
@@ -238,11 +383,32 @@ def main():
             print("No transcripts found to analyze.")
             return
         
-        # Analyze transcripts
-        results = analyzer.generate_comprehensive_tag_suggestions(transcripts)
+        # Handle resume functionality
+        if args.resume and os.path.exists(args.output):
+            print(f"Resume mode: Loading existing results from {args.output}")
+            with open(args.output, 'r', encoding='utf-8') as f:
+                existing_results = json.load(f)
+            
+            # Filter out already processed transcripts
+            processed_files = set(existing_results.get('individual_transcript_analysis', {}).keys())
+            remaining_transcripts = [t for t in transcripts if t['filename'] not in processed_files]
+            
+            print(f"Found {len(processed_files)} already processed transcripts")
+            print(f"Remaining transcripts to process: {len(remaining_transcripts)}")
+            
+            if remaining_transcripts:
+                # Set resume mode flag
+                analyzer._resume_mode = True
+                # Process remaining transcripts
+                results = analyzer.generate_comprehensive_tag_suggestions(remaining_transcripts, args.output)
+            else:
+                print("All transcripts have already been processed!")
+                results = existing_results
+        else:
+            # Process all transcripts
+            results = analyzer.generate_comprehensive_tag_suggestions(transcripts, args.output)
         
-        # Save and display results
-        analyzer.save_results(results, args.output)
+        # Display results summary
         analyzer.print_summary(results)
         
     except Exception as e:
