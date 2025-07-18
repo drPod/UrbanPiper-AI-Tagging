@@ -1,0 +1,14 @@
+Call ID: 686a6cb745548bd51c0701b1
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-06T12:31:51.382Z
+End Time: 2025-07-06T12:32:09.191Z
+Duration: 15 seconds
+From: +918949862707
+To: +16516156214
+Summary: The customer, Jitin, was greeted by BagelBot and began their order, but the call ended abruptly without completing the order or providing further details.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-06T12:32:09.004Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?

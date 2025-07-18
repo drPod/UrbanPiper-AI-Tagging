@@ -1,0 +1,22 @@
+Call ID: 686a7fed45548bd51c0974b6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-06T13:53:49.925Z
+End Time: 2025-07-06T13:54:34.614Z
+Duration: 43 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin called Manhattan Bagel to place an order, correcting the agent that his name is Jitin, not Jipan, and inquired about the Big Breakfast Burrito.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-06T13:54:34.393Z] AI Agent: Hello Jipan Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-06T13:54:34.393Z] Customer: So I like to order, big breakfast burrito. Can you tell me the price of the big breakfast burrito?
+
+[2025-07-06T13:54:34.394Z] AI Agent: Our Big Breakfast Burrito is a popular choice. It comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a
+
+[2025-07-06T13:54:34.394Z] Customer: And and and, actually, I want to, you know, correct you. My name is not Japan. My name is Jitin.
+
+[2025-07-06T13:54:34.394Z] AI Agent: I apologize for the mistake, Jitin. I'll make sure to get your name right from now on. Now, about that

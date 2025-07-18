@@ -1,0 +1,30 @@
+Call ID: 685298d5cb9e39794cf3eaef
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T10:45:41.303Z
+End Time: 2025-06-18T10:47:16.711Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer, Punit, inquired about breakfast options at Manhattan Bagel and was presented with several choices, but the call ended abruptly without a final decision or order placement.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T10:47:16.414Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T10:47:16.414Z] Customer: I want to, you know, order something in breakfast. Please tell me what you guys are selling.
+
+[2025-06-18T10:47:16.414Z] AI Agent: Let me check our breakfast options for you. 
+
+[2025-06-18T10:47:16.414Z] AI Agent: I found a Box of Sweets for our breakfast options. It includes muffins, pastries, and crumb cake. Would you like to order a Box of Sweets?
+
+[2025-06-18T10:47:16.414Z] Customer: No. I want to, order, like, breakfast sandwich.
+
+[2025-06-18T10:47:16.414Z] AI Agent: Let me check our breakfast sandwich options for you. 
+
+[2025-06-18T10:47:16.415Z] AI Agent: I found several great breakfast options. Our popular sandwiches include the Original Classic for seven dollars and forty-nine cents, the Egg & Cheese for four dollars and ninety-nine cents, and the Big Breakfast Burrito for nine dollars and forty-nine cents. Would you like to hear about more options?
+
+[2025-06-18T10:47:16.415Z] AI Agent: I hope you are still with me!
+
+[2025-06-18T10:47:16.415Z] AI Agent: Thank you for calling. Have a great day. Goodbye.

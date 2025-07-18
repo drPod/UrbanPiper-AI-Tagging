@@ -1,0 +1,18 @@
+Call ID: 68760d5073d0cf0f7e5c2bb8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-15T08:12:00.292Z
+End Time: 2025-07-15T08:12:22.812Z
+Duration: 21 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer, Jitin, attempted to order a Margherita Pizza, which is not available on the Manhattan Bagel menu.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-15T08:12:22.625Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-15T08:12:22.625Z] Customer: I want to order, margarita pizza.
+
+[2025-07-15T08:12:22.625Z] AI Agent: I don't see Margherita Pizza on our menu. We have a variety of

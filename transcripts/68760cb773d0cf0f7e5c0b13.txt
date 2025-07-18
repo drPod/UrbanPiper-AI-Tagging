@@ -1,0 +1,22 @@
+Call ID: 68760cb773d0cf0f7e5c0b13
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-15T08:09:27.428Z
+End Time: 2025-07-15T08:10:46.063Z
+Duration: 76 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel, selecting 13 bagels and needing to choose cream cheese and muffins to complete the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-15T08:10:45.829Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-15T08:10:45.829Z] Customer: Can I can I have breakfast bundle?
+
+[2025-07-15T08:10:45.830Z] AI Agent: The Breakfast Bundle sounds like a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You'll need to pick 13 bagels for your bundle. We have a variety of bagels to choose from, such as Plain, Everything, Sesame, and Cinnamon Raisin. Which 13 bagels would you like to choose for your Breakfast Bundle?
+
+[2025-07-15T08:10:45.830Z] Customer: I like to have, three sesame, two vanilla, and five, everything, one, blueberry, one garlic, and the rest can be, honey almond.
+
+[2025-07-15T08:10:45.830Z] AI Agent: You've got three Sesame, two Vanilla, five Everything, one Blueberry, one Garlic, and the rest will be Honey Almond. That's a total of 13 bagels for your Breakfast Bundle. Now, let's move on to the cream cheese. You'll

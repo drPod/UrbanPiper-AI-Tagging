@@ -1,0 +1,20 @@
+Call ID: 68570f831be7d3da06d92d65
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T20:01:07.729Z
+End Time: 2025-06-21T20:02:47.199Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a Breakfast Bundle and inquired about apple juice, but the call ended before finalizing the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T20:02:47.059Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T20:02:47.059Z] Customer: Hey. Yeah. I'm looking to order baker's bundles and something, like apple juice as well. Hello?
+
+[2025-06-21T20:02:47.059Z] AI Agent: The Breakfast Bundle, a fantastic choice. That comes with thirteen fresh-baked Manhattan Bagels, two tubs of cream cheese, and four muffins. You can also make it extra special by adding four ounces of premium Acme smoked nova for just nine dollars and ninety-nine cents. Would you like to add the smoked nova? And regarding the apple juice, we actually have a variety of beverages, including our signature lemonades and fresh-squeezed orange juice. Which one of those sounds good to you?
+
+[2025-06-21T20:02:47.060Z] AI Agent: For the Breakfast Bundle, you have thirteen bagel options. Some popular ones are Plain, Everything, or Asiago. What sounds good for your bagels? And for the cream cheese, we have several flavors. You can pick two. To start, some popular ones are Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive. Do any of those sound good, or would you like to hear a few more?

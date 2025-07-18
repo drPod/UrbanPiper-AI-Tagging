@@ -1,0 +1,42 @@
+Call ID: 685919ee1be7d3da06012ba0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T09:10:06.084Z
+End Time: 2025-06-23T09:11:28.805Z
+Duration: 120 seconds
+From: +916377554613
+To: +17209999031
+Summary: The customer ordered a French Toast BAGEL from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T09:11:27.799Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-06-23T09:11:27.799Z] Customer: Hey.
+
+[2025-06-23T09:11:27.799Z] AI Agent: What can I get for you today?
+
+[2025-06-23T09:11:27.799Z] Customer: Hello?
+
+[2025-06-23T09:11:27.799Z] AI Agent: How can I help you today?
+
+[2025-06-23T09:11:27.799Z] Customer: What do you have?
+
+[2025-06-23T09:11:27.799Z] AI Agent: We have a variety of bagels, sandwiches, and drinks. What sounds good to you?
+
+[2025-06-23T09:11:27.799Z] Customer: Let's try the baker.
+
+[2025-06-23T09:11:27.799Z] AI Agent: We have a dozen flavors. What kind of bagel would you like?
+
+[2025-06-23T09:11:27.799Z] Customer: Tell me about them.
+
+[2025-06-23T09:11:27.800Z] AI Agent: Let me get the options for your bagel choices...
+
+[2025-06-23T09:11:27.800Z] AI Agent: You can choose from a variety of bagels. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole
+
+[2025-06-23T09:11:27.802Z] Customer: No French toast.
+
+[2025-06-23T09:11:27.802Z] AI Agent: Perfect, let me add that to your order...
+
+[2025-06-23T09:11:27.802Z] AI Agent: Call ended before tool response was received

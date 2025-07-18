@@ -1,0 +1,20 @@
+Call ID: 68529998cb9e39794cf3fdc6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T10:48:56.669Z
+End Time: 2025-06-18T10:49:46.616Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer inquired about breakfast options and the agent provided a list of popular items, but the call ended without the customer placing an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T10:49:46.406Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T10:49:46.406Z] Customer: Yeah. I'd like to order something for breakfast. Tell me what you guys have.
+
+[2025-06-18T10:49:46.406Z] AI Agent: Let me see what we have for breakfast. 
+
+[2025-06-18T10:49:46.407Z] AI Agent: I found several great breakfast options! Our popular ones are the Original Classic for seven forty-nine, the Egg & Cheese for four ninety-nine, and the Big Breakfast Burrito for nine forty-nine. Would you like to hear about more options?

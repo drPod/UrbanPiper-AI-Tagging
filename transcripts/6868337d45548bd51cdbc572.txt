@@ -1,0 +1,42 @@
+Call ID: 6868337d45548bd51cdbc572
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-04T20:03:09.825Z
+End Time: 2025-07-04T20:05:25.507Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer attempted to place an order but had questions and confusion about the menu item details.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-04T20:05:25.082Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-04T20:05:25.085Z] Customer: Yeah. I like to order Taylor ham Taylor ham, egg and cheese on sesame bagel, three bacon, egg and cheese on plain bagel, and one Manhattan cheese sandwich, five lemon snaffle, two peach snaffle, three Diet Coke, canned soda, and one thirty two ounce Diet Coke.
+
+[2025-07-04T20:05:25.085Z] AI Agent: Alright, let me get that all started for you. First, I'll need to confirm the details for your Taylor Ham, Egg & Cheese on a Sesame Bagel. Would you like to hear the available customizations for this item?
+
+[2025-07-04T20:05:25.086Z] Customer: Yeah. Go ahead, please.
+
+[2025-07-04T20:05:25.086Z] AI Agent: Sure thing. For your Taylor Ham, Egg & Cheese on a Sesame Bagel, the first thing I need is the size. We have small, medium, and large. Which size would you like?
+
+[2025-07-04T20:05:25.086Z] Customer: Sorry?
+
+[2025-07-04T20:05:25.086Z] AI Agent: No problem at all. For the Taylor Ham, Egg & Cheese on a Sesame Bagel, the first thing I need is the size. We have small, medium, and large. Which size would you like?
+
+[2025-07-04T20:05:25.086Z] Customer: What size?
+
+[2025-07-04T20:05:25.086Z] AI Agent: For the Taylor Ham, Egg & Cheese on a Sesame Bagel, we have small, medium, and large. Which size would you like?
+
+[2025-07-04T20:05:25.086Z] Customer: What is this under what is this item is all about?
+
+[2025-07-04T20:05:25.086Z] AI Agent: The Taylor Ham, Egg & Cheese on a Sesame Bagel is a breakfast sandwich with Taylor Ham, egg, and cheese on a sesame bagel. Would you like to proceed with choosing the size for this item?
+
+[2025-07-04T20:05:25.087Z] Customer: One second. Sandwich. Right? Breakfast sandwich?
+
+[2025-07-04T20:05:25.087Z] AI Agent: Yes, it's a breakfast sandwich. To get started, we need to choose a size for it. We have small, medium, and large. Which size would you like?
+
+[2025-07-04T20:05:25.087Z] Customer: Can you please check your menu? You are not correct.
+
+[2025-07-04T20:05:25.087Z] AI Agent: I apologize for the confusion. Let me check our menu for you. The Taylor Ham, Egg & Cheese on a Sesame Bagel is indeed a breakfast sandwich. For this item, we have the following sizes: small, medium, and large. Which size would you like?

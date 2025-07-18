@@ -1,0 +1,18 @@
+Call ID: 686d2325d14f3abcfb1a14f6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T13:54:45.506Z
+End Time: 2025-07-08T13:55:11.170Z
+Duration: 22 seconds
+From: 919780032269
+To: 918035740152
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T13:55:10.976Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T13:55:10.977Z] Customer: I I want to order breakfast bundle.
+
+[2025-07-08T13:55:10.977Z] AI Agent: Alright, a Breakfast Bundle. That includes 13 assorted

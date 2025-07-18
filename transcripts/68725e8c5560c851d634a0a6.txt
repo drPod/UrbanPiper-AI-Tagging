@@ -1,0 +1,14 @@
+Call ID: 68725e8c5560c851d634a0a6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T13:09:32.657Z
+End Time: 2025-07-12T13:09:52.676Z
+Duration: 17 seconds
+From: 918949862707
+To: 918035740152
+Summary: Jutin ordered from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T13:09:52.552Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?

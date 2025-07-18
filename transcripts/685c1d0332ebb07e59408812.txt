@@ -1,0 +1,32 @@
+Call ID: 685c1d0332ebb07e59408812
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-25T16:00:03.778Z
+End Time: 2025-06-25T16:01:53.137Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: The user started ordering a Breakfast Bundle but the call ended before finalizing the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-25T16:01:52.924Z] AI Agent: Hello Jitin, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-25T16:01:52.924Z] Customer: I'm looking to order breakfast bundle.
+
+[2025-06-25T16:01:52.924Z] AI Agent: Got it. The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). You also have the option to add 4oz of premium Acme smoked nova for just $9.99. Would you like to add the smoked nova to your bundle?
+
+[2025-06-25T16:01:52.925Z] AI Agent: Alright, let's start with the **Bagel Dozen**. For this, you need to select exactly 13 bagels. We have a variety of options like Plain, Everything, Asiago, Blueberry, and more. What would you like to include in your dozen?
+
+[2025-06-25T16:01:52.926Z] Customer: I'll I'm looking to order, four everything for plain.
+
+[2025-06-25T16:01:52.926Z] AI Agent: Got it,
+
+[2025-06-25T16:01:52.928Z] Customer: And rest of the term rest of them are, car like vehicle.
+
+[2025-06-25T16:01:52.928Z] AI Agent: Alright, let's confirm your bagel selection: 4 Everything, 4 Plain, and the remaining 5 Garlic. That adds up to 13. Perfect! Now, moving on to the **Choose 2 Tubs of Spread**. You can pick exactly 2 spreads. We have options like Plain Cream Cheese, Scallion/Onion Chive, Jalapeño Cream Cheese, and more. What would you like for your spreads?
+
+[2025-06-25T16:01:52.929Z] Customer: Thinking of having, one vanilla and, strawberry green cheese.
+
+[2025-06-25T16:01:52.929Z] AI Agent: I'm sorry, but Vanilla isn't listed among the available spread options. For the **Choose 2 Tubs of Spread**, you can select from: Plain Cream Cheese, Scallion/Onion Chive, Jalapeño Cream Cheese, 

@@ -1,0 +1,22 @@
+Call ID: 687a4a7ea1698f75072af290
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T13:22:06.884Z
+End Time: 2025-07-18T13:23:11.863Z
+Duration: 55 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha attempted to order a pastry but it was out of stock, and the call ended without an alternative order being placed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T13:23:11.409Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T13:23:11.410Z] Customer: Give me page three, please.
+
+[2025-07-18T13:23:11.410Z] AI Agent: That would be our Pastry. I'll add the Pastry for you. Now, let me help you customize it. What type of pastry would you like? We have Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, or Fruity Rice Crispy Bar.
+
+[2025-07-18T13:23:11.410Z] Customer: That is fine. But is it in stock?
+
+[2025-07-18T13:23:11.410Z] AI Agent: Let me check that for you. According to our menu, the Pastry is currently out of stock. I apologize for the inconvenience. We have other options like Muffins, Cookies, or Fruit Cup that you might enjoy. Which one of these would you like instead?

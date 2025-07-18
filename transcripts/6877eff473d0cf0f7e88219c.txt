@@ -1,0 +1,34 @@
+Call ID: 6877eff473d0cf0f7e88219c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T18:31:16.749Z
+End Time: 2025-07-16T18:33:03.675Z
+Duration: 103 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Classic Nova Lox Sandwich on a Blueberry bagel with a Tropicana Apple Juice.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T18:33:03.251Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T18:33:03.251Z] Customer: Yeah. But I want to order, like, one Tropicana apple juice and one classic, sorry. Yeah. Classic bagel.
+
+[2025-07-16T18:33:03.252Z] AI Agent: That would be our Classic Nova Lox Sandwich on the menu, and a Tropicana Orange Juice. I'll add those for you. For your Classic Nova Lox Sandwich, you can choose a bagel. I have Plain, Everything, Blueberry, or Cinnamon Raisin. Want to hear more options?
+
+[2025-07-16T18:33:03.252Z] Customer: No. Please add the blue variable.
+
+[2025-07-16T18:33:03.252Z] AI Agent: For your Classic Nova Lox Sandwich, I've got the Blueberry bagel. Now, would you like your sandwich toasted, lightly toasted, toasted dark, or no toast?
+
+[2025-07-16T18:33:03.252Z] Customer: Tosha Dark.
+
+[2025-07-16T18:33:03.252Z] AI Agent: So, toasted dark for your Classic Nova Lox Sandwich on a Blueberry bagel. Now, would you like to add any extra lox to your sandwich?
+
+[2025-07-16T18:33:03.252Z] Customer: 
+
+[2025-07-16T18:33:03.252Z] AI Agent: I've got that noted. No extra lox. For your side, you can choose from Chips or Cole Slaw. Which one would you like?
+
+[2025-07-16T18:33:03.252Z] Customer: Nothing. Just, just complete my order. I may add one apple juice topping on apple flavor. Yes. Hello? Hello? Are you there?
+
+[2025-07-16T18:33:03.252Z] Customer: Hello?

@@ -1,0 +1,36 @@
+Call ID: 6877ceb573d0cf0f7e842820
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T16:09:25.506Z
+End Time: 2025-07-16T16:11:01.683Z
+Duration: 93 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel, selecting 10 plain, 2 blueberry, and 3 vanilla hazelnut bagels, along with blueberry and strawberry cream cheese and four muffins to be chosen.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T16:11:01.311Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T16:11:01.312Z] Customer: Can you give me because wonder, please?
+
+[2025-07-16T16:11:01.312Z] AI Agent: The Breakfast Wonder is a great choice. It comes with scrambled eggs, bacon, sausage, ham, and cheddar cheese on a toasted everything bagel. Would you like to add any
+
+[2025-07-16T16:11:01.312Z] Customer: Yeah. I said I I said this breakfast bundle.
+
+[2025-07-16T16:11:01.683Z] Unknown: [2025-07-16T16:11:01.313Z] assistant: The Breakfast Bundle is a great option. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. 
+
+For the bagels, I have Plain, Everything, Sesame, and Blueberry. Would you like one of these or hear more options?
+
+[2025-07-16T16:11:01.313Z] Customer: Go ahead with the 50 sorry. 10 plain, two blueberry, and three vanilla.
+
+[2025-07-16T16:11:01.683Z] Unknown: [2025-07-16T16:11:01.313Z] assistant: For the bagels, you'd like 10 Plain, 2 Blueberry, and I'll note that we don't have a Vanilla bagel, but we do have a Vanilla Hazelnut flavor, would you like to substitute that for the 3 Vanilla bagels you mentioned?
+
+Next, for the cream cheese, I have Plain, Vegetable, Scallion, and Strawberry. Which two flavors would you like?
+
+[2025-07-16T16:11:01.314Z] Customer: So I need, blueberry and, strawberry.
+
+[2025-07-16T16:11:01.683Z] Unknown: [2025-07-16T16:11:01.314Z] assistant: For the cream cheese, you'd like Blueberry and Strawberry. 
+
+Next, for the muffins, I have Blueberry, Double Chocolate, Cinnamon Chip, and Cranberry Orange. Which four muffins would you like?

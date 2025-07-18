@@ -1,0 +1,14 @@
+Call ID: 6878f312970f265df9d95530
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T12:56:50.343Z
+End Time: 2025-07-17T12:57:15.654Z
+Duration: 16 seconds
+From: 918008546111
+To: 918035740152
+Summary: The call was a greeting from BagelBot to Anchul Gandhi, welcoming him back to Manhattan Bagel and inquiring about his order for the day.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T12:57:15.439Z] AI Agent: Hello Anchul Gandhi Welcome to manhattan bagel It is great to see you again What would you

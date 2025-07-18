@@ -1,0 +1,24 @@
+Call ID: 686f44c2d14f3abcfb3fa502
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-10T04:42:42.433Z
+End Time: 2025-07-10T04:43:49.687Z
+Duration: 65 seconds
+From: +910000000000
+To: +910000000000
+Summary: The customer requested an Avocado Bagel, which is not available, and agreed to try the Avocado Toast instead.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-10T04:43:49.002Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-10T04:43:49.002Z] Customer: I need avocado bagel with the dark toasted and, apple cream cheese.
+
+[2025-07-10T04:43:49.002Z] AI Agent: Alright, you'll need to pick just one bagel for your Avocado Bagel. We have Plain, Everything, Sesame, and Garlic. Would you like one of these, or should I list more options?
+
+[2025-07-10T04:43:49.002Z] Customer: I said avocado bagel.
+
+[2025-07-10T04:43:49.003Z] AI Agent: I don't see an Avocado Bagel on our menu. However, we do have a great Avocado Toast option. It comes with avocado and everything bagel seasoning on a multigrain toast or any bagel of your choice. Would you like to try that instead?
+
+[2025-07-10T04:43:49.003Z] Customer: Okay. Do that then.

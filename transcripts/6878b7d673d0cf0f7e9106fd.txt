@@ -1,0 +1,30 @@
+Call ID: 6878b7d673d0cf0f7e9106fd
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T08:44:06.190Z
+End Time: 2025-07-17T08:45:16.720Z
+Duration: 66 seconds
+From: +447495721189
+To: +441313810000
+Summary: The customer attempted to place a large order for 50 bagels but had difficulty following the conversation due to the speaking speed and ultimately ended the call.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T08:45:16.474Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T08:45:16.475Z] Customer: Hi. I would like to place an order, please.
+
+[2025-07-17T08:45:16.475Z] AI Agent: I'd be happy to help you with that. What would you like to order today?
+
+[2025-07-17T08:45:16.475Z] Customer: I would like to order 50 bagels.
+
+[2025-07-17T08:45:16.475Z] AI Agent: That's a large order. For 50 bagels, I have a few options. I can offer you our Half Dozen Bagels, which is 6 bagels of your choice, or our Dozen Bagels, which is 13 bagels of your choice. We also have a special deal on our Baker's Dozen Value Pack, which includes 13 bagels and 2 tubs of spread. Which one of these options
+
+[2025-07-17T08:45:16.475Z] Customer: Sorry. Can you can you slow down the level eight four a little bit?
+
+[2025-07-17T08:45:16.475Z] AI Agent: I'll slow down a bit. Let's take it one step at a time. You'd like to order 50 bagels, and I was explaining our options for bulk bagel orders. We have a Half Dozen, which is 6 bagels, a Dozen, which is 13 bagels, and a Baker's Dozen Value Pack, which includes 13
+
+[2025-07-17T08:45:16.475Z] Customer: Sorry. Can you repeat this, but can you triple the speed of your speaking?
+
+[2025-07-17T08:45:16.475Z] AI Agent: OK

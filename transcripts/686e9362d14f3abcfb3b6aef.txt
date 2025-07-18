@@ -1,0 +1,26 @@
+Call ID: 686e9362d14f3abcfb3b6aef
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T16:05:54.282Z
+End Time: 2025-07-09T16:07:00.894Z
+Duration: 63 seconds
+From: +19725155417
+To: +16204558091
+Summary: The customer requested an Avocado BLT sandwich, which is not available, and was offered alternatives.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T16:07:00.715Z] AI Agent: Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T16:07:00.715Z] Customer: Can I have an avocado BLT sandwich?
+
+[2025-07-09T16:07:00.715Z] AI Agent: I don't see an Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?
+
+[2025-07-09T16:07:00.715Z] Customer: Are you sure you don't have an avocado BLT sandwich?
+
+[2025-07-09T16:07:00.715Z] AI Agent: Let me double check for you. I don't see an Avocado BLT sandwich listed on our current menu. The closest options we have are the Big City BLT, Avocado Toast, or the Avocado Veg Out. Would you like to hear more about any of these?
+
+[2025-07-09T16:07:00.715Z] Customer: I want an avocado BLT sandwich.
+
+[2025-07-09T16:07:00.716Z] AI Agent: I'm sorry, but we don't have an Avocado BLT sandwich on our menu. However, we do have the Big City BLT, which includes bacon, lettuce, tomato, and mayo on toasted multigrain bread. Would you like to try that

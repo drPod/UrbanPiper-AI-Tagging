@@ -1,0 +1,34 @@
+Call ID: 686dc36ad14f3abcfb262be5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T01:18:34.709Z
+End Time: 2025-07-09T01:20:08.404Z
+Duration: 90 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer inquired about a Cuban Sandwich and wanted to customize it.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T01:20:07.988Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T01:20:07.988Z] Customer: I'm able to order a Cuban sandwich. Do you have the Cuban sandwich?
+
+[2025-07-09T01:20:07.988Z] AI Agent: I don't see a cumin sandwich on our menu. Let me share some sandwich options: we have the Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich, and Big Breakfast Burrito. Would you like to hear more options or choose from these?
+
+[2025-07-09T01:20:07.988Z] Customer: I want to hear about the Cuban sandwich.
+
+[2025-07-09T01:20:07.989Z] AI Agent: I don't see a cumin sandwich on our menu. Let me share some
+
+[2025-07-09T01:20:07.989Z] Customer: No. No. I said q one. Q one sandwich.
+
+[2025-07-09T01:20:07.989Z] AI Agent: Ah, got it! We do have a **Chicken Cuban Sandwich** on our menu. It's grilled chicken, ham, Swiss cheese, pickle mustard, and mayo on a roll. Would you like to hear about the options for that sandwich, or would you like to proceed with ordering it?
+
+[2025-07-09T01:20:07.989Z] Customer: Yeah. I want to, customize it. Can you please go ahead?
+
+[2025-07-09T01:20:07.989Z] AI Agent: Sure thing! Let's get started. First, what kind of **bread or bagel** would you like for your Chicken Cuban Sandwich? We have options like Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, and many more. Would you like to hear a few options or choose from the ones I mentioned?
+
+[2025-07-09T01:20:07.990Z] Customer: Can you please double confirm the can I choose the bread in there? Or
+
+[2025-07-09T01:20:07.990Z] AI Agent: Of course! For your **Chicken Cuban Sandwich**, you can absolutely choose the **bread or bagel**. We offer a

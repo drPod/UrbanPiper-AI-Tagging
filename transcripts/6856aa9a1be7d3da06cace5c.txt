@@ -1,0 +1,42 @@
+Call ID: 6856aa9a1be7d3da06cace5c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T12:50:34.531Z
+End Time: 2025-06-21T12:52:52.921Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a medium hot latte with half and half and whipped cream for pickup, but there were technical issues with placing the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T12:52:52.683Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T12:52:52.683Z] Customer: Yeah. Emily, I want to order hot latte, medium size.
+
+[2025-06-21T12:52:52.684Z] AI Agent: A medium hot latte sounds great. For the medium size, that would be four dollars and forty-nine cents. We have a few options for milk. Would you like regular milk, half and half for an extra dollar, skim milk, almond milk for fifty cents extra, oat milk for eighty cents extra, or soy milk?
+
+[2025-06-21T12:52:52.684Z] Customer: Okay. So I want, half and half, medium, and, whipped cream as well, and that's it.
+
+[2025-06-21T12:52:52.684Z] AI Agent: So, to confirm, you'd like a medium hot latte with half and half, which is an extra dollar, and whipped cream, which is seventy-five cents extra. That comes out to be six dollars and fourteen cents. I'll add that to your order. Would you like to try anything else, or is that all for today?
+
+[2025-06-21T12:52:52.684Z] Customer: Yeah. That's all for today.
+
+[2025-06-21T12:52:52.684Z] AI Agent: Alright, so I've got a medium hot latte with half and half and whipped cream, totaling six dollars and fourteen cents. Let me just add that to your order. 
+
+[2025-06-21T12:52:52.684Z] AI Agent: Added 1 item(s) to your cart. Total: $6.24
+
+[2025-06-21T12:52:52.684Z] AI Agent: Your total comes out to be six dollars and twenty-four cents. Before I place your order, may I have your name for the order, please?
+
+[2025-06-21T12:52:52.684Z] Customer: Jitin.
+
+[2025-06-21T12:52:52.685Z] AI Agent: Alright, Jitin. I'll go ahead and place your order for pickup. Your order is a medium hot latte with half and half and whipped cream, totaling six dollars and twenty-four cents. We'll have it ready for you. 
+
+[2025-06-21T12:52:52.685Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-21T12:52:52.685Z] AI Agent: I apologize for the inconvenience, Jitin. It seems like there was a technical issue with placing your order. Let me try again. 
+
+[2025-06-21T12:52:52.685Z] AI Agent: No items found in cart. Please add items before placing order.
+
+[2025-06-21T12:52:52.685Z] AI Agent: It seems there was anissue with your order. Let me try to assist you again. I'll make sure to get your medium hot latte with half and half and whipped cream ready for pickup. If you need any further assistance, please

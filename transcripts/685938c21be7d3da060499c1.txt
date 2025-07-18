@@ -1,0 +1,14 @@
+Call ID: 685938c21be7d3da060499c1
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:21:38.841Z
+End Time: 2025-06-23T11:21:49.600Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The call was a greeting from BagelBot to the customer Gaurav.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:21:49.451Z] AI Agent: Hello Gaurav,

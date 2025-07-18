@@ -1,0 +1,62 @@
+Call ID: 6877e3c273d0cf0f7e8739ed
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T17:39:14.421Z
+End Time: 2025-07-16T17:42:40.020Z
+Duration: 202 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer ordered a gluten-free bagel with jalapeno cream cheese spread, but the call ended before the order could be finalized.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T17:42:39.274Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T17:42:39.274Z] Customer: Can you give me, some, gluten free bagel or sandwich? Any of the two? Any help among these these two?
+
+[2025-07-16T17:42:39.274Z] AI Agent: We do have a Gluten-Free option. For bagels, we have a Gluten-Free bagel, which is a part of our Single Bagel or Bagel With Spread options. As for sandwiches, you can choose any of our items and substitute the regular bagel with a Gluten-Free bagel for an extra $1.49. Which one sounds good to you?
+
+[2025-07-16T17:42:39.274Z] Customer: Can you please repeat?
+
+[2025-07-16T17:42:39.274Z] AI Agent: We have a Gluten-Free bagel option. You can get it as a Single Bagel or as part of our Bagel With Spread. If you're interested in a sandwich, you can choose any item and we can substitute the regular bagel with a Gluten-Free one for an extra $1.49. Would you like to try one of these options?
+
+[2025-07-16T17:42:39.274Z] Customer: Okay. So give me a big deal with the spread then.
+
+[2025-07-16T17:42:40.020Z] Unknown: [2025-07-16T17:42:39.274Z] assistant: For the Bagel With Spread, I'll need to know what kind of bagel and spread you'd like. We have a variety of bagels, but since you mentioned gluten-free, I'll make sure to note that down. Our gluten-free bagel option is available for an extra $1.49. 
+
+For the spread, we have butter, plain cream cheese, or other flavored cream cheeses like strawberry or jalapeno. Which spread sounds good to you?
+
+[2025-07-16T17:42:39.274Z] Customer: Filipino, is good, I think.
+
+[2025-07-16T17:42:40.020Z] Unknown: [2025-07-16T17:42:39.274Z] assistant: The Jalapeno cream cheese sounds like a great choice. So, to confirm, you'd like a Gluten-Free bagel with Jalapeno cream cheese spread, correct? 
+
+Also, would you like your bagel toasted, lightly toasted, or not toasted at all?
+
+[2025-07-16T17:42:39.274Z] Customer: Give me those 10.
+
+[2025-07-16T17:42:39.274Z] AI Agent: For the Gluten-Free bagel with Jalapeno cream cheese, you can choose from the following toasting options: 1. Toasted 2. Lightly Toasted 3. Toasted
+
+[2025-07-16T17:42:39.274Z] Customer: Okay. Give me toasted toasted one.
+
+[2025-07-16T17:42:40.020Z] Unknown: [2025-07-16T17:42:39.275Z] assistant: So, to confirm, you'd like a Gluten-Free bagel that's toasted, with Jalapeno cream cheese spread. I'll go ahead and add that to your order.
+
+Now, I just need to calculate the total for you. Just a moment, please... 
+
+
+
+[2025-07-16T17:42:39.275Z] AI Agent: ERROR: Tool timed out
+
+[2025-07-16T17:42:39.275Z] Customer: It's hello?
+
+[2025-07-16T17:42:39.275Z] Customer: Yes.
+
+[2025-07-16T17:42:39.275Z] Customer: Are you there?
+
+[2025-07-16T17:42:39.275Z] Customer: Hello?
+
+[2025-07-16T17:42:40.020Z] Unknown: [2025-07-16T17:42:39.275Z] assistant: I'm here. Let me try to calculate the price for your order again.
+
+
+
+[2025-07-16T17:42:39.275Z] AI Agent: Call ended before tool response was received

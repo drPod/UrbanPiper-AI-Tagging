@@ -1,0 +1,56 @@
+Call ID: 687a6808a1698f75073052b0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T15:28:08.212Z
+End Time: 2025-07-18T15:29:53.136Z
+Duration: 103 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha ordered 2 brownie pastries from Manhattan Bagel and the total came to $7.68.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T15:29:52.772Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T15:29:52.773Z] Customer: I want to order pastry.
+
+[2025-07-18T15:29:52.773Z] AI Agent: Let me check that for you. We have a variety of pastries, including muffins, cookies, and croissants. What type of pastry are you looking for? We have blueberry
+
+[2025-07-18T15:29:52.773Z] Customer: Okay. Give me give me two blueberry muffin, two blueberry goat pastry only.
+
+[2025-07-18T15:29:52.773Z] AI Agent: That will be our
+
+[2025-07-18T15:29:52.774Z] Customer: Give me a cookie, please.
+
+[2025-07-18T15:29:52.774Z] AI Agent: Let me just check the availability of the blueberry muffin. That will be our Muffins on the menu, now let me check the availability. You've chosen 2 blueberry muffins. I'll add the 2 blueberry 
+
+[2025-07-18T15:29:52.775Z] Customer: No. I I want pastry. Okay? Two brownie pastry.
+
+[2025-07-18T15:29:52.775Z] AI Agent: That will be our Pastry on the menu, just confirming it's available. You've chosen 2 brownie pastries. I'll add the 2 brownie
+
+[2025-07-18T15:29:52.776Z] Customer: Yahooty, BQ, BQ.
+
+[2025-07-18T15:29:53.136Z] Unknown: [2025-07-18T15:29:52.776Z] assistant: Let me just calculate the total for you. 
+
+
+
+[2025-07-18T15:29:52.776Z] AI Agent: Your total comes to 7 dollars and 68 cents.
+
+[2025-07-18T15:29:52.778Z] Customer: Hello?
+
+[2025-07-18T15:29:52.778Z] AI Agent: I didn't quite catch that. Could you please repeat what you said?
+
+[2025-07-18T15:29:52.778Z] Customer: I said, like, what are the total price?
+
+[2025-07-18T15:29:53.136Z] Unknown: [2025-07-18T15:29:52.779Z] assistant: Your total comes to 7 dollars and 68 cents. 
+
+Let me get that all put together for you. 
+
+
+
+[2025-07-18T15:29:52.779Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-18T15:29:52.779Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-18T15:29:52.779Z] Customer: No.

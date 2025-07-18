@@ -1,0 +1,60 @@
+Call ID: 6877d11673d0cf0f7e84971f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T16:19:34.503Z
+End Time: 2025-07-16T16:22:15.344Z
+Duration: 157 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for a mix of bagel flavors with a total of 9 dollars and 83 cents, which was successfully submitted after confirmation.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T16:22:14.999Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-16T16:22:14.999Z] Customer: 
+
+[2025-07-16T16:22:14.999Z] AI Agent: We have a variety of bagels to choose from. I have Plain, Everything, Sesame, or Blueberry. Want to hear more options?
+
+[2025-07-16T16:22:14.999Z] Customer: Yeah. Please give me more.
+
+[2025-07-16T16:22:14.999Z] AI Agent: I also have Garlic, Onion, Poppy, Cinnamon Raisin, and Multigrain. We have a few more options as well, would you like to hear them?
+
+[2025-07-16T16:22:14.999Z] Customer: Okay. So I I'd like to have five sesame, three garlic, and, four everything, and two vanilla, and rest can be blueberry bagels.
+
+[2025-07-16T16:22:14.999Z] AI Agent: Let me just validate your bagel choices. 
+
+[2025-07-16T16:22:15.000Z] AI Agent: It seems like "Vanilla" is not a valid option for our bagels. We do have other flavors like Cinnamon Raisin, Multigrain, and more. Would you like to replace the Vanilla bagels with one of these options or hear more choices?
+
+[2025-07-16T16:22:15.000Z] Customer: Yeah. You can replace with some one of the option with, whatever I've said.
+
+[2025-07-16T16:22:15.000Z] AI Agent: I'll replace the Vanilla bagels with Cinnamon Raisin bagels. So, to confirm, you'd like 5 Sesame, 3 Garlic, 4 Everything, 2 Cinnamon Raisin, and the rest will be Blueberry bagels. Is that correct? Also, would you like to add any
+
+[2025-07-16T16:22:15.000Z] Customer: 
+
+[2025-07-16T16:22:15.001Z] AI Agent: Your total comes to 9 dollars and 83 cents. I'll get that put together for you. 
+
+[2025-07-16T16:22:15.001Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-16T16:22:15.001Z] AI Agent: May I have your name for the order?
+
+[2025-07-16T16:22:15.001Z] Customer: Yeah. My name is, Jitin.
+
+[2025-07-16T16:22:15.001Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-16T16:22:15.001Z] Customer: No. I don't have.
+
+[2025-07-16T16:22:15.001Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-16T16:22:15.002Z] Customer: No. I don't want that.
+
+[2025-07-16T16:22:15.002Z] AI Agent: Great. Placing that for you now, please hold on... 
+
+[2025-07-16T16:22:15.002Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 477030. That's 4, 7, 7, 0, 3, 0.", 'order_id': '477030', 'call_id': '09b99963-8935-49f0-bcf7-4f03d71e3343', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0198140a-b824-42ba-6272-8e45c0854a2a'}
+
+[2025-07-16T16:22:15.002Z] AI Agent: Your order number is 4, 7, 7, 0, 3, 0. Your total is 9 dollars and 83 cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-16T16:22:15.002Z] Customer: No. That's it. Thank you.
+
+[2025-07-16T16:22:15.002Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and enjoy your bagels!

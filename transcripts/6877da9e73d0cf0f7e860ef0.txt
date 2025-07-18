@@ -1,0 +1,78 @@
+Call ID: 6877da9e73d0cf0f7e860ef0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T17:00:14.469Z
+End Time: 2025-07-16T17:03:33.811Z
+Duration: 196 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for an Asiago bagel with grilled chicken, butter, and lettuce, and the order was successfully submitted with an order number and total price provided.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T17:03:32.251Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T17:03:32.251Z] Customer: Okay. Give me, iced tea, please.
+
+[2025-07-16T17:03:32.251Z] AI Agent: We have a variety of hot teas to choose from. I have Lipton Black Tea, Lipton Decaf Tea, Chamomile Tea, Earl Grey, English Breakfast, Lemon Ginger, and Green Tea. Which one of these sounds good to you, or would you like to hear more about our tea options?
+
+[2025-07-16T17:03:32.251Z] Customer: Do you have okay. Do you have apple juice? Do you have apple juice?
+
+[2025-07-16T17:03:32.252Z] AI Agent: We do have apple juice. It's part of our beverage menu. Would you like to order an apple juice, or would you like me to tell you a little bit more about our size options and prices?
+
+[2025-07-16T17:03:32.252Z] Customer: Do you okay. So I want, a Tiago vehicle, lightly toasted and, with some grilled chicken, also want to have butter as, you know, side.
+
+[2025-07-16T17:03:32.252Z] AI Agent: So you'd like to order an Asiago bagel, lightly toasted, with grilled chicken and butter. Just to confirm, you'd like the Asiago bagel as the base, lightly toasted, with grilled chicken as the protein, and butter as a spread, is that correct?
+
+[2025-07-16T17:03:32.252Z] Customer: Yeah.
+
+[2025-07-16T17:03:32.252Z] AI Agent: For your Asiago bagel, I just need to confirm a few more details. Would you like any cheese on your bagel, such as American, Swiss, or Cheddar? And would you like any vegetables, like lettuce, tomato, or spinach?
+
+[2025-07-16T17:03:32.252Z] Customer: Just add letters. That's it.
+
+[2025-07-16T17:03:33.811Z] Unknown: [2025-07-16T17:03:32.252Z] assistant: So, to recap, you'd like an Asiago bagel, lightly toasted, with grilled chicken, butter, and lettuce. I'll go ahead and add that to your order.
+
+Now, I just need to calculate the total for you. Just a moment, please... 
+
+
+
+[2025-07-16T17:03:32.253Z] AI Agent: I didn't find the "Asiago Bagel" item in our menu. We do have an "Asiago" option under our bagel choices, though. Would you like me to add an Asiago bagel to your order instead?
+
+[2025-07-16T17:03:32.253Z] Customer: Yeah.
+
+[2025-07-16T17:03:33.811Z] Unknown: [2025-07-16T17:03:32.253Z] assistant: So, to confirm, you'd like an Asiago bagel, lightly toasted, with grilled chicken, butter, and lettuce. I'll go ahead and add that to your order.
+
+Now, I just need to calculate the total for you. Just a moment, please... 
+
+
+
+[2025-07-16T17:03:33.811Z] Unknown: [2025-07-16T17:03:32.253Z] assistant: Your total comes out to be $8.24. I'll go ahead and put that order in for you. 
+
+Now, I'll transition you to the next stage to complete your order. Just a moment, please... 
+
+
+
+[2025-07-16T17:03:32.254Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-16T17:03:32.254Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-16T17:03:32.254Z] Customer: No. That's it.
+
+[2025-07-16T17:03:32.254Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-16T17:03:32.254Z] Customer: No.
+
+[2025-07-16T17:03:33.811Z] Unknown: [2025-07-16T17:03:32.254Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-16T17:03:32.254Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 418690. That's 4, 1, 8, 6, 9, 0.", 'order_id': '418690', 'call_id': '4e27bc9e-bcc6-4bf3-9162-5297c0b3b59a', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981430-66f8-4a27-1de6-1626c9bb88f9'}
+
+[2025-07-16T17:03:32.255Z] AI Agent: Your order number is 4, 1, 8, 6, 9, 0. Your total is $8 and 24 cents, including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-16T17:03:32.255Z] AI Agent: I hope you are
+
+[2025-07-16T17:03:32.257Z] Customer: 
+
+[2025-07-16T17:03:32.257Z] AI Agent: You're

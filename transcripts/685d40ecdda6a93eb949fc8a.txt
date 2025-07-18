@@ -1,0 +1,14 @@
+Call ID: 685d40ecdda6a93eb949fc8a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-26T12:45:32.822Z
+End Time: 2025-06-26T12:45:56.417Z
+Duration: 60 seconds
+From: +919686500112
+To: +16204558091
+Summary: The call was a greeting from BagelBot to Vansh, a customer of Manhattan Bagel, inquiring about the purpose of their call.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-26T12:45:56.206Z] AI Agent: Hello Vansh, welcome back to Manhattan Bagel. This is BagelBot. Are you calling to place a new order or perhaps to check on an existing one?

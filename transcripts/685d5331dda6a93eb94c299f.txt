@@ -1,0 +1,40 @@
+Call ID: 685d5331dda6a93eb94c299f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-26T14:03:29.443Z
+End Time: 2025-06-26T14:05:52.196Z
+Duration: 180 seconds
+From: +13215054148
+To: +16204558091
+Summary: Ace Jack placed an order for a Baker's Dozen with 13 plain bagels and 2 tubs of plain cream cheese from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-26T14:05:51.343Z] AI Agent: Hello Ace Jack, welcome back to Manhattan Bagel. This is BagelBot. Are you calling to place a new order or perhaps to check on an existing one?
+
+[2025-06-26T14:05:51.343Z] Customer: Yeah. I'm placing a new order.
+
+[2025-06-26T14:05:51.343Z] AI Agent: I can help you with that. What would you like to order today?
+
+[2025-06-26T14:05:51.343Z] Customer: I'd like a baker's dozen.
+
+[2025-06-26T14:05:51.343Z] AI Agent: The Baker's Dozen is a great choice. That comes with 13 fresh-baked Manhattan Bagels and 2 tubs of cream cheese. You get to choose the types of bagels and the flavors of cream cheese. For the bagels, you can choose from our variety, such as Plain, Everything, Asiago, Blueberry, and many more. You'll need to pick 13 bagels, and you can mix and match any of our available flavors. And for the cream cheese, we have options like Plain, Vegetable, Scallion, Strawberry, and more. You'll need to choose 2 flavors for your tubs. Which 
+
+[2025-06-26T14:05:51.343Z] Customer: I'd like plain I'd like plain plain bagels, please, only, and cream cheese.
+
+[2025-06-26T14:05:51.343Z] AI Agent: For the Baker's Dozen, you'd like 13 Plain Bagels, and for the cream cheese, you'd like 2 tubs of Plain Cream Cheese. I just need to confirm, is that correct? And would you like your bagels sliced?
+
+[2025-06-26T14:05:51.343Z] AI Agent: I hope you are still with
+
+[2025-06-26T14:05:51.343Z] Customer: Ethan Ethan wants them slots, please.
+
+[2025-06-26T14:05:51.343Z] AI Agent: Alright, so to confirm, you'd like the Baker's Dozen with 13 Plain Bagels, and you'd like them sliced, and 2 tubs of Plain Cream Cheese. I'll go ahead and finalize that for you. Your total comes out to be $29.99 for the Baker's Dozen. I'll also add the $1.50 slicing fee, so your new total is $31.49. Is there anything else I can get for you today?
+
+[2025-06-26T14:05:51.343Z] Customer: No. That'll be all. If you can just give me the order number.
+
+[2025-06-26T14:05:51.343Z] AI Agent: Let me get this order placed for you. Please hold for a moment. 
+
+[2025-06-26T14:05:51.343Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 777290. That's 7, 7, 7, 2, 9, 0.", 'order_id': '777290', 'call_id': '65d3280c-da18-4146-ba3f-7f041942b86b', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': {'status': 'success', 'workflow_run_id': 'id: "91cfaa887d904c079d583ef3126ed1c1"\n', 'call_id': '65d3280c-da18-4146-ba3f-7f041942b86b', 'message': 'Menu content refresh workflow started.'}}
+
+[2025-06-26T14:05:51.343Z] AI Agent: Order placed successfully! Your order number is 7 7 7 2 9 0. The total comes out to be $31.49, and your order will be ready for pickup. Thank you for choosing Manhattan Bagel, Ace Jack! Have a great day!

@@ -1,0 +1,66 @@
+Call ID: 6874a80f5560c851d661733b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-14T06:47:43.470Z
+End Time: 2025-07-14T06:50:29.847Z
+Duration: 164 seconds
+From: +919686500112
+To: +16204558091
+Summary: The customer ordered a Classic Nova Lox Sandwich on an Everything bagel, toasted dark, after initially considering an Everything bagel with plain cream cheese.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-14T06:50:29.543Z] AI Agent: Hello M G Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-14T06:50:29.543Z] Customer: Can you hold for a second?
+
+[2025-07-14T06:50:29.544Z] AI Agent: I'll be right here when you're ready to order. Take your time.
+
+[2025-07-14T06:50:29.544Z] Customer: 
+
+[2025-07-14T06:50:29.544Z] AI Agent: We have a variety of bagels to choose from. Some popular ones include Plain, Everything, Sesame, Poppy, Salt, and Whole Wheat. We also have
+
+[2025-07-14T06:50:29.544Z] Customer: Got it. I'll take everything.
+
+[2025-07-14T06:50:29.545Z] AI Agent: The Everything bagel is a great choice. You'll need to pick just one size for your Everything bagel. We have a single bagel or you can get a half dozen or a dozen. Which would you prefer?
+
+[2025-07-14T06:50:29.545Z] Customer: Thank you
+
+[2025-07-14T06:50:29.545Z] AI Agent: One Everything bagel. Now, you'll need to pick just one spread for your bagel. We have options like Butter, Plain Cream Cheese, or some flavored cream cheeses. Which one sounds good to you?
+
+[2025-07-14T06:50:29.545Z] Customer: 
+
+[2025-07-14T06:50:29.545Z] AI Agent: I don't see plain cream cheese with scallion available, but we do have a Scallion Cream Cheese. Would you like that?
+
+[2025-07-14T06:50:29.546Z] Customer: No. Just plain cream cheese.
+
+[2025-07-14T06:50:29.546Z] AI Agent: Perfect, plain cream cheese it is. Now, would you like your Everything bagel toasted, lightly toasted, toasted dark, or no toast?
+
+[2025-07-14T06:50:29.546Z] Customer: Yeah. Make it toasted, dark toasted.
+
+[2025-07-14T06:50:29.546Z] AI Agent: Toasted dark it is. So, to confirm, you'd like one Everything bagel, toasted dark, with plain cream cheese. Is there anything else I can get for you today?
+
+[2025-07-14T06:50:29.546Z] Customer: Yeah. Can you put some salmon on that?
+
+[2025-07-14T06:50:29.547Z] AI Agent: I don't see salmon as an available option for the Everything bagel with cream cheese. We do have capers, which are a type of pickled flower bud, but if you're looking for something with a fishy flavor, I can offer you a different item from our menu that might fit what you're looking for. Would you like me to
+
+[2025-07-14T06:50:29.547Z] Customer: Sure. Look at that.
+
+[2025-07-14T06:50:29.547Z] AI Agent: We have a Classic Nova Lox Sandwich that features smoked salmon, and it comes with cream cheese, tomato, red onion, and capers on a bagel. Would you like to try that instead of the Everything bagel with cream cheese?
+
+[2025-07-14T06:50:29.547Z] Customer: Yeah. Yeah. Yeah. I'll have that instead. I'll have that.
+
+[2025-07-14T06:50:29.548Z] AI Agent: The Classic Nova Lox Sandwich is a great choice. You'll need to pick just one bagel for your Nova Lox. We have options like Plain, Everything, Sesame, and more.
+
+[2025-07-14T06:50:29.548Z] Customer: Everything.
+
+[2025-07-14T06:50:29.548Z] AI Agent: Everything bagel it is. Now, would you like your Everything bagel toasted, lightly toasted, toasted dark, or no toast for your Nova Lox?
+
+[2025-07-14T06:50:29.548Z] Customer: Dark tested.
+
+[2025-07-14T06:50:29.548Z] AI Agent: Toasted dark it is. So, to confirm, you'd like the Classic Nova Lox Sandwich on an Everything bagel, toasted dark. Is there anything else I can get for you today?
+
+[2025-07-14T06:50:29.548Z] Customer: That is all. Thank you.
+
+[2025-07-14T06:50:29.555Z] AI Agent: I'll get that ready for you. Just to confirm, I have you down for a Classic Nova Lox

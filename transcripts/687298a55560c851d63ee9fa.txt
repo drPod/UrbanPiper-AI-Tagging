@@ -1,0 +1,64 @@
+Call ID: 687298a55560c851d63ee9fa
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T17:17:25.908Z
+End Time: 2025-07-12T17:20:51.246Z
+Duration: 202 seconds
+From: 918949862707
+To: 918035740152
+Summary: Jutin inquired about and ordered an Avocado BLT sandwich on a French Toast Bagel with Lays chips.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T17:20:50.102Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T17:20:50.102Z] Customer: One second, please.
+
+[2025-07-12T17:20:50.102Z] AI Agent: Take your time, Jutin. I'm here when you're ready to order.
+
+[2025-07-12T17:20:50.102Z] Customer: Okay. So
+
+[2025-07-12T17:20:50.102Z] AI Agent: Go ahead, Jutin. What can I get for you today?
+
+[2025-07-12T17:20:50.102Z] Customer: Yeah. Just one second.
+
+[2025-07-12T17:20:50.102Z] AI Agent: Take another second, Jutin. I'm here when you're ready.
+
+[2025-07-12T17:20:50.102Z] Customer: Hello?
+
+[2025-07-12T17:20:50.102Z] AI Agent: Hello again, Jutin. Are you ready to place your order now?
+
+[2025-07-12T17:20:50.103Z] Customer: 
+
+[2025-07-12T17:20:50.103Z] AI Agent: What would you like to order today, Jutin?
+
+[2025-07-12T17:20:50.103Z] Customer: I want to know. Do you have avocado BLT sandwich?
+
+[2025-07-12T17:20:50.103Z] AI Agent: We do have an Avocado BLT sandwich. It's made with turkey-bacon, avocado, lettuce, tomato, and roasted tomato spread on a thintastic bagel. Would you like to try that?
+
+[2025-07-12T17:20:50.103Z] Customer: 
+
+[2025-07-12T17:20:50.103Z] AI Agent: For the Avocado BLT, you'll need to pick just one bread choice. We have Plain Bagel, Everything Bagel, Asiago Bagel, and many more. Which would you prefer?
+
+[2025-07-12T17:20:50.103Z] Customer: I prefer, which sorry. Do I have a choice of vehicle in that? Hello?
+
+[2025-07-12T17:20:50.103Z] AI Agent: For the Avocado BLT, you can choose from various bagels or even a different type of bread. Let me list some options for you: Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, and more. We also have a Gluten-Free Bagel option for an extra dollar. Which one sounds good to
+
+[2025-07-12T17:20:50.103Z] Customer: Okay. I want, I want, French toast bagel. Hello?
+
+[2025-07-12T17:20:50.103Z] AI Agent: Perfect, Jutin. The French Toast Bagel is a great choice for your Avocado BLT. Now, you'll need to pick just one lunch side. We have Chips, Cole Slaw, or Lays Chips for an extra dollar. Which would you like?
+
+[2025-07-12T17:20:50.104Z] Customer: 
+
+[2025-07-12T17:20:50.104Z] AI Agent: For the lunch side, I'll put down Chips for you. Now, would you like to add
+
+[2025-07-12T17:20:50.104Z] Customer: No. I said lease. I said lease sales.
+
+[2025-07-12T17:20:50.104Z] AI Agent: You said "Lays" chips, not regular chips. I'll make sure to get that right. So, to confirm, you'd like the Avocado BLT on a French Toast Bagel with Lays chips as your side, correct?
+
+[2025-07-12T17:20:50.104Z] Customer: 
+
+[2025-07-12T17:20:50.104Z] AI Agent: I think there might be a bit of a language barrier here. Let me try to understand again. You want to know if we have a specific type of bagel, but I didn't quite catch what you said. Could you please
+
+[2025-07-12T17:20:50.104Z] Customer: 

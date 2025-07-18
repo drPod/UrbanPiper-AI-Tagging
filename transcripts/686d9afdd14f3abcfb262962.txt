@@ -1,0 +1,20 @@
+Call ID: 686d9afdd14f3abcfb262962
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T22:26:05.416Z
+End Time: 2025-07-08T22:27:13.405Z
+Duration: 65 seconds
+From: +19725155417
+To: +16204558091
+Summary: Sonu placed an order for an Avocado BLT sandwich with customizations.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T22:27:12.106Z] AI Agent: Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T22:27:12.106Z] Customer: 4
+
+[2025-07-08T22:27:12.107Z] Customer: Yeah. Let me get my usual avocado BLT sandwich on an Asiago bagel. Let's make our toast dark, and let's add jalapenos, spinach, provolone, mustard, hot sauce. Let's do double lunch protein and have light chips masai, please.
+
+[2025-07-08T22:27:12.107Z] AI Agent: Alright, one Avocado BLT sandwich on an Asiago bagel. Let me go through the customizations you mentioned. First, the bagel choice. You want an Asiago bagel. Got it. Next, you'd like it Toasted Dark. Perfect. Now, for the lunch veggies. You mentioned jalapeno, spinach. I can add one of these at a time. Let's start with jalapeno. Would you like to add spinach as well? For the cheese, you want provolone. That's one of our options. I'll add that for you. Condiments: you'd like mustard and hot sauce. I can add both. Would you like to add any other condiments? You want double lunch protein. That means we'll be adding extra bacon. And for the side, you'd like chips. We have regular chips and Lays chips. Which

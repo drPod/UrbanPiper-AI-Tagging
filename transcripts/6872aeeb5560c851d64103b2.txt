@@ -1,0 +1,30 @@
+Call ID: 6872aeeb5560c851d64103b2
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T18:52:27.239Z
+End Time: 2025-07-12T18:55:01.467Z
+Duration: 152 seconds
+From: 918949862707
+To: 918035740152
+Summary: The customer attempted to order a Breakfast Bundle but had some invalid bagel selections, including 'Vanilla' which is not a valid option.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T18:55:01.190Z] AI Agent: Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T18:55:01.190Z] Customer: Get give me, breakfast bundle.
+
+[2025-07-12T18:55:01.190Z] AI Agent: The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels and 2 tubs of cream cheese, along with 4 muffins. You'll need to pick 13 bagels for your bundle. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Asiago, California, Cheesy Hashbrown Roll, Bialy,
+
+[2025-07-12T18:55:01.190Z] Customer: Okay. So
+
+[2025-07-12T18:55:01.190Z] AI Agent: Let's start selecting the bagels for your Breakfast Bundle. You'll need to pick 13 bagels. We have a variety of flavors. Which ones
+
+[2025-07-12T18:55:01.190Z] Customer: Yeah. So, I I I would like to have, three plain, three everything, two vanilla, seven, sorry, five more as garlic, two egg, and one blueberry.
+
+[2025-07-12T18:55:01.190Z] AI Agent: Let me confirm your bagel selection for the Breakfast Bundle. You've chosen three Plain bagels, three Everything bagels, two Vanilla bagels, five Garlic bagels, two Egg bagels, and one Blueberry bagel. That's a total of 16 bagels, but you only need 13 for the bundle. You have three extra bagels in your selection. Would you like to adjust your selection to fit the 13-bagel requirement, or would you like to purchase the additional bagels separately?
+
+[2025-07-12T18:55:01.190Z] Customer: All vehicles are valid one or, like, is is some some invalid is also there?
+
+[2025-07-12T18:55:01.190Z] AI Agent: Let me validate your bagel selection against our menu. You've chosen three Plain bagels, three Everything bagels, two Vanilla bagels, five Garlic bagels, two Egg bagels, and one Blueberry bagel. Upon validation, I found that "Vanilla" is not a valid bagel option in our menu. We do have other flavors like Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt,

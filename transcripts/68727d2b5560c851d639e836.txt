@@ -1,0 +1,16 @@
+Call ID: 68727d2b5560c851d639e836
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T15:20:11.971Z
+End Time: 2025-07-12T15:20:41.146Z
+Duration: 27 seconds
+From: +918949862707
+To: +16204558091
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T15:20:41.019Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T15:20:41.019Z] Customer: K. Get me, avocado, b r d sandwich. Hello? Hello?

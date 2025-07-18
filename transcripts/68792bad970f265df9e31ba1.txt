@@ -1,0 +1,26 @@
+Call ID: 68792bad970f265df9e31ba1
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T16:58:21.739Z
+End Time: 2025-07-17T16:59:20.446Z
+Duration: 50 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer initiated an order at Manhattan Bagel but the call ended before the order was placed, with the customer reminding the agent to ask for their name.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T16:59:20.100Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T16:59:20.100Z] Customer: Hello?
+
+[2025-07-17T16:59:20.100Z] AI Agent: Hello! Welcome to Manhattan Bagel, I am BagelBot. What would you like to order today?
+
+[2025-07-17T16:59:20.100Z] Customer: Yeah. Actually, I'm looking to order some refreshing hard drink.
+
+[2025-07-17T16:59:20.102Z] AI Agent: We have a variety of refreshing drinks to choose from. What type of drink are you in the mood for? We have coffee, tea, hot chocolate, frozen drinks, and more.
+
+[2025-07-17T16:59:20.103Z] Customer: You have asked you have forgot to ask my name, actually.
+
+[2025-07-17T16:59:20.103Z] AI Agent: Before we proceed with your order, may I have your name, please?

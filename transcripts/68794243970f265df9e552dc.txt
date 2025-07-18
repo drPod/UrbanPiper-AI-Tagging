@@ -1,0 +1,50 @@
+Call ID: 68794243970f265df9e552dc
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T18:34:43.166Z
+End Time: 2025-07-17T18:36:05.970Z
+Duration: 81 seconds
+From: +12149402918
+To: +16204558091
+Summary: Azaan placed an order for a toasted everything bagel at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T18:36:05.632Z] AI Agent: Hello Azaan Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T18:36:05.632Z] Customer: Hi. Can I have one everything bagel, please?
+
+[2025-07-17T18:36:05.632Z] AI Agent: That would be our Single Bagel on the menu. I'll add the Everything bagel for you. Would you like it toasted, lightly toasted, or not toasted at all?
+
+[2025-07-17T18:36:05.632Z] Customer: Posted.
+
+[2025-07-17T18:36:05.632Z] AI Agent: So, that's an Everything bagel, toasted. Anything else I can get for you today, or would you like to proceed with just the bagel?
+
+[2025-07-17T18:36:05.632Z] Customer: Just proceed, please.
+
+[2025-07-17T18:36:05.970Z] Unknown: [2025-07-17T18:36:05.632Z] assistant: Just a moment while I add that up... 
+
+Your total comes to 1 dollar and 49 cents.
+
+Perfect, let me get that all put together for you. 
+
+[2025-07-17T18:36:05.633Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T18:36:05.633Z] AI Agent: I'm now finalizing your order. And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T18:36:05.633Z] Customer: No. That's it. Thank you.
+
+[2025-07-17T18:36:05.633Z] AI Agent: Alright Azaan. Would you like me to read back your order with all the details?
+
+[2025-07-17T18:36:05.633Z] Customer: No. You can just place it.
+
+[2025-07-17T18:36:05.633Z] AI Agent: Great. Placing that for you now, please hold on... 
+
+[2025-07-17T18:36:05.633Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 962611. That's 9, 6, 2, 6, 1, 1.", 'order_id': '962611', 'call_id': 'ded35a3e-c366-4959-9557-6c39e02bc495', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '019819ab-b440-5d36-1769-407d565b41e0'}
+
+[2025-07-17T18:36:05.633Z] AI Agent: Your order number is 9, 6, 2, 6, 1, 1. Your total is one dollar and forty-nine cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-17T18:36:05.634Z] Customer: No. That's it. Thank you.
+
+[2025-07-17T18:36:05.634Z] AI Agent: You're welcome, Azaan. It was a pleasure helping you

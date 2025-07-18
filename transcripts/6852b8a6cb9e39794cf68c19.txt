@@ -1,0 +1,34 @@
+Call ID: 6852b8a6cb9e39794cf68c19
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T13:01:26.032Z
+End Time: 2025-06-18T13:03:07.466Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rahul placed an order for an Avocado BLT Sandwich at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T13:03:07.158Z] AI Agent: Hello Rahul, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T13:03:07.158Z] Customer: I want to order avocado BLT sandwich.
+
+[2025-06-18T13:03:07.159Z] AI Agent: I found the Avocado BLT Sandwich for nine dollars and ninety-nine cents. Which lunch side would you like - chips, coleslaw, or Lays chips?
+
+[2025-06-18T13:03:07.160Z] Customer: 
+
+[2025-06-18T13:03:07.160Z] AI Agent: Your current cart contains 1 Avocado BLT Sandwich for nine dollars and ninety-nine cents. Your total is nine dollars and ninety-nine cents. Anything else?
+
+[2025-06-18T13:03:07.160Z] Customer: No.
+
+[2025-06-18T13:03:07.160Z] AI Agent: Your total is nine dollars and ninety-nine cents. Is this correct?
+
+[2025-06-18T13:03:07.160Z] Customer: Yeah.
+
+[2025-06-18T13:03:07.161Z] AI Agent: Your order number is 3 8 3 8 3 6. Your order total is ten dollars and ninety-nine cents, which includes a subtotal of nine dollars and ninety-nine cents and one dollar in tax. Is there anything else I can help you with?
+
+[2025-06-18T13:03:07.161Z] Customer: Non.
+
+[2025-06-18T13:03:07.161Z] AI Agent: OK

@@ -1,0 +1,46 @@
+Call ID: 6858fcb01be7d3da06faf328
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T07:05:20.141Z
+End Time: 2025-06-23T07:09:29.978Z
+Duration: 300 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh inquired about various menu options at Manhattan Bagel, including lunch, deli items, beverages, breakfast bundle, retail, and catering, and received detailed information about each.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T07:09:29.124Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T07:09:29.124Z] Customer: Can you tell me more about your lunchtime?
+
+[2025-06-23T07:09:29.124Z] AI Agent: Our lunch menu has a variety of options. We have sandwiches like the Greenwich Grilled Cheese, the Chelsea Grilled Chicken, and the Manhattan Cheesesteak. We also have wraps, such as the Balsamic Grilled Chicken Wrap and the Buffalo Grilled Chicken Wrap. And if you're looking for something a little different, you might enjoy our Avocado BLT or our Chicken Cuban. Which of these sounds interesting to you?
+
+[2025-06-23T07:09:29.124Z] Customer: Can you tell me more about your deli items, your deli options?
+
+[2025-06-23T07:09:29.124Z] AI Agent: We have a variety of deli items available. You can purchase them by the half pound. We have chicken salad, egg salad, Boars Head turkey, pastrami, Swiss cheese, pepper jack, tuna salad, and ham. We also have whitefish salad, which is a popular choice. Would you like to know more about any of these options or is there something specific you're looking for?
+
+[2025-06-23T07:09:29.124Z] Customer: No. Tell me more about your beverages menu, beverages items.
+
+[2025-06-23T07:09:29.124Z] AI Agent: We have a wide range of beverages to choose from. For hot drinks, we have hot coffee or tea, hot chocolate, and espresso shots. We also offer iced coffee or tea, cold brew iced coffee, and a variety of latte options, including hot and iced lattes, hot and iced caramel macchiatos, and Americanos. If you're looking for something a bit different, you might enjoy our Manhattan Chillerz, which are frozen blended beverages made with either coffee or ice cream base. We also have fruit smoothies, frozen lemonade, and small, medium, or large lemonade. Additionally, we offer Tropicana OJ, soda in
+
+[2025-06-23T07:09:29.124Z] Customer: Perfect. Perfect. Can you tell me more about your breakfast bundle?
+
+[2025-06-23T07:09:29.124Z] AI Agent: Our breakfast menu has a lot to offer. We have a variety of breakfast sandwiches, such as the Original Classic, which comes with egg, cheese, and your choice of meat on a bagel, roll, or croissant. We also have the Spinach Bacon Croissant, the Farmhouse Egg Sandwich, and
+
+[2025-06-23T07:09:29.124Z] Customer: No. No. I'm not asking for breakfast sandwiches. I'm asking you have a breakfast bundle. Can you tell me what it is?
+
+[2025-06-23T07:09:29.124Z] AI Agent: Our Breakfast Bundle is a great option. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You also have the option to add 4 ounces of premium Acme smoked nova for just $9.99. It's a fantastic deal for a family or a group, and you can customize the bagels
+
+[2025-06-23T07:09:29.124Z] Customer: No. Perfect. Can you tell me what do you have in retail options?
+
+[2025-06-23T07:09:29.124Z] AI Agent: We have a few retail items available for purchase. You can buy a pickle, a banana, chips, a dog bagel, or chicken noodle soup by the cup or bowl. We also have individual
+
+[2025-06-23T07:09:29.124Z] Customer: Yeah. What do you have in what what items do you have in catering section?
+
+[2025-06-23T07:09:29.125Z] AI Agent: We have a variety of options in our catering section. We offer bagels and spreads, which includes 13 assorted bagels, 2 tubs of cream cheese, and other goodies. We also have a Broadway Box, which is a selection of 12 assorted bagels, 6 muffins and pastries, 2 cream cheeses, and more. Additionally, we have a catering coffee service, which includes a box of coffee, tea, or hot chocolate, along with cups, sweetener, and creamers. We also offer a box of sweets, which can be either breakfast sweets like muffins and pastries, or lunch sweets like cookies and brownies. And for larger groups, we have options like hot breakfast sandwich platters, salad platters, and group meals. Plus, we have a nova lox platter, a meat and cheese platter, and a breakfast buffet option. Which of these sounds like it might work for your event?
+
+[2025-06-23T07:09:29.125Z] Customer: I think this is good. I just wanted to understand. Thank you very much. I'm good for now. Thanks.
+
+[2025-06-23T07:09:29.125Z] AI Agent: You're welcome, Vansh. It was my pleasure to help you understand our menu options. If you have any more questions or need to place an order in the future, don't hesitate to reach out. Have a great day and we look forward to serving you at Manhattan Bagel.

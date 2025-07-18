@@ -1,0 +1,22 @@
+Call ID: 6852a84fcb9e39794cf52ccc
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T11:51:43.386Z
+End Time: 2025-06-18T11:52:15.699Z
+Duration: 60 seconds
+From: +917014838195
+To: +16204558091
+Summary: Nitin called to inquire about the status of his order, but the call ended abruptly without resolving the issue.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T11:52:15.515Z] AI Agent: Hello Nitin, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T11:52:15.515Z] Customer: Yeah. I have a follow-up with my order ID. Could you please help me?
+
+[2025-06-18T11:52:15.516Z] AI Agent: I'd be happy to help you with your order, Nitin. Before we get started, could you please tell me what you would like to order today?
+
+[2025-06-18T11:52:15.516Z] Customer: Not an order today. I had problem with my order ID.
+
+[2025-06-18T11:52:15.516Z] AI Agent: Let me check on the status of your order. Can you please tell me your order ID

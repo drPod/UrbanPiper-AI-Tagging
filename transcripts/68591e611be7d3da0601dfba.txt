@@ -1,0 +1,52 @@
+Call ID: 68591e611be7d3da0601dfba
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T09:29:05.732Z
+End Time: 2025-06-23T09:32:03.538Z
+Duration: 180 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh ordered a Breakfast Bundle with customized bagels, spreads, muffins, and coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T09:32:03.006Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T09:32:03.007Z] Customer: I would like to order the breakfast bundle.
+
+[2025-06-23T09:32:03.007Z] AI Agent: The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T09:32:03.008Z] AI Agent: Alright, I have all the customization options for the Breakfast Bundle. Do you want to proceed with the customization now?
+
+[2025-06-23T09:32:03.008Z] Customer: 
+
+[2025-06-23T09:32:03.008Z] AI Agent: First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.
+
+[2025-06-23T09:32:03.008Z] Customer: Give me three oh, Sesame. Three, plane and, three everything.
+
+[2025-06-23T09:32:03.008Z] AI Agent: You'd like three Sesame, three Plain, and three Everything bagels, and you still need to choose four more bagels to complete your dozen. Which other types
+
+[2025-06-23T09:32:03.008Z] Customer: Give me give me four, four scallion.
+
+[2025-06-23T09:32:03.008Z] AI Agent: You'd like four Scallion bagels to complete your dozen. Now, for your **two tubs of spread**. We have Plain, Vegetable, or Scallion. Want to hear more options?
+
+[2025-06-23T09:32:03.008Z] Customer: Please.
+
+[2025-06-23T09:32:03.008Z] AI Agent: We also have Lox spread for a dollar extra, Strawberry, or Jalapeño. Which two would you like?
+
+[2025-06-23T09:32:03.008Z] Customer: Jalapeno and, locksmith.
+
+[2025-06-23T09:32:03.008Z] AI Agent: You'd like one tub of Jalapeño cream cheese and one tub of Lox spread. Next, for your **four muffins**. You can choose from Blueberry, Corn, or Double Chocolate. What are your choices for the four muffins?
+
+[2025-06-23T09:32:03.009Z] Customer: Blueberry, and corn.
+
+[2025-06-23T09:32:03.009Z] AI Agent: You'd like two Blueberry and two Corn muffins. Lastly, for the **Box of Coffee**, would you prefer our House Blend, Decaf, or one of our other flavors?
+
+[2025-06-23T09:32:03.009Z] Customer: House plan.
+
+[2025-06-23T09:32:03.009Z] AI Agent: You've chosen the House Blend for the Box of Coffee. Perfect, let me add that to your order...
+
+[2025-06-23T09:32:03.009Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T09:32:03.009Z] Customer: Yeah. Waiting for you.

@@ -1,0 +1,20 @@
+Call ID: 68727e325560c851d63a2823
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T15:24:34.775Z
+End Time: 2025-07-12T15:25:30.583Z
+Duration: 54 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer ordered a medium hot coffee and the agent began to ask about milk preferences before the call ended abruptly.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T15:25:30.329Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T15:25:30.329Z] Customer: I want a hot coffee, medium size. Hello?
+
+[2025-07-12T15:25:30.330Z] AI Agent: Okay, one medium hot coffee. Now, for your coffee, would you like to add any milk? We have regular milk, skim, half and half, almond, oat, and soy.
+
+[2025-07-12T15:25:30.330Z] AI Agent: I hope

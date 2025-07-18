@@ -1,0 +1,12 @@
+Call ID: 68696c1f45548bd51cf8b82e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T18:17:03.946Z
+End Time: 2025-07-05T18:17:08.893Z
+Duration: 3 seconds
+From: +918949862707
+To: +16516156214
+Summary: BagelBot assisted a customer with their order, guiding them through the menu and customization options before finalizing the order and transitioning to the next stage.
+==================================================
+TRANSCRIPT:
+==================================================

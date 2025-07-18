@@ -1,0 +1,130 @@
+Call ID: 68725a055560c851d634396e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T12:50:13.086Z
+End Time: 2025-07-12T12:56:58.510Z
+Duration: 401 seconds
+From: 918949862707
+To: 918035740152
+Summary: Jutin ordered a Breakfast Bundle from Manhattan Bagel, customizing the bagels, cream cheese, and muffins, and will pay online through a link sent via SMS.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T12:56:56.881Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T12:56:56.881Z] Customer: 
+
+[2025-07-12T12:56:56.881Z] AI Agent: I don't see "me" on our menu. We have a variety of bagels, breakfast sandwiches, and other
+
+[2025-07-12T12:56:56.881Z] Customer: Yeah. I I I would like to order breakfast bundle.
+
+[2025-07-12T12:56:56.881Z] AI Agent: The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and 1/4 lb butter. Would you like to add anything else to your order, or is that all?
+
+[2025-07-12T12:56:56.881Z] Customer: Yeah. That's all.
+
+[2025-07-12T12:56:56.881Z] AI Agent: Let me confirm your order. You'd like the Breakfast Bundle, which includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and 1/4 lb butter. Is that correct?
+
+[2025-07-12T12:56:56.882Z] Customer: No. No. I don't want butter. I just want, breakfast bundle.
+
+[2025-07-12T12:56:56.882Z] AI Agent: So you'd like the Breakfast Bundle, which includes 13 fresh-baked Manhattan Bagels and 2 tubs of cream cheese, and 4 muffins. I'll make sure to leave out the butter. Anything else you'd like to add or change?
+
+[2025-07-12T12:56:56.882Z] Customer: No.
+
+[2025-07-12T12:56:56.882Z] AI Agent: Let me just confirm your order one more time. You'd like the Breakfast Bundle, which includes 13 fresh-baked Manhattan Bagels
+
+[2025-07-12T12:56:56.882Z] Customer: Yeah. You are correct. Yeah. Yeah. Yeah. That's that's you are right.
+
+[2025-07-12T12:56:56.882Z] AI Agent: I'm glad we got that confirmed. Now, let me help you customize your Breakfast Bundle. Would you like to choose the types of bagels you'd like in your bundle?
+
+[2025-07-12T12:56:56.882Z] Customer: Я що? Terigedoptions.
+
+[2025-07-12T12:56:56.882Z] AI Agent: Moving to item customization stage...
+
+[2025-07-12T12:56:56.882Z] AI Agent: For the Breakfast Bundle, you can choose from a variety of bagel types. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, and more. Which ones would you like to include in your bundle?
+
+[2025-07-12T12:56:56.883Z] Customer: I want five plain, two sesame, three everything, one garlic, one vanilla, one blueberry, and, one, honey almond.
+
+[2025-07-12T12:56:58.510Z] Unknown: [2025-07-12T12:56:56.883Z] assistant: Let me confirm your bagel selection for the Breakfast Bundle.
+
+You'd like:
+- 5 Plain bagels
+- 2 Sesame bagels
+- 3 Everything bagels
+- 1 Garlic bagel
+- 1 Blueberry bagel
+
+However, I don't see "Vanilla" or "Honey Almond" as available bagel options. We do have a Honey Whole Wheat bagel, though. Would you like to substitute those with something else or add the Honey Whole Wheat bagel to your selection?
+
+[2025-07-12T12:56:56.883Z] Customer: Okay.
+
+[2025-07-12T12:56:58.510Z] Unknown: [2025-07-12T12:56:56.883Z] assistant: So, I'll add the Honey Whole Wheat bagel to your selection.
+
+To confirm, your bagel selection for the Breakfast Bundle is:
+- 5 Plain bagels
+- 2 Sesame bagels
+- 3 Everything bagels
+- 1 Garlic bagel
+- 1 Blueberry bagel
+- 1 Honey Whole Wheat bagel
+
+Next, let's move on to the cream cheese selection. You get 2 tubs of cream cheese with the Breakfast Bundle. What flavors would you like? We have Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and many more.
+
+[2025-07-12T12:56:56.883Z] Customer: 
+
+[2025-07-12T12:56:56.883Z] AI Agent: For the cream cheese,
+
+[2025-07-12T12:56:56.883Z] Customer: One one one strawberry, one blueberry, cream cheese.
+
+[2025-07-12T12:56:58.510Z] Unknown: [2025-07-12T12:56:56.883Z] assistant: I don't see "one one one strawberry" or "blueberry" as available cream cheese flavors. We do have a Strawberry cream cheese and a Blueberry cream cheese, though. 
+
+For the two tubs of cream cheese, would you like:
+- 1 Strawberry cream cheese
+- 1 Blueberry cream cheese
+
+Please confirm.
+
+[2025-07-12T12:56:56.883Z] Customer: Yeah. Right.
+
+[2025-07-12T12:56:58.510Z] Unknown: [2025-07-12T12:56:56.883Z] assistant: So, to confirm, your cream cheese selection for the Breakfast Bundle is:
+- 1 tub of Strawberry cream cheese
+- 1 tub of Blueberry cream cheese
+
+Next, let's move on to the muffin selection. You get 4 muffins with the Breakfast Bundle. What types would you like? We have Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, and Cranberry Orange.
+
+[2025-07-12T12:56:56.884Z] Customer: All can be, chocolate chip, right, if I'm going with that?
+
+[2025-07-12T12:56:58.510Z] Unknown: [2025-07-12T12:56:56.884Z] assistant: For the muffins, you'd like all 4 to be Blueberry. I've got that noted.
+
+So, to recap, your Breakfast Bundle includes:
+- 13 bagels (with the selection we discussed earlier)
+- 2 tubs of cream cheese (Strawberry and Blueberry)
+- 4 Blueberry muffins
+
+Is that all correct?
+
+[2025-07-12T12:56:56.884Z] Customer: Yeah.
+
+[2025-07-12T12:56:56.884Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-12T12:56:56.884Z] AI Agent: Let me just confirm your order one more time. You'd like the Breakfast Bundle, which includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. For the bagels, you've chosen: - 5 Plain bagels - 2 Sesame
+
+[2025-07-12T12:56:56.884Z] Customer: Yeah. You're right. You're right.
+
+[2025-07-12T12:56:56.884Z] AI Agent: So, to confirm, your Breakfast Bundle includes: - 13 bagels (with the selection we discussed earlier: 5 Plain, 2 Sesame,
+
+[2025-07-12T12:56:56.884Z] Customer: Yes. Yes. Correct. What is next now?
+
+[2025-07-12T12:56:58.510Z] Unknown: [2025-07-12T12:56:56.884Z] assistant: Now that we have your order confirmed, I just need to let you know the total. The Breakfast Bundle is $29.99. With the bagel selection, cream cheese, and muffins, your total comes out to be $29.99. 
+
+We apply a 9.98% tax to the total, which is $2.98, making the total $32.97.
+
+Your order will be ready for pickup at our store, Manhattan Bagel. We'll send you a confirmation email with the order details and a link to pay online. 
+
+Would you like to pay online or in-store when you pick up your order?
+
+[2025-07-12T12:56:56.884Z] Customer: I'll do the pay by length.
+
+[2025-07-12T12:56:56.885Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 601125. That's 6, 0, 1, 1, 2, 5.", 'order_id': '601125', 'call_id': 'b377a733-abc1-453f-a6c7-18980248bfd8', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197feb5-7696-88c2-fdda-7029c8b1de26'}
+
+[2025-07-12T12:56:56.885Z] AI Agent: Your order is created successfully now! The order number is 6, 0, 1, 1, 2, 5, and the total including taxes comes to $32.97. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is

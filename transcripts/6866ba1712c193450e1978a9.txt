@@ -1,0 +1,70 @@
+Call ID: 6866ba1712c193450e1978a9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-03T17:12:55.165Z
+End Time: 2025-07-03T17:16:06.790Z
+Duration: 240 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin placed an order for a Garlic Bagel with strawberry spread and grilled chicken, toasted.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-03T17:16:06.341Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm Emily an AI Assistant, and How can I assist you today?
+
+[2025-07-03T17:16:06.341Z] Customer: Hello? Can you hear me?
+
+[2025-07-03T17:16:06.341Z] AI Agent: Yes, I can hear you clearly. Hello! Welcome to Manhattan Bagel. What would you like to order today?
+
+[2025-07-03T17:16:06.342Z] Customer: My name is Jitin, and I would like to order some, bagel with, like, garlic bagel and, grilled chicken and dark dark toasted and one coffee as well.
+
+[2025-07-03T17:16:06.790Z] Unknown: [2025-07-03T17:16:06.342Z] assistant: Got it, Jitin! You'd like a Garlic Bagel with grilled chicken, and you'd like it toasted. Let me check our menu to make sure I have the details right.
+
+For the Garlic Bagel, you can choose from a variety of spreads or additional toppings. Would you like to hear the available options for spreads or any extra additions to your bagel?
+
+[2025-07-03T17:16:06.342Z] Customer: Sorry. Pardon? Can you please repeat it again?
+
+[2025-07-03T17:16:06.790Z] Unknown: [2025-07-03T17:16:06.342Z] assistant: Of course! You'd like a Garlic Bagel with grilled chicken, and you'd like it toasted. 
+
+Would you like to hear the available options for spreads or any extra additions to your bagel?
+
+[2025-07-03T17:16:06.343Z] Customer: As in, what
+
+[2025-07-03T17:16:06.343Z] AI Agent: Sure thing! For your Garlic Bagel, you can choose from a variety of spreads like plain cream cheese, scallion cream cheese, strawberry, or even something like jalapeño or honey almond. You can also add extras
+
+[2025-07-03T17:16:06.343Z] Customer: Okay. Can I okay? Can I have this Friday?
+
+[2025-07-03T17:16:06.343Z] AI Agent: I'm sorry, I didn't catch that. Could you please repeat what spread you'd like on your Garlic Bagel?
+
+[2025-07-03T17:16:06.343Z] Customer: Strawberry.
+
+[2025-07-03T17:16:06.790Z] Unknown: [2025-07-03T17:16:06.343Z] assistant: Great choice! Your Garlic Bagel will have strawberry spread and grilled chicken, and it'll be toasted. 
+
+Is there anything else I can get for you, Jitin?
+
+[2025-07-03T17:16:06.343Z] Customer: No. That's it. Thank you so much.
+
+[2025-07-03T17:16:06.790Z] Unknown: [2025-07-03T17:16:06.343Z] assistant: Alright, Jitin, I've got your order for a Garlic Bagel with strawberry spread, grilled chicken, and it'll be toasted. 
+
+Let me just confirm your order one last time. Is there anything else I can get for you?
+
+[2025-07-03T17:16:06.343Z] Customer: No. All good for now.
+
+[2025-07-03T17:16:06.343Z] AI Agent: Got it, Jitin! Your order for a Garlic Bagel with strawberry spread and grilled chicken, toasted, is all set. Thank you for choosing Manhattan Bagel. Have a great day!
+
+[2025-07-03T17:16:06.344Z] Customer: Okay. Thank you.
+
+[2025-07-03T17:16:06.344Z] AI Agent: You're welcome! Enjoy your Garlic Bagel, Jitin. See you soon! Have a great day!
+
+[2025-07-03T17:16:06.344Z] Customer: Yeah. Bye bye. Is it my my order is done?
+
+[2025-07-03T17:16:06.344Z] AI Agent: Your order is all set, Jitin! We'll have it ready for you to pick up shortly. Say goodbye to me now, and have a wonderful day!
+
+[2025-07-03T17:16:06.344Z] Customer: What is the order ID?
+
+[2025-07-03T17:16:06.344Z] AI Agent: You'll receive your order ID shortly via confirmation message. If you need it right now, I can look it up for you. Would you like me to do that?
+
+[2025-07-03T17:16:06.344Z] Customer: Yeah. Can you please tell me daughter?
+
+[2025-07-03T17:16:06.344Z] AI Agent: Sure, I can help with that. Could you please provide me with the last four digits

@@ -1,0 +1,30 @@
+Call ID: 687a6bc1a1698f75073124cd
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T15:44:01.041Z
+End Time: 2025-07-18T15:44:50.870Z
+Duration: 46 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha ordered 2 brownies from Manhattan Bagel and the order was successfully placed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T15:44:50.664Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T15:44:50.664Z] Customer: I need two basted brownie.
+
+[2025-07-18T15:44:50.664Z] AI Agent: That will be our Pastry on the menu, just confirming it's available. For your Pastry, I have Blueberry, Brownie, Chocolate Chip, and Crumb Cake. You've chosen Brownie. I'll add 2 Brownies for you. Would you like anything else today?
+
+[2025-07-18T15:44:50.664Z] Customer: No.
+
+[2025-07-18T15:44:50.870Z] Unknown: [2025-07-18T15:44:50.664Z] assistant: Just a moment while I add that up... 
+
+
+
+[2025-07-18T15:44:50.870Z] Unknown: [2025-07-18T15:44:50.664Z] assistant: Your total for 2 Brownies comes to 7 dollars and 68 cents including tax. Great! We're about to submit your order. Let me know if you want to make any changes or add anything. Otherwise, we'll proceed with placing your order.
+
+
+
+[2025-07-18T15:44:50.664Z] AI Agent: Call ended before tool response was received

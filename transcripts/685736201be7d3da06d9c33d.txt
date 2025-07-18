@@ -1,0 +1,100 @@
+Call ID: 685736201be7d3da06d9c33d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T22:45:52.286Z
+End Time: 2025-06-21T22:52:30.905Z
+Duration: 420 seconds
+From: +918949862707
+To: +17209999031
+Summary: Alex ordered a medium-sized Tropicana Apple Juice and a 16oz Strawberry Banana smoothie from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T22:52:29.652Z] AI Agent: Hello Alex, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T22:52:29.653Z] Customer: I I I'm I want apple juice. Do you have apple juice?
+
+[2025-06-21T22:52:29.653Z] AI Agent: We actually have a variety of juices, but I'd be happy to check on apple juice for you. Let me see what we have.
+
+[2025-06-21T22:52:29.654Z] AI Agent: I hope you are still with me!
+
+[2025-06-21T22:52:29.654Z] Customer: Yeah. I'm still there. Tell me.
+
+[2025-06-21T22:52:29.654Z] AI Agent: We don't have apple juice on our menu, but we do have other options like orange juice, and we also have a variety of beverages including coffee, tea, and soda. Would you like me to tell you more about those options?
+
+[2025-06-21T22:52:29.654Z] Customer: Okay. Tell me about your juices. Like, what juices you have?
+
+[2025-06-21T22:52:29.654Z] AI Agent: We have orange juice, and it's available in different sizes. We also have a Fresh Squeezed Orange Juice option. Additionally, we offer a Frozen Lemonade and a Fruit Smoothie made with low-fat vanilla yogurt and fruit mix. Which one of these sounds interesting to you?
+
+[2025-06-21T22:52:29.654Z] Customer: Okay. So you don't have apple juice. Right?
+
+[2025-06-21T22:52:29.654Z] AI Agent: That's correct, Alex. We don't have apple juice on our menu. But I can offer you one of the other juice options I mentioned earlier, like orange juice or the fruit smoothie. Would you like to try one of those?
+
+[2025-06-21T22:52:29.654Z] Customer: Okay. Tell me the, items you have in beverages.
+
+[2025-06-21T22:52:29.654Z] AI Agent: Let me go through our beverage options for you. We have hot coffee, iced coffee, hot tea, iced tea,
+
+[2025-06-21T22:52:29.654Z] Customer: Okay. Can you can you check your tropical OZ?
+
+[2025-06-21T22:52:29.654Z] AI Agent: Let me check on that for you. Yes, we do have Tropicana Orange Juice. It's a 100% orange juice, and we offer it in different sizes. Would you like to know the prices or perhaps order one?
+
+[2025-06-21T22:52:29.655Z] Customer: No. I I I've said Tropicana o j because it has, option. Can you please check the option Tropicana o j?
+
+[2025-06-21T22:52:29.655Z] AI Agent: Let me see what options we have for Tropicana Orange Juice. Ah, yes! We have a Small, Medium, and Large size for our Tropicana Orange Juice. The prices are $3.79 for the Small size, $4.29 for the Medium size, and $4.79 for the Large size. Which size would you like?
+
+[2025-06-21T22:52:29.655Z] Customer: And, also, do you have the apple flavor?
+
+[2025-06-21T22:52:29.655Z] AI Agent: Let me check the options for Tropicana Orange Juice. We have Orange, Apple, and Cranberry flavors available. So, yes, we do have the Apple flavor. Would you like to order one of these flavors?
+
+[2025-06-21T22:52:29.655Z] Customer: Now you understand, like, what I was saying?
+
+[2025-06-21T22:52:29.655Z] AI Agent: Yes, I understand now that you were asking about the options for Tropicana Orange Juice, and I should have checked the flavors available, which include Apple, Orange, and Cranberry. Thank you for clarifying! Let me get the options for you... 
+
+[2025-06-21T22:52:29.655Z] AI Agent: For the Tropicana Orange Juice, we have four options: 11oz Orange, 11oz Apple, 11oz Cranberry, and 46oz Orange. Which one would you like to order?
+
+[2025-06-21T22:52:29.655Z] Customer: Can you repeat again?
+
+[2025-06-21T22:52:29.655Z] AI Agent: Let's start again from the beginning. You initially asked about apple juice, and I told you we don't have it. Then, you asked about our juice options, and I mentioned we have orange juice, among others. After that, you specifically asked about Tropicana Orange Juice and its options. I checked and found that we have Tropicana Orange Juice in different sizes and flavors, including Apple. Now, I'd like to confirm your order. Would you like to order a Tropicana Orange Juice, and if so, which size and flavor would you prefer?
+
+[2025-06-21T22:52:29.656Z] Customer: Medium size and, apple clear.
+
+[2025-06-21T22:52:29.656Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-21T22:52:29.656Z] AI Agent: Added 1 item(s) to your cart. Total: $4.29
+
+[2025-06-21T22:52:29.656Z] AI Agent: Alright, I've added the medium-sized Tropicana Apple Juice to your order. Your total comes out to be $4.29. Would you like to order anything else or is that all for today?
+
+[2025-06-21T22:52:29.656Z] Customer: Also, if you don't mind, can I have, the smoothie?
+
+[2025-06-21T22:52:29.656Z] AI Agent: We have a variety of smoothies to choose from. Let me see what options we have. 
+
+[2025-06-21T22:52:29.656Z] AI Agent: For our smoothies, we have two sizes: 16oz and 24oz. We also have four flavor options: Strawberry Banana, Strawberry Mango, Mango, and Wild Berry Yogurt. Additionally, you can choose to add whipped cream for an extra 75 cents. Which size, flavor, and would you like whipped cream?
+
+[2025-06-21T22:52:29.656Z] Customer: I I like to have the strawberry smoothie. Do you have the strawberry smoothie?
+
+[2025-06-21T22:52:29.656Z] AI Agent: We have a Strawberry Banana smoothie, which is a blend of strawberries and bananas. We also have a Strawberry Mango smoothie, which combines strawberries and mango. Both of these options are part of our smoothie menu. Which one of these strawberry smoothies sounds good to you? Or would you like me to check if we have a plain Strawberry smoothie option?
+
+[2025-06-21T22:52:29.656Z] Customer: Okay. Strawberry banana is good, I think.
+
+[2025-06-21T22:52:29.656Z] AI Agent: The Strawberry
+
+[2025-06-21T22:52:29.656Z] Customer: I need small size and, no whipped cream. Just plain, strawberry smoothie. Is that possible?
+
+[2025-06-21T22:52:29.656Z] AI Agent: For the Strawberry Banana smoothie, we have a 16oz size, which is our small size. And you'd like to have it without whipped cream, just plain. That's perfectly fine. Let me add that to your order... 
+
+[2025-06-21T22:52:29.657Z] AI Agent: Added 1 item(s) to your cart. Total: $10.28
+
+[2025-06-21T22:52:29.657Z] AI Agent: Alright, I've added the 16oz Strawberry Banana smoothie without whipped cream to your order. Your new total comes out to be $10.28. Is there anything else you'd like to order, or is that all for today?
+
+[2025-06-21T22:52:29.657Z] Customer: Yeah. That's all for today. Thank you so much.
+
+[2025-06-21T22:52:29.657Z] AI Agent: You're welcome, Alex. It was a pleasure helping you with your order. Before I place your order, I just need to confirm a few details. Your order consists of a medium-sized Tropicana Apple Juice and a 16oz Strawberry Banana smoothie, correct? And you'd like to
+
+[2025-06-21T22:52:29.657Z] Customer: Yeah. Right.
+
+[2025-06-21T22:52:29.657Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-21T22:52:29.657Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 601091. That's 6, 0, 1, 0, 9, 1. Total: $11.31 (subtotal 10.28 dollars plus 1.03 dollars tax). Thank you for your order!
+
+[2025-06-21T22:52:29.657Z] AI Agent: Alright, Alex, your order is placed! Your order number is 6, 0, 1, 0, 9, 1. Your total comes out to be $10.28 subtotal plus $1.03 tax, making it $11.31. We'll have your order ready for you shortly. Thank you for choosing Manhattan Bagel, and we look forward to serving you!

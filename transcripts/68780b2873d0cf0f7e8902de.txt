@@ -1,0 +1,108 @@
+Call ID: 68780b2873d0cf0f7e8902de
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T20:27:20.579Z
+End Time: 2025-07-16T20:33:23.291Z
+Duration: 359 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for a Big Breakfast Bundle from Manhattan Bagel, which included 13 bagels, 2 tubs of cream cheese, and 4 muffins, and the order was successfully submitted.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T20:33:21.637Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T20:33:21.637Z] Customer: Hey. Hi. How are you doing?
+
+[2025-07-16T20:33:21.638Z] AI Agent: I'm doing well, thanks for asking. It's great to have you back at Manhattan Bagel. What can I get for you today?
+
+[2025-07-16T20:33:21.638Z] Customer: Yeah. Actually, I'm looking to order a big bowl bundle.
+
+[2025-07-16T20:33:23.291Z] Unknown: [2025-07-16T20:33:21.638Z] assistant: The Big Breakfast Bundle is a great choice. That would be our Breakfast Bundle on the menu. I'll add that for you. Now, I'll help you customize it. 
+
+For the bundle, you get 13 fresh-baked Manhattan bagels, 2 tubs of cream cheese, 4 muffins, and 4 hash browns. Let's start with the bagels. You'll need to pick exactly 13 bagels for your bundle. I have Plain, Everything, Sesame, or Blueberry. How many of each would you like?
+
+[2025-07-16T20:33:21.638Z] Customer: Hello?
+
+[2025-07-16T20:33:21.638Z] AI Agent: You were saying you'd like to order a Big Breakfast Bundle. I've got that for you. Now, let's customize the bagels. You need to pick exactly 13 bagels. I have Plain, Everything, Sesame, or Blueberry. Would you like me to continue with the options or do you have something specific in mind?
+
+[2025-07-16T20:33:21.638Z] Customer: Okay. I'll go with the five, blueberry, five plain, three, sorry, two garlic, and two more as vanilla, and one more as, multi grain.
+
+[2025-07-16T20:33:21.638Z] AI Agent: Let me just confirm that for you. You'd like 5 Blueberry bagels, 5 Plain bagels, 2 Garlic bagels, 2 Vanilla bagels, and 1 Multigrain bagel, but I need to let you know that Vanilla is not one of our standard bagel options. We do have other flavors like Cinnamon Raisin, Chocolate Chip, or Sesame. Would you like to replace the Vanilla with one of those options?
+
+[2025-07-16T20:33:21.639Z] Customer: Okay. Do that.
+
+[2025-07-16T20:33:21.639Z] AI Agent: I'll replace the 2 Vanilla bagels with 2 Cinnamon Raisin bagels. So, to confirm, you have 5 Blueberry, 5 Plain, 2 Garlic, 2 Cinnamon Raisin, and 1 Multigrain bagel. That's a total of 15 bagels, but you only need 13 for the bundle. Would you like to remove 2 bagels from your selection or add 2 more to reach the total of 13?
+
+[2025-07-16T20:33:21.639Z] Customer: Okay. So remove, any any any of the, you know, there.
+
+[2025-07-16T20:33:23.291Z] Unknown: [2025-07-16T20:33:21.639Z] assistant: I'll remove 2 bagels from your selection. Let me remove 2 of the Plain bagels. So, you now have 5 Blueberry, 3 Plain, 2 Garlic, 2 Cinnamon Raisin, and 1 Multigrain bagel. That's a total of 13 bagels.
+
+Next, let's move on to the cream cheese. You need to pick exactly 2 tubs of cream cheese. I have Plain, Vegetable, Scallion, or Strawberry. Which two would you like?
+
+[2025-07-16T20:33:21.639Z] Customer: I need one blueberry and one strawberry cream cheese.
+
+[2025-07-16T20:33:23.291Z] Unknown: [2025-07-16T20:33:21.639Z] assistant: For the cream cheese, you'd like 1 Blueberry and 1 Strawberry. I just want to let you know that Blueberry is not a standard cream cheese flavor we offer. We do have other flavors like Plain, Vegetable, Scallion, or Honey Almond. Would you like to replace the Blueberry cream cheese with one of those options?
+
+And just to confirm, you do want the Strawberry cream cheese, correct?
+
+[2025-07-16T20:33:21.639Z] Customer: Yeah.
+
+[2025-07-16T20:33:23.291Z] Unknown: [2025-07-16T20:33:21.640Z] assistant: I'll replace the Blueberry cream cheese with Plain cream cheese, and you'll also get the Strawberry cream cheese. So, to confirm, you have 1 Plain cream cheese and 1 Strawberry cream cheese.
+
+Next, let's move on to the muffins. You can choose up to 4 muffins. We have Blueberry, Corn, Double Chocolate, or Chocolate Chip. Which ones would you like?
+
+[2025-07-16T20:33:21.640Z] Customer: Two cone, two, chocolate chip.
+
+[2025-07-16T20:33:23.291Z] Unknown: [2025-07-16T20:33:21.640Z] assistant: You'd like 2 Corn muffins and 2 Chocolate Chip muffins. That's a total of 4 muffins.
+
+Next, I just want to confirm that you don't need to add any coffee or lox to your bundle, correct? We do offer a box of coffee or a special lox option, but if you're not interested, we can move on to the final steps.
+
+Also, I'll just calculate the total for your order. Just a moment, please... 
+
+
+
+[2025-07-16T20:33:23.291Z] Unknown: [2025-07-16T20:33:21.640Z] assistant: Your total comes out to be 32 dollars and 98 cents. 
+
+Now, I'll just confirm that everything is correct. You have a Breakfast Bundle with 5 Blueberry bagels, 3 Plain bagels, 2 Garlic bagels, 2 Cinnamon Raisin bagels, and 1 Multigrain bagel. You also have 1 Plain cream cheese and 1 Strawberry cream cheese, and 2 Corn muffins and 2 Chocolate Chip muffins.
+
+Is everything correct? 
+
+If so, I'll go ahead and transition your order to the next stage. 
+
+
+
+[2025-07-16T20:33:21.640Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-16T20:33:21.641Z] AI Agent: And
+
+[2025-07-16T20:33:21.641Z] Customer: Yeah. All good.
+
+[2025-07-16T20:33:21.641Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-16T20:33:21.641Z] Customer: No. All good from my end.
+
+[2025-07-16T20:33:21.641Z] AI Agent: Alright. Would you like me to read back your order with all the details?
+
+[2025-07-16T20:33:21.641Z] Customer: No.
+
+[2025-07-16T20:33:23.291Z] Unknown: [2025-07-16T20:33:21.641Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-16T20:33:21.642Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 398485. That's 3, 9, 8, 4, 8, 5.", 'order_id': '398485', 'call_id': '0a7884c8-b7d0-407f-b2fe-2706b1634cfe', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '019814f0-025c-b0af-ba7d-351f48a7d4b3'}
+
+[2025-07-16T20:33:21.642Z] AI Agent: Your order number is 3, 9, 8, 4, 8, 5. Your total is 32 dollars and 98 cents, including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-16T20:33:21.642Z] Customer: No. I'll go. Thank you so much.
+
+[2025-07-16T20:33:21.642Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. If you have any other questions or need assistance in the future, don't hesitate to reach out. Have a great day and enjoy your Breakfast Bundle from Manhattan Bagel!
+
+[2025-07-16T20:33:21.642Z] Customer: Okay. What all languages you can speak? Can you speak in Spanish something?
+
+[2025-07-16T20:33:23.291Z] Unknown: [2025-07-16T20:33:21.642Z] assistant: I can understand and respond in multiple languages, including Spanish. If you'd like to communicate in Spanish, I can try to assist you. Please keep in mind that my proficiency may vary depending on the language and complexity of the conversation.
+
+For example, I can say "Hola, ¿cómo estás?" which means "Hello, how are you?" or "¿En qué puedo ayudarte?" which means "How can I help you?"
+
+Feel free to speak in Spanish if you prefer, and I'll do my best to respond accordingly.

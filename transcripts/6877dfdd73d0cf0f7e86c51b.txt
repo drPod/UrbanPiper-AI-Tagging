@@ -1,0 +1,12 @@
+Call ID: 6877dfdd73d0cf0f7e86c51b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T17:22:37.965Z
+End Time: 2025-07-16T17:22:51.939Z
+Duration: 10 seconds
+From: 919780032269
+To: 918035740152
+Summary: The call was a demonstration of the conversation flow for order taking at Manhattan Bagel, highlighting critical rules and steps for efficient and accurate order processing.
+==================================================
+TRANSCRIPT:
+==================================================

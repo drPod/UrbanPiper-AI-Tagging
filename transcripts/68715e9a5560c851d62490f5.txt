@@ -1,0 +1,54 @@
+Call ID: 68715e9a5560c851d62490f5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T18:57:30.569Z
+End Time: 2025-07-11T19:00:05.239Z
+Duration: 153 seconds
+From: +17135307842
+To: +16204558091
+Summary: The customer ordered a plain bagel with plain cream cheese from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T19:00:04.408Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-11T19:00:04.408Z] Customer: Can I order some bagel?
+
+[2025-07-11T19:00:04.408Z] AI Agent: We have a variety of bagels to choose from. You'll need to pick just one bagel for your order. We have Plain, Everything, Sesame, and Cinnamon Raisin. Would you like one of these, or should I list more options?
+
+[2025-07-11T19:00:04.408Z] Customer: Sure. Definitely is good.
+
+[2025-07-11T19:00:04.408Z] AI Agent: The Everything bagel is a great choice. Now, you'll need to pick just one spread for your bagel. We have Butter, Plain Cream Cheese, Vegetable Cream Cheese, and Strawberry Cream Cheese. Which one sounds good to you?
+
+[2025-07-11T19:00:04.408Z] Customer: Just fine.
+
+[2025-07-11T19:00:04.408Z] AI Agent: The Plain Cream Cheese is a classic choice. Now, would you like your bagel toasted, lightly toasted, toasted dark, or not toasted at all?
+
+[2025-07-11T19:00:04.408Z] Customer: Actually, why don't you make it a claim?
+
+[2025-07-11T19:00:04.408Z] AI Agent: I don't see "Plain Veggie" on our menu. We have a variety of bagel sandwiches and spreads, but "Plain Veggie" isn't one of them. Let me offer you some alternatives. We have an Avocado Veg Out sandwich, which features avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a sesame bagel. Or, if you'd like, I can help you customize an Everything bagel with some of our vegetable options. Which sounds more appealing to you?
+
+[2025-07-11T19:00:04.409Z] Customer: Not a way. Just a plain one instead.
+
+[2025-07-11T19:00:04.409Z] AI Agent: So you'd like to go with a Plain bagel instead of the Everything bagel. That's a great choice. You'll still need to pick a spread, though. We have Butter, Plain Cream Cheese, Vegetable Cream Cheese, and Strawberry Cream Cheese. Which one would you like
+
+[2025-07-11T19:00:04.409Z] Customer: Yes. Plainfield.
+
+[2025-07-11T19:00:04.409Z] AI Agent: The Plain Cream Cheese is a simple yet delicious choice. So, to confirm, you'd like a Plain bagel with Plain Cream Cheese, correct? And
+
+[2025-07-11T19:00:04.409Z] Customer: Mhmm.
+
+[2025-07-11T19:00:04.409Z] AI Agent: So, to confirm, you'd like a Plain bagel with Plain Cream Cheese. Is there anything else I can get for you today?
+
+[2025-07-11T19:00:04.409Z] Customer: No.
+
+[2025-07-11T19:00:04.409Z] AI Agent: Perfect! Let me get that all put together for you.
+
+[2025-07-11T19:00:04.409Z] AI Agent: I hope you are still with me!
+
+[2025-07-11T19:00:04.409Z] Customer: Mhmm.
+
+[2025-07-11T19:00:04.410Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-11T19:00:04.410Z] AI Agent: May I have your name for the order?

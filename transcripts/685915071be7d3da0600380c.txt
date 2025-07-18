@@ -1,0 +1,48 @@
+Call ID: 685915071be7d3da0600380c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T08:49:11.386Z
+End Time: 2025-06-23T08:51:34.382Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle with thirteen Garlic bagels, two tubs of spread, and four muffins, but the call ended before completion of the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T08:51:33.217Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T08:51:33.217Z] Customer: I want to order breakfast bundle.
+
+[2025-06-23T08:51:33.218Z] AI Agent: The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T08:51:33.218Z] AI Agent: Do you want to proceed with the customization, now ?
+
+[2025-06-23T08:51:33.218Z] Customer: 
+
+[2025-06-23T08:51:33.218Z] AI Agent: Alright, let's get started with the customization. First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if
+
+[2025-06-23T08:51:33.218Z] Customer: All all of 13 is garlic.
+
+[2025-06-23T08:51:33.218Z] AI Agent: Thirteen Garlic bagels. Next, for your **two tubs of spread**. We have Plain, Vegetable, or Scallion. Want to hear more options?
+
+[2025-06-23T08:51:33.218Z] Customer: I want, plain and cream cheese.
+
+[2025-06-23T08:51:33.218Z] AI Agent: You've chosen Plain and Vegetable cream cheese for your two tubs of spread. Now, for your **four muffins**. You can choose from Blueberry,
+
+[2025-06-23T08:51:33.218Z] Customer: Hey. I I I asked I I said, like, vanilla. Right? So do you have vanilla cheese?
+
+[2025-06-23T08:51:33.219Z] AI Agent: We actually have a Strawberry and a Honey Almond cream cheese, but not a plain Vanilla cream cheese. However, I can offer you a Strawberry or a Honey Almond as an alternative. Would you like to
+
+[2025-06-23T08:51:33.219Z] Customer: No. No. What what what I I said in the first place, like, what was my response? I want to know that.
+
+[2025-06-23T08:51:33.219Z] AI Agent: You initially said "I want plain and green cheese".
+
+[2025-06-23T08:51:33.219Z] Customer: Plain and green cheese. So green means you you understood, like, vegetable. Right?
+
+[2025-06-23T08:51:33.219Z] AI Agent: Yes, I understood "green cheese" to mean Vegetable cream cheese.
+
+[2025-06-23T08:51:33.219Z] Customer: Okay.
+
+[2025-06-23T08:51:33.219Z] AI Agent: So, to confirm, you'd like

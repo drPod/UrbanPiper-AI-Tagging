@@ -1,0 +1,22 @@
+Call ID: 68721cca5560c851d62c2f2d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T08:28:58.958Z
+End Time: 2025-07-12T08:30:19.113Z
+Duration: 77 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jutin attempted to order an Avocado BLT sandwich and after initial confusion, the item was found on the menu and the order process began.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T08:30:18.886Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T08:30:18.886Z] Customer: I want to order avocado BLT sandwich.
+
+[2025-07-12T08:30:18.886Z] AI Agent: I don't see Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?
+
+[2025-07-12T08:30:18.886Z] Customer: Okay. So I said avocado BLD sandwich in your menu structure. Can you please check it again?
+
+[2025-07-12T08:30:18.886Z] AI Agent: I've checked again, and I see that we do have an Avocado BLT Sandwich. It's a Turkey-Bacon, avocado, lettuce, tomato, and roasted tomato spread on a thintastic bagel. You'll need to pick just one bagel choice for your Avocado BLT. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California Protein Bar, Chocolate Chip Bagel, Cinnamon Raisin Bagel, Egg Bagel, Egg Everything, French Toast Bagel, Garlic Bagel, Honey Whole Wheat Everything Bagel, Honey Whole Wheat Bagel, Multigrain

@@ -1,0 +1,18 @@
+Call ID: 68727f595560c851d63a6743
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T15:29:29.326Z
+End Time: 2025-07-12T15:30:11.201Z
+Duration: 38 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer inquired about the Avocado BLT sandwich, which was not available, and was offered alternative options by BagelBot.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T15:30:11.053Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T15:30:11.054Z] Customer: Do you have avocado BLT sandwich?
+
+[2025-07-12T15:30:11.054Z] AI Agent: I don't see Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?

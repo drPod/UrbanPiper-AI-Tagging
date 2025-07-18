@@ -1,0 +1,26 @@
+Call ID: 687a589fa1698f75072d176c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T14:22:23.149Z
+End Time: 2025-07-18T14:23:22.438Z
+Duration: 56 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin attempted to order pastry but it was out of stock, so he ordered a hash brown instead.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T14:23:22.171Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T14:23:22.171Z] Customer: I want to order pastry.
+
+[2025-07-18T14:23:22.172Z] AI Agent: That will be our PASTRY on the menu, just confirming it's available. However, I see that PASTRY is currently out of stock. Instead, I can offer you our MUFFINS, COOKIES, or CHEESE BAGEL. Which would you prefer?
+
+[2025-07-18T14:23:22.172Z] Customer: Okay. Can I get, hash brown?
+
+[2025-07-18T14:23:22.172Z] AI Agent: That will be our HASH BROWN on the menu, just confirming it's available. I'll add the HASH BROWN for you. Now, I'll help you customize it. Would you like your hash brown in a sandwich or on the side?
+
+[2025-07-18T14:23:22.172Z] Customer: Okay. Can you please tell me the price chassis? Is it I will is this there or not?
+
+[2025-07-18T14:23:22.172Z] AI Agent: Let me check the availability of the PASTRY. According to our menu, the PASTRY is currently out of stock. I apologize for the 

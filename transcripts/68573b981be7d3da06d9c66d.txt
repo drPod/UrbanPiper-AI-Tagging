@@ -1,0 +1,60 @@
+Call ID: 68573b981be7d3da06d9c66d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T23:09:12.485Z
+End Time: 2025-06-21T23:11:21.618Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer attempted to order a Medium 24oz Unsweetened Ice Tea, but the call ended due to technical difficulties with placing the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T23:11:21.326Z] AI Agent: Hello Alex, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T23:11:21.326Z] Customer: I want to order iced tea unsweetened.
+
+[2025-06-21T23:11:21.326Z] AI Agent: The Ice Tea Unsweetened, great choice. Let me get the options for you. We have a few flavors for our iced tea. Let me see what we have.
+
+[2025-06-21T23:11:21.326Z] AI Agent: Let's start with the size of your Ice Tea Unsweetened. We have Small 16oz, Medium 24oz, and Large 32oz. Which size would you like?
+
+[2025-06-21T23:11:21.326Z] Customer: Medium size.
+
+[2025-06-21T23:11:21.326Z] AI Agent: A Medium 24oz Ice Tea Unsweetened, great choice. Now, let's move on to the Milk Choice. We have Regular Milk, Half & Half, Skim, Almond, Oat Milk, and Soy. Which milk would you
+
+[2025-06-21T23:11:21.327Z] Customer: I don't I I don't need milk. I said I don't need milk. I need unsweetened.
+
+[2025-06-21T23:11:21.618Z] Unknown: [2025-06-21T23:11:21.327Z] assistant: You're right, you did order an Unsweetened Ice Tea, so you wouldn't need any milk or sweetener. Let's move on to the next option. We have a variety of Sweetener & Syrups, but since you've ordered Unsweetened, I'll skip that for now. 
+
+For your Ice Tea, would you like to confirm that you'd like the Medium 24oz Unsweetened Ice Tea as is?
+
+[2025-06-21T23:11:21.327Z] Customer: Iya
+
+[2025-06-21T23:11:21.327Z] AI Agent: Perfect, let me add that to your order. 
+
+[2025-06-21T23:11:21.327Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-21T23:11:21.327Z] AI Agent: I'll make sure the kitchen knows you'd like your Ice Tea Unsweetened. 
+
+[2025-06-21T23:11:21.327Z] AI Agent: I've added your special instructions to the order.
+
+[2025-06-21T23:11:21.327Z] AI Agent: Alright, let me get this order placed for you. 
+
+[2025-06-21T23:11:21.327Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.
+
+[2025-06-21T23:11:21.327Z] AI Agent: It seems like there was an issue with your order. Let me try again to add your Medium 24oz Unsweetened Ice Tea to the cart. 
+
+[2025-06-21T23:11:21.327Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-21T23:11:21.327Z] AI Agent: I apologize for the issue earlier with placing your order. Let me try again to add your Medium 24oz Unsweetened Ice Tea to the cart. 
+
+[2025-06-21T23:11:21.327Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-21T23:11:21.327Z] AI Agent: Let's try to place your order again. 
+
+[2025-06-21T23:11:21.327Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.
+
+[2025-06-21T23:11:21.327Z] AI Agent: I apologize for the inconvenience, but it seems like we're having some technical difficulties with your order. I'm going to go ahead and hang up the call now. 
+
+[2025-06-21T23:11:21.327Z] AI Agent: OK

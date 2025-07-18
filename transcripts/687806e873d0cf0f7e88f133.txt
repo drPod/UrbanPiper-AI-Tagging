@@ -1,0 +1,112 @@
+Call ID: 687806e873d0cf0f7e88f133
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T20:09:12.426Z
+End Time: 2025-07-16T20:14:17.738Z
+Duration: 293 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a breakfast bundle with modifications and additions, which was successfully submitted and confirmed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T20:14:17.140Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T20:14:17.140Z] Customer: 
+
+[2025-07-16T20:14:17.140Z] AI Agent: That would be our Breakfast Bundle on the menu. I'll add that for you. Now I'll help you customize it. You'll need to pick exactly 13 bagels for your bundle. I have Plain, Everything, Sesame, or Blueberry. Want more options?
+
+[2025-07-16T20:14:17.140Z] Customer: Okay. I need, five sesame, two plain, three everything, two one garlic, two blueberry, one vanilla, and, one, honey whole wheat.
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.141Z] assistant: Just a moment... 
+
+Let me validate your bagel choices. 
+
+[2025-07-16T20:14:17.141Z] AI Agent: I've got Sesame, Plain, Everything, Garlic, Blueberry, and Honey Whole Wheat. I don't see Vanilla, but we have Cinnamon Raisin. What would you like for that one?
+
+[2025-07-16T20:14:17.141Z] Customer: Well, okay. Give me then, garlic. One more. Like, more garlic.
+
+[2025-07-16T20:14:17.141Z] AI Agent: So that's 5 Sesame, 2 Plain, 3 Everything, 2 Garlic, 2 Blueberry, and 1 Honey Whole Wheat. That's 15 total, but you need 13 for the bundle. Would you like to remove 2 bagels or replace some with different types?
+
+[2025-07-16T20:14:17.141Z] Customer: Okay. Then replace blueberry.
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.142Z] assistant: So I'll replace the 2 Blueberry with 2 more Garlic. That's 5 Sesame, 2 Plain, 3 Everything, 4 Garlic, and 1 Honey Whole Wheat. 
+
+Now, you need to pick exactly 2 cream cheese tubs. Popular choices are Plain, Vegetable, Scallion, or Strawberry. What would you like?
+
+[2025-07-16T20:14:17.143Z] Customer: One blueberry and one strawberry green cheese.
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.143Z] assistant: Just a moment... 
+
+Let me validate your cream cheese choices. 
+
+[2025-07-16T20:14:17.143Z] AI Agent: I've got Strawberry. I don't see Blueberry, but we have Plain, Vegetable, or Scallion. What would you like for your second tub?
+
+[2025-07-16T20:14:17.143Z] Customer: 
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.144Z] assistant: So that's Strawberry and Scallion cream cheese.
+
+Now, you can choose anywhere from 1 to 4 muffins. We have Blueberry, Corn, Double Chocolate, or Chocolate Chip. How many would you like?
+
+[2025-07-16T20:14:17.144Z] Customer: Okay. Three corn, three blueberry, one chocolate, and one more corn.
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.144Z] assistant: Just a moment... 
+
+Let me validate your muffin choices. 
+
+[2025-07-16T20:14:17.145Z] AI Agent: So that's 4 muffins: 3 Corn, 1 Blueberry, but you also mentioned 1 Chocolate Chip and 1 more Corn. Since you can only choose up to 4 muffins, I'll replace the Blueberry with the Chocolate Chip to meet the 4-muffin limit. You now have 4 Corn and 1 Chocolate Chip, but I can adjust to 3 Corn, 1 Blueberry, and 1 Chocolate Chip if you'd like. Which would you prefer?
+
+[2025-07-16T20:14:17.145Z] Customer: Then make it, like, all more muffins like chocolate chip.
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.145Z] assistant: So, you'd like all 4 muffins to be Chocolate Chip.
+
+Now, would you like to add a box of coffee? It's optional. We have House Blend, Decaf, Vanilla Hazelnut, or Dark Roast for an extra $24.99.
+
+[2025-07-16T20:14:17.145Z] Customer: Make it like decaf.
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.145Z] assistant: So, you'd like to add a box of Decaf coffee.
+
+Finally, would you like to add our special premium smoked nova lox for an extra $9.99?
+
+[2025-07-16T20:14:17.145Z] Customer: Yeah. Do that.
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.145Z] assistant: So, you'd like to add the special premium smoked nova lox.
+
+Just a moment while I calculate your total... 
+
+
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.146Z] assistant: Your total comes out to be $32.98. 
+
+Perfect, let me get that all put together for you. 
+
+[2025-07-16T20:14:17.146Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-16T20:14:17.146Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-16T20:14:17.147Z] Customer: No. I don't have any.
+
+[2025-07-16T20:14:17.147Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-16T20:14:17.147Z] Customer: No.
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.147Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-16T20:14:17.147Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 363333. That's 3, 6, 3, 3, 3, 3.", 'order_id': '363333', 'call_id': '6e1275db-841c-4717-96b9-570f42869423', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '019814de-c5a4-4171-6b0d-44b7c3233077'}
+
+[2025-07-16T20:14:17.148Z] AI Agent: Your order number is
+
+[2025-07-16T20:14:17.148Z] Customer: For total the total price.
+
+[2025-07-16T20:14:17.738Z] Unknown: [2025-07-16T20:14:17.148Z] assistant: Your total is thirty-two dollars and ninety-eight cents, including tax. 
+
+Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment.
+
+Is there anything else I can help you with today?
+
+[2025-07-16T20:14:17.148Z] Customer: No. I think that's all for now.
+
+[2025-07-16T20:14:17.148Z] AI Agent: You're all set then. It was a pleasure helping you with your order. If you need anything else in the future, don't hesitate to reach out. Have a great day, and enjoy your breakfast bundle from Manhattan Bagel!

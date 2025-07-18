@@ -1,0 +1,38 @@
+Call ID: 6872593d5560c851d634269d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T12:46:53.711Z
+End Time: 2025-07-12T12:49:29.925Z
+Duration: 153 seconds
+From: 918949862707
+To: 918035740152
+Summary: Jutin ordered a Breakfast Bundle from Manhattan Bagel, but got confused while trying to customize the bagel selection.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T12:49:29.555Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T12:49:29.556Z] Customer: Tell me, do you have French toast?
+
+[2025-07-12T12:49:29.556Z] AI Agent: We have French Toast Bagel and French Toast Roll. The French Toast Bagel is a bagel with a French toast flavor, and the French Toast Roll is a roll with a French toast flavor. We also have a French Toast Egg Sandwich, which is a sandwich with egg, bacon, sausage, cheddar cheese, honey
+
+[2025-07-12T12:49:29.556Z] Customer: Okay. I want to order breakfast bundle.
+
+[2025-07-12T12:49:29.556Z] AI Agent: The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to choose the types of bagels and cream cheese, or would you like me to suggest some options?
+
+[2025-07-12T12:49:29.557Z] Customer: I want to, I want to yeah. Sorry. Pardon? What did what did you say?
+
+[2025-07-12T12:49:29.557Z] AI Agent: No worries, I said the Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4
+
+[2025-07-12T12:49:29.557Z] Customer: Yeah.
+
+[2025-07-12T12:49:29.558Z] AI Agent: So you'd like to order the Breakfast Bundle. That's a great choice. I just need to confirm a few things. For the 13 bagels, would you like to choose the types or would you like me to select an assortment for you? And for the 2 tubs of cream cheese, would you like plain 
+
+[2025-07-12T12:49:29.558Z] Customer: I can I can sell I can, like, I can give you the options, like, five vanilla sorry? Five plain, two everything, one vanilla, and, rest can be garlic.
+
+[2025-07-12T12:49:29.559Z] AI Agent: So for the Breakfast Bundle, you'd like to have 5 plain bagels, 2 everything bagels, 1 vanilla bagel, and the rest can be garlic bagels. And for the cream cheese, would you like 2 tubs of plain cream cheese, or would you like to mix it up with some other flavors?
+
+[2025-07-12T12:49:29.559Z] Customer: Wait. I'm confused little bit here.
+
+[2025-07-12T12:49:29.559Z] AI Agent: Let's take a step back and start again. You wanted to order the Breakfast Bundle, which includes 13 bagels, 2 tubs of cream cheese, and 4 muffins. You were trying to choose the types of bagels, but got a bit confused. That's okay, it can be a lot to decide. Would you like me to suggest some options for the bagels, or would you like to start again from scratch?

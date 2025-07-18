@@ -1,0 +1,62 @@
+Call ID: 6878f81e970f265df9d9cf75
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T13:18:22.029Z
+End Time: 2025-07-17T13:20:56.023Z
+Duration: 150 seconds
+From: +16506618762
+To: +16204558091
+Summary: Varun placed an order for a cream cheese jalapeno bagel with plain cream cheese and a medium hot cappuccino with oat milk, which was successfully submitted and confirmed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T13:20:55.607Z] AI Agent: Hello Varun Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T13:20:55.607Z] Customer: Hi. I'd like a cream cheese, bagel, with, a cream cheese jalapeno bagel and a hot cappuccino, medium sized with oat milk.
+
+[2025-07-17T13:20:55.608Z] AI Agent: That would be our Bagel With Spread on the menu. I'll add the Bagel With Spread for you. Now, let's customize it. You mentioned a cream cheese jalapeno bagel. I have that as an option. For your spread, I have plain cream cheese, vegetable cream cheese, or scallion cream cheese. Which one would you like?
+
+[2025-07-17T13:20:55.608Z] Customer: I'll just do plain. Plain green keys.
+
+[2025-07-17T13:20:56.023Z] Unknown: [2025-07-17T13:20:55.608Z] assistant: For your bagel, you've chosen the cream cheese jalapeno bagel, and for the spread, you've chosen plain cream cheese.
+
+Now, let's move on to your hot cappuccino. That would be our Hot Cappuccino on the menu. I'll add the Hot Cappuccino for you. You mentioned a medium size with oat milk. I have that as an option. 
+
+Just to confirm, I have a Bagel With Spread on a cream cheese jalapeno bagel with plain cream cheese and a medium Hot Cappuccino with oat milk. Is that all for you today?
+
+[2025-07-17T13:20:55.609Z] Customer: That'll be all. Can you place the order, please?
+
+[2025-07-17T13:20:56.023Z] Unknown: [2025-07-17T13:20:55.609Z] assistant: Just a moment while I add that up...
+
+
+
+[2025-07-17T13:20:56.023Z] Unknown: [2025-07-17T13:20:55.610Z] assistant: Your complete order total comes to 10 dollars and 76 cents including tax.
+
+Perfect, let me get that all put together for you.
+
+
+
+[2025-07-17T13:20:55.610Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T13:20:56.023Z] Unknown: [2025-07-17T13:20:55.610Z] assistant: Now that we have your order finalized, I just need to confirm a few details before I submit it.
+
+And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T13:20:55.611Z] Customer: None at all.
+
+[2025-07-17T13:20:55.611Z] AI Agent: Alright Varun. Would you like me to read back your order with all the details?
+
+[2025-07-17T13:20:55.611Z] Customer: No. I'm good.
+
+[2025-07-17T13:20:56.023Z] Unknown: [2025-07-17T13:20:55.611Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-17T13:20:55.611Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 195744. That's 1, 9, 5, 7, 4, 4.", 'order_id': '195744', 'call_id': '78b18e0c-6f8f-457c-a59b-a7a9e984e1a0', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0198188a-db39-f680-170e-1191b985d91b'}
+
+[2025-07-17T13:20:55.611Z] AI Agent: Your order number is 1, 9, 5, 7, 4, 4. Your total is 10 dollars and 76 cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-17T13:20:55.611Z] Customer: That'll be all. Thank you.
+
+[2025-07-17T13:20:55.611Z] AI Agent: You're welcome, Varun. It was a pleasure helping you with your order. Have a great day and enjoy your cream cheese jalapeno bagel and hot cappuccino!

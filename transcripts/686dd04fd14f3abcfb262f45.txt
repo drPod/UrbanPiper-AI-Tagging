@@ -1,0 +1,58 @@
+Call ID: 686dd04fd14f3abcfb262f45
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T02:13:35.036Z
+End Time: 2025-07-09T02:16:59.407Z
+Duration: 202 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer ordered an Avocado BLT Sandwich and a Chicken Cuban Sandwich with specific customizations.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T02:16:59.056Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T02:16:59.056Z] Customer: Yeah. Let me get my usual, avocado with the sandwich and a sour mango. Let's do toast it back and add jalapenos, spinach, stolon, cheese, mustard, hot sauces. Let me think of double lunch protein and have lettuce on the side.
+
+[2025-07-09T02:16:59.056Z] AI Agent: Alright, one Avocado Bagel Sandwich. Let me go through the customizations for that. First, I need to confirm the bagel choice. You mentioned Asiago—let me
+
+[2025-07-09T02:16:59.056Z] Customer: No. I I said I said I've got a BLD sandwich.
+
+[2025-07-09T02:16:59.056Z] AI Agent: You're absolutely right, let me fix that. Avocado Bagel Sandwich. Now, 
+
+[2025-07-09T02:16:59.056Z] Customer: BLT sandwich. Avocado BLT sandwich.
+
+[2025-07-09T02:16:59.056Z] AI Agent: Got it, Avocado BLT Sandwich. Let me confirm the bagel choice. You mentioned Asiago—let me check that for you.
+
+[2025-07-09T02:16:59.057Z] Customer: Yeah. Hello?
+
+[2025-07-09T02:16:59.057Z] AI Agent: Yes, I'm here! Let's get your Avocado BLT Sandwich started. First, I need to confirm the bagel choice. You mentioned Asiago—let me check that for you.
+
+[2025-07-09T02:16:59.057Z] Customer: Where are you checking?
+
+[2025-07-09T02:16:59.057Z] AI Agent: I'm checking our menu to confirm the bagel choice you mentioned—Asiago. Let me make sure that's available for your Avocado BLT Sandwich. One moment...
+
+[2025-07-09T02:16:59.057Z] Customer: All done?
+
+[2025-07-09T02:16:59.057Z] AI Agent: Yes, Asiago is available for your bagel. Now, for the lunch bread choice, you mentioned "Avocado BLT Sandwich"—is that correct, or would you like to adjust anything else?
+
+[2025-07-09T02:16:59.057Z] Customer: Now that's it.
+
+[2025-07-09T02:16:59.057Z] AI Agent: Great! The bagel is set to Asiago. Now, let's move to the next step. Would you like to add any cheese to your sandwich? Our options include American, Swiss, Cheddar, Provolone, Muenster, or Pepper Jack. 
+
+[2025-07-09T02:16:59.057Z] Customer: Yeah. I said Prolong.
+
+[2025-07-09T02:16:59.057Z] AI Agent: Perfect, Provolone cheese is added. Now, would you
+
+[2025-07-09T02:16:59.058Z] Customer: Okay. Can I can I have the chicken cube one?
+
+[2025-07-09T02:16:59.058Z] AI Agent: Sure thing! The Chicken Cuban Sandwich is available. Let me go ahead and add that to your order. For the Chicken 
+
+[2025-07-09T02:16:59.058Z] Customer: With extra cheese and pickle.
+
+[2025-07-09T02:16:59.058Z] AI Agent: Alright, extra cheese and pickles are added to your Chicken Cuban Sandwich. Would you like to choose a side for that sandwich? We have chips or cole slaw available.
+
+[2025-07-09T02:16:59.058Z] Customer: No.
+
+[2025-07-09T02:16:59.058Z] AI Agent: Understood, no side for the Chicken Cuban Sandwich. Now, let's go back to your Avocado BLT Sandwich. You mentioned "toasted dark"—I've set that for you. Would you like to add any additional lunch veggies? We have lettuce, tomato, onion, spinach, cucumber, green peppers, roasted red peppers, grilled yellow onions, jalapeño peppers, and capers available.

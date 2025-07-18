@@ -1,0 +1,88 @@
+Call ID: 68529d0bcb9e39794cf450f9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T11:03:39.887Z
+End Time: 2025-06-18T11:09:10.920Z
+Duration: 360 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer ordered a Breakfast Bundle with 13 Asiago bagels, 1 Plain Cream Cheese spread, 1 Vegetable Cream Cheese spread, and 4 muffins, but forgot to ask about the box of coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T11:09:08.809Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T11:09:08.809Z] Customer: 
+
+[2025-06-18T11:09:08.810Z] AI Agent: Let's
+
+[2025-06-18T11:09:08.810Z] Customer: Hey. Hi. I'd like to make I'd like to make order of, breakfast bundle.
+
+[2025-06-18T11:09:08.810Z] AI Agent: Let me see what we have for breakfast bundles. 
+
+[2025-06-18T11:09:10.920Z] Unknown: [2025-06-18T11:09:08.810Z] assistant: Our Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can also add 4oz of premium Acme smoked nova for just $9.99. 
+
+Let's start with the bagels. We have a variety of flavors to choose from, including Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like?
+
+[2025-06-18T11:09:08.810Z] Customer: Can we can I have, all of, a Chicago Beetle?
+
+[2025-06-18T11:09:08.810Z] AI Agent: Let me see if we can do that for you. 
+
+[2025-06-18T11:09:10.920Z] Unknown: [2025-06-18T11:09:08.810Z] assistant: Your Breakfast Bundle with 13 Asiago bagels is $36.49.
+
+Next, let's choose your cream cheese spreads. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, and more. Which two would you like?
+
+[2025-06-18T11:09:08.810Z] Customer: Green things cream green cheese.
+
+[2025-06-18T11:09:08.810Z] AI Agent: For your cream cheese spreads, you've chosen Plain Cream Cheese. Let me update your order. 
+
+[2025-06-18T11:09:10.920Z] Unknown: [2025-06-18T11:09:08.810Z] assistant: Your Breakfast Bundle now includes 13 Asiago bagels and 1 Plain Cream Cheese spread.
+
+Next, let's choose your second cream cheese spread. We have Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, and more. Which one would you like?
+
+[2025-06-18T11:09:08.811Z] Customer: Can you please repeat it again?
+
+[2025-06-18T11:09:10.920Z] Unknown: [2025-06-18T11:09:08.811Z] assistant: For your cream cheese spreads, you've chosen Plain Cream Cheese. Let me update your order. 
+
+Next, let's choose your second cream cheese spread. We have Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, and more. Which one would you like?
+
+[2025-06-18T11:09:08.811Z] Customer: Vegetable.
+
+[2025-06-18T11:09:08.811Z] AI Agent: For your second cream cheese spread, you've chosen Vegetable Cream Cheese. Let me update your order. 
+
+[2025-06-18T11:09:10.920Z] Unknown: [2025-06-18T11:09:08.811Z] assistant: Your Breakfast Bundle now includes 13 Asiago bagels, 1 Plain Cream Cheese spread, and 1 Vegetable Cream Cheese spread.
+
+Next, let's choose your muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which 4 muffins would you like?
+
+[2025-06-18T11:09:08.811Z] Customer: Chocolate chips and blueberry.
+
+[2025-06-18T11:09:08.811Z] AI Agent: You've chosen Chocolate Chip and Blueberry muffins. Let me update your order. 
+
+[2025-06-18T11:09:10.920Z] Unknown: [2025-06-18T11:09:08.811Z] assistant: Your Breakfast Bundle now includes 13 Asiago bagels, 1 Plain Cream Cheese spread, 1 Vegetable Cream Cheese spread, 1 Chocolate Chip muffin, and 1 Blueberry muffin.
+
+You still need to choose 2 more muffins. We have Corn, Double Chocolate, Cinnamon Chip, and Cranberry Orange. Which 2 muffins would you like?
+
+[2025-06-18T11:09:08.811Z] Customer: 
+
+[2025-06-18T11:09:08.811Z] AI Agent: You've chosen Double Chocolate
+
+[2025-06-18T11:09:08.812Z] Customer: Corn and the cinnamon chips.
+
+[2025-06-18T11:09:08.812Z] AI Agent: You've chosen Corn and Cinnamon Chip muffins. Let me update your order. 
+
+[2025-06-18T11:09:10.920Z] Unknown: [2025-06-18T11:09:08.812Z] assistant: Your Breakfast Bundle now includes 13 Asiago bagels, 1 Plain Cream Cheese spread, 1 Vegetable Cream Cheese spread, 1 Chocolate Chip muffin, 1 Blueberry muffin, 1 Corn muffin, and 1 Cinnamon Chip muffin.
+
+Your total comes out to be $36.49. 
+
+Would you like to make it extra special by adding 4oz of premium Acme smoked nova for $9.99?
+
+[2025-06-18T11:09:08.812Z] Customer: Sorry. Pardon? What was that?
+
+[2025-06-18T11:09:08.812Z] AI Agent: You can make your Breakfast Bundle extra special by adding 4oz of premium Acme smoked nova for $9.99. Would you like to add that?
+
+[2025-06-18T11:09:08.812Z] Customer: No. Did you forgot about asking box of coffee?
+
+[2025-06-18T11:09:08.812Z] AI Agent: Let me ask you about the box of coffee. For your Breakfast Bundle, you can choose a box of coffee. We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Which one would you like? 
+
+[2025-06-18T11:09:08.812Z] AI Agent: For your Breakfast Bundle, you

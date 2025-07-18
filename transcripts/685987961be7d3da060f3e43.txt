@@ -1,0 +1,62 @@
+Call ID: 685987961be7d3da060f3e43
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T16:57:58.007Z
+End Time: 2025-06-23T17:02:36.383Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for Avocado Toast with specific customizations at Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T17:02:35.047Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T17:02:35.047Z] Customer: I want to order avocado toast.
+
+[2025-06-23T17:02:35.047Z] AI Agent: The Avocado Toast, great choice. That's toasted multigrain bread with mashed avocado and everything bagel seasoning. Let me get the options for your avocado toast... 
+
+[2025-06-23T17:02:35.048Z] AI Agent: Let's start with the Bagel Choice. For your Avocado Toast, you can choose from Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Croissant, Egg, Egg Everything, English Muffin, Garlic, French Toast BAGEL, French Toast ROLL, Gluten Free, Jalepeño Cheddar, Multigrain
+
+[2025-06-23T17:02:35.048Z] Customer: Okay. So I I want I want, multigrain bagel.
+
+[2025-06-23T17:02:35.048Z] AI Agent: Multigrain Bagel is a great choice for your Avocado Toast. Now, let's move on to the Condiments. You can choose from Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, Tomato Spread, Butter, Cream Cheese, Flavor CC, or Jelly. Which one would you like? Remember, you can choose up to 10 condiments if you'd like.
+
+[2025-06-23T17:02:35.048Z] Customer: Mustard. Mustard. Mustard.
+
+[2025-06-23T17:02:35.048Z] AI Agent: Mustard it is. I've added mustard to your Avocado Toast on a Multigrain Bagel. Next, let's talk about adding some vegetables. You can choose from Lettuce, Tomato, Red Onions, Avocado, Spinach, Cucumber, Green Peppers, Capers, Roasted Red Peppers, Grilled Onions, or Jalapeño Peppers. Which ones would you like to add? Remember, you can choose up to 11 vegetables.
+
+[2025-06-23T17:02:35.048Z] Customer: Okay. I want to have have tomato and cucumber.
+
+[2025-06-23T17:02:35.048Z] AI Agent: I've added tomato and cucumber to your Avocado Toast on a Multigrain Bagel with mustard. Next, let's consider adding some extra breakfast meat. You can choose from Extra Bacon, Extra Pork Roll, Extra Sausage, Extra Ham, Extra Turkey Sausage, Extra Turkey Bacon, Steak, Extra Deli Turkey, Extra Grilled Chicken, or Extra Pastrami. Would you like to add any of these? Remember, you can choose up to 10 extra breakfast meats.
+
+[2025-06-23T17:02:35.048Z] Customer: Can you get me extra grilled chicken only?
+
+[2025-06-23T17:02:35.048Z] AI Agent: I've added extra grilled chicken to your Avocado Toast on a Multigrain Bagel with mustard, tomato, and cucumber. Now, let's see if you'd like to add some lox. You can choose to add lox for an additional cost. Would you like to add lox to your Avocado Toast?
+
+[2025-06-23T17:02:35.048Z] Customer: Yeah. Please add it.
+
+[2025-06-23T17:02:35.048Z] AI Agent: So, no lox for you. Next, let's consider adding a hard-boiled egg. You can choose to add a
+
+[2025-06-23T17:02:35.048Z] Customer: No. No. I said add it. I said add add the add. No. No. I said add, the logs. Okay? I want that.
+
+[2025-06-23T17:02:35.048Z] AI Agent: I've added lox to your Avocado Toast on a Multigrain Bagel with mustard, tomato, cucumber, and extra grilled chicken. Now, let's see if you'd like to add a hard-boiled egg. You can choose to add a hard-boiled egg for an additional cost. Would you like to add a hard-boiled egg to your Avocado Toast?
+
+[2025-06-23T17:02:35.049Z] Customer: No. I don't want to add any egg into the into my order.
+
+[2025-06-23T17:02:35.049Z] AI Agent: I've noted that you don't want to add any eggs to your order. So, to confirm, your Avocado Toast order consists of a Multigrain Bagel with mustard, tomato, cucumber, extra grilled chicken, and lox. Is that all correct?
+
+[2025-06-23T17:02:35.049Z] Customer: Yeah. All good.
+
+[2025-06-23T17:02:35.049Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-23T17:02:35.049Z] AI Agent: {'result': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 425593. That's 4, 2, 5, 5, 9, 3. Total: $20.86 (subtotal 18.97 dollars plus 1.89 dollars tax). Thank you for your order!", 'responseType': 'tool-response', 'success': True, 'orderNumber': '425593', 'orderTotal': 20.86, 'itemCount': 1, 'customer': '', 'orderSummary': {'orderNumber': '425593', 'callId': 'fdc352fb-6faa-41c5-851c-3a74331929dc', 'tenantName': 'manhattan_bagel_864915', 'storeId': '1', 'customer': {'name': '', 'contact_number': '', 'country_code': '+1', 'customer_email': 'noemail@example.com', 'full_address': 'Pickup Order - No Address Required', 'locality': 'Restaurant Location', 'payment_method_preference': 'cash', 'preferred_time_for_delivery_pickup': 'pickup'}, 'items': [{'item_name': 'Avocado Toast', 'ref_id': 'itm_8adb5606-5883-44cc-ae71-a719b853746e', 'quantity': 1, 'base_price': 6.99, 'modifier_groups': [{'group_title': 'Bagel Choice', 'option_title': 'Multigrain Bagel', 'price': 0, 'quantity': 1, 'group_ref_id': 'mg1409528', 'option_ref_id': '5709032'}, {'group_title': 'Condiments', 'option_title': 'Mustard', 'price': 0, 'quantity': 1, 'group_ref_id': 'mg1409532', 'option_ref_id': '5709073'}, {'group_title': 'Add Vegetables', 'option_title': 'Tomato', 'price': 1, 'quantity': 1, 'group_ref_id': 'mg1409533', 'option_ref_id': '5709081'}, {'group_title': 'Add Vegetables', 'option_title': 'Cucumber', 'price': 1, 'quantity': 1, 'group_ref_id': 'mg1409533', 'option_ref_id': '5709085'}, {'group_title': 'Extra Breakfast Meat', 'option_title': 'Extra Grilled Chicken', 'price': 3.99, 'quantity': 1, 'group_ref_id': 'mg1409535', 'option_ref_id': '5709102'}, {'group_title': 'Lox', 'option_title': 'Add Lox', 'price': 5.99, 'quantity': 1, 'group_ref_id': 'mg1409541', 'option_ref_id': '5709113'}], 'item_total_price': 18.97, 'category': 'Uncategorized', 'description': '', 'food_type': '1', 'taxes': []}], 'itemCount': 1, 'subtotal': 18.97, 'specialInstructions': '', 'placedAt': '2025-06-23T17:01:43.165Z'}, 'externalApiResponse': {'status': 'success', 'message': 'Order processed', 'order_request_id': 'e756b5e4-700c-4c75-a6b2-504f423050ac', 'order_total_price': 20.86, 'total_tax_applied': 1.89}, 'externalApiSubmitted': True}
+
+[2025-06-23T17:02:35.049Z] AI Agent: Order placed successfully. Your order number is 4, 2, 5, 5, 9, 3. Your total comes out to be 20 dollars and 86 cents, which includes a subtotal of 18 dollars and 97 cents, plus 1 dollar and 89 cents in tax. We'll have that ready for you shortly here at Manhattan Bagel. Thank you for your order.
+
+[2025-06-23T17:02:35.049Z] Customer: Okay. Thank you so much.
+
+[2025-06-23T17:02:35.049Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, we'll see you soon at Manhattan Bagel to pick up your Avocado Toast. Have a great day! Alright, let me hang up the call for you... 
+
+[2025-06-23T17:02:35.049Z] AI Agent: OK

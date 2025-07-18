@@ -1,0 +1,48 @@
+Call ID: 685703261be7d3da06d87e96
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T19:08:22.079Z
+End Time: 2025-06-21T19:10:15.351Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a medium hot tea with half and half from Manhattan Bagel, but the order placement failed due to an internal server error.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T19:10:15.124Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T19:10:15.124Z] Customer: I want to order a hot tea.
+
+[2025-06-21T19:10:15.124Z] AI Agent: The hot tea, excellent choice. Let me get the options for your tea... 
+
+[2025-06-21T19:10:15.125Z] AI Agent: For your hot tea, we have several options. Let's start with the size. You can choose from Small 12oz, Medium 16oz, Large 20oz, or X Large 24oz. Which size would you like?
+
+[2025-06-21T19:10:15.125Z] Customer: Medium size.
+
+[2025-06-21T19:10:15.125Z] AI Agent: So you'd like a Medium 16oz hot tea. Next, let's talk about the roast. We have House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, or Tea. Which one sounds good to you?
+
+[2025-06-21T19:10:15.125Z] Customer: Just the only.
+
+[2025-06-21T19:10:15.125Z] AI Agent: So you'd
+
+[2025-06-21T19:10:15.125Z] Customer: No sugar. Nothing. Just make sure medium size and tea. That's it. And half and half milk as well.
+
+[2025-06-21T19:10:15.125Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-21T19:10:15.125Z] AI Agent: Added 1 item(s) to your cart. Total: $2.49
+
+[2025-06-21T19:10:15.126Z] AI Agent: Alright, I've added the medium hot tea with half and half to your order. Your total comes out to be $2.49. Would you like to order anything else?
+
+[2025-06-21T19:10:15.126Z] Customer: No.
+
+[2025-06-21T19:10:15.126Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-21T19:10:15.126Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-21T19:10:15.126Z] AI Agent: I'm so sorry, but it seems like there's been an error placing your order. Let me try again. 
+
+[2025-06-21T19:10:15.126Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-21T19:10:15.126Z] AI Agent: I

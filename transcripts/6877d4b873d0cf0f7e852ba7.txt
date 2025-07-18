@@ -1,0 +1,24 @@
+Call ID: 6877d4b873d0cf0f7e852ba7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T16:35:04.262Z
+End Time: 2025-07-16T16:36:18.195Z
+Duration: 71 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered a Big Breakfast Bundle from Manhattan Bagel with specific bagel and cream cheese selections.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T16:36:17.476Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T16:36:17.476Z] Customer: Hey. Hi. Yeah. I'd like to order a quick bit, breakfast bundle.
+
+[2025-07-16T16:36:17.476Z] AI Agent: The Big Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Would you like to choose the types of bagels, cream cheese, and muffins, or would you like me to suggest some popular options?
+
+[2025-07-16T16:36:17.476Z] Customer: Okay. Give me, five sesame, five everything, two vanilla, and, rest as everything bagel.
+
+[2025-07-16T16:36:18.195Z] Unknown: [2025-07-16T16:36:17.476Z] assistant: For the Big Breakfast Bundle, you'd like 5 Sesame bagels, 5 Everything bagels, and 2 Vanilla bagels, and the rest as Everything bagels. That's a total of 13 bagels.
+
+Now, let's move on to the cream cheese. We have a variety of flavors to choose from. Which two flavors would you like for your 2 tubs of cream cheese? We have Plain, Vegetable, Scallion, Strawberry, and many more.

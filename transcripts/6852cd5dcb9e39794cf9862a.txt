@@ -1,0 +1,80 @@
+Call ID: 6852cd5dcb9e39794cf9862a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T14:29:49.927Z
+End Time: 2025-06-18T14:35:31.755Z
+Duration: 360 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rifat placed an order for a medium blackberry lemonade and an Avocado BLT Sandwich on a gluten-free bagel with jelly and cucumber for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T14:35:29.767Z] AI Agent: Hello Rifat, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T14:35:29.767Z] Customer: Hi. Hey. Hi. I I'd like to order, medium lemonade, in drink and, avocado BLT sandwich.
+
+[2025-06-18T14:35:29.767Z] AI Agent: I found a few options for lemonade. We have a small 16-ounce lemonade for $3.49, a medium 24-ounce lemonade for $3.99, and a large 32-ounce lemonade for $4.49. Which size would you like? And would you prefer classic, blackberry, strawberry, or mango lemonade?
+
+[2025-06-18T14:35:29.767Z] Customer: I need, blackberry lemonade and medium size.
+
+[2025-06-18T14:35:29.767Z] AI Agent: So, I've got a medium blackberry lemonade for you. That's $3.99. Now, let me check on the BLT sandwich for you.
+
+[2025-06-18T14:35:29.767Z] AI Agent: I found the Avocado BLT Sandwich for $9.99. It comes with turkey-bacon, avocado, lettuce, tomato, and roasted tomato spread on a thintastic bagel. What would you like as your side? We have chips, cole slaw, or Lays chips for $1 extra.
+
+[2025-06-18T14:35:29.768Z] Customer: Tips.
+
+[2025-06-18T14:35:29.768Z] AI Agent: For the Avocado BLT Sandwich, would you like it on plain bagel, everything bagel, Asiago bagel, or one of our other options? We also have a gluten-free bagel for $1 extra. Which one sounds good to you?
+
+[2025-06-18T14:35:29.768Z] Customer: 
+
+[2025-06-18T14:35:29.768Z] AI Agent: So, you'd like the Avocado BLT Sandwich on a gluten-free bagel. That's a total of $9.99 for the sandwich plus $1 for the 
+
+[2025-06-18T14:35:29.768Z] AI Agent: I hope you are still with me!
+
+[2025-06-18T14:35:29.768Z] Customer: 
+
+[2025-06-18T14:35:29.768Z] AI Agent: So, you'd like the Avocado BLT Sandwich on a gluten-free bagel. That's a total of $9.99 for the sandwich plus $1 for the gluten-free bagel, making it $10.99. Would you like it toasted, lightly toasted, or not toasted at all?
+
+[2025-06-18T14:35:29.768Z] Customer: I don't want to toast.
+
+[2025-06-18T14:35:29.768Z] AI Agent: So, you'd like the Avocado BLT Sandwich on a gluten-free bagel, not toasted. That's $10.99. Would you like to add any condiments like salt, pepper, ketchup, mayo, mustard, or hot sauce? Or perhaps some butter or cream cheese for $1, or jelly for $0.75?
+
+[2025-06-18T14:35:29.768Z] Customer: Jelly.
+
+[2025-06-18T14:35:29.768Z] AI Agent: You'd like to add jelly to your Avocado BLT Sandwich on a gluten-free bagel. That's an additional $0.75, making your total $11.74. Now, let's talk about adding cheese. We have American, Swiss, Cheddar, Provolone, Muenster, or Pepper Jack for $1.49 each. Would you like to add any of these cheeses?
+
+[2025-06-18T14:35:29.769Z] Customer: Notice.
+
+[2025-06-18T14:35:29.769Z] AI Agent: You don't want to add any cheese. Now, let's see if you want to double the lunch protein for $4.99 or add any veggies like avocado, spinach, cucumber, green peppers, roasted red peppers, grilled yellow onions, jalapeno peppers, or capers for $1 each. Or maybe some lettuce, tomato, or onion, which are free?
+
+[2025-06-18T14:35:29.769Z] Customer: I don't want these. Just, if you if you can add some veggies, like tomato and, cucumber.
+
+[2025-06-18T14:35:29.769Z] AI Agent: So, you'd like to add some veggies to your Avocado BLT Sandwich on a gluten-free bagel. You've already got avocado, lettuce, and tomato as part of the sandwich, and you'd like to add cucumber. That's an additional $1. Your total now is $12.74. Anything else you'd like to add or change?
+
+[2025-06-18T14:35:29.769Z] Customer: No.
+
+[2025-06-18T14:35:29.769Z] AI Agent: Your order is a medium blackberry lemonade for $3.99 and an Avocado BLT Sandwich on a gluten-free bagel with jelly and cucumber for $12.74. Your total comes out to be $16.73. I will now add these items to your order.
+
+[2025-06-18T14:35:29.769Z] AI Agent: Your order now includes a medium blackberry lemonade and an Avocado BLT Sandwich on a gluten-free bagel with jelly and cucumber. Your total is $16.73. Is that all for today?
+
+[2025-06-18T14:35:29.769Z] Customer: Yes.
+
+[2025-06-18T14:35:29.769Z] AI Agent: Your total comes out to be 1673 cents. Is this correct?
+
+[2025-06-18T14:35:29.769Z] Customer: Yeah. Right.
+
+[2025-06-18T14:35:29.770Z] AI Agent: Do you have any special requests or allergies I should note?
+
+[2025-06-18T14:35:29.770Z] Customer: No.
+
+[2025-06-18T14:35:29.770Z] AI Agent: Are you ready to place this order for pickup?
+
+[2025-06-18T14:35:29.770Z] Customer: Yes.
+
+[2025-06-18T14:35:29.770Z] AI Agent: Your order number is 6-7-2-1-3-8. Your total is $18.40, which includes a subtotal of $16.73 and $1.67 in tax. We'll have your order ready for pickup. Is there anything else I can help you with?
+
+[2025-06-18T14:35:29.770Z] Customer: No. Thank you so much. Bye.
+
+[2025-06-18T14:35:29.770Z] AI Agent: OK

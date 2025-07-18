@@ -1,0 +1,66 @@
+Call ID: 6857157d1be7d3da06d95dd9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T20:26:37.029Z
+End Time: 2025-06-21T20:30:37.385Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer placed an order for a Manhattan Cheesesteak Sandwich with Chips as their side.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T20:30:36.964Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot, an AI Assistant, and How can I assist you today?
+
+[2025-06-21T20:30:36.964Z] Customer: Yeah. I'd like to make an order.
+
+[2025-06-21T20:30:36.964Z] AI Agent: I'd be happy to help you with that. What can I get for you today? We have a variety of bagels, sandwiches, and other delicious items on our menu.
+
+[2025-06-21T20:30:36.964Z] Customer: Okay. So, can you recommend me something?
+
+[2025-06-21T20:30:36.964Z] AI Agent: We have a lot of popular items on our menu. One of our favorites is the Big Breakfast Burrito, it's a hearty option with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, and cheddar, all wrapped up in a flour tortilla. Or if you're in the mood for something a little lighter, our Avocado Toast on multigrain toast or any bagel is a great choice. We also have a variety of sandwiches, like the Classic Crossant or the Philly Steak Egg and Cheese. Which one of these sounds good to you, or would you like me to recommend something else?
+
+[2025-06-21T20:30:36.965Z] Customer: Okay. So, actually, I'm looking for lunch, anything which is, full for me as a single person.
+
+[2025-06-21T20:30:36.965Z] AI Agent: For lunch, we have a lot of great options that are perfect for one person. One of our most popular items is the Chelsea Grilled Chicken, it's grilled chicken, roasted peppers, pepper jack cheese, and tomato spread on an Asiago bagel. We also have the Manhattan Cheesesteak Sandwich, which is grilled steak, roasted peppers,
+
+[2025-06-21T20:30:36.965Z] Customer: Okay. So I love to have the Manhattan cheesesteak done. Is it a sandwich or a bagel?
+
+[2025-06-21T20:30:36.965Z] AI Agent: The Manhattan Cheesesteak is a sandwich, and it's served on a long roll with grilled steak, roasted peppers, grilled onions, and cheese. Let me get the options for your long roll choices...
+
+[2025-06-21T20:30:36.965Z] AI Agent: I hope you are still with me!
+
+[2025-06-21T20:30:36.965Z] Customer: Yeah. I'm still here. Tell me.
+
+[2025-06-21T20:30:36.965Z] AI Agent: Let me get the options for your long roll choices... 
+
+[2025-06-21T20:30:36.965Z] AI Agent: For the Manhattan Cheesesteak, you can choose a side to go with it. We have Chips, Cole Slaw, or Lays Chips for a dollar extra. Which one would you like?
+
+[2025-06-21T20:30:36.966Z] Customer: Chips.
+
+[2025-06-21T20:30:36.966Z] AI Agent: So you'd like to go with the Chips as your side. Perfect, let me add that to your order... 
+
+[2025-06-21T20:30:36.966Z] AI Agent: Added 1 item(s) to your cart. Total: $10.49
+
+[2025-06-21T20:30:36.966Z] AI Agent: Alright, I've added the Manhattan Cheesesteak Sandwich with Chips to your order. Your total comes out to be $10.49. Would you like to add anything else to your order or is that all?
+
+[2025-06-21T20:30:36.966Z] Customer: Okay. I want to know, like, what all modification I can do with the Manhattan cheese stick sandwich.
+
+[2025-06-21T20:30:36.966Z] AI Agent: Let me see what modifications we can make to the Manhattan Cheesesteak Sandwich... 
+
+[2025-06-21T20:30:36.966Z] AI Agent: We can modify the Manhattan Cheesesteak Sandwich in a few ways. We can change the level of toasting on the roll, add extra cheese for a dollar forty-nine, or double the protein for four dollars and ninety-nine cents. Which of these modifications sounds good to you?
+
+[2025-06-21T20:30:36.966Z] Customer: No. I think, we can go ahead and make the make the order.
+
+[2025-06-21T20:30:36.967Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-21T20:30:36.967Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 908744. That's 9, 0, 8, 7, 4, 4. Total: $11.54 (subtotal 10.49 dollars plus 1.05 dollars tax). Thank you for your order!
+
+[2025-06-21T20:30:36.967Z] AI Agent: Alright, your order is placed. Your order number is 9, 0, 8, 7, 4, 4. Your total comes out to be 10 dollars and 49 cents for the sandwich, plus 1 dollar and 5 cents tax, making it a total of 11 dollars and 54 cents. We'll have that ready for you shortly. Thank you for your order!
+
+[2025-06-21T20:30:36.967Z] Customer: Okay. Bye.
+
+[2025-06-21T20:30:36.967Z] AI Agent: You're welcome, bye! 
+
+[2025-06-21T20:30:36.967Z] AI Agent: OK

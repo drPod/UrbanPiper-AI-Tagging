@@ -1,0 +1,78 @@
+Call ID: 68598b871be7d3da060fba63
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T17:14:47.429Z
+End Time: 2025-06-23T17:19:02.776Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin attempted to place an order for a Breakfast Bundle but encountered technical difficulties with the ordering system.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T17:19:01.252Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T17:19:01.254Z] Customer: Actually, I'm looking to order, breakfast bundle.
+
+[2025-06-23T17:19:02.776Z] Unknown: [2025-06-23T17:19:01.256Z] assistant: The Breakfast Bundle, great choice. That's one of our popular options, including 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and you can even add 4 ounces of premium Acme smoked nova for a bit extra. Let me get all the customization options for you. 
+
+
+
+[2025-06-23T17:19:01.264Z] AI Agent: Let's start with the Bagel Dozen. You need to choose exactly 13 bagels. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like?
+
+[2025-06-23T17:19:01.264Z] Customer: Can you do all 13 as, sorry, five everything? Five plain? And the rest of the like, how much is left?
+
+[2025-06-23T17:19:01.265Z] AI Agent: You'd like 5 Everything bagels and 5 Plain bagels. That's a total of 10 bagels so far. You still need to choose 3 more bagels to reach the total of 13. Which three would you
+
+[2025-06-23T17:19:01.272Z] Customer: Okay. You can, you can do Bluery.
+
+[2025-06-23T17:19:02.776Z] Unknown: [2025-06-23T17:19:01.272Z] assistant: You've added 3 Blueberry bagels to your selection. So, to recap, you have 5 Everything bagels, 5 Plain bagels, and 3 Blueberry bagels. That completes your Bagel Dozen.
+
+Next, let's move on to the Choose 2 Tubs of Spread. You need to select exactly 2 tubs of spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which two tubs of spread would you like?
+
+[2025-06-23T17:19:01.273Z] Customer: I love to have, plain cream cheese and strawberry.
+
+[2025-06-23T17:19:02.776Z] Unknown: [2025-06-23T17:19:01.273Z] assistant: You've chosen 1 tub of Plain Cream Cheese and 1 tub of Strawberry cream cheese. That completes your Choose 2 Tubs of Spread selection.
+
+Next, let's move on to the Choose 4 Muffins. You can choose between 1 to 4 muffins from our selection, which includes Blueberry, Corn, Double Chocolate, and more. Which muffins would you like?
+
+[2025-06-23T17:19:01.273Z] Customer: Okay. Two two corn and two chocolate chip.
+
+[2025-06-23T17:19:02.776Z] Unknown: [2025-06-23T17:19:01.273Z] assistant: You've chosen 2 Corn muffins and 2 Chocolate Chip muffins. That completes your Choose 4 Muffins selection.
+
+Finally, let's consider the Box of Coffee. This is an optional selection, and you can choose up to 1 box of coffee. We have flavors like House Blend, Decaf, Vanilla Hazelnut, and more. Would you like to add a box of coffee to your order?
+
+[2025-06-23T17:19:01.273Z] Customer: How's blend?
+
+[2025-06-23T17:19:02.776Z] Unknown: [2025-06-23T17:19:01.273Z] assistant: You've chosen the House Blend for your Box of Coffee. That's a great choice.
+
+Now, let me just confirm your entire order. You've selected the Breakfast Bundle, which includes 13 bagels - 5 Everything, 5 Plain, and 3 Blueberry. You've also chosen 2 tubs of spread - 1 Plain Cream Cheese and 1 Strawberry. For muffins, you've selected 2 Corn and 2 Chocolate Chip. And finally, you've added a Box of House Blend Coffee.
+
+Before I place your order, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-23T17:19:01.273Z] Customer: No. I don't have. Just make sure, like, in the in the order, I should have a couple of napkins.
+
+[2025-06-23T17:19:02.776Z] Unknown: [2025-06-23T17:19:01.273Z] assistant: I've added a note to include a couple of napkins with your order.
+
+Alright, let me get this order placed for you. 
+
+
+
+[2025-06-23T17:19:01.273Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T17:19:02.776Z] Unknown: [2025-06-23T17:19:01.273Z] assistant: I apologize, but it seems like there's been an error in placing your order. Let me try again. 
+
+
+
+[2025-06-23T17:19:01.274Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T17:19:02.776Z] Unknown: [2025-06-23T17:19:01.274Z] assistant: It seems like the issue persists. I'm going to try to break down the order to see if that helps. 
+
+First, let me try to place the order without the special instructions. 
+
+
+
+[2025-06-23T17:19:01.274Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T17:19:01.274Z] AI Agent: I apologize, but it seems like there's 

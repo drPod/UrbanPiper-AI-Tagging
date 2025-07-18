@@ -1,0 +1,38 @@
+Call ID: 686eab6ad14f3abcfb3dfa72
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T17:48:26.747Z
+End Time: 2025-07-09T17:49:34.412Z
+Duration: 64 seconds
+From: 919780032269
+To: 918035740152
+Summary: John placed an order for a Mint Oreo Chillerz and confirmed it was ready to be processed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T17:49:34.120Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T17:49:34.120Z] Customer: I'm into retailers.
+
+[2025-07-09T17:49:34.120Z] AI Agent: Got it. You'll need to pick just one size for your Mint Oreo Chillerz. We have
+
+[2025-07-09T17:49:34.120Z] Customer: 16 ounce. And that's it.
+
+[2025-07-09T17:49:34.120Z] AI Agent: Perfect. Alright, that's one Mint Oreo Chillerz in sixteen ounces. Is there anything else I can get for you today?
+
+[2025-07-09T17:49:34.120Z] Customer: No. Thank you so much.
+
+[2025-07-09T17:49:34.120Z] AI Agent: Okay, so I have your Mint Oreo Chillerz in sixteen ounces. Let me get that all put together for you.
+
+[2025-07-09T17:49:34.120Z] Customer: Okay.
+
+[2025-07-09T17:49:34.120Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 713125. That's 7, 1, 3, 1, 2, 5.", 'order_id': '713125', 'call_id': 'd4be1ed3-af42-49b9-a8eb-a307520db0e7', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f04e-4206-e60f-92d9-f696a8292d5c'}
+
+[2025-07-09T17:49:34.120Z] AI Agent: Your order has been placed successfully! Your order number is seven, one,
+
+[2025-07-09T17:49:34.120Z] Customer: Can you please call the change order tool?
+
+[2025-07-09T17:49:34.121Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T17:49:34.121Z] AI Agent: I'm sorry, there was an issue with processing your request. Is there anything else I can assist you with?

@@ -1,0 +1,36 @@
+Call ID: 68715bd05560c851d624643d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T18:45:36.937Z
+End Time: 2025-07-11T18:46:44.698Z
+Duration: 66 seconds
+From: +13477352619
+To: +16204558091
+Summary: The customer ordered a Poppy Seed bagel, lightly toasted with plain cream cheese.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T18:46:44.432Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-11T18:46:44.432Z] Customer: I'd like a poppy seed bagel with plain cream cheese lightly toasted.
+
+[2025-07-11T18:46:44.432Z] AI Agent: Got it! You'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, and Poppy Seed. Would you like one of these, or should I list more options?
+
+[2025-07-11T18:46:44.432Z] Customer: I don't want a sandwich. I just want a bagel.
+
+[2025-07-11T18:46:44.432Z] AI Agent: Understood! For a single bagel, you'll need to pick just one from our options. We have
+
+[2025-07-11T18:46:44.433Z] Customer: Yeah. I I would like poppy seed lightly toasted with plain cream cheese.
+
+[2025-07-11T18:46:44.433Z] AI Agent: Perfect! Poppy Seed bagel, lightly toasted with plain cream cheese. Is there anything else I can get for you today?
+
+[2025-07-11T18:46:44.433Z] Customer: Nope.
+
+[2025-07-11T18:46:44.433Z] AI Agent: Okay, so I have your Poppy Seed bagel, lightly toasted with plain cream cheese. Let me get that all put together for you.
+
+[2025-07-11T18:46:44.433Z] Customer: Okay.
+
+[2025-07-11T18:46:44.434Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 304378. That's 3, 0, 4, 3, 7, 8.", 'order_id': '304378', 'call_id': '8d61f056-c527-4f80-9a35-00b97a5a8135', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197facf-906b-9c50-5c2d-da0f11ef6435'}
+
+[2025-07-11T18:46:44.434Z] AI Agent: Your order has been placed successfully! Your order number is three,

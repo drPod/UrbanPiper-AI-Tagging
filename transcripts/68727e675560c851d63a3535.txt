@@ -1,0 +1,22 @@
+Call ID: 68727e675560c851d63a3535
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T15:25:27.495Z
+End Time: 2025-07-12T15:26:28.166Z
+Duration: 57 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jutin ordered a Big City BLT sandwich from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T15:26:27.995Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T15:26:27.995Z] Customer: Get me BLT sandwich, avocado BLT sandwich. Hello?
+
+[2025-07-12T15:26:27.995Z] AI Agent: We have a Big City BLT sandwich. It comes with bacon, lettuce, tomato, and mayo on toasted multigrain bread. You'll need to pick just one lunch bread choice for your Big City BLT. We have Plain Bagel, Everything Bagel, Multigrain Bread, and Asiago Bagel. Which would you prefer?
+
+[2025-07-12T15:26:27.995Z] Customer: 
+
+[2025-07-12T15:26:27.995Z] AI Agent: You'll get the Big City BLT on multigrain bread. Now, would you like to add any extra items to your BLT, such as 

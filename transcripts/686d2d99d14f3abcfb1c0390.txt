@@ -1,0 +1,134 @@
+Call ID: 686d2d99d14f3abcfb1c0390
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T14:39:21.737Z
+End Time: 2025-07-08T14:45:44.945Z
+Duration: 381 seconds
+From: +19546835387
+To: +16204558091
+Summary: Robert placed an order for a dozen plain bagels, a Tuna Salad Sandwich, and a tub of plain cream cheese, totaling $32.12 for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T14:45:44.226Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T14:45:44.226Z] Customer: I wanna order a everything bagel.
+
+[2025-07-08T14:45:44.226Z] AI Agent: Alright, one everything bagel. Would you like to hear about the available customizations for your bagel?
+
+[2025-07-08T14:45:44.226Z] Customer: No. Actually, you know what? I wanna change that. I wanna order 50,000 plain bagels.
+
+[2025-07-08T14:45:44.226Z] AI Agent: I don't see an option for fifty thousand plain bagels on our menu. Let me share some options: We have single bagels, half dozen bagels, and dozen bagels. Would you like one of these or hear more options?
+
+[2025-07-08T14:45:44.226Z] Customer: I'll go with the dozen.
+
+[2025-07-08T14:45:44.230Z] AI Agent: Great choice! A dozen plain bagels. Would you like to hear about the available customizations for your dozen bagels?
+
+[2025-07-08T14:45:44.230Z] Customer: Can you tell me if, what is the bagel made out of? What does it come on? What comes with it?
+
+[2025-07-08T14:45:44.230Z] AI Agent: Plain bagels are made from a traditional wheat dough and are naturally vegan. They come in a dozen of the same kind, and you can choose to have them sliced if you'd like. Would you like to add slicing to your dozen plain bagels for an additional $1.50?
+
+[2025-07-08T14:45:44.230Z] Customer: No. But I do wanna get one of them with, tuna fish. Can I get a tuna on the side?
+
+[2025-07-08T14:45:44.230Z] AI Agent: I don't see tuna on our bagel menu as a direct option, but we do have a Tuna Salad Sandwich if you'd like to add that to your order. Would you like to hear more about it?
+
+[2025-07-08T14:45:44.230Z] Customer: Can I get it as a regular with the bread?
+
+[2025-07-08T14:45:44.230Z] AI Agent: I don't
+
+[2025-07-08T14:45:44.230Z] Customer: Instead of white bread?
+
+[2025-07-08T14:45:44.230Z] AI Agent: I don't see white bread as an option for our Tuna Salad Sandwich. Our sandwiches are served on a choice of bagels or bread listed in our menu. Would you like to hear the available bread or bagel options for the Tuna Salad Sandwich?
+
+[2025-07-08T14:45:44.230Z] Customer: Sure. Let me hear the bread.
+
+[2025-07-08T14:45:44.235Z] AI Agent: For the Tuna Salad Sandwich, you can choose from the following bread or bagel options: Plain, Everything, Asiago, Bialy, Cheesy Jalapeño Bacon Roll, Cheesy Hash Brown Roll, California Protein Bar, Chocolate Chip, Cinnamon Raisin, Egg, Egg 
+
+[2025-07-08T14:45:44.235Z] Customer: Plain. Plain.
+
+[2025-07-08T14:45:44.235Z] AI Agent: Got it! The Tuna Salad Sandwich will be on a plain bagel. Would you like to hear about any additional customizations or options for your sandwich?
+
+[2025-07-08T14:45:44.235Z] Customer: What comes on the sandwich?
+
+[2025-07-08T14:45:44.235Z] AI Agent: The Tuna Salad Sandwich comes with all white meat tuna salad, lettuce, and tomato. It also includes pickle and a choice of side. Would you like to hear the available side options?
+
+[2025-07-08T14:45:44.235Z] Customer: No.
+
+[2025-07-08T14:45:44.235Z] AI Agent: Alright, the Tuna Salad Sandwich will be on a plain bagel with lettuce, tomato, and pickle. Is there anything else I can get for you today?
+
+[2025-07-08T14:45:44.235Z] Customer: Mayonnaise on the side.
+
+[2025-07-08T14:45:44.235Z] AI Agent: Sure thing! I'll add mayo on the side for your Tuna Salad Sandwich. Is there anything else I can get for you today?
+
+[2025-07-08T14:45:44.235Z] Customer: Can I get a drink?
+
+[2025-07-08T14:45:44.235Z] AI Agent: Of course! We have a variety of drinks available. Would you like to hear about our hot coffee, iced coffee, hot chocolate, or other beverage options?
+
+[2025-07-08T14:45:44.236Z] Customer: No. No. No. A Coke.
+
+[2025-07-08T14:45:44.236Z] AI Agent: Got it! One Coke for your order. Is there anything else I can get for you today?
+
+[2025-07-08T14:45:44.236Z] Customer: So what do you have in the, cart right now?
+
+[2025-07-08T14:45:44.236Z] AI Agent: I currently have a dozen plain bagels and a Tuna Salad Sandwich on a plain bagel with mayo on the side, plus one Coke. Is there anything else I can get for you today?
+
+[2025-07-08T14:45:44.245Z] Customer: What about some cream cheese for the bagels? What kind of cream cheese you got?
+
+[2025-07-08T14:45:44.245Z] AI Agent: For your dozen plain bagels, we have several cream cheese options available: Plain, Vegetable, Store Made Vegetable (Chunky), Scallion/Onion Chive,
+
+[2025-07-08T14:45:44.245Z] Customer: Let me just keep playing.
+
+[2025-07-08T14:45:44.246Z] AI Agent: Sure thing! I'll add one tub of plain cream cheese to go with your dozen plain bagels. Is there anything else I can
+
+[2025-07-08T14:45:44.246Z] Customer: Can you give me a yep. Can you give me the breakdown on price on everything?
+
+[2025-07-08T14:45:44.945Z] Unknown: [2025-07-08T14:45:44.246Z] assistant: Sure! Let me break down the total for you:
+
+- A dozen plain bagels cost $16.99.
+- The Tuna Salad Sandwich on a plain bagel is $9.49.
+- Mayo on the side is an additional $0.75.
+- One Coke is $1.99.
+- One tub of plain cream cheese is $5.99.
+
+That brings your total to $34.11. Is there anything else I can get for you today?
+
+[2025-07-08T14:45:44.246Z] Customer: Repeat the total again.
+
+[2025-07-08T14:45:44.252Z] AI Agent: Of course! Let me go over the total again: - Dozen plain bagels: $16.99 - Tuna Salad Sandwich on plain bagel: $9.49 - Mayo on the side: $0.75 - One Coke: $1.99 - One tub of plain cream cheese: $5.99 Your total is $34.11. Is there anything else I
+
+[2025-07-08T14:45:44.252Z] Customer: Total that out one more time for me.
+
+[2025-07-08T14:45:44.252Z] AI Agent: Sure! Here's the total one more time: - Dozen plain bagels: $16.99 - Tuna Salad Sandwich on a plain bagel: $9.49 - Mayo on the side: $0.75 - One Coke: $1.99 - One tub of plain cream cheese: $5.99
+
+[2025-07-08T14:45:44.252Z] Customer: Always find it.
+
+[2025-07-08T14:45:44.252Z] AI Agent: Alright, the total for
+
+[2025-07-08T14:45:44.252Z] Customer: Of course. And that's fine. Which is which is all good. And Go ahead. What was the total again?
+
+[2025-07-08T14:45:44.252Z] AI Agent: The total for your order is $34.11. Is there anything else I can get for you today?
+
+[2025-07-08T14:45:44.252Z] Customer: You know what? The Coke, take that off.
+
+[2025-07-08T14:45:44.253Z] AI Agent: Sure thing! I'll remove the Coke from your order. Your new total is $32.12. Is there anything else I can get for you today?
+
+[2025-07-08T14:45:44.253Z] Customer: Okay. How can I pay for that?
+
+[2025-07-08T14:45:44.253Z] AI Agent: We accept cash payments for pickup orders. Your total of $32.12 will be ready for you when you come in. Is there anything else I can assist you with today?
+
+[2025-07-08T14:45:44.253Z] Customer: Am I able to pay for it now?
+
+[2025-07-08T14:45:44.253Z] AI Agent: We're set up for pickup only, so you'll pay when you come in to get your order. Your total of $32.12 will be ready for you then. Is there anything else I can get for you today?
+
+[2025-07-08T14:45:44.253Z] Customer: No. That's it. And what what what name do I pick it up under? You didn't get any of my info.
+
+[2025-07-08T14:45:44.253Z] AI Agent: May I have your name for the order?
+
+[2025-07-08T14:45:44.253Z] Customer: Robert.
+
+[2025-07-08T14:45:44.254Z] AI Agent: Got it, Robert! Your order will be ready for pickup under your name. See you soon!
+
+[2025-07-08T14:45:44.254Z] Customer: Okay. Thank you.
+
+[2025-07-08T14:45:44.254Z] AI Agent: You're

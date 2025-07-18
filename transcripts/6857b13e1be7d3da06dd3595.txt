@@ -1,0 +1,20 @@
+Call ID: 6857b13e1be7d3da06dd3595
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T07:31:10.243Z
+End Time: 2025-06-22T07:32:00.885Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jatin ordered a coffee from Manhattan Bagel, but the call ended before the order could be finalized.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T07:32:00.787Z] AI Agent: Hello Jatin, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T07:32:00.787Z] Customer: I want a coffee. Hello?
+
+[2025-06-22T07:32:00.787Z] AI Agent: I can help you with the coffee. The hot coffee, excellent choice. That's one of our popular options made just right to start your day off. Let me get the options for your coffee choices.
+
+[2025-06-22T07:32:00.788Z] AI Agent: Let's start with the size of your coffee. We have small, 12 ounces for $1.99, medium, 16 ounces for

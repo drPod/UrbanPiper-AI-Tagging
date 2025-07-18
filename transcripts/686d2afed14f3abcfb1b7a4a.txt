@@ -1,0 +1,110 @@
+Call ID: 686d2afed14f3abcfb1b7a4a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T14:28:14.867Z
+End Time: 2025-07-08T14:34:17.290Z
+Duration: 358 seconds
+From: 919780032269
+To: 918035740152
+Summary: John placed an order for two chocolate chip breakfast bagels and a medium iced coffee with Vanilla Hazelnut Blend, almond milk, and vanilla syrup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T14:34:15.428Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T14:34:15.429Z] Customer: Yeah. My name is John, and I want to order, two breakfast beaver and one iced coffee.
+
+[2025-07-08T14:34:15.429Z] AI Agent: Alright, two breakfast bagels and one iced coffee. Let me start with the breakfast bagels. Would you like to hear the available customizations for them?
+
+[2025-07-08T14:34:15.429Z] Customer: Yeah.
+
+[2025-07-08T14:34:15.429Z] AI Agent: Okay, let's start with the bagels. First, I'll need to choose a type for your breakfast bagels. We have a variety of options like Plain, Everything, Blueberry, Chocolate Chip, and more. Which type would you like for your first bagel?
+
+[2025-07-08T14:34:15.430Z] Customer: The chocolate chip.
+
+[2025-07-08T14:34:15.430Z] AI Agent: Got it, chocolate chip for the first bagel. Now, for the breakfast bagel, would you like to add any meat? We offer options like Bacon, Sausage, Ham, and more.
+
+[2025-07-08T14:34:15.430Z] Customer: The hand?
+
+[2025-07-08T14:34:15.430Z] AI Agent: Great choice, ham. Now, would you like to add any cheese to your breakfast bagel? We have American, Swiss, Cheddar, and other options available.
+
+[2025-07-08T14:34:15.430Z] Customer: Do you have strawberry?
+
+[2025-07-08T14:34:15.430Z] AI Agent: I don't see strawberry cheese on our menu. Our cheese options include American, Swiss, Cheddar, Muenster
+
+[2025-07-08T14:34:15.430Z] Customer: Okay. Add American.
+
+[2025-07-08T14:34:15.431Z] AI Agent: Alright, American cheese it is. Now, would you like your bagel toasted? You can choose from Toasted, Lightly Toasted, Toasted Dark, or No Toast.
+
+[2025-07-08T14:34:15.431Z] Customer: And the lightly toasted.
+
+[2025-07-08T14:34:15.431Z] AI Agent: Lightly toasted, perfect. Now, would you like to add any condiments to your breakfast bagel? We have options like Ketchup, Mayo, Mustard, and more.
+
+[2025-07-08T14:34:15.436Z] Customer: Sorry.
+
+[2025-07-08T14:34:15.436Z] AI Agent: No problem! For your breakfast bagel, would you like to add any condiments? We have Ketchup, Mayo
+
+[2025-07-08T14:34:15.436Z] Customer: No. No.
+
+[2025-07-08T14:34:15.437Z] AI Agent: Understood, no condiments for your first breakfast bagel. Now, would you like to add any vegetables to it? We have options like Lettuce, Tomato, and more.
+
+[2025-07-08T14:34:15.437Z] Customer: Yeah. Add lettuce, tomato, onion.
+
+[2025-07-08T14:34:15.437Z] AI Agent: Alright, adding lettuce, tomato, and onions to your first breakfast bagel. Now, moving on to your second breakfast bagel. Would you like the same type, or would you like to choose a different one?
+
+[2025-07-08T14:34:15.438Z] Customer: The same type.
+
+[2025-07-08T14:34:15.438Z] AI Agent: Got it, chocolate chip for the second bagel as well. Now, would you like to add meat to your second bagel? We have options like Bacon, Sausage, Ham, and more.
+
+[2025-07-08T14:34:15.438Z] Customer: No. I want completely same two labels.
+
+[2025-07-08T14:34:15.438Z] AI Agent: Alright, I'll make sure both breakfast bagels are the same—chocolate chip bagels with ham, American cheese, lightly toasted, and topped with lettuce, tomato, and onions. No condiments. Now, moving on to your iced
+
+[2025-07-08T14:34:15.438Z] Customer: Yeah.
+
+[2025-07-08T14:34:15.439Z] AI Agent: Okay, let's start with the size for your iced coffee. We have Small 16 ounce, Medium 24 ounce, and Large 32 ounce. Which size would you like?
+
+[2025-07-08T14:34:15.439Z] Customer: The medium the medium one.
+
+[2025-07-08T14:34:15.439Z] AI Agent: Medium it is, 24 ounces. Now, for your iced coffee, we have a few options like House Blend Coffee, Decaf Ice Coffee, and Vanilla Hazelnut Blend. Which one would you like?
+
+[2025-07-08T14:34:15.439Z] Customer: The third one.
+
+[2025-07-08T14:34:15.439Z] AI Agent: Got it, Vanilla Hazelnut Blend for your iced coffee. Now, would you like to add any milk to it? We offer Regular Milk, Half & Half, Skim, Almond, Oat, or Soy. Let me know your preference!
+
+[2025-07-08T14:34:15.440Z] Customer: In the all month.
+
+[2025-07-08T14:34:15.440Z] AI Agent: Almond milk, perfect choice. Now, would you like to add any sweeteners or syrups to your iced coffee? We have options like Sugar, Vanilla Syrup, Caramel Syrup, and more.
+
+[2025-07-08T14:34:15.440Z] Customer: And the one email?
+
+[2025-07-08T14:34:15.440Z] AI Agent: Vanilla syrup it is. Now, would you like to add whipped cream to your iced coffee for an extra touch? It's an additional $0.75.
+
+[2025-07-08T14:34:15.440Z] Customer: No. I don't want it.
+
+[2025-07-08T14:34:15.440Z] AI Agent: Understood, no whipped cream. So, to recap, you have two chocolate chip breakfast bagels with ham, American cheese, lightly toasted, and topped with lettuce, tomato, and onions. And for your iced coffee, you've chosen a medium Vanilla Hazelnut Blend with almond milk and vanilla syrup. Is there anything else I can get for you today?
+
+[2025-07-08T14:34:15.441Z] Customer: Is there any hot coffee also?
+
+[2025-07-08T14:34:15.441Z] AI Agent: I don't see hot coffee on our menu right now. We have iced coffee options available. Would you like to hear more about those or proceed with your current order?
+
+[2025-07-08T14:34:15.441Z] Customer: Okay. Finalize this.
+
+[2025-07-08T14:34:15.441Z] AI Agent: Okay, so I have two chocolate chip breakfast bagels and a medium iced coffee with Vanilla Hazelnut Blend, almond milk, and vanilla syrup. Is that all for you today?
+
+[2025-07-08T14:34:15.441Z] Customer: Yeah.
+
+[2025-07-08T14:34:15.442Z] AI Agent: Perfect, let me get that all put together for you.
+
+[2025-07-08T14:34:15.442Z] Customer: Yeah.
+
+[2025-07-08T14:34:15.442Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 838605. That's 8, 3, 8, 6, 0, 5.", 'order_id': '838605', 'call_id': '2ef9ac1d-21d6-45a4-81e2-a947c824725d', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197ea74-d250-f4d9-ea4b-d4827165f6b5'}
+
+[2025-07-08T14:34:15.442Z] AI Agent: Your order has been placed successfully! Your order number is eight, three, eight, six, zero, five. The total amount due is $27.98. That's twenty-seven dollars and ninety-eight cents. Thank you for your order, John!
+
+[2025-07-08T14:34:15.443Z] Customer: Welcome.
+
+[2025-07-08T14:34:15.443Z] AI Agent: You're welcome! If you need any help with your order or have any questions, feel free to ask. Enjoy your meal!
+
+[2025-07-08T14:34:15.443Z] Customer: Okay.

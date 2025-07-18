@@ -1,0 +1,44 @@
+Call ID: 6852dbf2cb9e39794cfcac9d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T15:32:02.402Z
+End Time: 2025-06-18T15:35:32.652Z
+Duration: 240 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rifat inquired about ordering an Avocado Toast and discussed various bagel options before the call ended abruptly.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T15:35:32.353Z] AI Agent: Hello Rifat, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T15:35:32.353Z] Customer: I want to order avocado toast.
+
+[2025-06-18T15:35:32.354Z] Customer: Hello?
+
+[2025-06-18T15:35:32.354Z] AI Agent: I found Avocado Toast for six dollars and ninety-nine cents. What type of bagel would you like? We have plain, everything, or sesame.
+
+[2025-06-18T15:35:32.354Z] Customer: What else?
+
+[2025-06-18T15:35:32.354Z] AI Agent: We also have Asiago for fifty cents extra, Blueberry, California for fifty cents extra, Cheesy Jalapeño Bacon Roll for one dollar extra, and many more. Would you like to hear about more options?
+
+[2025-06-18T15:35:32.354Z] Customer: 
+
+[2025-06-18T15:35:32.354Z] AI Agent: Your Avocado Toast with everything bagel has been added to your cart. The total comes out to be six dollars and ninety-nine cents. Would you like to add any condiments to your Avocado Toast? We have salt, pepper, ketchup, mayo, mustard, hot sauce, tomato spread, butter for one dollar, cream cheese for one dollar, flavor CC for one dollar and fifty cents, or jelly for seventy-five cents.
+
+[2025-06-18T15:35:32.354Z] Customer: Tell me, like, so far, like, what you have added?
+
+[2025-06-18T15:35:32.354Z] AI Agent: I've added an Avocado Toast with an everything bagel to your cart. The total comes out to be six dollars and ninety-nine cents.
+
+[2025-06-18T15:35:32.354Z] Customer: But I want to I want to change the bagel type.
+
+[2025-06-18T15:35:32.354Z] AI Agent: Your cart is now empty. Let's start again with the Avocado Toast. What type of bagel would you like? We have plain, everything, sesame, Asiago for fifty cents extra, Blueberry, California for fifty cents extra, and many more.
+
+[2025-06-18T15:35:32.354Z] Customer: What do you mean by many more? Can you tell me?
+
+[2025-06-18T15:35:32.354Z] AI Agent: We have a variety of bagel options. In addition to plain, everything, and sesame, we also have Asiago for fifty cents extra, Blueberry, California for fifty cents extra, Cheesy Jalapeño Bacon Roll for one dollar extra, Chocolate Chip, Cinnamon Raisin, Croissant for one dollar extra, Egg, Egg Everything, English Muffin, French Toast BAGEL, French Toast ROLL for fifty cents extra, Garlic, Gluten Free for one dollar and forty-nine cents, Honey Whole Wheat, Honey Whole Wheat Everything, Jalapeño Cheddar, Marble Rye Bread, Multigrain Bagel, Multigrain Bread, Onion, Poppy, Pumpernickel, Rainbow Bagel for one dollar extra, Rye, Roll, Salt, and Whole Wheat. Which one of these would you like?
+
+[2025-06-18T15:35:32.354Z] Customer: 
+
+[2025-06-18T15:35:32.354Z] AI Agent: I'll wait. Take your time.

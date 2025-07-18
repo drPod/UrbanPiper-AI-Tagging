@@ -1,0 +1,32 @@
+Call ID: 685ca5b632ebb07e594685f4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-26T01:43:18.190Z
+End Time: 2025-06-26T01:45:17.308Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer, Jitin, called to order a Breakfast Bundle from Manhattan Bagel but didn't complete the customization process.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-26T01:45:16.849Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-26T01:45:16.849Z] Customer: Looking to order breakfast bundle.
+
+[2025-06-26T01:45:16.849Z] AI Agent: The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. I just need to confirm a few details. For the bagels, would you like to choose a specific type or go with our assorted selection?
+
+[2025-06-26T01:45:16.849Z] AI Agent: For the Breakfast Bundle, let's start with the Bagel Dozen. You can choose exactly 13 bagels. Here are your options: Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, Bagel Stick. Do you want to hear more options?
+
+[2025-06-26T01:45:16.850Z] Customer: I think, not needed, actually.
+
+[2025-06-26T01:45:16.850Z] AI Agent: Let's move on to the next group. For the Bagel Dozen, you need to choose exactly 13 bagels. Here are 4 options to start: Plain, Everything, Asiago, Blueberry. Do you want to hear more options?
+
+[2025-06-26T01:45:16.850Z] Customer: No. No. No. I don't need to
+
+[2025-06-26T01:45:16.850Z] AI Agent: Let's move on
+
+[2025-06-26T01:45:16.850Z] Customer: No more options. Thank you so much.
+
+[2025-06-26T01:45:16.850Z] AI Agent: For the Choose 2 Tubs of

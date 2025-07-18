@@ -1,0 +1,68 @@
+Call ID: 685904a51be7d3da06fc9e15
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T07:39:17.719Z
+End Time: 2025-06-23T07:43:14.457Z
+Duration: 240 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh ordered a Breakfast Bundle with specific bagel, cream cheese, muffin, and coffee selections.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T07:43:14.128Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T07:43:14.128Z] Customer: Breakfast 1 tuh
+
+[2025-06-23T07:43:14.128Z] AI Agent: The Breakfast Bundle, excellent choice. That comes with thirteen bagels, two tubs of cream cheese, and four muffins. You can also add smoked nova for an extra $9.99. Would you like to add the smoked nova today?
+
+[2025-06-23T07:43:14.128Z] Customer: We'll decide about that later. Can we start with, choosing the options on request button?
+
+[2025-06-23T07:43:14.128Z] AI Agent: Let me get the options for your Breakfast Bundle. We have a few choices to make. First, for your two tubs of cream cheese, we have Plain, Vegetable, or Scallion. Which ones would you like?
+
+[2025-06-23T07:43:14.128Z] AI Agent: Let's
+
+[2025-06-23T07:43:14.128Z] Customer: One clay, one stallion.
+
+[2025-06-23T07:43:14.128Z] AI Agent: For your two tubs of cream cheese, you've chosen one Plain and one Scallion. Now, let's move on to your thirteen bagels. We have a variety of flavors to choose from, including Plain, Everything, Asiago, Blueberry, and many more. Which thirteen bagels would you like
+
+[2025-06-23T07:43:14.128Z] Customer: Give me, yeah, give me three plain, three asiago, three sesame.
+
+[2025-06-23T07:43:14.128Z] AI Agent: You'd like three Plain, three Asiago, and three Sesame bagels. That's a total of nine bagels so far. You still have four more bagels to choose. Would you like to add some other flavors or stick with one of these?
+
+[2025-06-23T07:43:14.128Z] Customer: Tell me more flavors.
+
+[2025-06-23T07:43:14.128Z] AI Agent: We have a wide range of flavors to choose from. In addition to Plain, Asiago, and Sesame, we also have Everything, Blueberry, California, Cheesy Jalepeño
+
+[2025-06-23T07:43:14.128Z] Customer: Give me two give me two everything and two, blueberry.
+
+[2025-06-23T07:43:14.128Z] AI Agent: You'd like to add two Everything and two Blueberry bagels to your selection. So, to recap, you now have three Plain, three Asiago, three Sesame, two Everything, and two Blueberry bagels. That completes your thirteen bagels. Next, let's move on to your four muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange to choose from. Which
+
+[2025-06-23T07:43:14.128Z] Customer: Give me three three blueberries and three corn.
+
+[2025-06-23T07:43:14.128Z] AI Agent: You'd like three Blueberry and one Corn muffin. That's a total of four muffins. Now, let's review your Breakfast Bundle:
+
+[2025-06-23T07:43:14.128Z] Customer: No. I said 3 three three blueberry and three corn.
+
+[2025-06-23T07:43:14.128Z] AI Agent: You wanted three Blueberry and three Corn muffins, but since you only need four muffins in total, let's adjust that to two Blueberry and two Corn muffins. Now, let's review your Breakfast Bundle: you have three Plain
+
+[2025-06-23T07:43:14.128Z] Customer: No. No. No. Give me okay. Four only. Give me all blueberry. All four blueberry.
+
+[2025-06-23T07:43:14.457Z] Unknown: [2025-06-23T07:43:14.128Z] assistant: You'd like all four muffins to be Blueberry. I've got that updated for you.
+
+Now, let's review your Breakfast Bundle: you have three Plain, three Asiago, three Sesame, two Everything, and two Blueberry bagels. And for your muffins, you've chosen all four to be Blueberry. 
+
+Next, would you like to add a box of coffee to your Breakfast Bundle? We have several flavors to choose from, including House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast.
+
+[2025-06-23T07:43:14.128Z] Customer: Give me, household.
+
+[2025-06-23T07:43:14.457Z] Unknown: [2025-06-23T07:43:14.128Z] assistant: You've chosen the House Blend for your box of coffee.
+
+Let me just recap your entire Breakfast Bundle: you have three Plain, three Asiago, three Sesame, two Everything, and two Blueberry bagels. For your spreads, you've chosen one Plain and one Scallion cream cheese. For your muffins, you've chosen all four to be Blueberry. And you've also added a box of House Blend coffee.
+
+Now, would you like to add smoked nova to your Breakfast Bundle for an extra $9.99?
+
+[2025-06-23T07:43:14.128Z] Customer: Non.
+
+[2025-06-23T07:43:14.128Z] AI Agent: You've decided not to add the smoked nova. Let me add your Breakfast Bundle 

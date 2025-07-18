@@ -1,0 +1,94 @@
+Call ID: 686b917a0ba117a21b259865
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T09:20:58.825Z
+End Time: 2025-07-07T09:26:22.736Z
+Duration: 319 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a Whitefish Salad with American cheese and an Egg and Cheese sandwich on a French Toast Bagel with Pepper Jack cheese, scrambled eggs, and vegetables.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T09:26:22.313Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T09:26:22.314Z] Customer: Yeah. I like to order, white fish salad and, American cheese, half pound. Also looking to order, some, I mean, egg and cheese sandwich.
+
+[2025-07-07T09:26:22.314Z] AI Agent: Alright, so I have the Whitefish Salad, that's a half pound, and you'd like American cheese with that. For the Egg and Cheese sandwich, what kind of bagel would you like? We have Plain, Everything, Asiago, Blueberry, California, and many more. Which one would you prefer?
+
+[2025-07-07T09:26:22.314Z] Customer: Can you please repeat?
+
+[2025-07-07T09:26:22.314Z] AI Agent: So, I have the Whitefish Salad, that's a half pound, and you'd like American cheese with that. Now, for the Egg and Cheese sandwich, I need to get a bagel choice from you. We have a variety of bagels such as Plain, Everything, Asiago, Blueberry, and more. Which bagel would you like for your Egg and Cheese sandwich?
+
+[2025-07-07T09:26:22.314Z] Customer: And how many I can choose?
+
+[2025-07-07T09:26:22.314Z] AI Agent: For the Egg and Cheese sandwich, you can choose one bagel. Would you like to hear some of our popular options or would you like me to list all the available bagels?
+
+[2025-07-07T09:26:22.314Z] Customer: Okay. I want to choose, ad whistle and, sorry, English mac and basil and, yeah.
+
+[2025-07-07T09:26:22.314Z] AI Agent: I don't see English Muffin Bagel on our menu. Let me share some options: Plain, Everything, Sesame, Asiago, and Blueberry. For the Egg and Cheese sandwich, you initially mentioned an Egg Bagel, which we do have. Would you like to go with the Egg Bagel or one of these other options?
+
+[2025-07-07T09:26:22.314Z] Customer: How about, French toast bagel?
+
+[2025-07-07T09:26:22.314Z] AI Agent: We do have a French Toast Bagel. So, for the Egg and Cheese sandwich, I can put that on a French Toast Bagel for you. Now, would you like to add any cheese to your Egg and Cheese sandwich? We have American, Swiss, Pepper Jack, Cheddar, Muenster, and Provolone. Which one would you like?
+
+[2025-07-07T09:26:22.314Z] Customer: Yeah. I want to have, double check.
+
+[2025-07-07T09:26:22.314Z] AI Agent: I don't see that you've completed your order. Is there anything else I can get for you today?
+
+[2025-07-07T09:26:22.314Z] Customer: I said Pepper Jack.
+
+[2025-07-07T09:26:22.314Z] AI Agent: So, for the Egg and Cheese sandwich on a French Toast Bagel, you'd like Pepper Jack cheese. Now, would you like your eggs scrambled or is there a specific way you'd like them prepared? We have scrambled or
+
+[2025-07-07T09:26:22.314Z] Customer: 
+
+[2025-07-07T09:26:22.314Z] AI Agent: So, for the Egg and Cheese sandwich on a French Toast Bagel with Pepper Jack cheese, you'd like scrambled eggs. Now, would you like to toast the bagel lightly, toasted, or toasted dark? Or would you prefer it not
+
+[2025-07-07T09:26:22.314Z] Customer: Light lightly toasted.
+
+[2025-07-07T09:26:22.314Z] AI Agent: So, for the Egg and Cheese sandwich on a French Toast Bagel with Pepper Jack cheese and scrambled eggs, you'd like the bagel lightly toasted. Now, is there anything else you'd like to add to your order, such as hash browns or any condiments?
+
+[2025-07-07T09:26:22.315Z] Customer: No. Vegetables, I want to have as cucumber and, lettuce. Also, roasted red pepper.
+
+[2025-07-07T09:26:22.315Z] AI Agent: I can add cucumber, lettuce, and roasted red peppers to your Egg and Cheese sandwich. So
+
+[2025-07-07T09:26:22.315Z] Customer: How many visitors I can add?
+
+[2025-07-07T09:26:22.315Z] AI Agent: For the Egg and Cheese sandwich, you can add up to 11 different vegetables. You've already chosen cucumber, lettuce, and roasted red peppers. Would you like to add any others, such as tomato, spinach, or avocado?
+
+[2025-07-07T09:26:22.315Z] Customer: No. No. No. That's all for now.
+
+[2025-07-07T09:26:22.315Z] AI Agent: Alright, so I have the Whitefish Salad, that's a half pound, with American cheese, and the Egg and Cheese sandwich on a French Toast Bagel with Pepper Jack cheese, scrambled eggs, lightly toasted, and with cucumber, lettuce, and roasted red peppers. Is that all for you today?
+
+[2025-07-07T09:26:22.315Z] Customer: 
+
+[2025-07-07T09:26:22.315Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-07T09:26:22.315Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-07T09:26:22.315Z] AI Agent: May I have your name for the order?
+
+[2025-07-07T09:26:22.316Z] Customer: Yeah. My name is Jitani.
+
+[2025-07-07T09:26:22.316Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-07T09:26:22.316Z] Customer: No. I don't have any as of now.
+
+[2025-07-07T09:26:22.316Z] AI Agent: Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-07T09:26:22.316Z] Customer: One second. No. I I'm good.
+
+[2025-07-07T09:26:22.316Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-07T09:26:22.316Z] Customer: Yeah.
+
+[2025-07-07T09:26:22.316Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-07T09:26:22.316Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 837444. That's 8, 3, 7, 4, 4, 4.", 'order_id': '837444', 'call_id': '17004e28-be94-4c85-9c8e-f90a51b89226', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e434-c4ba-1aad-5fc9-d2a7a4d3d3be'}
+
+[2025-07-07T09:26:22.317Z] AI Agent: Your order is created successfully now! The order number is 8, 3, 7, 4, 4, 4, and the total including taxes comes to $23.99. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-07T09:26:22.317Z] Customer: Okay. Thank you so much. Bye.
+
+[2025-07-07T09:26:22.317Z] AI Agent: OK

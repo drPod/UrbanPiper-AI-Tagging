@@ -1,0 +1,66 @@
+Call ID: 6852befbcb9e39794cf736c9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T13:28:27.411Z
+End Time: 2025-06-18T13:32:32.474Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: Bhanu placed an order for a customized Chelsea Grilled Chicken sandwich with chips, lightly toasted, and avocado for pickup at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T13:32:30.786Z] AI Agent: Hello Rahul, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T13:32:30.787Z] Customer: My name is Bahano, not Rahul.
+
+[2025-06-18T13:32:30.787Z] AI Agent: May I have your name for the order, please?
+
+[2025-06-18T13:32:30.787Z] Customer: My name is Bhanu.
+
+[2025-06-18T13:32:30.787Z] AI Agent: Hello Bhanu, welcome to Manhattan Bagel. How can I help you today?
+
+[2025-06-18T13:32:30.787Z] Customer: I like to order, avocado, grilled sandwich. Can you can you please tell me, do you have the avocado grilled sandwich which has some chicken?
+
+[2025-06-18T13:32:30.787Z] AI Agent: I found a few options for you. We have the Spicy Avocado Grilled Chicken sandwich for $10.49, the Protein Breakfast Wrap for $10.99, and the Chelsea Grilled Chicken sandwich for $10.49. Which one of these options sounds good to you?
+
+[2025-06-18T13:32:30.787Z] Customer: I think Chelsea grilled sandwich is good, like, where I can choose the avocado. Right?
+
+[2025-06-18T13:32:30.788Z] AI Agent: The Chelsea Grilled Chicken sandwich comes with roasted peppers, pepper jack cheese, and tomato spread on an Asiago bagel. You can choose to add avocado as an extra veggie option. Let's start with the lunch side. Which side would you like - chips, coleslaw, or Lays chips for an extra dollar?
+
+[2025-06-18T13:32:30.788Z] Customer: 
+
+[2025-06-18T13:32:30.788Z] AI Agent: For the Chelsea Grilled Chicken sandwich, which toast option would you like - toasted, lightly toasted, or toasted dark?
+
+[2025-06-18T13:32:30.788Z] Customer: Lightly toasted.
+
+[2025-06-18T13:32:30.788Z] AI Agent: Your current cart contains 1 Chelsea Grilled Chicken sandwich with chips, lightly toasted, and avocado for a total of $12.48. Anything else?
+
+[2025-06-18T13:32:30.788Z] Customer: No. That's all for now.
+
+[2025-06-18T13:32:30.789Z] AI Agent: Your total comes out to be 12 dollars and 48 cents. Are you ready to finalize this order for pickup?
+
+[2025-06-18T13:32:30.789Z] Customer: Give me one second, please.
+
+[2025-06-18T13:32:30.789Z] AI Agent: I'll wait for your confirmation to finalize the order. Take your time.
+
+[2025-06-18T13:32:30.789Z] AI Agent: I
+
+[2025-06-18T13:32:30.789Z] Customer: What what customization we have done so far?
+
+[2025-06-18T13:32:30.789Z] AI Agent: We've customized your Chelsea Grilled Chicken sandwich with chips as the lunch side, lightly toasted, and added avocado as an extra veggie option.
+
+[2025-06-18T13:32:30.789Z] Customer: Okay.
+
+[2025-06-18T13:32:30.789Z] AI Agent: So, to confirm, your Chelsea Grilled Chicken sandwich will have chips on the side, be lightly toasted, and include avocado. Your total comes out to be $12.48. Are you ready to finalize this order for pickup now?
+
+[2025-06-18T13:32:30.789Z] Customer: Yes.
+
+[2025-06-18T13:32:30.790Z] AI Agent: Your order has been placed successfully. Your order number is 5 1 5 6 4 5. Your order total is $13.73, which includes a subtotal of $12.48 and $1.25 in tax. Is there anything else I can help you with?
+
+[2025-06-18T13:32:30.790Z] Customer: No. Thank you.
+
+[2025-06-18T13:32:30.790Z] AI Agent: You're welcome, Bhanu. Have a great day and we'll see you soon at Manhattan Bagel for your pickup order, number 5 1 5 6 4 5.
+
+[2025-06-18T13:32:30.790Z] AI Agent: OK

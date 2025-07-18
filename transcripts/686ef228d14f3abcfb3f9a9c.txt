@@ -1,0 +1,116 @@
+Call ID: 686ef228d14f3abcfb3f9a9c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T22:50:16.091Z
+End Time: 2025-07-09T22:56:39.169Z
+Duration: 379 seconds
+From: +19493030106
+To: +16204558091
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T22:56:37.617Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-09T22:56:37.617Z] Customer: I would like to order something.
+
+[2025-07-09T22:56:37.618Z] AI Agent: You'll need to pick just one item to start with. We have a variety of breakfast sandwiches, bagels, pastries, and more. What would you like to order?
+
+[2025-07-09T22:56:37.618Z] Customer: 
+
+[2025-07-09T22:56:37.618Z] AI Agent: Got it. Now you'll need to pick just one bagel for your egg and cheese. We have Plain, Everything, Sesame, and Cinnamon Raisin. Would you like one of these, or should I list more options?
+
+[2025-07-09T22:56:37.618Z] Customer: But I didn't order bagel cheese.
+
+[2025-07-09T22:56:37.619Z] AI Agent: My apologies for the confusion. Let me start over. What would you like to order today?
+
+[2025-07-09T22:56:37.619Z] Customer: 
+
+[2025-07-09T22:56:37.619Z] AI Agent: You'll need to pick just one item to start with. We have a variety of
+
+[2025-07-09T22:56:37.619Z] Customer: Pizza bill though.
+
+[2025-07-09T22:56:37.620Z] AI Agent: I don't see pizza on our menu, but we do have a variety of bagels, breakfast sandwiches, pastries, and more. What would you like to order?
+
+[2025-07-09T22:56:37.620Z] Customer: Can can you list items?
+
+[2025-07-09T22:56:37.620Z] AI Agent: Sure thing! We have a variety of options including breakfast sandwiches, bagels, pastries, and more. Would you like to hear about the breakfast sandwiches first, or should I start with the bagels?
+
+[2025-07-09T22:56:37.620Z] Customer: Else. Bagels.
+
+[2025-07-09T22:56:37.620Z] AI Agent: Alright, for bagels we have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast Bagel, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Multigrain Bread, Marble Rye Bread, Asiago, California, Cheesy Hashbrown Roll, French Toast Roll, Bialy, Bagel Stick, Cheesy Jalapeño Bacon Roll, Croissant, Rainbow Bagel,
+
+[2025-07-09T22:56:37.621Z] Customer: What's in cheesy jalapeno?
+
+[2025-07-09T22:56:37.621Z] AI Agent: The Cheesy Jalapeño Bacon Roll is a bagel that includes a combination of cheese, jalapeños, and bacon. It's a flavorful option with a bit of spice. Would you like to order one of these for your bagel?
+
+[2025-07-09T22:56:37.621Z] Customer: Yes, please.
+
+[2025-07-09T22:56:37.621Z] AI Agent: Perfect! Now you'll need to pick just one spread for your Cheesy Jalapeño Bacon Roll. We have Butter, Plain Cream Cheese, Low-Fat Plain Cream Cheese, Grape Jelly, Strawberry Jelly, Vegetable, Scallion, Strawberry, Jalapeño, Honey Almond, Maple Raisin, Bacon Scallion, Olive Pimento, Low-Fat Vegetable, Hummus, Nutella, Avocado, Peanut Butter Cream Cheese, and Lox Cream Cheese. Which would you
+
+[2025-07-09T22:56:37.622Z] Customer: What's the most popular sprint?
+
+[2025-07-09T22:56:37.623Z] AI Agent: The most popular spread is Plain Cream Cheese. Would you like to go with that for your Cheesy Jalapeño Bacon Roll?
+
+[2025-07-09T22:56:37.623Z] Customer: Let's do this.
+
+[2025-07-09T22:56:37.623Z] AI Agent: Perfect! Now you'll need
+
+[2025-07-09T22:56:37.624Z] Customer: They got it.
+
+[2025-07-09T22:56:37.624Z] AI Agent: Got it!
+
+[2025-07-09T22:56:37.624Z] Customer: Can you imagine if we could describe every product we have? Yeah. Finish this first so we can discuss it. Okay. You wanna order a big deal, No. Just going to just going to go through the What are reasons? What What's next?
+
+[2025-07-09T22:56:37.625Z] AI Agent: You'll need to pick just one additional item to go with your bagel. Would you like to add a coffee or tea, or is there something else you'd like to order?
+
+[2025-07-09T22:56:37.625Z] Customer: Do I have to?
+
+[2025-07-09T22:56:37.625Z] AI Agent: You don't have to add anything else if you'd like to just have the bagel. Is that all for you today, or would you like to add something else?
+
+[2025-07-09T22:56:37.625Z] Customer: Let's add coffee.
+
+[2025-07-09T22:56:37.625Z] AI Agent: Great choice! You'll need to pick just one size for your coffee. We have Small twelve ounce for one ninety-nine, Medium sixteen ounce for two forty-nine, Large twenty ounce for two ninety-nine, and Extra Large twenty-four ounce for three forty-nine. Which size would you prefer?
+
+[2025-07-09T22:56:37.626Z] Customer: Extra large.
+
+[2025-07-09T22:56:37.626Z] AI Agent: Perfect! Now you'll need to pick just one coffee type. We have House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, or Tea. Which would you like?
+
+[2025-07-09T22:56:37.626Z] Customer: Cold brew.
+
+[2025-07-09T22:56:37.626Z] AI Agent: I don't see Cold Brew as a separate coffee type for hot drinks, but we do have Cold Brew Iced Coffee available. Would you like to go with Cold Brew Iced Coffee for your Extra Large size?
+
+[2025-07-09T22:56:37.626Z] Customer: Yes, please.
+
+[2025-07-09T22:56:37.627Z] AI Agent: Got it! For your Cold Brew Iced Coffee, you'll need to pick just one milk choice. We have Regular Milk, Half & Half, Skim, Almond for fifty cents extra, Oat Milk for eighty cents extra, or Soy for one dollar extra. Which would you prefer?
+
+[2025-07-09T22:56:37.627Z] Customer: Soy.
+
+[2025-07-09T22:56:37.627Z] AI Agent: Perfect! Now you'll need to pick just one sweetener or syrup for your Cold Brew Iced Coffee. We have Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, Pumpkin Syrup,
+
+[2025-07-09T22:56:37.628Z] Customer: Sugar.
+
+[2025-07-09T22:56:37.628Z] AI Agent: Got it! Your Cold Brew Iced Coffee will be made with Soy milk and sugar. Is there anything else I can get for you today?
+
+[2025-07-09T22:56:37.628Z] Customer: That will be it.
+
+[2025-07-09T22:56:37.628Z] AI Agent: Okay, so I have the Cheesy Jalapeño Bacon Roll with Plain Cream Cheese and an Extra Large Cold Brew Iced Coffee with Soy milk and sugar. Is that all for you today?
+
+[2025-07-09T22:56:37.629Z] Customer: Yes.
+
+[2025-07-09T22:56:37.629Z] AI Agent: Perfect, let me get that all put together for you.
+
+[2025-07-09T22:56:37.629Z] AI Agent: I hope you are still with me!
+
+[2025-07-09T22:56:37.629Z] Customer: Yes. We're still here.
+
+[2025-07-09T22:56:37.630Z] AI Agent: {"customer_name": "reason": "customer has finished ordering"}
+
+[2025-07-09T22:56:37.630Z] AI Agent: Invalid request JSON
+
+[2025-07-09T22:56:37.630Z] AI Agent: I hope you are
+
+[2025-07-09T22:56:37.630Z] Customer: What's next? What's next? I was confused. Are you confused?
+
+[2025-07-09T22:56:37.631Z] AI Agent: I apologize, but we're approaching our time limit. Do you want me to transfer this call to a human agent?

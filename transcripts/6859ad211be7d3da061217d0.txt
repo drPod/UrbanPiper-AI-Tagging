@@ -1,0 +1,50 @@
+Call ID: 6859ad211be7d3da061217d0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T19:38:09.883Z
+End Time: 2025-06-23T19:42:11.113Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for a Breakfast Bundle from Manhattan Bagel with specific customizations
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T19:42:09.699Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T19:42:09.700Z] Customer: I'm thinking to order, breakfast bundle.
+
+[2025-06-23T19:42:09.700Z] AI Agent: The Breakfast Bundle, great choice. That's one of our popular options, including 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get all the customization options for you.
+
+[2025-06-23T19:42:09.700Z] AI Agent: Let me get the options for your bagel choices. The available options are Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin
+
+[2025-06-23T19:42:09.700Z] Customer: Okay. So I want, three of Sesame, two of everything, and, rest of the thing, you can consider Bluberry.
+
+[2025-06-23T19:42:09.700Z] AI Agent: For the bagel dozen, you'd like 3 Asiago, 2 Everything, and the rest Blueberry. That's a total of 3 + 2 + 8 = 13 bagels, which fits perfectly. Next, let's move on to the "Choose 2 Tubs of Spread" group. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, and 
+
+[2025-06-23T19:42:09.701Z] Customer: Okay. So one, one plain and another could be, your strawberry. Right? You have we I have the strawberry option. Right?
+
+[2025-06-23T19:42:09.701Z] AI Agent: For the "Choose 2 Tubs of Spread" group, you'd like one Plain Cream Cheese and another Strawberry. That sounds great. Now, let's move on to the "Choose 4 Muffins" group. We have options like Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which ones would you like to choose? Remember, you can select between 1 and 4 muffins.
+
+[2025-06-23T19:42:09.701Z] Customer: Okay. I I want all of four, could be chocolate chip.
+
+[2025-06-23T19:42:09.701Z] AI Agent: For the "Choose 4 Muffins" group, you'd like all 4 to be Chocolate Chip. That's a great choice. Now, let's move on to the "Box of Coffee" group. We have options like House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. This is an optional selection, so you can choose up to 1 or none at all. Which one would you like?
+
+[2025-06-23T19:42:09.701Z] Customer: Howland.
+
+[2025-06-23T19:42:09.706Z] AI Agent: For the "Box of Coffee" group, you'd like to go with the House Blend. Alright, I have all your choices for the Breakfast Bundle noted down. Now, about that Breakfast Bundle you wanted... Does everything sound correct with that? Any changes or anything else you'd like to add before we place it?
+
+[2025-06-23T19:42:09.707Z] Customer: No. No, Jen. This sounds good to me. Like, whatever I wanted, it's all there.
+
+[2025-06-23T19:42:09.707Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-23T19:42:09.708Z] AI Agent: {'result': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 199962. That's 1, 9, 9, 9, 6, 2. Total: $62.12 (subtotal 56.48 dollars plus 5.64 dollars tax). Thank you for your order!", 'responseType': 'tool-response', 'success': True, 'orderNumber': '199962', 'orderTotal': 62.12, 'itemCount': 1, 'customer': '', 'orderSummary': {'orderNumber': '199962', 'callId': 'e9753003-6d77-4b5c-b255-3727b8af180c', 'tenantName': 'manhattan_bagel_864915', 'storeId': '1', 'customer': {'name': '', 'contact_number': '', 'country_code': '+1', 'customer_email': 'noemail@example.com', 'full_address': 'Pickup Order - No Address Required', 'locality': 'Restaurant Location', 'payment_method_preference': 'cash', 'preferred_time_for_delivery_pickup': 'pickup'}, 'items': [{'item_name': 'Breakfast Bundle', 'ref_id': 'itm_06c2dc2b-5b36-431b-a561-745023ca38be', 'quantity': 1, 'base_price': 29.99, 'modifier_groups': [{'group_title': 'Bagel Dozen', 'option_title': 'Asiago', 'price': 0.5, 'quantity': 3, 'group_ref_id': 'mg1409622', 'option_ref_id': '5709580'}, {'group_title': 'Bagel Dozen', 'option_title': 'Everything', 'price': 0, 'quantity': 2, 'group_ref_id': 'mg1409622', 'option_ref_id': '5709579'}, {'group_title': 'Bagel Dozen', 'option_title': 'Blueberry', 'price': 0, 'quantity': 8, 'group_ref_id': 'mg1409622', 'option_ref_id': '5709581'}, {'group_title': 'Choose 2 Tubs of Spread', 'option_title': 'Plain Cream Cheese', 'price': 0, 'quantity': 1, 'group_ref_id': 'mg1409626', 'option_ref_id': '5709607'}, {'group_title': 'Choose 2 Tubs of Spread', 'option_title': 'Strawberry', 'price': 0, 'quantity': 1, 'group_ref_id': 'mg1409626', 'option_ref_id': '5709615'}, {'group_title': 'Choose 4 Muffins', 'option_title': 'Chocolate Chip', 'price': 0, 'quantity': 4, 'group_ref_id': 'mg1409623', 'option_ref_id': '5709623'}, {'group_title': 'Box of Coffee', 'option_title': 'House Blend', 'price': 24.99, 'quantity': 1, 'group_ref_id': 'mg1409624', 'option_ref_id': '5709626'}], 'item_total_price': 56.48, 'category': 'Uncategorized', 'description': '', 'food_type': '1', 'taxes': []}], 'itemCount': 1, 'subtotal': 56.48, 'specialInstructions': '', 'placedAt': '2025-06-23T19:41:11.616Z'}, 'externalApiResponse': {'status': 'success', 'message': 'Order processed', 'order_request_id': '2aa0a910-2c75-4434-aed9-247a19a56811', 'order_total_price': 62.12, 'total_tax_applied': 5.64}, 'externalApiSubmitted': True}
+
+[2025-06-23T19:42:09.708Z] AI Agent: Alright, Jitin, your order is placed! Your order number is 1, 9, 9, 9, 6, 2. Your final total comes out to be $56.48 for the subtotal and $5.64 in tax, making it a total of $62.12. We'll have that ready for you shortly here at Manhattan Bagel!
+
+[2025-06-23T19:42:09.708Z] Customer: Okay. Thank you so much. Like, that's, I appreciate a lot. And, yeah, thank you so much.
+
+[2025-06-23T19:42:09.709Z] AI Agent: You're welcome, Jitin. It was my pleasure to assist you with your order. I hope you enjoy your Breakfast Bundle from Manhattan Bagel. If you need anything else or have any other questions, feel free to ask. Otherwise, have a great day and we'll see you soon. Bye for now.
+
+[2025-06-23T19:42:09.709Z] AI Agent: OK

@@ -1,0 +1,46 @@
+Call ID: 6868d7ac45548bd51ce0b4bb
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T07:43:40.370Z
+End Time: 2025-07-05T07:44:56.858Z
+Duration: 74 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin placed an order for a small decaf hot coffee with half-and-half milk and whipped cream at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T07:44:56.661Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T07:44:56.661Z] Customer: I need a hot coffee, half and half mil, small size, D Tap, and, with with whipped cream with the regular sugar.
+
+[2025-07-05T07:44:56.661Z] AI Agent: One small decaf hot coffee coming right up. I've got it with half-and-half milk and whipped cream, and you'd like regular sugar, correct?
+
+[2025-07-05T07:44:56.661Z] Customer: That's right.
+
+[2025-07-05T07:44:56.661Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-05T07:44:56.661Z] AI Agent: And may I have the name for this order?
+
+[2025-07-05T07:44:56.661Z] Customer: Yeah. My name is Jiten.
+
+[2025-07-05T07:44:56.661Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-05T07:44:56.661Z] Customer: No. Thank you for asking.
+
+[2025-07-05T07:44:56.661Z] AI Agent: Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-05T07:44:56.661Z] Customer: No. Good to go. Thank you.
+
+[2025-07-05T07:44:56.661Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-05T07:44:56.661Z] Customer: 
+
+[2025-07-05T07:44:56.661Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-05T07:44:56.662Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 168625. That's 1, 6, 8, 6, 2, 5.", 'order_id': '168625', 'call_id': 'afd1e157-5a82-4f14-872d-4fcbabc64c4e', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197d98b-6e05-b38b-0609-ddcf5070b59e'}
+
+[2025-07-05T07:44:56.662Z] AI Agent: Your order is all set. The order number is 1, 6, 8, 6, 2, 5, and the total comes to $4.25. We'll have that ready for you shortly. Thanks for calling. 
+
+[2025-07-05T07:44:56.662Z] AI Agent: OK

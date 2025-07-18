@@ -1,0 +1,42 @@
+Call ID: 686cc9fa0245c817843b20a6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T07:34:18.087Z
+End Time: 2025-07-08T07:37:12.890Z
+Duration: 170 seconds
+From: +910000000000
+To: +910000000000
+Summary: The customer ordered a Chicken Cuban sandwich with customizations and received an order number.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T07:37:10.525Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T07:37:10.525Z] Customer: Get me chicken Cuban, please.
+
+[2025-07-08T07:37:10.525Z] AI Agent: The Chicken Cuban sounds like a great choice. To confirm, you'd like to order the Chicken Cuban, which comes with grilled chicken, ham, Swiss cheese, pickle mustard, and mayo on a roll. Before I put that together for you, I just need to check a few things. For the Chicken Cuban, you'll need to pick a lunch side. We have chips, cole slaw, or Lays chips. Which one would you prefer?
+
+[2025-07-08T07:37:10.525Z] Customer: I'll go with the late shifts.
+
+[2025-07-08T07:37:10.525Z] AI Agent: For the Chicken Cuban, you've chosen the lettuce as your lunch side. Now, I'd like to offer you some additional options to customize your sandwich. You can add extra cheese, double the lunch protein, or choose from a variety of lunch veggies like avocado, spinach, or cucumber. Would you like to hear more about these options or would you like to keep your Chicken Cuban as is?
+
+[2025-07-08T07:37:10.525Z] Customer: Again, let's make as it is now. So you can make it light lightly toasted, some vegetables and extra cheese. And, and veg, veggie, I can, I love to have cucumber, tomato, and lettuce?
+
+[2025-07-08T07:37:10.525Z] AI Agent: I think there might be some confusion. You initially said you'd like to keep the Chicken Cuban as is, but now you're adding some customizations. Let me clarify: you'd like your Chicken Cuban to be lightly toasted, and you'd like to add some vegetables - specifically cucumber, tomato, and lettuce. You'd also like to add extra cheese. Is that correct?
+
+[2025-07-08T07:37:10.526Z] Customer: 
+
+[2025-07-08T07:37:10.526Z] AI Agent: So, to confirm, your Chicken Cuban will be lightly toasted, with cucumber, tomato, and lettuce added, and extra cheese. I'll make sure to get that just right for you. Is there anything else I can get for you today?
+
+[2025-07-08T07:37:10.526Z] Customer: 
+
+[2025-07-08T07:37:10.526Z] AI Agent: You're welcome. It was my pleasure to help. I'll go ahead and put your order in. We'll have your Chicken Cuban ready for you, lightly toasted with cucumber, tomato, lettuce, and extra cheese. If you need any changes or have any other questions, feel free to ask. Otherwise, we'll see you soon to pick up your order. Have a great day!
+
+[2025-07-08T07:37:10.526Z] Customer: Thank you.
+
+[2025-07-08T07:37:10.526Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 960953. That's 9, 6, 0, 9, 5, 3.", 'order_id': '960953', 'call_id': '0f49166d-b691-45dc-a8a5-41c1ab274307', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e8f7-6198-2833-1bf9-1e91f0153458'}
+
+[2025-07-08T07:37:10.527Z] Customer: May I know the, may I know the order ID?
+
+[2025-07-08T07:37:10.527Z] AI Agent: Your order number is 9 6 0 9 5 3. I hope that helps, and thank you again for choosing Manhattan Bagel. Have a great day.

@@ -1,0 +1,76 @@
+Call ID: 687269ed5560c851d6360669
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T13:58:05.320Z
+End Time: 2025-07-12T14:01:35.421Z
+Duration: 207 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer inquired about ordering from the Manhattan Bagel menu, specifically looking for the Avocado BLT sandwich, and the conversation proceeded to discuss menu items under the 'CATEGORY: Lunch'
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T14:01:34.931Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T14:01:34.931Z] Customer: I'm looking to order the avocado biryani sandwich.
+
+[2025-07-12T14:01:34.931Z] AI Agent: I don't see the Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?
+
+[2025-07-12T14:01:34.931Z] Customer: I don't understand, like, what menu you are referring because it's there in your menu structure.
+
+[2025-07-12T14:01:34.931Z] AI Agent: I don't see the Avocado BLT sandwich on our menu.
+
+[2025-07-12T14:01:34.931Z] Customer: Okay. Okay. Tell me the tell me the first line, of your manage structure.
+
+[2025-07-12T14:01:34.932Z] AI Agent: The first line of our menu structure is MANHATTAN BAGEL MENU - AI VALIDATION OPTIMIZED.
+
+[2025-07-12T14:01:34.932Z] Customer: Okay. Now in the same content, okay, do you see lunch?
+
+[2025-07-12T14:01:34.932Z] AI Agent: Yes, I see the category "CATEGORY: Lunch" in our menu structure.
+
+[2025-07-12T14:01:34.932Z] Customer: Okay. One second.
+
+[2025-07-12T14:01:34.932Z] AI Agent: I see the "Chelsea Grilled Chicken" and "Manhattan
+
+[2025-07-12T14:01:34.932Z] Customer: Okay.
+
+[2025-07-12T14:01:34.932Z] AI Agent: I
+
+[2025-07-12T14:01:34.932Z] Customer: Okay. The first one is Chelsea grilled chicken. Right?
+
+[2025-07-12T14:01:34.933Z] AI Agent: The first item under the
+
+[2025-07-12T14:01:34.933Z] Customer: First
+
+[2025-07-12T14:01:34.933Z] AI Agent: The first item under the "CATEGORY: Lunch" is indeed the "Chelsea Grilled Chicken" for $10.49. It comes with Grilled Chicken, roasted peppers, pepper jack cheese, and
+
+[2025-07-12T14:01:34.933Z] Customer: What is the second item? What is the second item?
+
+[2025-07-12T14:01:34.933Z] AI Agent: The second item under
+
+[2025-07-12T14:01:34.933Z] Customer: 
+
+[2025-07-12T14:01:34.933Z] AI Agent: The second item under the
+
+[2025-07-12T14:01:34.933Z] Customer: 
+
+[2025-07-12T14:01:34.934Z] AI Agent: The second item under the "CATEGORY: Lunch" is the "Manhattan Cheesesteak Sandwich" for $10.49. It comes with grilled steak, roasted peppers, grilled onions, and
+
+[2025-07-12T14:01:34.934Z] Customer: What is third item? What is third item?
+
+[2025-07-12T14:01:34.934Z] AI Agent: The third item under the "CATEGORY: Lunch" is the "Balsamic Grilled Chicken Wrap" for $10.49. It comes with Grilled
+
+[2025-07-12T14:01:34.934Z] Customer: Nice.
+
+[2025-07-12T14:01:34.934Z] AI Agent: The third item under the "CATEGORY: Lunch" is the "Balsamic Grilled Chicken Wrap" for $10.49. It comes with Grilled Chicken, lettuce, tomato, roasted red peppers, Provolone Cheese, and balsamic dressing in a tortilla.
+
+[2025-07-12T14:01:34.934Z] Customer: Yeah. So modified are wrap choice, lunch side, double lunch protein, lunch veggie. Right? And then, lunch bread option.
+
+[2025-07-12T14:01:34.934Z] AI Agent: The modifiers for the
+
+[2025-07-12T14:01:34.934Z] Customer: Correct.
+
+[2025-07-12T14:01:34.934Z] AI Agent: The modifiers for the Balsamic Grilled Chicken Wrap are: 1. Wrap Choice (mandatory: choose 1) - options are Flour or Wheat 2. Lunch Side (mandatory: choose 1) - options are Chips, Cole Slaw, or Lays Chips for $1.00 extra 3. Double Lunch Protein (optional: choose up to 1) - option is Double Lunch Protein for $4.99 extra 4. Lunch Veggies (optional: choose up to 1)
+
+[2025-07-12T14:01:34.934Z] Customer: Oke, oke.

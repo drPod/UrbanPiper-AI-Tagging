@@ -1,0 +1,32 @@
+Call ID: 685918db1be7d3da0600f419
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T09:05:31.110Z
+End Time: 2025-06-23T09:07:06.568Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle from Manhattan Bagel with thirteen Asiago bagels and two tubs of spread, but needed clarification on spread options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T09:07:06.325Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T09:07:06.325Z] Customer: I like to order breakfast bundle.
+
+[2025-06-23T09:07:06.325Z] AI Agent: The Breakfast Bundle, great choice. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T09:07:06.326Z] AI Agent: I've got all the options for your Breakfast Bundle. First, for the thirteen bagels, popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.
+
+[2025-06-23T09:07:06.326Z] Customer: Yeah. I'd like to have all 13 as, butter bagel.
+
+[2025-06-23T09:07:06.326Z] AI Agent: Butter Bagel isn't an option for the Bagel Dozen. You can choose from Plain, Everything, Asiago, and more. Which ones would you like?
+
+[2025-06-23T09:07:06.326Z] Customer: Asiago, all 13.
+
+[2025-06-23T09:07:06.326Z] AI Agent: Thirteen Asiago bagels. Next, for your two tubs of spread, we have Plain Cream Cheese, Vegetable Cream Cheese, and more. Which two would you like?
+
+[2025-06-23T09:07:06.326Z] Customer: I want, one as vanilla, and second one is vegetable.
+
+[2025-06-23T09:07:06.326Z] AI Agent: Vanilla and Vegetable Cream Cheese. Vanilla isn't an option for the spreads, but we do have Strawberry and Honey Almond. Would you like to choose one of those instead?

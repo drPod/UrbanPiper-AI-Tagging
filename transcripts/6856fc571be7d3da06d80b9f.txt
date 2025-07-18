@@ -1,0 +1,16 @@
+Call ID: 6856fc571be7d3da06d80b9f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T18:39:19.724Z
+End Time: 2025-06-21T18:39:48.622Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a hot tea from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T18:39:48.518Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T18:39:48.518Z] Customer: I want to order hot tea.

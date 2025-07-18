@@ -1,0 +1,24 @@
+Call ID: 6852c3abcb9e39794cf7d4f1
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T13:48:27.929Z
+End Time: 2025-06-18T13:49:10.454Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: Irfan inquired about ordering a dozen bagels from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T13:49:10.226Z] AI Agent: Hello Irfan, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T13:49:10.226Z] Customer: Hello? Can you hear me?
+
+[2025-06-18T13:49:10.227Z] AI Agent: I can hear you just fine, Irfan. How can I assist you with your order today?
+
+[2025-06-18T13:49:10.227Z] Customer: I'd like to have, half dozen sorry, dozen bigger.
+
+[2025-06-18T13:49:10.227Z] AI Agent: Let me see what we have for a dozen bagels.
+
+[2025-06-18T13:49:10.227Z] AI Agent: I hope you are still with me!

@@ -1,0 +1,18 @@
+Call ID: 6869285245548bd51cec7206
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T13:27:46.538Z
+End Time: 2025-07-05T13:28:12.386Z
+Duration: 24 seconds
+From: +13477729445
+To: +16204558091
+Summary: The customer initiated an order at Manhattan Bagel but didn't specify what they wanted to order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T13:28:12.221Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-05T13:28:12.221Z] Customer: Gotta order something. I wanna order something.
+
+[2025-07-05T13:28:12.221Z] AI Agent: What would you like to order today?

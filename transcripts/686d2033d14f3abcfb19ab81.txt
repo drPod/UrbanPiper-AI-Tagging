@@ -1,0 +1,34 @@
+Call ID: 686d2033d14f3abcfb19ab81
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T13:42:11.478Z
+End Time: 2025-07-08T13:43:44.688Z
+Duration: 91 seconds
+From: +18058951289
+To: +16204558091
+Summary: The customer ordered a plain bagel with plain cream cheese, cut into thirds.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T13:43:43.443Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T13:43:43.444Z] Customer: I want a bagel with cream cheese and sprinkles.
+
+[2025-07-08T13:43:43.444Z] AI Agent: I don't see a bagel with cream cheese and sprinkles on our menu. Let me share some options: we have a Bagel with Spread, which includes various cream cheese flavors, and a Fruity Rice Crispy Treat that has colorful sprinkles. Would you like to hear more about either of these?
+
+[2025-07-08T13:43:43.444Z] Customer: Tell me more about the bagel.
+
+[2025-07-08T13:43:43.444Z] AI Agent: The Bagel with Spread includes a bagel of your choice topped with a variety of cream cheese flavors like plain, scallion, strawberry, jalapeño, honey almond, and more. You can also add extra toppings 
+
+[2025-07-08T13:43:43.444Z] Customer: Just regular cream cheese. Regular cream cheese. I'm a little crazy on me.
+
+[2025-07-08T13:43:43.444Z] AI Agent: Got it! A Bagel with Spread featuring regular cream cheese is a great choice. You can pick your favorite bagel and enjoy it with plain cream cheese. Would you like to choose your bagel type now? We have options like plain,
+
+[2025-07-08T13:43:43.444Z] Customer: Plain bagel plain bagel and cut it in thirds.
+
+[2025-07-08T13:43:43.445Z] AI Agent: Sure thing! A plain bagel with plain cream cheese, cut into thirds. Is there anything else I can add to that for you?
+
+[2025-07-08T13:43:43.445Z] Customer: Diet Doctor Pepper.
+
+[2025-07-08T13:43:43.445Z] AI Agent: I don't see Diet Dr. Pepper on our beverage menu. We do have options like Coke, Diet Coke, Sprite, Ginger Ale, and Coke Zero. Would you like

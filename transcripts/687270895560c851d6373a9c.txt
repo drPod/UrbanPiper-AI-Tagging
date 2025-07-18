@@ -1,0 +1,26 @@
+Call ID: 687270895560c851d6373a9c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T14:26:17.666Z
+End Time: 2025-07-12T14:27:33.626Z
+Duration: 74 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jutin attempted to order an Avocado BLT sandwich and after some clarification, it was found that the item does exist on the menu and the conversation began to discuss bread choices.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T14:27:33.213Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T14:27:33.213Z] Customer: I'm going to order this, a walkout of BLT sandwich.
+
+[2025-07-12T14:27:33.214Z] AI Agent: I don't see Big Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?
+
+[2025-07-12T14:27:33.214Z] Customer: No. I I want, avocado BLT sandwich.
+
+[2025-07-12T14:27:33.214Z] AI Agent: I don't see Avocado BLT sandwich on our menu. However, we do have an Avocado BLT Sandwich. You'll need to pick just one bread choice for your Avocado BLT. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California Protein 
+
+[2025-07-12T14:27:33.214Z] Customer: One one second. One sec. One second. One second. We are talking about which item?
+
+[2025-07-12T14:27:33.214Z] AI Agent: We were discussing the Avocado BLT sandwich. I found that we do have an Avocado BLT Sandwich on our menu. For the Avocado BLT, you'll need to pick just one bread choice. We have Plain Bagel, Everything Bagel,

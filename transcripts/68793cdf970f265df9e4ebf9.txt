@@ -1,0 +1,34 @@
+Call ID: 68793cdf970f265df9e4ebf9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T18:11:43.547Z
+End Time: 2025-07-17T18:12:36.627Z
+Duration: 51 seconds
+From: +353872628050
+To: +441313810000
+Summary: The customer called to inquire about a job opportunity at Manhattan Bagel, but the agent was unable to assist with employment inquiries and ended the call.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T18:12:36.295Z] AI Agent: Hello Ryan Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T18:12:36.295Z] Customer: Can I have a job, please?
+
+[2025-07-17T18:12:36.295Z] AI Agent: I'm happy to help you with your order. What can I get for you today?
+
+[2025-07-17T18:12:36.295Z] Customer: No. I want a job. Like, I'm an experienced chef. Can I please have a job?
+
+[2025-07-17T18:12:36.296Z] AI Agent: I'm afraid I'm not the right person to talk to about job openings. I'm just here to help with
+
+[2025-07-17T18:12:36.296Z] Customer: Oh, that's no problem then. Can you please answer me onto a person that will be able to help?
+
+[2025-07-17T18:12:36.296Z] AI Agent: I'm not able to assist with job inquiries or direct you to someone who can help with employment opportunities. My purpose is
+
+[2025-07-17T18:12:36.296Z] Customer: Why can't help me.
+
+[2025-07-17T18:12:36.297Z] AI Agent: I'm not able to assist with job inquiries or direct you to someone who can help with employment opportunities. My
+
+[2025-07-17T18:12:36.297Z] Customer: Yeah. I get that. But why?
+
+[2025-07-17T18:12:36.297Z] AI Agent: OK

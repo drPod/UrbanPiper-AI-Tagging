@@ -1,0 +1,30 @@
+Call ID: 6859a9011be7d3da0611dda4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T19:20:33.700Z
+End Time: 2025-06-23T19:21:49.467Z
+Duration: 120 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh inquired about the categories and items available at Manhattan Bagel, specifically asking about the Breakfast Sandwiches category and showing interest in the Original Classic.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T19:21:49.196Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T19:21:49.196Z] Customer: Can you tell me, what all categories you have?
+
+[2025-06-23T19:21:49.196Z] AI Agent: We have several categories to choose from. We have LTO Spring Beverages and Sweet Treats, Breakfast Sandwiches, Breakfast Bagels and Sweets, Breakfast Platters, Lunch, Deli Items by 1/2 lb,
+
+[2025-06-23T19:21:49.196Z] Customer: Can you tell me can you tell me what do you have in breakfast services?
+
+[2025-06-23T19:21:49.196Z] AI Agent: In our Breakfast Platters category, we have a few options. We have Eggs and
+
+[2025-06-23T19:21:49.196Z] Customer: No. No. Breakfast sandwiches category.
+
+[2025-06-23T19:21:49.196Z] AI Agent: In our Breakfast Sandwiches category, we have a variety of options. We have the Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich, Big Breakfast Burrito, Santa Fe Egg White, Egg on a Bagel, French Toast Egg Sandwich, Omelet Wrap, Protein Breakfast Wrap, 
+
+[2025-06-23T19:21:49.196Z] Customer: 
+
+[2025-06-23T19:21:49.196Z] AI Agent: The Original Classic is a popular choice. It comes with egg, cheese, and your choice of meat. Would you like to customize it with some

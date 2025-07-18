@@ -1,0 +1,41 @@
+Call ID: 686e5586d14f3abcfb3313ff
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T11:41:58.052Z
+End Time: 2025-07-09T11:43:09.190Z
+Duration: 68 seconds
+From: +19737032606
+To: +16204558091
+Summary: Akram placed an order for multiple breakfast items and beverages at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T11:43:08.904Z] AI Agent: Hello Akram Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T11:43:08.904Z] Customer: Hi. I'd like to order a bacon, egg, and cheese on a plain bagel, Taylor ham, egg, and cheese on a sesame, one sausage, egg, and cheese on a plain bagel, one Manhattan cheesesteak, omelette crab with bacon, five Snapple lemon, one Snapple peach, one can soda.
+
+[2025-07-09T11:43:08.904Z] Customer: One thirty two ounce Coke.
+
+[2025-07-09T11:43:08.904Z] AI Agent: Alright, one 32 ounce Coke. Let me get that started for you. Is there anything else I can get for you today?
+
+[2025-07-09T11:43:08.904Z] Customer: Yeah. Repeat over to me.
+
+[2025-07-09T11:43:09.190Z] Unknown: [2025-07-09T11:43:08.904Z] assistant: Sure thing. Let me get that all put together for you. 
+
+
+
+[2025-07-09T11:43:08.904Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T11:43:08.904Z] AI Agent: It looks like there was a small issue with my system. Let me try that again. Is there anything else I can get for you today, Akram?
+
+[2025-07-09T11:43:08.904Z] Customer: Yeah. Repeat my order.
+
+[2025-07-09T11:43:09.190Z] Unknown: [2025-07-09T11:43:08.905Z] assistant: Alright, let me get that all put together for you.  
+
+
+
+
+[2025-07-09T11:43:08.905Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T11:43:08.905Z] AI Agent: It seems there's a temporary issue with my system. Let me try once more. Is there anything else I can assist

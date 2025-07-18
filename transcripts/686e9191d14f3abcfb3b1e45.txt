@@ -1,0 +1,106 @@
+Call ID: 686e9191d14f3abcfb3b1e45
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T15:58:09.042Z
+End Time: 2025-07-09T16:02:58.268Z
+Duration: 286 seconds
+From: +19725155417
+To: +16204558091
+Summary: Sonu placed an order for two sandwiches and two coffees at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T16:02:57.334Z] AI Agent: Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T16:02:57.335Z] Customer: Yeah. Let me get, an avocado BLT sandwich on Asiago bagel, dark toasted provolone cheese. Let's do spinach, jalapenos, hot sauce, mayo, double lunch protein, and Lace chips on the side.
+
+[2025-07-09T16:02:57.335Z] AI Agent: Alright, let me get that all set for you. First, you'll need to pick just one bagel for your Avocado BLT sandwich. We have Asiago, Plain, Everything, and Sesame. Which one would you like?
+
+[2025-07-09T16:02:57.335Z] Customer: Asiago.
+
+[2025-07-09T16:02:57.335Z] AI Agent: Perfect! Now you'll need to pick just one cheese for your sandwich. We have
+
+[2025-07-09T16:02:57.335Z] Customer: I'll take provolone.
+
+[2025-07-09T16:02:57.335Z] AI Agent: Got it! Now you'll need to pick just one toast level for your sandwich. We have Toasted, Lightly
+
+[2025-07-09T16:02:57.336Z] Customer: I'll take I'll take dark Tuesday.
+
+[2025-07-09T16:02:57.336Z] AI Agent: Great choice! Now you'll need to pick just one side for your sandwich. We have Chips or Cole Slaw. Which would you
+
+[2025-07-09T16:02:57.337Z] Customer: I want base chips.
+
+[2025-07-09T16:02:57.337Z] AI Agent: Perfect! Now you'll need to pick just one lunch protein option for your sandwich. We have
+
+[2025-07-09T16:02:57.337Z] Customer: I want double lunch protein.
+
+[2025-07-09T16:02:57.337Z] AI Agent: Got it! Now you'll need to pick just one vegetable option for your sandwich.
+
+[2025-07-09T16:02:57.337Z] Customer: I want I want spinach and jalapenos.
+
+[2025-07-09T16:02:57.337Z] AI Agent: Perfect! Now you'll need to pick just one condiment for your sandwich.
+
+[2025-07-09T16:02:57.337Z] Customer: I want mustard and hot sauce.
+
+[2025-07-09T16:02:57.337Z] AI Agent: Got it! Now you'll need to pick just one additional option for your sandwich. We have mayo or no additional. Which would you like?
+
+[2025-07-09T16:02:57.337Z] Customer: No additional.
+
+[2025-07-09T16:02:57.337Z] AI Agent: Perfect! Is there anything else I can get for you today?
+
+[2025-07-09T16:02:57.337Z] Customer: Yeah. I want a chicken Cuban. And I want, I'll I I want, pickles and chipotle mayo, and I want that toasted.
+
+[2025-07-09T16:02:57.338Z] AI Agent: Alright, let's get your Chicken Cuban set up. You'll need to pick just one bagel for your sandwich. We have Plain, Everything, Asiago, and Sesame. Which one would you like?
+
+[2025-07-09T16:02:57.338Z] Customer: I'll I'll do plain.
+
+[2025-07-09T16:02:57.338Z] AI Agent: Perfect! Now you'll need to pick just one side for your Chicken Cuban. We have Chips or Cole Slaw. Which would you like?
+
+[2025-07-09T16:02:57.338Z] Customer: 
+
+[2025-07-09T16:02:57.338Z] AI Agent: Great choice! Now you'll need to pick just one cheese option for your Chicken Cuban. We have American, Swiss, Cheddar, and Provolone. Which would you like? 
+
+[2025-07-09T16:02:57.338Z] Customer: We'll do we'll just do provolone. And then can we add pickles on the side and chipotle mayo for the sauce? I'm in a rush.
+
+[2025-07-09T16:02:57.338Z] AI Agent: Got it! The Chicken Cuban comes with Provolone cheese, and I can add pickles and chipotle mayo for you. You'll need to pick just one toast level for your sandwich. We have Toasted, Lightly Toasted, or No Toast. Which would you like?
+
+[2025-07-09T16:02:57.338Z] Customer: Just toasted.
+
+[2025-07-09T16:02:57.338Z] AI Agent: Perfect! Your Chicken Cuban with Provolone, pickles, and chipotle mayo will be toasted. Is
+
+[2025-07-09T16:02:57.340Z] Customer: Yeah. I also want, a coffee. Two coffees.
+
+[2025-07-09T16:02:57.340Z] AI Agent: Sure thing! You'll need to pick just one size for your coffee. We have Small twelve
+
+[2025-07-09T16:02:57.341Z] Customer: Володив Володимирьов.
+
+[2025-07-09T16:02:57.341Z] AI Agent: Perfect! Now you'll need to pick just one coffee type for your medium coffee. We have House Blend, Vanilla Hazelnut Blend, Dark
+
+[2025-07-09T16:02:57.341Z] Customer: What types do you we'll do we'll do we'll do houseplant.
+
+[2025-07-09T16:02:57.342Z] AI Agent: Great choice! Your medium House Blend coffee is all set. Is there anything else I can get for you today?
+
+[2025-07-09T16:02:57.342Z] Customer: No.
+
+[2025-07-09T16:02:58.268Z] Unknown: [2025-07-09T16:02:57.342Z] assistant: Alright, let me get that all put together for you. 
+
+
+
+[2025-07-09T16:02:57.342Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T16:02:57.342Z] AI Agent: I apologize for the inconvenience. Let me finalize your order and get it ready for you.
+
+[2025-07-09T16:02:57.342Z] AI Agent: I hope you are still with me!
+
+[2025-07-09T16:02:57.342Z] Customer: I am.
+
+[2025-07-09T16:02:57.343Z] AI Agent: Great! Let me confirm your order. You have an Avocado BLT on Asiago, dark toasted with Provolone cheese, spinach, jalapeños, mustard, hot sauce, and Lays chips on the side. Plus, a Chicken Cuban on Plain, with Cole Slaw, Provolone, pickles, and chipotle mayo, also toasted. And two medium House Blend coffees. Is that all correct?
+
+[2025-07-09T16:02:57.343Z] Customer: Yes.
+
+[2025-07-09T16:02:57.345Z] AI Agent: Perfect! Your order is all set. I'll have it ready for you in about 15 minutes. See you soon!
+
+[2025-07-09T16:02:57.345Z] Customer: Bye bye.
+
+[2025-07-09T16:02:57.345Z] AI Agent: You're welcome! Have a great day!

@@ -1,0 +1,38 @@
+Call ID: 6855a6041be7d3da06ba4d9f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T18:18:44.477Z
+End Time: 2025-06-20T18:19:53.729Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer called to order a hot latte, but the agent was unable to complete the order due to technical issues with the search_for_item tool.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T18:19:53.444Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T18:19:53.444Z] Customer: Hello? Can you hear me?
+
+[2025-06-20T18:19:53.444Z] AI Agent: Hello, I'm Emily, nice to talk to you. What can I get for you today at Manhattan Bagel?
+
+[2025-06-20T18:19:53.444Z] Customer: I said, can you hear me?
+
+[2025-06-20T18:19:53.444Z] AI Agent: I'd be happy to help you. How can I assist you today at Manhattan Bagel? Would you like to place an order or do you have any questions about our menu?
+
+[2025-06-20T18:19:53.444Z] Customer: I want to order hot latte.
+
+[2025-06-20T18:19:53.444Z] AI Agent: I'm going to check on that for you. Let me see what we have. 
+
+[2025-06-20T18:19:53.444Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-20T18:19:53.444Z] AI Agent: I apologize, but it seems like the tool timed out. Let me try searching for hot beverages instead. 
+
+[2025-06-20T18:19:53.444Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-20T18:19:53.445Z] AI Agent: I apologize, but the tool seems to be experiencing some issues. Let me try searching for drinks to see if I can find any options for you. 
+
+[2025-06-20T18:19:53.445Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-20T18:19:53.445Z] AI Agent: I apologize, but I'm still having trouble with the tool. Let me try one more time to find some drink options for you. 

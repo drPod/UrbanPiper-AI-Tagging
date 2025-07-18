@@ -1,0 +1,44 @@
+Call ID: 6855aa591be7d3da06baa51a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T18:37:13.972Z
+End Time: 2025-06-20T18:38:46.664Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav placed an order for a Hot Latte at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T18:38:46.425Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T18:38:46.425Z] Customer: Can I get hot hot latte?
+
+[2025-06-20T18:38:46.425Z] AI Agent: Let me see what I can find for you. 
+
+[2025-06-20T18:38:46.425Z] AI Agent: Found 3 item(s) for your search: Hot Latte, Iced Latte, HOT Coffee or Tea . See 'item_details' for more information.
+
+[2025-06-20T18:38:46.426Z] AI Agent: I found a Hot Latte for you. The price is $2.49. Would you like to add any flavor shots to that?
+
+[2025-06-20T18:38:46.426Z] Customer: No. Just simple. Please stay at the order.
+
+[2025-06-20T18:38:46.426Z] AI Agent: Let me confirm your order. You'd like a Hot Latte for $2.49. Your total comes out to be 249 cents. Is that correct?
+
+[2025-06-20T18:38:46.426Z] Customer: Yes.
+
+[2025-06-20T18:38:46.426Z] AI Agent: Before I place your order, may I have your name for the order, please?
+
+[2025-06-20T18:38:46.426Z] Customer: Got it.
+
+[2025-06-20T18:38:46.426Z] AI Agent: Your total is 249 cents. Anything else you'd like to add or any special instructions?
+
+[2025-06-20T18:38:46.426Z] Customer: No.
+
+[2025-06-20T18:38:46.427Z] AI Agent: Ready to place this order for pickup, Gaurav?
+
+[2025-06-20T18:38:46.427Z] Customer: Yes.
+
+[2025-06-20T18:38:46.427Z] AI Agent: Perfect! I've submitted your order. Let me get your confirmation number, this will just take a moment...
+
+[2025-06-20T18:38:46.427Z] AI Agent: Your order number is #1234. Your total is 249 cents, which includes a subtotal of 249 cents and no tax. We will have your order ready for pickup at our store location. Thank you for choosing Manhattan Bagel, have a great day!

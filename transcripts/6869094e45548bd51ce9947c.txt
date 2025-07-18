@@ -1,0 +1,82 @@
+Call ID: 6869094e45548bd51ce9947c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T11:15:26.613Z
+End Time: 2025-07-05T11:20:48.860Z
+Duration: 319 seconds
+From: +918949862707
+To: +16516156214
+Summary: The customer ordered a breakfast bundle with customized bagels, cream cheese, and muffins
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T11:20:48.484Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T11:20:48.484Z] Customer: 
+
+[2025-07-05T11:20:48.484Z] AI Agent: One breakfast bundle coming up. A breakfast bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Which 13 bagels would you like?
+
+[2025-07-05T11:20:48.484Z] Customer: Can you give me four sesame for everything?
+
+[2025-07-05T11:20:48.484Z] AI Agent: So for the bagels, you'd like 4 sesame and 4 everything, that's 8 bagels so far. You still have 5 more bagels to choose. What would you like for the remaining 5?
+
+[2025-07-05T11:20:48.484Z] Customer: Give me one, jalapeno.
+
+[2025-07-05T11:20:48.485Z] AI Agent: One Jalapeno Cheddar bagel added to your selection. So, to recap, you have 4 sesame, 4 everything, and 1 Jalapeno Cheddar, that's 9 bagels. You still have 4 more bagels to choose. What about the next one?
+
+[2025-07-05T11:20:48.485Z] Customer: Give me four, plane.
+
+[2025-07-05T11:20:48.860Z] Unknown: [2025-07-05T11:20:48.485Z] assistant: Four plain bagels added to your selection. So, to recap, you have 4 sesame, 4 everything, 1 Jalapeno Cheddar, and 4 plain bagels. That completes your 13 bagel selection.
+
+Now, let's move on to the cream cheese. You get to choose 2 tubs of cream cheese. What kind of cream cheese would you like for your first tub?
+
+[2025-07-05T11:20:48.485Z] Customer: Give me vanilla cream cheese and avocado cream cheese.
+
+[2025-07-05T11:20:48.485Z] AI Agent: I don't see avocado cream cheese on our menu. Our cream cheese options include Plain, Strawberry, Scallion, and Honey Almond. For your first tub, you chose vanilla, which we don't have, so let me offer you some alternatives: we have Plain, Strawberry, Scallion, and Honey Almond. Which one would you like for your first tub?
+
+[2025-07-05T11:20:48.485Z] Customer: Give me Scallion.
+
+[2025-07-05T11:20:48.485Z] AI Agent: One tub of Scallion cream cheese. For your second tub, would you like Plain, Strawberry, or Honey Almond?
+
+[2025-07-05T11:20:48.486Z] Customer: Give me more options. Is that all all you have?
+
+[2025-07-05T11:20:48.486Z] AI Agent: Let me see what else we have. We also have Store Made Vegetable, Storemade Scallion, Storemade Lox Spread, Storemade Maple Raisin, and Storemade Bacon Scallion. And we have 
+
+[2025-07-05T11:20:48.486Z] Customer: Give me store made give me store made maple scallion.
+
+[2025-07-05T11:20:48.486Z] AI Agent: One tub of Storemade Maple Raisin cream cheese. So, to recap, you have 13 bagels with 4 sesame, 4 everything, 1 Jalapeno Cheddar, and 4 plain, and 2 tubs of cream cheese with Scallion and Storemade Maple Raisin. Now, let's move on to the muffins. You get to choose 4 muffins. What kind of muffins would you like? We have Blueberry, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry
+
+[2025-07-05T11:20:48.486Z] Customer: One one one cranberry orange, one corn, four chocolate chip, and four vanilla.
+
+[2025-07-05T11:20:48.486Z] AI Agent: I don't see corn or vanilla muffins on our menu. And you can't have four of one type, you need to choose four different muffins. Our muffin options include Blueberry, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. You already
+
+[2025-07-05T11:20:48.486Z] Customer: Do you have corn muffin do you have corn muffin on the menu?
+
+[2025-07-05T11:20:48.486Z] AI Agent: I don't see corn muffin on our menu. Our muffin options include Blueberry, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. You already chose one Cranberry Orange muffin. For your next three muffins, which ones would you like to choose from these options?
+
+[2025-07-05T11:20:48.486Z] Customer: Give me give me one cranberry and one cranberry and one cranberry.
+
+[2025-07-05T11:20:48.487Z] AI Agent: You'd like three Cranberry Orange muffins. So, to recap, you have one Cranberry Orange muffin initially, and now you'd like two more of the same, making it three Cranberry Orange muffins.
+
+[2025-07-05T11:20:48.487Z] Customer: Yeah. And give me one call moment.
+
+[2025-07-05T11:20:48.487Z] AI Agent: I don't see corn muffin on our menu. I've already told you that we don't have corn muffin as an option. You have three Cranberry
+
+[2025-07-05T11:20:48.487Z] Customer: Okay.
+
+[2025-07-05T11:20:48.487Z] AI Agent: So, to recap, you have 13 bagels with 4 sesame, 4 everything, 1 Jalapeno Cheddar, and 4 plain, 2 tubs of cream cheese with Scallion and Storemade Maple Raisin, and 4 muffins with 3 Cranberry Orange and you still need to choose 1 more muffin. Which one would you like for your last muffin? We have Blueberry,
+
+[2025-07-05T11:20:48.487Z] Customer: 
+
+[2025-07-05T11:20:48.860Z] Unknown: [2025-07-05T11:20:48.487Z] assistant: One Blueberry muffin. So, to recap, you have 13 bagels with 4 sesame, 4 everything, 1 Jalapeno Cheddar, and 4 plain, 2 tubs of cream cheese with Scallion and Storemade Maple Raisin, and 4 muffins with 3 Cranberry Orange and 1 Blueberry.
+
+Is there anything else I can get for you today?
+
+[2025-07-05T11:20:48.487Z] Customer: Hello?
+
+[2025-07-05T11:20:48.488Z] AI Agent: Hello again. Is there anything else I can get for you today?
+
+[2025-07-05T11:20:48.488Z] Customer: Do you have any other option for the combo? Non optional items?
+
+[2025-07-05T11:20:48.488Z] AI Agent: For the breakfast bundle, the non-optional items are the 13 bagels, 2 tubs of cream cheese, and 4 muffins, which we've already customized to your preferences. There's

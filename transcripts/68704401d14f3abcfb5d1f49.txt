@@ -1,0 +1,32 @@
+Call ID: 68704401d14f3abcfb5d1f49
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-10T22:51:45.013Z
+End Time: 2025-07-10T22:52:57.870Z
+Duration: 70 seconds
+From: +16023807900
+To: +16204558091
+Summary: The customer called to inquire about the status of their order, but unfortunately, the order was not found in the system.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-10T22:52:56.520Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-10T22:52:56.521Z] Customer: I placed an order earlier, but I didn't get it.
+
+[2025-07-10T22:52:56.521Z] AI Agent: I'd be happy to help you with that. To check on your order, could you please tell me the full order ID or the last four digits of your order ID?
+
+[2025-07-10T22:52:56.521Z] Customer: It's 8 9 10.
+
+[2025-07-10T22:52:56.522Z] AI Agent: Let me check on that for you. 
+
+[2025-07-10T22:52:56.523Z] AI Agent: I apologize, but it seems that the order number "8910" is not found in our system. If you could provide more details or check your order confirmation, I'd be happy to try and assist you further.
+
+[2025-07-10T22:52:56.523Z] Customer: Okay. Can you try order number, 138910?
+
+[2025-07-10T22:52:56.523Z] AI Agent: Let me check on that for you. 
+
+[2025-07-10T22:52:56.524Z] AI Agent: I apologize, but it seems that the order number "138910" is not found in our system. If you could provide more details or check your order confirmation, I'd be happy to try and assist you further.
+
+[2025-07-10T22:52:56.525Z] Customer: Okay. Thank you.

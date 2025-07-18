@@ -1,0 +1,18 @@
+Call ID: 686eb541d14f3abcfb3e8b61
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T18:30:25.206Z
+End Time: 2025-07-09T18:30:48.339Z
+Duration: 21 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer, John, was greeted by BagelBot and asked to see the menu, but the call ended before any further discussion or ordering could take place.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T18:30:48.092Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T18:30:48.092Z] Customer: Can you show me the menu?
+
+[2025-07-09T18:30:48.092Z] AI Agent: We have a variety of delicious options to choose from. Let me tell you about

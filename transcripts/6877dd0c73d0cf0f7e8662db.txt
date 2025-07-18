@@ -1,0 +1,77 @@
+Call ID: 6877dd0c73d0cf0f7e8662db
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T17:10:36.827Z
+End Time: 2025-07-16T17:14:33.034Z
+Duration: 234 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for a Chelsea Grilled Chicken from Manhattan Bagel with specific customizations and received confirmation of the order and total price.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T17:14:32.569Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T17:14:32.616Z] Customer: Say hi. Can you give me, a Chicago bagel and, dark toasted with plain green cheese and, butter? Also, I'd like to have grilled chicken.
+
+[2025-07-16T17:14:32.617Z] AI Agent: That would be our Bagel With Spread on the menu. I'll add the Bagel With Spread for you. Now, let's customize it. You mentioned Asiago for your bagel, dark toasted, with plain cream cheese, and butter. For the grilled chicken, I believe you might be looking for one of our sandwiches that includes grilled chicken. We have several options, such as the Grilled Chicken Club or the Chelsea Grilled Chicken. Which one of these sounds right to you?
+
+[2025-07-16T17:14:32.617Z] Customer: 
+
+[2025-07-16T17:14:32.617Z] AI Agent: The Chelsea Grilled Chicken is a great choice. That would be our Chelsea Grilled Chicken on the menu. I'll add the Chelsea Grilled Chicken for you. Now, let's customize it. You mentioned earlier you wanted an Asiago bagel, but for the Chelsea Grilled Chicken, the bagel choice is part of the customization. Would you like to stick with the Asiago bagel for this item as well?
+
+[2025-07-16T17:14:32.617Z] Customer: Yes.
+
+[2025-07-16T17:14:32.617Z] AI Agent: For the Chelsea Grilled Chicken, you've chosen the Asiago bagel. Now, let's look at the other options. The Chelsea Grilled Chicken comes with roasted peppers, pepper jack cheese, and tomato spread. Would you like to add or change any of these? Additionally, would you like your Chelsea Grilled Chicken to be toasted, lightly toasted, toasted dark, or not toasted?
+
+[2025-07-16T17:14:32.617Z] Customer: Okay. Give me toasted and, the spread, choice, the first one.
+
+[2025-07-16T17:14:32.617Z] AI Agent: For the Chelsea Grilled Chicken, you'd like it toasted and with the first spread choice, which is the tomato spread. That sounds good. Now, let's confirm your order. You have the Bagel With Spread, which includes an Asiago bagel, dark toasted, with plain cream cheese and butter. And you also have the Chelsea Grilled Chicken, which includes an Asiago bagel, toasted, with roasted peppers, pepper jack
+
+[2025-07-16T17:14:32.617Z] Customer: Okay. Can can can you can you remove the, bagel with spread? Only the chicken is good.
+
+[2025-07-16T17:14:33.034Z] Unknown: [2025-07-16T17:14:32.618Z] assistant: I've removed the Bagel With Spread from your order. You now only have the Chelsea Grilled Chicken, which includes an Asiago bagel, toasted, with roasted peppers, pepper jack cheese, and tomato spread.
+
+To confirm, your order is:
+
+* Chelsea Grilled Chicken
+	+ Asiago bagel
+	+ Toasted
+	+ Roasted peppers
+	+ Pepper jack cheese
+	+ Tomato spread
+
+Is that correct?
+
+[2025-07-16T17:14:32.618Z] Customer: Yeah.
+
+[2025-07-16T17:14:33.034Z] Unknown: [2025-07-16T17:14:32.618Z] assistant: Your Chelsea Grilled Chicken order totals $11.54, including tax. I'll now finalize your order. Just a moment... 
+
+
+
+[2025-07-16T17:14:32.618Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-16T17:14:32.618Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-16T17:14:32.619Z] Customer: No. I don't have an answer. Thank thank you so much.
+
+[2025-07-16T17:14:32.619Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-16T17:14:32.619Z] Customer: No.
+
+[2025-07-16T17:14:33.034Z] Unknown: [2025-07-16T17:14:32.619Z] assistant: Great. Placing that for you now, please hold on... 
+
+
+
+[2025-07-16T17:14:32.619Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 066635. That's 0, 6, 6, 6, 3, 5.", 'order_id': '066635', 'call_id': '3e6dc336-52e2-4b0e-8b97-0083202e5d5b', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0198143a-55c6-a1b3-8be1-f2a585c9c4a7'}
+
+[2025-07-16T17:14:32.619Z] AI Agent: Your order number is 0, 6, 6, 6, 3, 5. Your total is $11.54, including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-16T17:14:32.619Z] Customer: No. That thank you so much.
+
+[2025-07-16T17:14:32.619Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. If you need anything else in the future, don't hesitate to reach out. Have a great day and enjoy your Chelsea Grilled Chicken from Manhattan Bagel!
+
+[2025-07-16T17:14:32.620Z] Customer: Okay. Cool. Thank you.
+
+[2025-07-16T17:14:32.620Z] AI Agent: You're welcome. Have a great day and enjoy your meal!

@@ -1,0 +1,30 @@
+Call ID: 687231015560c851d6300d79
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T09:55:13.922Z
+End Time: 2025-07-12T09:57:11.640Z
+Duration: 113 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jutin attempted to order an Avocado BLT Sandwich with a French Toast Bagel, but the bagel option was not available for that specific sandwich.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T09:57:11.438Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T09:57:11.439Z] Customer: Can you get me avocado BLT sandwich?
+
+[2025-07-12T09:57:11.439Z] AI Agent: I don't see Avocado Beer LT Sandwich on our menu. However, we do have some great options like the Avocado BLT Sandwich or our Avocado Veg Out. Which of these sounds good to you?
+
+[2025-07-12T09:57:11.439Z] Customer: Yeah. I I was just saying the same. Avocado BLT sandwich.
+
+[2025-07-12T09:57:11.439Z] AI Agent: The Avocado BLT Sandwich is a great choice. It comes with turkey-bacon, avocado, lettuce, tomato, and roasted tomato spread on a thintastic bagel. You'll need to pick just one bagel choice for your sandwich. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California
+
+[2025-07-12T09:57:11.439Z] Customer: Okay. Get me French toast bagel.
+
+[2025-07-12T09:57:11.439Z] AI Agent: Perfect. I don't see French Toast Bagel as an option for the Avocado BLT Sandwich. However, we do have some great bagel options like Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California Protein Bar, Chocolate Chip Bagel, Cinnamon Raisin Bagel, Egg Bagel, Egg Everything, French Toast is available but it is a bagel option for other sandwiches, Garlic Bagel, Honey Whole Wheat Everything
+
+[2025-07-12T09:57:11.439Z] Customer: So so that's what I'm saying. I I was saying the same thing. French toast bagel.
+
+[2025-07-12T09:57:11.440Z] AI Agent: I don't see French Toast Bagel as an option for the Avocado BLT Sandwich. However, we do have some great bagel options like Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown 

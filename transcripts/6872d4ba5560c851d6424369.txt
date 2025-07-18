@@ -1,0 +1,40 @@
+Call ID: 6872d4ba5560c851d6424369
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T21:33:46.509Z
+End Time: 2025-07-12T21:35:43.862Z
+Duration: 115 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a lightly toasted Cinnamon Raisin bagel with vegetable cream cheese and a Diet Coke from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T21:35:43.613Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T21:35:43.613Z] Customer: I want to order cinnamon raisin bacon, lightly toasted with vegetable cream cheese.
+
+[2025-07-12T21:35:43.613Z] AI Agent: Perfect That's our Fresh Bagel with Spread - a Cinnamon Raisin bagel lightly toasted with vegetable cream cheese Anything else you'd like
+
+[2025-07-12T21:35:43.613Z] Customer: Yeah. Also, I need, Diet Coke.
+
+[2025-07-12T21:35:43.613Z] AI Agent: Great choice The Diet Coke and the Cinnamon Raisin bagel lightly toasted with vegetable cream cheese Anything else you'd like
+
+[2025-07-12T21:35:43.614Z] Customer: No.
+
+[2025-07-12T21:35:43.614Z] AI Agent: Perfect I have one Cinnamon Raisin bagel lightly toasted with vegetable cream cheese and one Diet Coke Now let me help you customize each one exactly how you like it
+
+[2025-07-12T21:35:43.614Z] Customer: Okay.
+
+[2025-07-12T21:35:43.621Z] AI Agent: Moving to item customization stage...
+
+[2025-07-12T21:35:43.624Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-12T21:35:43.624Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 932875. That's 9, 3, 2, 8, 7, 5.", 'order_id': '932875', 'call_id': '376abf2c-4f72-492a-a58f-0b7520480b47', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01980090-2498-bc86-db3c-da0011373e9f'}
+
+[2025-07-12T21:35:43.625Z] AI Agent: Your order is placed successfully Your order number is 9, 3, 2, 8, 7, 5. The total including taxes comes to $8.97. You'll receive an SMS with a payment link shortly. Is there anything else I can help you with today?
+
+[2025-07-12T21:35:43.625Z] Customer: No.
+
+[2025-07-12T21:35:43.625Z] AI Agent: Thank you for choosing Manhattan Bagel. Have a great day!

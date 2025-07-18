@@ -1,0 +1,52 @@
+Call ID: 6872c1485560c851d641dee3
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T20:10:48.744Z
+End Time: 2025-07-12T20:13:27.242Z
+Duration: 159 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Cinnamon Raisin bagel with strawberry cream cheese, lightly toasted, and extra cream cheese for pickup from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T20:13:26.125Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T20:13:26.125Z] Customer: Hello?
+
+[2025-07-12T20:13:26.126Z] AI Agent: Hello again, Jitin. I'm glad you're here. What can I get for you today? Would you like to try one of our breakfast items, like a bagel sandwich or some avocado toast, or maybe something from our lunch menu?
+
+[2025-07-12T20:13:26.126Z] Customer: Hey. Hi. I just want to order bagel for pickup.
+
+[2025-07-12T20:13:26.126Z] AI Agent: We have a wide variety of bagels to choose from. What kind of bagel are you in the mood for? We have everything, cinnamon
+
+[2025-07-12T20:13:26.126Z] Customer: Can I can I get the cinnamon region bigger?
+
+[2025-07-12T20:13:26.127Z] AI Agent: Great choice, Jitin. The Cinnamon Raisin bagel is a popular one. I have the Cinnamon Raisin bagel. Anything else you'd like?
+
+[2025-07-12T20:13:26.127Z] Customer: Okay. So, no. I think cinnamon, bacon, and with, extra chi, blueberry cheese and, lightly toasted.
+
+[2025-07-12T20:13:26.127Z] AI Agent: I don't see blueberry cheese on our menu. We do have cream cheese, and we have a variety of flavors like plain, scallion, or strawberry. Which one of those sounds good to you?
+
+[2025-07-12T20:13:26.127Z] Customer: Strawberry, cream cheese then.
+
+[2025-07-12T20:13:26.127Z] AI Agent: So, I have a Cinnamon Raisin bagel with strawberry cream cheese, lightly toasted. And you'd like extra cheese on that, correct? We can add an extra layer of cream cheese for you. Anything else you'd like to add or change?
+
+[2025-07-12T20:13:26.128Z] Customer: No. That's it.
+
+[2025-07-12T20:13:26.128Z] AI Agent: Perfect, Jitin. So, to confirm, I have one Cinnamon Raisin bagel with strawberry cream cheese, lightly toasted, and extra cream cheese. I'm going to go ahead and put that order in for you. We'll get that ready for pickup. Would you like to pay with cash today?
+
+[2025-07-12T20:13:26.128Z] Customer: No. I'll do the payment by pay by link.
+
+[2025-07-12T20:13:26.128Z] AI Agent: I'll send you a payment link to complete the payment for your order. You should receive it shortly. Once you've completed the payment, we'll get your Cinnamon Raisin bagel with strawberry cream cheese, lightly toasted, and extra cream cheese ready for pickup. We'll see you soon, Jitin.
+
+[2025-07-12T20:13:26.171Z] Customer: Okay.
+
+[2025-07-12T20:13:26.171Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 449375. That's 4, 4, 9, 3, 7, 5.", 'order_id': '449375', 'call_id': 'a014209d-299c-4ef7-a697-607a94bde863', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01980045-1b18-2300-c915-0b1f71fb5e94'}
+
+[2025-07-12T20:13:26.171Z] AI Agent: Your order number is 4 4 9 3 7 5. The total comes out to be $8.48. We will have your order ready for pickup soon. Thank you for choosing Manhattan Bagel, have a great day.
+
+[2025-07-12T20:13:26.171Z] Customer: Okay.
+
+[2025-07-12T20:13:26.172Z] AI Agent: OK

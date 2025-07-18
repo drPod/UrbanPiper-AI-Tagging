@@ -1,0 +1,60 @@
+Call ID: 685981ec1be7d3da060e7098
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T16:33:48.155Z
+End Time: 2025-06-23T16:37:01.622Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin's order for a customized Avocado Toast could not be placed due to an internal server error.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T16:37:01.086Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T16:37:01.086Z] Customer: Yeah. So I'm looking to order, a recorded post.
+
+[2025-06-23T16:37:01.086Z] AI Agent: The Avocado Toast, great choice. That's toasted multigrain bread with mashed avocado and everything bagel seasoning. Let me get the options for your avocado toast...
+
+[2025-06-23T16:37:01.087Z] AI Agent: For the Avocado Toast, let's start with the Bagel Choice. We have options like Plain, Everything, Asiago, and many more. You need to choose exactly one bagel type. Which one would you like?
+
+[2025-06-23T16:37:01.087Z] Customer: I want a rainbow wheel.
+
+[2025-06-23T16:37:01.087Z] AI Agent: The Rainbow Bagel is a great choice. Now, let's move on to the Condiments. You can choose up to 10 condiments, and options include Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, Tomato Spread, Butter, Cream Cheese, Flavor CC, and Jelly. Which condiments would you like to add?
+
+[2025-06-23T16:37:01.088Z] Customer: I'm looking to order, mustard.
+
+[2025-06-23T16:37:01.088Z] AI Agent: Mustard is a great addition. Now, let's move on to the Add Vegetables group. You can choose up to 11 vegetables, and we have options like Lettuce, Tomato, Red Onions, Avocado, Spinach, Cucumber, Green Peppers, Capers, Roasted Red Peppers, Grilled Onions, and Jalapeño Peppers. Since you already 
+
+[2025-06-23T16:37:01.088Z] Customer: Okay. So I want to add tomato and, cucumber.
+
+[2025-06-23T16:37:01.088Z] AI Agent: Tomato and Cucumber will go well with your Avocado Toast. Now, let's move on to the Extra Breakfast Meat group. You can choose up to 10 extra meats, and we have options like Extra Bacon, Extra Pork Roll, Extra Sausage, Extra
+
+[2025-06-23T16:37:01.088Z] Customer: Okay. Can you can you add extra grilled chicken?
+
+[2025-06-23T16:37:01.088Z] AI Agent: Extra Grilled Chicken is a great choice. I'll add that to your Avocado Toast. Now, let's move on to the Lox group. You can choose to add Lox if you'd like. Would you like to add
+
+[2025-06-23T16:37:01.089Z] Customer: Yeah. You can add it.
+
+[2025-06-23T16:37:01.089Z] AI Agent: I'll add the Lox to your Avocado Toast. Next, let's consider the Hard Boiled Egg group. You can choose to add a Hard Boiled Egg if
+
+[2025-06-23T16:37:01.089Z] Customer: No. I mean, I I don't need anything else. No. No. I don't need anything else.
+
+[2025-06-23T16:37:01.089Z] AI Agent: Alright, so to confirm, you've customized your Avocado Toast with a Rainbow Bagel, Mustard, Tomato, Cucumber, Extra Grilled Chicken, and Lox. I'll make sure to get that just right. Now, before I place your order, I just need to confirm a few things. Would you like me to read back your entire order to make sure everything is perfect?
+
+[2025-06-23T16:37:01.089Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T16:37:01.090Z] Customer: No. I said no. It's okay. You can go ahead.
+
+[2025-06-23T16:37:01.090Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-23T16:37:01.090Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T16:37:01.090Z] AI Agent: I apologize, but it seems like there was an error placing your order. Let me try again. Alright, let me get this order placed for you...
+
+[2025-06-23T16:37:01.091Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T16:37:01.091Z] AI Agent: It seems like I'm still having trouble placing your order. Let me try to transfer the call to someone who can help.
+
+[2025-06-23T16:37:01.091Z] AI Agent: OK

@@ -1,0 +1,108 @@
+Call ID: 6852e3b0cb9e39794cfe484e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T16:05:04.429Z
+End Time: 2025-06-18T16:11:11.933Z
+Duration: 420 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rifat ordered a Chicken Cuban sandwich with double lunch protein and a 32oz Fresh Squeezed Orange Juice, totaling $31.97, and will pay with cash and pick it up.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T16:11:11.308Z] AI Agent: Hello Rifat, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T16:11:11.309Z] Customer: Hey. Hi. I'd like to, you know, order some full item. Can you please take the order?
+
+[2025-06-18T16:11:11.309Z] AI Agent: I'd be happy to help you with your order. What would you like to order today?
+
+[2025-06-18T16:11:11.309Z] Customer: Chicken rouen cuben. Sorry. Chicken cuben.
+
+[2025-06-18T16:11:11.310Z] AI Agent: Let me check on the Chicken Cuban for you.
+
+[2025-06-18T16:11:11.311Z] AI Agent: I found the Chicken Cuban sandwich for $10.99. It comes with grilled chicken, ham, Swiss, pickle, mustard, and mayo on a roll. What would you like as your lunch side? We have chips, cole slaw, or Lays chips for $1.
+
+[2025-06-18T16:11:11.311Z] Customer: Lay's chips.
+
+[2025-06-18T16:11:11.311Z] AI Agent: So you'd like Lays chips as your side. Next, would you like your roll toasted, lightly toasted, or toasted dark?
+
+[2025-06-18T16:11:11.312Z] Customer: Toasted dock.
+
+[2025-06-18T16:11:11.313Z] AI Agent: You'd like your roll toasted dark. Next, would you like to add some extra cheese for $1.49?
+
+[2025-06-18T16:11:11.313Z] Customer: Sorry. Can you repeat it again?
+
+[2025-06-18T16:11:11.313Z] AI Agent: You'd like your roll toasted dark. Next, would you like to add some extra cheese for $1.49?
+
+[2025-06-18T16:11:11.313Z] Customer: Extra cheese? No. I don't want that.
+
+[2025-06-18T16:11:11.313Z] AI Agent: So no extra cheese. Would you like to double the lunch protein for $4.99? This means adding more grilled chicken to your Chicken Cuban sandwich.
+
+[2025-06-18T16:11:11.313Z] Customer: Yeah. We can I I can love to have that?
+
+[2025-06-18T16:11:11.313Z] AI Agent: You'd like to double the lunch protein for $4.99. That's adding more grilled chicken to your Chicken Cuban sandwich. Next, would you like to add any vegetables? We have options like avocado for $1.99, spinach for $1, cucumber for $1, green peppers for $1, roasted red peppers for $1, grilled yellow
+
+[2025-06-18T16:11:11.314Z] Customer: No. I don't want that. I will let's not add, that vegetables. I'm good with this, customization. Also, I need to order, like, orange juice.
+
+[2025-06-18T16:11:11.315Z] AI Agent: So you're good with the Chicken Cuban sandwich, toasted dark, with Lays chips, and double the lunch protein. Now, let me check on the orange juice for you.
+
+[2025-06-18T16:11:11.316Z] AI Agent: I found a few optionsfor orange juice. We have Tropicana OJ, Fresh Squeezed Orange Juice, and Catering Orange Juice. Which one would you like? For the Tropicana OJ, we have an 11oz size. For the Fresh Squeezed Orange Juice, we have a 12oz size for $5.99 or a 32oz size for $14.99
+
+[2025-06-18T16:11:11.316Z] Customer: I, either fresh squeezed orange juice is good, like, the medium size.
+
+[2025-06-18T16:11:11.933Z] Unknown: [2025-06-18T16:11:11.317Z] assistant: So you'd like the Fresh Squeezed Orange Juice in the medium size, which is 32oz for $14.99. I'll add that to your order.
+
+To confirm, your order is:
+
+* Chicken Cuban sandwich, toasted dark, with Lays chips, and double the lunch protein
+* Fresh Squeezed Orange Juice, 32oz
+
+Your total comes out to be $10.99 for the sandwich, $4.99 for the double protein, $1 for the Lays chips, and $14.99 for the orange juice. That's a total of $31.97.
+
+Would you like to pay with cash? And would you like to pick it up or have it delivered? 
+
+[2025-06-18T16:11:11.317Z] Customer: Yeah. Have a cash pickup.
+
+[2025-06-18T16:11:11.933Z] Unknown: [2025-06-18T16:11:11.317Z] assistant: So you'd like to pay with cash and pick it up. I just need to confirm a few more details.
+
+Your total comes out to be $31.97. Is that correct?
+
+And do you have any special requests or allergies I should note?
+
+[2025-06-18T16:11:11.317Z] Customer: I don't have any request. Thank you. First name.
+
+[2025-06-18T16:11:11.933Z] Unknown: [2025-06-18T16:11:11.317Z] assistant: I'll go ahead and place your order.
+
+Just to confirm, your order is:
+
+* Chicken Cuban sandwich, toasted dark, with Lays chips, and double the lunch protein
+* Fresh Squeezed Orange Juice, 32oz
+
+Your total comes out to be $31.97. You'll be paying with cash and picking it up.
+
+I'll go ahead and place the order now.
+
+[2025-06-18T16:11:11.933Z] Unknown: [2025-06-18T16:11:11.318Z] assistant: Your special instructions have been noted.
+
+Now, I'll place your order.
+
+[2025-06-18T16:11:11.318Z] AI Agent: ERROR: 400 - {"success":false,"error":"No items found in cart. Please add items using update_order before placing order."}
+
+[2025-06-18T16:11:11.318Z] AI Agent: I need to update your order before I can place it. Let me do that now.
+
+[2025-06-18T16:11:11.318Z] Customer: 
+
+[2025-06-18T16:11:11.318Z] Customer: 
+
+[2025-06-18T16:11:11.319Z] AI Agent: Let me update your order with the Chicken Cuban sandwich and the Fresh Squeezed Orange Juice.
+
+[2025-06-18T16:11:11.319Z] AI Agent: Your current cart con
+
+[2025-06-18T16:11:11.319Z] Customer: 
+
+[2025-06-18T16:11:11.319Z] AI Agent: Let me add the Fresh Squeezed Orange Juice to your order.
+
+[2025-06-18T16:11:11.319Z] Customer: 
+
+[2025-06-18T16:11:11.319Z] AI Agent: Your total comes out to be $31.97. 

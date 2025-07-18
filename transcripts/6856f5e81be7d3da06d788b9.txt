@@ -1,0 +1,68 @@
+Call ID: 6856f5e81be7d3da06d788b9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T18:11:52.963Z
+End Time: 2025-06-21T18:15:37.111Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered an Omelet Wrap with Grilled Chicken, American cheese, Mustard, Green Peppers, and a Wheat tortilla, but the order placement failed due to technical issues.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T18:15:36.769Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T18:15:36.769Z] Customer: Omelette wrap.
+
+[2025-06-21T18:15:36.769Z] AI Agent: The Omelet Wrap, great choice! That's one of our popular items with 3 eggs, cheese, and your choice of meat in a tortilla. Let me get all the customization options for you...
+
+[2025-06-21T18:15:36.770Z] AI Agent: For the Omelet Wrap, let's start with the meat. We have several options like Bacon, Sausage, Ham, Steak, or Grilled Chicken. Which one would you like?
+
+[2025-06-21T18:15:36.770Z] Customer: Grilled chicken?
+
+[2025-06-21T18:15:36.770Z] AI Agent: The Grilled Chicken is a great choice for your Omelet Wrap. Next, let's talk about cheese. We have options like American, Swiss, Pepper Jack, Cheddar, or Muenster. Which cheese would you prefer?
+
+[2025-06-21T18:15:36.770Z] Customer: Un mal école
+
+[2025-06-21T18:15:36.770Z] AI Agent: American cheese is a classic choice. Now, let's consider the wrap itself. Would you like it in a Flour tortilla or a Wheat tortilla?
+
+[2025-06-21T18:15:36.770Z] Customer: Wheat.
+
+[2025-06-21T18:15:36.770Z] AI Agent: The Wheat tortilla is a great choice for your Omelet Wrap with Grilled Chicken and American cheese. Next, let's think about condiments. We have options like Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, or Tomato Spread. Would you like to add any of these to your wrap?
+
+[2025-06-21T18:15:36.770Z] Customer: Mustard.
+
+[2025-06-21T18:15:36.770Z] AI Agent: Mustard will add a nice flavor to your Omelet Wrap. Now, let's think about adding some vegetables. We have options like Lettuce, Tomato, Red Onions, Avocado, Spinach, Cucumber, Green Peppers, Capers, Roasted Red Peppers, Grilled Onions, or Jalapeño Peppers. Would you like to add any of these to your wrap?
+
+[2025-06-21T18:15:36.770Z] Customer: 
+
+[2025-06-21T18:15:36.770Z] AI Agent: I can add Green Peppers to your Omelet Wrap. So, to recap, you have Grilled Chicken, American cheese, in a Wheat tortilla, with Mustard and Green Peppers. Anything else you'd like to add or change? Perfect, let me add that to your order...
+
+[2025-06-21T18:15:36.771Z] AI Agent: Added 1 item(s) to your cart. Total: $13.98
+
+[2025-06-21T18:15:36.771Z] AI Agent: Your Omelet Wrap with Grilled Chicken, American cheese, in a Wheat tortilla, with Mustard and Green Peppers has been added to your order. Your total comes out to be $13.98. Would you like to order anything else or is that all for today?
+
+[2025-06-21T18:15:36.771Z] Customer: Okay. I I have added green, grilled chicken, American cheese, mustard, green pepper, and wheat. Right?
+
+[2025-06-21T18:15:36.771Z] AI Agent: You've added an Omelet Wrap with Grilled Chicken, American cheese, Mustard, Green Peppers, and a Wheat tortilla. That's all correct. Your total is $13.98. Now, let me just confirm a few details before we finalize your order. May I have your name for the order, please?
+
+[2025-06-21T18:15:36.771Z] Customer: Jitin.
+
+[2025-06-21T18:15:36.771Z] AI Agent: Alright, Jitin. I have your complete order. You have one Omelet Wrap with Grilled Chicken, American cheese, Mustard, Green Peppers, and a Wheat tortilla. Your total is $13.98. Does everything sound correct with that?
+
+[2025-06-21T18:15:36.771Z] Customer: 
+
+[2025-06-21T18:15:36.771Z] AI Agent: Do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-21T18:15:36.771Z] Customer: Just, can can I have couple of napkins in the order?
+
+[2025-06-21T18:15:36.771Z] AI Agent: I'll make sure the kitchen knows to include a couple of napkins with your order. Alright, let me get this order placed for you...
+
+[2025-06-21T18:15:36.771Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-21T18:15:36.772Z] AI Agent: I apologize, but it seems like there was a technical issue with placing your order. Let me try again. Alright, let me get this order placed for you...
+
+[2025-06-21T18:15:36.772Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-21T18:15:36.772Z] AI Agent: I apologize, but it seems like there was a technical issue with placing your order. Let me try again. Alright, let me get this

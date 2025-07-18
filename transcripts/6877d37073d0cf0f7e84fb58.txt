@@ -1,0 +1,82 @@
+Call ID: 6877d37073d0cf0f7e84fb58
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T16:29:36.062Z
+End Time: 2025-07-16T16:33:24.901Z
+Duration: 225 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered a Big Breakfast Burrito with a wheat wrap, extra grilled chicken, lettuce, tomato, and mustard.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T16:33:23.232Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T16:33:23.232Z] Customer: Okay. Give me, big breakfast burrito.
+
+[2025-07-16T16:33:24.901Z] Unknown: [2025-07-16T16:33:23.232Z] assistant: The Big Breakfast Burrito is a great choice. It comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. 
+
+For the Big Breakfast Burrito, I need to ask a few questions to get it just right. What kind of wrap would you like? We have flour or wheat.
+
+[2025-07-16T16:33:23.232Z] Customer: Okay. I'll go with the beat.
+
+[2025-07-16T16:33:23.232Z] AI Agent: For the Big Breakfast Burrito, you've chosen the wheat wrap. Next, would you like to add any extra breakfast meat? We have options like extra bacon, extra sausage, or even 
+
+[2025-07-16T16:33:23.232Z] Customer: Okay. Give me extra give me grilled grilled chicken.
+
+[2025-07-16T16:33:24.901Z] Unknown: [2025-07-16T16:33:23.232Z] assistant: You'd like to add grilled chicken to your Big Breakfast Burrito. That's a great choice. 
+
+So, to confirm, you have the Big Breakfast Burrito with a wheat wrap and extra grilled chicken. 
+
+Next, would you like to add any vegetables? We have options like lettuce, tomato, onions, spinach, and more.
+
+[2025-07-16T16:33:23.233Z] AI Agent: It seems that grilled chicken is
+
+[2025-07-16T16:33:23.233Z] Customer: Okay. Give me sorry? Pardon?
+
+[2025-07-16T16:33:24.901Z] Unknown: [2025-07-16T16:33:23.233Z] assistant: No need to apologize. I'm here to help.
+
+So, let's try again. For the Big Breakfast Burrito, you've chosen the wheat wrap. Next, would you like to add any extra breakfast meat? We have options like extra bacon, extra sausage, or extra ham.
+
+Which one of these would you like to add?
+
+[2025-07-16T16:33:23.233Z] Customer: I said grilled chicken. I I want extra grilled chickens.
+
+[2025-07-16T16:33:23.233Z] AI Agent: For the Big Breakfast Burrito, I need to check if extra grilled chicken is a valid option. 
+
+[2025-07-16T16:33:24.901Z] Unknown: [2025-07-16T16:33:23.233Z] assistant: You've added extra grilled chicken to your Big Breakfast Burrito.
+
+Next, would you like to add any vegetables? We have options like lettuce, tomato, onions, spinach, and more. 
+
+[2025-07-16T16:33:23.234Z] AI Agent: You haven't chosen any vegetables yet. For the Big Breakfast
+
+[2025-07-16T16:33:23.234Z] Customer: Okay. So give me lettuce and tomato.
+
+[2025-07-16T16:33:24.901Z] Unknown: [2025-07-16T16:33:23.234Z] assistant: For the Big Breakfast Burrito, you've added lettuce and tomato.
+
+Next, would you like to add any condiments? We have options like salt, pepper, ketchup, mayo, and more. 
+
+[2025-07-16T16:33:23.234Z] AI Agent: You haven't chosen any condiments yet. For the Big Breakfast Burrito, we have salt, pepper, ketchup, mayo, and mustard. Which one of these would you like to add?
+
+[2025-07-16T16:33:23.234Z] Customer: Mustard.
+
+[2025-07-16T16:33:24.901Z] Unknown: [2025-07-16T16:33:23.234Z] assistant: For the Big Breakfast Burrito, you've added mustard.
+
+Next, would you like to add an extra egg? We have options like 1 extra egg, 2 extra eggs, 3 extra eggs, or 4 extra eggs. 
+
+[2025-07-16T16:33:23.235Z] AI Agent: You haven't chosen
+
+[2025-07-16T16:33:23.235Z] Customer: Okay. Can you please talk in can you talk in Spanish?
+
+[2025-07-16T16:33:24.901Z] Unknown: [2025-07-16T16:33:23.235Z] assistant: ¡Claro! Puedo hablar en español. ¿Quieres que continúe con tu pedido en español?
+
+(Translation: Of course! I can speak in Spanish. Do you want me to continue with your order in Spanish?)
+
+[2025-07-16T16:33:23.235Z] Customer: No. Let's continue.
+
+[2025-07-16T16:33:24.901Z] Unknown: [2025-07-16T16:33:23.235Z] assistant: ¡Genial! Entonces, para confirmar, tienes el Big Breakfast Burrito con tortilla de trigo, con extra de pollo a la parrilla, lechuga, tomate y mostaza.
+
+¿Quieres agregar algo más a tu pedido o estás listo para finalizar?
+
+[2025-07-16T16:33:23.235Z] Customer: Okay. No. No. No. Just continue English on this then.

@@ -1,0 +1,64 @@
+Call ID: 6878f2b0970f265df9d94a1d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T12:55:12.879Z
+End Time: 2025-07-17T12:58:50.616Z
+Duration: 214 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for an omelet sandwich with mushrooms and American cheese on a lightly toasted Gluten-Free bagel at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T12:58:50.112Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T12:58:50.112Z] Customer: Actually, I'm look I'm looking to order, multi grain, sorry, Bluetooth free bagel with, some interesting I mean, can I get omelette sandwich? Something in omelette is omelette, actually.
+
+[2025-07-17T12:58:50.112Z] AI Agent: That would be our Egg & Cheese on a bagel, and I can customize it with an omelet instead of scrambled eggs. For your bagel, you've chosen Gluten-Free. Now, let's talk about the omelet. What fillings would you like in your omelet? We have options like mushrooms, bell peppers, onions, and more.
+
+[2025-07-17T12:58:50.113Z] Customer: Give me mushroom.
+
+[2025-07-17T12:58:50.113Z] AI Agent: For your omelet, I've added mushrooms. Now, let's talk about cheese. We have American, Swiss, Cheddar, and more. Which cheese would you like in your omelet?
+
+[2025-07-17T12:58:50.113Z] Customer: American.
+
+[2025-07-17T12:58:50.113Z] AI Agent: I've added American cheese to your omelet. Now, would you like your Gluten-Free bagel toasted, lightly toasted, or not toasted at all?
+
+[2025-07-17T12:58:50.113Z] Customer: Lightly toasted.
+
+[2025-07-17T12:58:50.113Z] AI Agent: I've got that. Your Gluten-Free bagel will be lightly toasted. Now, let's review your order. You have an omelet sandwich with mushrooms and American cheese on a lightly toasted Gluten-Free bagel. Is that all for you today, or would you like to add anything else?
+
+[2025-07-17T12:58:50.113Z] Customer: No. That's it for now.
+
+[2025-07-17T12:58:50.616Z] Unknown: [2025-07-17T12:58:50.114Z] assistant: Just a moment while I add that up... 
+
+
+
+[2025-07-17T12:58:50.114Z] Customer: 
+
+[2025-07-17T12:58:50.114Z] AI Agent: Your order total comes to $8.49. I'll now proceed with submitting your order. Perfect, let me get that all put together for you. 
+
+[2025-07-17T12:58:50.115Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T12:58:50.115Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T12:58:50.115Z] Customer: No.
+
+[2025-07-17T12:58:50.115Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-17T12:58:50.116Z] Customer: No.
+
+[2025-07-17T12:58:50.117Z] AI Agent: Great. Placing that for you now, please hold on... 
+
+[2025-07-17T12:58:50.118Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 378708. That's 3, 7, 8, 7, 0, 8.", 'order_id': '378708', 'call_id': 'ade07fa9-60bd-4609-bbf5-35f2417bcfdf', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981876-84e5-82b2-6ed5-0943c62b03f8'}
+
+[2025-07-17T12:58:50.118Z] AI Agent: Your order number is 3, 7, 8, 7, 0, 8. Your total is eleven dollars and fifty-four cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-17T12:58:50.118Z] Customer: No. Thank you so much.
+
+[2025-07-17T12:58:50.119Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and enjoy your meal!
+
+[2025-07-17T12:58:50.119Z] Customer: Fine.
+
+[2025-07-17T12:58:50.119Z] AI Agent: You're welcome. Have a great day and we'll see you next time at Manhattan Bagel. Bye for now.

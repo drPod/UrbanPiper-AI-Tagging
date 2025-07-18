@@ -1,0 +1,40 @@
+Call ID: 685744a21be7d3da06d9c9d4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T23:47:46.144Z
+End Time: 2025-06-21T23:49:24.057Z
+Duration: 120 seconds
+From: +12149402918
+To: +17209999031
+Summary: Azaan ordered a box of 13 bagels with specific types and slicing, but the order was not successfully placed due to an empty cart issue.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T23:49:23.778Z] AI Agent: Hello Azaan, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T23:49:23.779Z] Customer: Like to order a box of bagels.
+
+[2025-06-21T23:49:23.779Z] AI Agent: The box of bagels, great choice. That comes with 13 fresh-baked Manhattan Bagels. Let me get the options for your bagel choices...
+
+[2025-06-21T23:49:23.779Z] AI Agent: For your box of bagels, you can choose any combination of thirteen bagels from our variety. We have Everything, Plain, 
+
+[2025-06-21T23:49:23.780Z] Customer: So can I get, five five two berry bagels and three strawberry bagels?
+
+[2025-06-21T23:49:23.780Z] AI Agent: You'd like five blueberry bagels and three strawberry bagels, and you still have five more bagels to choose. Let me see what other options we have for you...
+
+[2025-06-21T23:49:23.780Z] Customer: I'll have, five more everything bagels.
+
+[2025-06-21T23:49:23.780Z] AI Agent: You've got five blueberry bagels, three strawberry bagels, and now five Everything bagels. That completes your selection of thirteen bagels. Now, let's talk about getting your box of bagels sliced. We can slice all thirteen bagels for an additional one dollar and fifty cents. Would you
+
+[2025-06-21T23:49:23.781Z] Customer: I want them sliced. Okay. You can slice them.
+
+[2025-06-21T23:49:23.781Z] AI Agent: I'll go ahead and add the slicing option to your order. Perfect, let me 
+
+[2025-06-21T23:49:23.781Z] Customer: Okay. Can you place the order?
+
+[2025-06-21T23:49:23.781Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-21T23:49:23.782Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.
+
+[2025-06-21T23:49:23.782Z] Customer: 

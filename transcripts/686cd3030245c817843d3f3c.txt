@@ -1,0 +1,42 @@
+Call ID: 686cd3030245c817843d3f3c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T08:12:51.161Z
+End Time: 2025-07-08T08:15:42.664Z
+Duration: 164 seconds
+From: +910000000000
+To: +910000000000
+Summary: The customer inquired about various menu items and catering options, including Mint Oreo Chillerz, Avocado BLT Sandwich, and orange juice for catering, but did not finalize an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T08:15:37.950Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T08:15:37.950Z] Customer: Hi. Can I get, mint Oreo chillers?
+
+[2025-07-08T08:15:37.950Z] AI Agent: We have Mint Oreo Chillerz on our menu. For the Mint Oreo Chillerz, you'll need to pick just one size. We have 16oz and 24oz, with the 24oz being $1.49 extra. Which size would you prefer?
+
+[2025-07-08T08:15:37.950Z] Customer: Okay. I forgot about it. Can I have, avocado BLT sandwich?
+
+[2025-07-08T08:15:37.950Z] AI Agent: The Avocado BLT Sandwich is a great choice. For the Avocado BLT, you'll need to pick a bread option. We have various bagels and rolls to choose from. Here are a few: Everything, Sesame, Poppy, and Whole Wheat. Would you like one of these, or should I list more options?
+
+[2025-07-08T08:15:37.950Z] Customer: No. Thank you.
+
+[2025-07-08T08:15:37.950Z] AI Agent: For the Avocado BLT Sandwich, I just need to confirm a few things. You'd like it on an Everything bagel, right? And would you like it toasted, lightly toasted, toasted dark, or not toasted at all?
+
+[2025-07-08T08:15:37.950Z] Customer: Wait. Wait. Wait. Wait. Let's start fresh. Okay. Can I have, orange juice?
+
+[2025-07-08T08:15:37.950Z] AI Agent: Fresh start. For the orange juice, we have a few options. We have a Small 12oz for $5.99, or a 32oz for $14.99. Which size would you prefer?
+
+[2025-07-08T08:15:37.951Z] Customer: And, this is a orange juice you are talking about?
+
+[2025-07-08T08:15:37.951Z] AI Agent: We offer Fresh Squeezed Orange Juice. So, to confirm, you're interested in our Fresh Squeezed Orange Juice, and you need to choose a size: 12oz for $5.99 or 32oz for $14.99. Which one sounds good to you?
+
+[2025-07-08T08:15:37.951Z] Customer: Earlier, you were talking about which item then?
+
+[2025-07-08T08:15:37.951Z] AI Agent: Earlier, we were discussing the Avocado BLT Sandwich, but then you wanted to start fresh and asked about orange juice. We've moved on to the orange juice now. Is there anything else you'd like to order besides the orange juice?
+
+[2025-07-08T08:15:37.951Z] Customer: Yeah. I want to order, for catering. So what all options I'm having for the catering, orange juice?
+
+[2025-07-08T08:15:37.951Z] AI Agent: For catering, we have a few options for orange juice. You can choose from Individual Tropicana OJ 11oz, Individual Fresh Squeezed 12oz, Tropicana 46oz, or Fresh Squeezed 32oz. Which one of these options sounds

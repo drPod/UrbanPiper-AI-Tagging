@@ -1,0 +1,34 @@
+Call ID: 686d1260d14f3abcfb184125
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T12:43:12.554Z
+End Time: 2025-07-08T12:44:53.298Z
+Duration: 100 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer inquired about the Breakfast Bundle and apple juice but could not find apple-related items on the menu.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T12:44:52.103Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T12:44:52.104Z] Customer: Breakfast bundle.
+
+[2025-07-08T12:44:52.104Z] AI Agent: Okay, a Breakfast Bundle. Let me get that started for you. First, I need to choose 13 bagels for the bundle. We have a wide variety to choose from, including Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, and many more. Would you like to hear some options to start with?
+
+[2025-07-08T12:44:52.104Z] Customer: Can you please tell me all the bigger types? And I want all 13 sorry. All five as blueberry, five as multigrain, and, rest three as vanilla.
+
+[2025-07-08T12:44:52.104Z] AI Agent: I don't see a Vanilla bagel on our menu. Let me share some options: Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Garlic, French
+
+[2025-07-08T12:44:52.104Z] Customer: Do you have apple juice?
+
+[2025-07-08T12:44:52.104Z] AI Agent: We don't have apple juice on our menu. Let me share some options: Tropicana OJ, Fresh Squeezed Orange Juice, and we also have a variety of other beverages like coffee, tea, and lemonade. Would you like to hear more options or choose from these?
+
+[2025-07-08T12:44:52.104Z] Customer: No. I want apple juice only.
+
+[2025-07-08T12:44:52.104Z] AI Agent: I'm sorry, but we don't have apple juice available on our menu. Our juice options include Tropicana OJ and Fresh Squeezed Orange Juice. Would you like to choose one of these instead?
+
+[2025-07-08T12:44:52.104Z] Customer: You don't have anything related to Apple?
+
+[2025-07-08T12:44:52.105Z] AI Agent: I don't see any apple-related items on our menu. Let me share some options: We have Tropicana OJ, Fresh Squeezed Orange Juice, and a variety of other beverages like coffee, tea, and lemonade. Would you like to

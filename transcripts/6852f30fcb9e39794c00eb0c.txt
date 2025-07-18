@@ -1,0 +1,26 @@
+Call ID: 6852f30fcb9e39794c00eb0c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T17:10:39.953Z
+End Time: 2025-06-18T17:11:41.045Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: Gaurav ordered a medium hot latte and an avocado toast from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T17:11:40.646Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T17:11:40.646Z] Customer: I want to order hot chocolate.
+
+[2025-06-18T17:11:40.646Z] AI Agent: Let me see what I can find for you. 
+
+[2025-06-18T17:11:40.647Z] AI Agent: I found a hot latte for you. We have three sizes for the hot latte: small 12oz, medium 16oz, and large 20oz. Which size would you like?
+
+[2025-06-18T17:11:40.647Z] Customer: Medium size. Also, I want to order avocado toast as well.
+
+[2025-06-18T17:11:40.647Z] AI Agent: For the hot latte, I can make that a medium size for $4.49. Now, let me see what I can find for the avocado toast. 
+
+[2025-06-18T17:11:40.648Z] AI Agent: For the avocado toast, we have several bagel options. Which one would you like? We have plain, everything, asiago for an extra 50 cents, blueberry, and many more.

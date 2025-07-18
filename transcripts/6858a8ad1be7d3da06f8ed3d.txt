@@ -1,0 +1,110 @@
+Call ID: 6858a8ad1be7d3da06f8ed3d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T01:06:53.909Z
+End Time: 2025-06-23T01:13:57.225Z
+Duration: 480 seconds
+From: +14083338920
+To: +16204558091
+Summary: Saurabh placed an order for a Veg Out sandwich with a blueberry bagel, Lays chips, and a 16oz mango frozen lemonade.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T01:13:55.777Z] AI Agent: Hello Saurabh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T01:13:55.777Z] Customer: I'm looking for some vegetarian options. What do you have?
+
+[2025-06-23T01:13:55.778Z] AI Agent: We have a variety of vegetarian options. One popular choice is our Avocado Toast, which comes with avocado, everything bagel seasoning on multigrain toast or any bagel. We also have a Veg Out sandwich with avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a sesame bagel. And if you're looking for something a bit different, our Garden Avocado Egg White Sandwich is a great option, with egg whites, avocado, tomato, spinach, and tomato spread on a bagel. Which one of these sounds good to you?
+
+[2025-06-23T01:13:55.778Z] Customer: No. So I don't want the egg egg options. And, so without the egg, what options do you have?
+
+[2025-06-23T01:13:55.778Z] AI Agent: We have a few options without eggs. Our Avocado Toast is a great choice, and we also have a variety of bagels that you can get with cream cheese or butter. We also have a fruit cup with mixed seasonal fruit, and our yogurt parfait with low-fat vanilla yogurt, granola, and fresh berries. Additionally, we have a Veg Out sandwich with avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a sesame bagel.
+
+[2025-06-23T01:13:55.778Z] Customer: For the wet sandwich for the wet sandwich, which kind of, bread do you have as options?
+
+[2025-06-23T01:13:57.225Z] Unknown: [2025-06-23T01:13:55.778Z] assistant: For the Veg Out sandwich, we have a variety of bread options. Let me get those for you... 
+
+We have a sesame bagel, everything bagel, poppy bagel, salt bagel, whole wheat bagel, cinnamon raisin bagel, blueberry bagel, and onion bagel. Which one of these sounds good to you?
+
+[2025-06-23T01:13:55.779Z] Customer: Blueberry will, sound good.
+
+[2025-06-23T01:13:55.779Z] AI Agent: The blueberry bagel sounds like a great choice. Now, let's talk about the toast option for your Veg Out sandwich. We have toasted, lightly toasted, or toasted dark. Which one would you prefer?
+
+[2025-06-23T01:13:55.779Z] Customer: Toasted dock.
+
+[2025-06-23T01:13:55.779Z] AI Agent: Toasted dark it is. Now, let's move on to the lunch side option. We have chips, coleslaw, or Lays chips for an extra dollar. Which one would you like to go with your Veg Out sandwich?
+
+[2025-06-23T01:13:55.779Z] Customer: Less less tips, will be a good option now.
+
+[2025-06-23T01:13:57.225Z] Unknown: [2025-06-23T01:13:55.779Z] assistant: Lays chips will be a great addition to your Veg Out sandwich. Perfect, let me add that to your order... 
+
+Your Veg Out sandwich will come with avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a toasted dark blueberry bagel, and it will be accompanied by Lays chips. 
+
+Would you like to add any drinks or desserts to your order, or is that all for now?
+
+[2025-06-23T01:13:55.779Z] Customer: What kind of beverages do you have?
+
+[2025-06-23T01:13:55.779Z] AI Agent: We have a variety of beverages to choose from. Let me get those for you... We have hot coffee or tea, iced coffee or tea, hot chocolate, cold brew iced coffee, espresso shot, hot latte, iced latte, hot caramel macchiato, iced caramel macchiato, Americano, hot cappuccino, Manhattan Chillerz, frozen lemonade, fruit smoothie, small lemonade, medium lemonade, large lemonade, Nesquick, Tropicana OJ, soda,
+
+[2025-06-23T01:13:55.780Z] Customer: I think frozen frozen lemonade sounds good to me.
+
+[2025-06-23T01:13:57.225Z] Unknown: [2025-06-23T01:13:55.780Z] assistant: Frozen lemonade sounds refreshing. Let me get the options for that... 
+
+We have three flavors for our frozen lemonade: Original, Strawberry, and Mango. Which one would you like?
+
+[2025-06-23T01:13:55.780Z] Customer: Mein neues, ja, mein Gottes.
+
+[2025-06-23T01:13:55.780Z] AI Agent: Mango frozen lemonade it is. Now, let's talk about the size. We have 16oz and 24oz options, with the 24oz being an extra $1.49. Which size would you prefer?
+
+[2025-06-23T01:13:55.780Z] Customer: 16 OZ sounds good.
+
+[2025-06-23T01:13:55.780Z] AI Agent: 16oz is a great size. Now, would you like to add whipped cream to your mango frozen lemonade? It's an extra $0
+
+[2025-06-23T01:13:55.780Z] Customer: No. No, please.
+
+[2025-06-23T01:13:57.225Z] Unknown: [2025-06-23T01:13:55.780Z] assistant: No whipped cream, got it. Perfect, let me add that to your order... 
+
+You now have a Veg Out sandwich with avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a toasted dark blueberry bagel, accompanied by Lays chips, and a 16oz mango frozen lemonade.
+
+Before I finalize your order, may I have your name for the order, please?
+
+[2025-06-23T01:13:55.780Z] Customer: Salab.
+
+[2025-06-23T01:13:55.780Z] AI Agent: Saurabh, I have your order ready. Would you like me to read it back to make sure everything is perfect?
+
+[2025-06-23T01:13:55.780Z] Customer: 
+
+[2025-06-23T01:13:57.225Z] Unknown: [2025-06-23T01:13:55.780Z] assistant: Alright, let me get this order placed for you... 
+
+
+
+[2025-06-23T01:13:55.781Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.
+
+[2025-06-23T01:13:55.781Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T01:13:55.781Z] Customer: 
+
+[2025-06-23T01:13:57.225Z] Unknown: [2025-06-23T01:13:55.781Z] assistant: Let me update your order first and then I'll place it for you.
+
+
+
+[2025-06-23T01:13:55.781Z] AI Agent: I hope you are still
+
+[2025-06-23T01:13:55.781Z] Customer: Yeah. Hello? Is it done?
+
+[2025-06-23T01:13:57.225Z] Unknown: [2025-06-23T01:13:55.781Z] assistant: I apologize for the delay. Let me update your order. 
+
+You have a Veg Out sandwich with avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a toasted dark blueberry bagel, accompanied by Lays chips, and a 16oz mango frozen lemonade.
+
+Perfect, let me add that to your order... 
+
+
+
+[2025-06-23T01:13:55.781Z] Customer: Yeah.
+
+[2025-06-23T01:13:55.781Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T01:13:55.781Z] Customer: Yeah. I'm there. Can you please close the order quickly? Hello? Hello?
+
+[2025-06-23T01:13:55.781Z] AI Agent: Let's get your order updated and placed. For your Veg Out sandwich, I'll add the following modifiers: - Blueberry bagel - Toasted dark - Lays chips as the side And for your frozen lemonade: - Mango flavor - 16oz size - No whipped cream Now, let me update your order... {"name": "update_order", "parameters": {"action": "add", "items": [{"item_name":

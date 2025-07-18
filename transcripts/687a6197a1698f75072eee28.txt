@@ -1,0 +1,82 @@
+Call ID: 687a6197a1698f75072eee28
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T15:00:39.325Z
+End Time: 2025-07-18T15:03:35.527Z
+Duration: 174 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for a Hash Brown at Manhattan Bagel, which was successfully submitted and confirmed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T15:03:35.096Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T15:03:35.096Z] Customer: Hey, BagelBot. I want to order, class original classic sandwich.
+
+[2025-07-18T15:03:35.096Z] AI Agent: I'm sorry, but our Original Classic is currently out of stock today. Instead, I can offer you our Spinach Bacon Croissant, Farmhouse Egg Sandwich, or Big Breakfast Burrito. Which would you prefer?
+
+[2025-07-18T15:03:35.096Z] Customer: Can I get hash brown now?
+
+[2025-07-18T15:03:35.097Z] AI Agent: That will be our Hash Brown on the menu, just confirming it's available. I'll add the Hash Brown for you. Would you like to customize it or is that all for now?
+
+[2025-07-18T15:03:35.097Z] Customer: And that's for all for now.
+
+[2025-07-18T15:03:35.527Z] Unknown: [2025-07-18T15:03:35.097Z] assistant: Just a moment while I add that up... 
+
+
+
+[2025-07-18T15:03:35.527Z] Unknown: [2025-07-18T15:03:35.098Z] assistant: Your complete order total comes to 2 dollars and 19 cents including tax. 
+
+Perfect, let me get that all put together for you
+
+
+
+[2025-07-18T15:03:35.098Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-18T15:03:35.098Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-18T15:03:35.099Z] Customer: No. All good.
+
+[2025-07-18T15:03:35.099Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-18T15:03:35.099Z] Customer: No.
+
+[2025-07-18T15:03:35.527Z] Unknown: [2025-07-18T15:03:35.099Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-18T15:03:35.154Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 715605. That's 7, 1, 5, 6, 0, 5.", 'order_id': '715605', 'call_id': 'a659567b-e4ea-44d5-a71d-97a5fd8d87af', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981e0e-5c1d-2b29-f747-f17a5638ee4f'}
+
+[2025-07-18T15:03:35.155Z] AI Agent: Your order number is 7, 1, 5, 6, 0, 5. Your total is 2 dollars and 19 cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-18T15:03:35.156Z] Customer: One second, please.
+
+[2025-07-18T15:03:35.156Z] AI Agent: I'll wait for a moment. Please go ahead when you're ready.
+
+[2025-07-18T15:03:35.156Z] Customer: 
+
+[2025-07-18T15:03:35.156Z] AI Agent: Your total comes out to be 2 dollars and 19 cents, including tax.
+
+[2025-07-18T15:03:35.157Z] Customer: Okay.
+
+[2025-07-18T15:03:35.157Z] AI Agent: Is there anything else I can
+
+[2025-07-18T15:03:35.157Z] Customer: And,
+
+[2025-07-18T15:03:35.158Z] AI Agent: Is there anything
+
+[2025-07-18T15:03:35.158Z] Customer: 
+
+[2025-07-18T15:03:35.158Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and enjoy your Hash Brown!
+
+[2025-07-18T15:03:35.158Z] Customer: Okay.
+
+[2025-07-18T15:03:35.159Z] AI Agent: You're welcome! It was a pleasure assisting you. Have a great day!
+
+[2025-07-18T15:03:35.159Z] AI Agent: I hope you are still with me!
+
+[2025-07-18T15:03:35.159Z] Customer: No. I'm not there. Can you please, hang up?
+
+[2025-07-18T15:03:35.159Z] AI Agent: It was nice assisting you. Have a great day and enjoy your meal! *hangs up*

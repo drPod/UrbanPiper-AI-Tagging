@@ -1,0 +1,58 @@
+Call ID: 68527b7acb9e39794cefcc57
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T08:40:26.611Z
+End Time: 2025-06-18T08:45:13.194Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: Punit placed an order for a medium Hot Latte with half and half milk through Manhattan Bagel's customer service.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T08:45:12.909Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T08:45:12.910Z] Customer: I'd like to make an order of, hot latte.
+
+[2025-06-18T08:45:12.910Z] AI Agent: Let me see what I can find for you. 
+
+[2025-06-18T08:45:12.910Z] AI Agent: I found a Hot Latte for you. I can make you a Hot Latte. What size would you like? We have a small 12 ounce for $3.99, a medium 16 ounce for $4.49, or a large 20 ounce for $4.99. Which one sounds good to you?
+
+[2025-06-18T08:45:12.910Z] Customer: Medium size. Medium size. Hello?
+
+[2025-06-18T08:45:12.910Z] AI Agent: I've got that. So, you'd like a medium Hot Latte, which is 16 ounces and costs $4.49. Now, let's talk about the type of milk you'd like. We have regular milk, half and half for an extra $1, skim milk, almond milk for an extra $1, oat milk for an extra $1, or soy milk. Which one of those sounds good to you?
+
+[2025-06-18T08:45:12.911Z] Customer: Half enough milk.
+
+[2025-06-18T08:45:12.911Z] AI Agent: So, you'd like a medium Hot Latte with half and half milk. That's a great choice. The half and half milk adds an extra $1 to the price, so your total comes out to be $5.49. Now, would you like to add any sweetener or syrup to your latte? We have sugar, sweet and low, equal, splenda, raw sugar, pumpkin
+
+[2025-06-18T08:45:12.911Z] Customer: No. No. No. No. I don't want I don't want any yeah. No. I don't want any sugars. Just make it, like, raw sugar only, like, like, no extra sugar.
+
+[2025-06-18T08:45:12.911Z] AI Agent: So, you'd like a medium Hot Latte with half and half milk and no extra sugar, just the raw sugar that's already in it. I've got that. So, to confirm, your order is a medium Hot Latte with half and half milk, and you'd like it just as it is, with no extra sweetener or syrup. Is that correct?
+
+[2025-06-18T08:45:12.911Z] Customer: Yes.
+
+[2025-06-18T08:45:12.911Z] AI Agent: I'll go ahead and add that to your order. 
+
+[2025-06-18T08:45:12.912Z] AI Agent: Your total comes out to be $5.49. Would you like to place your order for pickup?
+
+[2025-06-18T08:45:12.912Z] Customer: Yes.
+
+[2025-06-18T08:45:12.912Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-18T08:45:12.913Z] Customer: 
+
+[2025-06-18T08:45:12.913Z] AI Agent: ERROR: 400 - {"success":false,"error":"No items found in cart. Please add items using update_order before placing order."}
+
+[2025-06-18T08:45:12.913Z] AI Agent: I apologize for the mistake. It seems that the order was not placed correctly. Let me try again. 
+
+[2025-06-18T08:45:12.914Z] AI Agent: Your total comes out to be $5.49. I will now place your order for pickup. 
+
+[2025-06-18T08:45:12.914Z] AI Agent: Your order has been placed successfully. Your order number is 2-3-4-3-4-6. Your order total is $6.04, which includes a subtotal of $5.49 and $0.55 in tax. Is there anything else I can help you with?
+
+[2025-06-18T08:45:12.914Z] Customer: No. Thank you so much.
+
+[2025-06-18T08:45:12.914Z] AI Agent: You're welcome, Punit. It was a pleasure helping you with your order. If you need anything else, feel free to reach out. Have a great day and enjoy your Hot Latte! 
+
+[2025-06-18T08:45:12.915Z] AI Agent: OK

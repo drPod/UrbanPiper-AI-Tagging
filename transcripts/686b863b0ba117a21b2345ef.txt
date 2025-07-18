@@ -1,0 +1,22 @@
+Call ID: 686b863b0ba117a21b2345ef
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T08:32:59.778Z
+End Time: 2025-07-07T08:34:02.835Z
+Duration: 60 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Protein Breakfast Wrap from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T08:34:02.501Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T08:34:02.501Z] Customer: I want to order protein breakfast wrap.
+
+[2025-07-07T08:34:02.501Z] AI Agent: One Protein Breakfast Wrap. First things first, I'll need to get a wrap choice for that. We have Flour or Wheat. Which one would you like?
+
+[2025-07-07T08:34:02.501Z] Customer: Do protein wrap has modifications. Can you please check it first?
+
+[2025-07-07T08:34:02.502Z] AI Agent: Let me check the Protein Breakfast Wrap for you. It comes with Grilled Chicken, Egg Whites, Spinach, Avocado, Roasted Red Peppers, and Melted Swiss Cheese, all served on a whole wheat wrap. There are no modifications available for this item. Would you like to add it to your order or would you like to hear more options?

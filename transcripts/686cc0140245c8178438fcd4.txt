@@ -1,0 +1,50 @@
+Call ID: 686cc0140245c8178438fcd4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T06:52:04.045Z
+End Time: 2025-07-08T06:55:11.639Z
+Duration: 182 seconds
+From: +910000000000
+To: +910000000000
+Summary: The customer placed an order for a Chicken Cuban sandwich with extra cheese, double lunch protein, and various vegetables, which was successfully processed and assigned order number 078863.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T06:55:09.429Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T06:55:09.429Z] Customer: I like to order a chicken Cuban.
+
+[2025-07-08T06:55:09.429Z] AI Agent: For the Chicken Cuban, you'll need to pick just one lunch bread choice. We have Plain Bagel, Everything Bagel, Asiago Bagel, and many more. Would you like one of these, or should I list more options?
+
+[2025-07-08T06:55:09.429Z] Customer: Can you please repeat the same thing again?
+
+[2025-07-08T06:55:09.430Z] AI Agent: For the Chicken Cuban, you'll need to pick just one lunch bread choice. We have Plain Bagel, Everything Bagel, Asiago Bagel, and many more. Would you like one of these, or should I list more options?
+
+[2025-07-08T06:55:09.430Z] Customer: Can I have a Siagu
+
+[2025-07-08T06:55:09.430Z] AI Agent: The Asiago Bagel sounds like a great choice for your Chicken Cuban. Now, let's talk about the lunch side. You can choose from Chips, Cole Slaw, or Lays Chips. Which one would you prefer?
+
+[2025-07-08T06:55:09.430Z] Customer: Call slow.
+
+[2025-07-08T06:55:09.431Z] AI Agent: The coleslaw will go well with your Chicken Cuban on an Asiago Bagel. Now, would you like your sandwich toasted, lightly toasted, toasted dark, or no toast at all?
+
+[2025-07-08T06:55:09.431Z] Customer: Lightly toasted.
+
+[2025-07-08T06:55:09.431Z] AI Agent: The Chicken Cuban on an Asiago Bagel, lightly toasted, with coleslaw, sounds delicious. Now, you also have the option to add some extra items. You can choose to add double lunch protein, or some lunch veggies like avocado, spinach, or cucumber. Or, you can add some extra cheese. Which of these
+
+[2025-07-08T06:55:09.432Z] Customer: Okay. So let's add the extra cheese. Also, love to have a cucumber, avocado, tomato, and green pepper. And, can you also add double lunch protein as well?
+
+[2025-07-08T06:55:09.432Z] AI Agent: So, to confirm, you'd like to add extra cheese to your Chicken Cuban. And for the lunch veggies, you'd like to add cucumber, avocado, tomato, and green peppers. Additionally, you'd like to add double lunch protein. I just want to let you know that adding double lunch protein will include an extra portion of grilled chicken. Is that correct?
+
+[2025-07-08T06:55:09.432Z] Customer: No, ok.
+
+[2025-07-08T06:55:09.433Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 078863. That's 0, 7, 8, 8, 6, 3.", 'order_id': '078863', 'call_id': '6ed5bdd1-9d7c-45bd-86f3-ecef86b9762f', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e8d0-7e59-bb4b-d5aa-6e7dda4759e1'}
+
+[2025-07-08T06:55:09.433Z] Customer: Okay.
+
+[2025-07-08T06:55:09.433Z] AI Agent: Your order number is 078863. That's zero, seven, eight, eight, six, three. Your total comes out to be twenty-four dollars and ninety-nine cents. That's twenty-four dollars and ninety-nine cents. We'll have your Chicken Cuban ready for pickup. Please arrive at 1350 Galloping Hill Rd, Union, NJ 07083, USA. If you have any questions or need further assistance, feel free to ask. Have a great day and thank you for choosing Manhattan Bagel.
+
+[2025-07-08T06:55:09.433Z] Customer: Okay. Bye bye.
+
+[2025-07-08T06:55:09.434Z] AI Agent: OK

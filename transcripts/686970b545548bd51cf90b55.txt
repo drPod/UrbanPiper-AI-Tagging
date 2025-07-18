@@ -1,0 +1,22 @@
+Call ID: 686970b545548bd51cf90b55
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T18:36:37.590Z
+End Time: 2025-07-05T18:37:16.551Z
+Duration: 36 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T18:37:16.388Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T18:37:16.389Z] Customer: Breakfast bundles.
+
+[2025-07-05T18:37:16.389Z] AI Agent: Our Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to choose the types of bagels and cream cheese, or would you like me to suggest some popular options?
+
+[2025-07-05T18:37:16.389Z] Customer: What is the price?
+
+[2025-07-05T18:37:16.389Z] AI Agent: The price for our Breakfast Bundle is $29.99. It's a great

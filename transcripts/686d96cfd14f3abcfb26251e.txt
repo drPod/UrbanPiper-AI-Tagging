@@ -1,0 +1,40 @@
+Call ID: 686d96cfd14f3abcfb26251e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T22:08:15.284Z
+End Time: 2025-07-08T22:10:11.363Z
+Duration: 114 seconds
+From: +19725155417
+To: +16204558091
+Summary: Sonu placed an order for an Avocado BLT Sandwich, a Chicken Cuban, and inquired about coffee options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T22:10:10.982Z] AI Agent: Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T22:10:10.982Z] Customer: Hi. Let me get my usual avocado BLT sandwich and an Asiago bagel. Let's make that toasted dark. Let's add jalapenos, spinach, provolone cheese, mustard, mayo. Let's do, hot sauce, and let's make a double protein with, light strips on the side, please.
+
+[2025-07-08T22:10:11.363Z] Unknown: [2025-07-08T22:10:10.983Z] assistant: Alright, one Avocado BLT Sandwich on an Asiago Bagel. Let me make sure I get all your customizations right.
+
+First, you'd like it Toasted Dark. Got it. Now, for the add-ons, you'd like Jalapeno Peppers, Spinach, and Provolone Cheese. That’s all set. For the condiments, you want Mustard, Mayo, and Hot Sauce. And you'd like to add Double Lunch Protein. Finally, the side will be Lays Chips.
+
+Is there anything else I can get for you today?
+
+[2025-07-08T22:10:10.983Z] Customer: Yeah. Let's get a chicken Cuban.
+
+[2025-07-08T22:10:11.363Z] Unknown: [2025-07-08T22:10:10.983Z] assistant: Okay, one Chicken Cuban. Let me get the customizations for that.
+
+Would you like to choose a side for your Chicken Cuban? We have Chips or Cole Slaw.
+
+[2025-07-08T22:10:10.983Z] Customer: Let's do coleslaw. I know you like coleslaw. Yes, sir.
+
+[2025-07-08T22:10:10.984Z] AI Agent: Alright, one Chicken Cuban with Cole Slaw on the side. Would you like to add any extra toppings or condiments to your Chicken Cuban? For example, extra 
+
+[2025-07-08T22:10:10.984Z] Customer: Let's do let's do pickles and extra cheese.
+
+[2025-07-08T22:10:10.984Z] AI Agent: Got it, adding Pickles and Extra Cheese to your Chicken Cuban. Is there anything else I can get for you today?
+
+[2025-07-08T22:10:10.985Z] Customer: Yeah. What coffees do you guys have?
+
+[2025-07-08T22:10:10.985Z] AI Agent: We have several coffee options! For Hot Coffee, you can choose from House Blend, Vanilla Hazelnut Blend, Dark Roast, or Decaf. For Iced Coffee, we have House Blend, Vanilla Hazelnut Blend, or Arnold Palmer. Would you like to try one of these?

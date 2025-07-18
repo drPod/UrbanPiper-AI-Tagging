@@ -1,0 +1,38 @@
+Call ID: 6859aa891be7d3da0611ed45
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T19:27:05.951Z
+End Time: 2025-06-23T19:29:12.341Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a 24oz Mint Oreo Chillerz at Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T19:29:12.129Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T19:29:12.129Z] Customer: Yeah. I'd like to order, mint Oreo mint mint cashew chillers.
+
+[2025-06-23T19:29:12.129Z] AI Agent: The Mint Oreo Chillerz, excellent choice. That's one of our refreshing frozen blended beverages made with creamy ice cream blended with mint Oreo cookies for the perfect crunch-meets-cool combo, finished with whipped cream and festive green sprinkles. Let me get the options for your Mint Oreo Chillerz.
+
+[2025-06-23T19:29:12.129Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T19:29:12.129Z] Customer: Yeah. I'm there.
+
+[2025-06-23T19:29:12.129Z] AI Agent: Let me get the options for your Mint Oreo Chillerz. 
+
+[2025-06-23T19:29:12.129Z] AI Agent: For your Mint Oreo Chillerz, let's start with the Size. You can choose from 16oz or 24oz. Which size would you like?
+
+[2025-06-23T19:29:12.129Z] Customer: Medium.
+
+[2025-06-23T19:29:12.129Z] AI Agent: We have a 16oz and a 24oz size for the Mint Oreo Chillerz. Since you said medium, I'll go with the 24oz size, as that's the larger of the two options. So, that's a 24oz Mint Oreo Chillerz. Is there anything else I can get for you?
+
+[2025-06-23T19:29:12.129Z] Customer: No. All good. That's it for now.
+
+[2025-06-23T19:29:12.130Z] AI Agent: Alright, let me get this order placed for you. 
+
+[2025-06-23T19:29:12.130Z] AI Agent: {'result': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 819192. That's 8, 1, 9, 1, 9, 2. Total: $8.23 (subtotal 7.48 dollars plus 0.75 dollars tax). Thank you for your order!", 'responseType': 'tool-response', 'success': True, 'orderNumber': '819192', 'orderTotal': 8.23, 'itemCount': 1, 'customer': '', 'orderSummary': {'orderNumber': '819192', 'callId': 'b4e8bd3a-c331-4f31-a52c-77e94c631153', 'tenantName': 'manhattan_bagel_864915', 'storeId': '1', 'customer': {'name': '', 'contact_number': '', 'country_code': '+1', 'customer_email': 'noemail@example.com', 'full_address': 'Pickup Order - No Address Required', 'locality': 'Restaurant Location', 'payment_method_preference': 'cash', 'preferred_time_for_delivery_pickup': 'pickup'}, 'items': [{'item_name': 'Mint Oreo Chillerz', 'ref_id': 'itm_8c011be7-4be4-4b37-820c-f5e16763bcd7', 'quantity': 1, 'base_price': 5.99, 'modifier_groups': [{'group_title': 'Size', 'option_title': '24oz', 'price': 1.49, 'quantity': 1, 'group_ref_id': 'mg1409526', 'option_ref_id': '5709011'}], 'item_total_price': 7.48, 'category': 'Uncategorized', 'description': '', 'food_type': '1', 'taxes': []}], 'itemCount': 1, 'subtotal': 7.48, 'specialInstructions': '', 'placedAt': '2025-06-23T19:28:41.267Z'}, 'externalApiResponse': {'status': 'success', 'message': 'Order processed', 'order_request_id': '9007407e-23cc-4ee6-94af-8dc86fd8b873', 'order_total_price': 8.23, 'total_tax_applied': 0.75}, 'externalApiSubmitted': True}
+
+[2025-06-23T19:29:12.130Z] AI Agent: Your order number is 8, 1, 9, 1, 9, 2. Your total comes out to be 7 dollars and 48 cents for the item, plus 0 dollars and 75 cents in tax, making it a total of 8 dollars and 23 cents. We'll have that ready for you shortly here at Manhattan Bagel. Thank you for your order!

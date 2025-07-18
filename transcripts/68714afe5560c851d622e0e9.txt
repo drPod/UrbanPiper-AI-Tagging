@@ -1,0 +1,73 @@
+Call ID: 68714afe5560c851d622e0e9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T17:33:50.640Z
+End Time: 2025-07-11T17:37:35.486Z
+Duration: 222 seconds
+From: 919780032269
+To: 918035740152
+Summary: John placed an order for a Half Dozen Everything Bagels with Provolone cheese at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T17:37:35.122Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-11T17:37:35.123Z] Customer: I'd like to order a couple of bay box of bagel. Do you have box of bagel?
+
+[2025-07-11T17:37:35.123Z] AI Agent: Sure thing John! We have several bagel box options. For example, the Half Dozen Bagels includes six bagels of your choice, and the Dozen Bagels includes twelve. We also have a Bakers Dozen Value Pack with thirteen bagels and two tubs of spread. Which option would you prefer?
+
+[2025-07-11T17:37:35.123Z] Customer: I'll go with that half dozen vehicle then.
+
+[2025-07-11T17:37:35.123Z] AI Agent: Got it John! For the Half Dozen Bagels, you'll need to pick just one type of bagel for all six. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg Everything, French Toast, Garlic, Multigrain, Onion, Poppy, Pumpernickel, Rye, Salt, Sesame, Honey Whole Wheat, and Honey Whole Wheat Everything. Which one would you like for your half dozen?
+
+[2025-07-11T17:37:35.124Z] Customer: So can I choose different bagel for, in six, or I have to choose, like, all six as one type of bagel?
+
+[2025-07-11T17:37:35.124Z] AI Agent: For the Half Dozen Bagels, you'll need to pick just one type for all six. However, if you'd like a mix of different bagels, we have the Bakers Dozen Value Pack, which allows you to choose thirteen bagels with a variety of 
+
+[2025-07-11T17:37:35.124Z] Customer: Okay. Then then then I'll go with the, you know, everything legal as, as Joyce.
+
+[2025-07-11T17:37:35.124Z] AI Agent: Perfect John! Six Everything bagels it is. Now, would you like to add any spreads or other items to your order?
+
+[2025-07-11T17:37:35.125Z] Customer: Then tell me the like, what all these cheese I'm having as an option?
+
+[2025-07-11T17:37:35.125Z] AI Agent: For the Half Dozen Bagels, you have the option to add cheese. We offer American, Swiss, Pepper Jack, Cheddar, Muenster, and Provolone cheese. Each cheese option comes with a small additional cost. Would you like to add any cheese to your bagels?
+
+[2025-07-11T17:37:35.125Z] Customer: Yeah. Provolone cheese is good.
+
+[2025-07-11T17:37:35.125Z] AI Agent: Got it John! Adding Provolone cheese to your six Everything bagels. Now, would you like to add any spreads or other items to your order?
+
+[2025-07-11T17:37:35.125Z] Customer: No. That's it for now.
+
+[2025-07-11T17:37:35.125Z] AI Agent: Alright John! Let me confirm your order: you're getting a Half Dozen Everything Bagels with Provolone cheese. Is there anything else I can get for you today?
+
+[2025-07-11T17:37:35.126Z] Customer: No. I think that's all for now.
+
+[2025-07-11T17:37:35.486Z] Unknown: [2025-07-11T17:37:35.126Z] assistant: Perfect John! Let me get that all put together for you.  
+
+
+[2025-07-11T17:37:35.126Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-11T17:37:35.126Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-11T17:37:35.135Z] Customer: 
+
+[2025-07-11T17:37:35.136Z] AI Agent: Alright John. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-11T17:37:35.136Z] Customer: No. Thank you so much. That's all.
+
+[2025-07-11T17:37:35.136Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-11T17:37:35.136Z] Customer: 
+
+[2025-07-11T17:37:35.486Z] Unknown: [2025-07-11T17:37:35.136Z] assistant: Great. Placing that for you now, please hold on.
+
+
+
+[2025-07-11T17:37:35.136Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 031958. That's 0, 3, 1, 9, 5, 8.", 'order_id': '031958', 'call_id': '54b21969-6a92-4799-96b3-4c6e7a4ffa91', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fa8f-d760-54ba-44d8-14e987e890c6'}
+
+[2025-07-11T17:37:35.136Z] AI Agent: Your order is created successfully now! The order number is 0, 3, 1, 9, 5, 8, and the total including taxes comes to $17.23. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist you with?
+
+[2025-07-11T17:37:35.136Z] Customer: No. Thank you so much.
+
+[2025-07-11T17:37:35.136Z] AI Agent: You're welcome, John! Have a great day! Goodbye!

@@ -1,0 +1,50 @@
+Call ID: 6852a825cb9e39794cf528b3
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T11:51:01.089Z
+End Time: 2025-06-18T11:53:51.575Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: Radz ordered an Original Classic sandwich for pickup from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T11:53:51.241Z] AI Agent: Hello Tom, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T11:53:51.241Z] Customer: Halo my name israt
+
+[2025-06-18T11:53:51.242Z] AI Agent: Nice to meet you, Radz. I'm Emily, and I'll be happy to help you with your order today. Before we get started, may I just confirm that I have your name correct? You'd like me to call you Radz, right?
+
+[2025-06-18T11:53:51.242Z] Customer: 
+
+[2025-06-18T11:53:51.242Z] Customer: 
+
+[2025-06-18T11:53:51.243Z] AI Agent: I found a Single Bagel for one dollar and forty-nine cents. What type of bagel would you like? We have many options such as Plain, Everything, Asiago, Blueberry, and more. Which one sounds good to you?
+
+[2025-06-18T11:53:51.243Z] Customer: Air on to ada pupot Madinah
+
+[2025-06-18T11:53:51.244Z] AI Agent: I'd be happy to help you with that. What kind of food are you in the mood for? We have a variety of options, including sandwiches, salads, and of course,
+
+[2025-06-18T11:53:51.244Z] Customer: Do you all got a red? I want break.
+
+[2025-06-18T11:53:51.245Z] AI Agent: I found a Box of Sweets that includes breakfast
+
+[2025-06-18T11:53:51.245Z] Customer: I want breakfast sandwich.
+
+[2025-06-18T11:53:51.246Z] AI Agent: I found several great options for you! Our popular breakfast sandwiches include the Original Classic for seven dollars and forty-nine cents, the Egg & Cheese for four
+
+[2025-06-18T11:53:51.246Z] Customer: Yeah. Please yeah. Please add that in order.
+
+[2025-06-18T11:53:51.247Z] AI Agent: Your current order now has an Original Classic sandwich for seven dollars and forty-nine cents. Would you like to add anything else?
+
+[2025-06-18T11:53:51.247Z] Customer: No. Nothing.
+
+[2025-06-18T11:53:51.248Z] AI Agent: Let me confirm your order. You have an Original Classic sandwich for seven dollars and forty-nine cents, and you'd like to pick it up. Is that correct?
+
+[2025-06-18T11:53:51.248Z] Customer: Yes. Yes.
+
+[2025-06-18T11:53:51.249Z] AI Agent: Your order number is 1 3 1 5 0 7. Your order total is
+
+[2025-06-18T11:53:51.249Z] Customer: Tell you.

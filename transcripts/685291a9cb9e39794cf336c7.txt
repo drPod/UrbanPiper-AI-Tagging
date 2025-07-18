@@ -1,0 +1,186 @@
+Call ID: 685291a9cb9e39794cf336c7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T10:15:05.636Z
+End Time: 2025-06-18T10:29:30.210Z
+Duration: 900 seconds
+From: +919686500112
+To: +16204558091
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T10:29:27.771Z] AI Agent: Hello Vansh, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T10:29:27.771Z] Customer: Hi. Can you tell me, the breakfast options available?
+
+[2025-06-18T10:29:27.771Z] AI Agent: Let me check the breakfast options for you. 
+
+[2025-06-18T10:29:27.771Z] AI Agent: I found a Box of Sweets for breakfast. It includes muffins, pastries, and crumb cake. Would you like to go with the breakfast sweets option or the lunch sweets option? Also, we have two 
+
+[2025-06-18T10:29:27.771Z] Customer: No. I don't want sweets. Can you tell me more about breakfast sandwiches?
+
+[2025-06-18T10:29:27.771Z] AI Agent: Let me check the breakfast sandwiches for you. 
+
+[2025-06-18T10:29:27.772Z] AI Agent: I found several breakfast sandwich options. We have the Original Classic for $7.49, Spinach Bacon Croissant for $8.99, Farmhouse Egg Sandwich for $8.99, Big Breakfast Burrito for $9.49, Santa Fe Egg White for $7.99, Hash Brown for $1.99, Egg on a Bagel for $3.99, French Toast Egg Sandwich for $8.99, Omelet Wrap for $8.99, Protein Breakfast Wrap for $10.99, Avocado Toast for $6.99, Egg & Cheese for $4.99, Garden Avocado Egg White Sandwich for $7.49, Meat on Bagel for $4.99, Philly Steak Egg & Cheese for $8.99, Side of Breakfast Meat for $3.99, The LEO for $11.99, Breakfast Cheesesteak for $9.49, Smokey Brisket Sandwich for $8.99, and Classic Crossant for $8.49. Which one sounds good to you?
+
+[2025-06-18T10:29:27.772Z] Customer: Actually, can you tell me your breakfast bagels and sweets options?
+
+[2025-06-18T10:29:27.774Z] AI Agent: Let me check the breakfast bagels and sweets for you. 
+
+[2025-06-18T10:29:27.774Z] AI Agent: We have a Single Bagel for $1.49. You can choose from various bagel types such as Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, Bagel Stick, or French Toast ROLL. Which one would you like?
+
+[2025-06-18T10:29:27.774Z] Customer: No. Can you tell me all the options in breakfast, bagels, and sweets?
+
+[2025-06-18T10:29:27.774Z] AI Agent: Let me check the breakfast bagels and sweets for you. 
+
+[2025-06-18T10:29:27.774Z] AI Agent: We have pastries for $2.99, cookies, and muffins for $3.49. For pastries, you can choose from Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake,
+
+[2025-06-18T10:29:27.775Z] Customer: No. No. Tell me tell me all the options you have from your breakfast, bagels, and sweets category.
+
+[2025-06-18T10:29:27.775Z] AI Agent: Let me check the breakfast bagels and sweets for you. 
+
+[2025-06-18T10:29:27.775Z] AI Agent: We have pastries for $2.99, cookies, and muffins for $3.49
+
+[2025-06-18T10:29:27.775Z] Customer: No. Okay. Leave it. Leave it. Tell me all the breakfast platters you have.
+
+[2025-06-18T10:29:27.775Z] AI Agent: Let me check the breakfast platters for you. 
+
+[2025-06-18T10:29:30.210Z] Unknown: [2025-06-18T10:29:27.775Z] assistant: We have several breakfast platter options. 
+
+1. Eggs and Omelettes for $4.99 - This comes with eggs on a plate and the option to make your own omelette. You can add condiments, vegetables, choose your egg type, add extra breakfast meat, extra eggs, hash browns, cheese, or breakfast meat.
+
+2. Sweet & Savory French Toast Platter for $11.99 - This includes 2 pieces of Texas toast French toast, 2 scrambled eggs, and 4 strips of bacon, served with maple syrup and butter.
+
+3. Sweet & Savory Pancake Platter for $11.99 - This includes 2 fluffy pancakes, 2 scrambled eggs, and 4 strips of bacon, served with maple syrup and butter. You also have the option to add blueberries or chocolate chips to your pancakes for $2.
+
+4. Just French Toast for $7.99 - This includes 3 pieces of Texas toast French toast, served with maple syrup and butter.
+
+5. Just Pancakes for $7.99 - This includes 3 fluffy pancakes, served with maple syrup and butter. You also have the option to add blueberries or chocolate chips to your pancakes for $2.
+
+Which one of these options sounds good to you?
+
+[2025-06-18T10:29:27.776Z] Customer: Tell me all your lunch options.
+
+[2025-06-18T10:29:27.776Z] AI Agent: Let me check the lunch options for you. 
+
+[2025-06-18T10:29:30.210Z] Unknown: [2025-06-18T10:29:27.776Z] assistant: We have several lunch options. 
+
+1. Greenwich Grilled Cheese for $8.49 - This comes with bacon, tomato, Swiss, Cheddar, and American cheese on grilled multigrain bread. You can add condiments, vegetables, choose your egg type, add extra breakfast meat, extra eggs, hash browns, cheese, or breakfast meat.
+
+2. Chelsea Grilled Chicken for $10.49 - This includes grilled chicken, roasted peppers, pepper jack cheese, and tomato spread on an Asiago bagel. You can choose a side, toast, add extra cheese, double lunch protein, or add vegetables.
+
+3. Spicy Avocado Grilled Chicken for $10.49 - This includes grilled chicken, avocado, pepper jack cheese, and jalapeno cream cheese spread on a Jalapeno Bacon Cheese Roll. You can choose a side, toast, add extra cheese, double lunch protein, or add vegetables.
+
+4. Ellis Island Hot Pastrami Sandwich for $10.99 - This includes Boars Head Hot Pastrami, grilled onions, melted Swiss, and spicy mustard on a Rye bagel. You can choose a side, bread, toast, add extra cheese, or double lunch protein.
+
+5. Manhattan Cheesesteak Sandwich for $10.49 - This includes grilled steak, roasted peppers, grilled onions, and cheese on a long roll. You can choose a side, toast, add extra cheese, or double lunch protein.
+
+6. Balsamic Grilled Chicken Wrap for $10.49 - This includes grilled chicken, lettuce, tomato, Provolone Cheese, and balsamic dressing in a tortilla. You can choose a wrap, side, double lunch protein, or add vegetables.
+
+7. Big City BLT for $9.49 - This includes bacon, lettuce, tomato, and mayo on toasted multigrain bread
+
+[2025-06-18T10:29:27.776Z] Customer: Hello? You there?
+
+[2025-06-18T10:29:27.776Z] AI Agent: Yes, I'm here. I was just listing out the lunch options for you. We have several options, including sandwiches, wraps, and salads. Which one sounds good to you?
+
+[2025-06-18T10:29:27.776Z] Customer: You were going through, okay. You have given me all the choices you think there are. Okay. Can you give me all the options in deli items?
+
+[2025-06-18T10:29:27.776Z] AI Agent: Let me check the deli items for you. 
+
+[2025-06-18T10:29:27.776Z] AI Agent: We have three deli item options: Pepper Jack for $4.99, Muenster for $4.99, and Boars Head Pastrami for $9.99. Each of these options is a half pound. Would you like to choose one of these options?
+
+[2025-06-18T10:29:27.777Z] Customer: Can you tell me everything you have in daily items?
+
+[2025-06-18T10:29:27.777Z] AI Agent: Let me check the deli items for you. 
+
+[2025-06-18T10:29:27.777Z] AI Agent: We have three deli item options: Pepper Jack for $4.99, Muenster
+
+[2025-06-18T10:29:27.777Z] Customer: You only have three deli items?
+
+[2025-06-18T10:29:27.777Z] AI Agent: Let me check the deli items for you. 
+
+[2025-06-18T10:29:27.777Z] AI Agent: We have three deli item options: Pepper Jack for $4.99, Muenster for $4.99, and Boars
+
+[2025-06-18T10:29:27.778Z] Customer: Okay. Leave it. Leave it. Can you tell me all the beverages option?
+
+[2025-06-18T10:29:27.778Z] AI Agent: Let me check the beverages for you. 
+
+[2025-06-18T10:29:30.210Z] Unknown: [2025-06-18T10:29:27.779Z] assistant: We have several beverage options. 
+
+1. Hot Coffee or Tea - You can choose from various sizes, roasts, and add sweeteners or syrups.
+2. Ice Coffee or Tea - Similar to hot coffee or tea, but served over ice.
+3. Hot Chocolate - A rich and creamy hot chocolate made with milk and chocolate syrup.
+4. Cold Brew Iced Coffee - A smooth and rich coffee made by steeping coarse-ground coffee beans in cold water for an extended period.
+5. Espresso Shot - A concentrated shot of espresso made from finely ground coffee beans.
+6. Hot Latte - A combination of espresso and steamed milk, topped with a layer of foam.
+7. Iced Latte - Similar to a hot latte, but served over ice.
+8. Hot Caramel Macchiato - A combination of espresso, steamed milk, and caramel syrup, topped with a layer of foam.
+9. Iced Caramel Macchiato - Similar to a hot caramel macchiato, but served over ice.
+10. Americano - Espresso diluted with hot water, giving it a milder flavor.
+11. Hot Cappuccino - A combination of espresso, steamed milk, and foam, with a higher ratio of foam to milk.
+12. Manhattan Chillerz - Frozen blended beverages made with either coffee or ice cream base.
+13. Frozen Lemonade - Blended frozen lemonades in various flavors.
+14. Fruit Smoothie - Blended smoothies made with fruit mix and low-fat vanilla yogurt.
+15. Small Lemonade 16oz - Signature lemonade in a 16oz size.
+16. Medium Lemonade 24oz - Signature lemonade in a 24oz size.
+17. Large Lemonade 32oz - Signature lemonade in a 32oz size.
+18. Nesquick - A chocolate or strawberry flavored drink mix.
+19. Tropicana OJ - Orange juice in various sizes and flavors.
+20. Soda 12oz Can - A variety of soda flavors in 12oz cans.
+21. Gatorade - A sports drink available in different flavors.
+22. Milk - Whole milk or chocolate milk in pint sizes.
+23. Snapple - A variety of iced tea flavors.
+24. Water - Bottled water in various sizes, including sport cap and Pelligrino options.
+25. Fresh Squeezed Orange Juice - Freshly squeezed orange juice in 12oz or 32oz sizes.
+
+Which one of these options sounds good to you?
+
+[2025-06-18T10:29:27.779Z] Customer: Actually, can you tell me all your breakfast bundles?
+
+[2025-06-18T10:29:27.779Z] AI Agent: Let me check the breakfast bundles for you. 
+
+[2025-06-18T10:29:27.779Z] AI Agent: We have a Breakfast Bundle for $29.99. This includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). You can also add 4oz of premium Acme smoked nova for just $9.99. For the bagels, you can choose from various flavors such as Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion,
+
+[2025-06-18T10:29:27.779Z] Customer: Can you tell me can you tell me your retail category? What do you have in retail category?
+
+[2025-06-18T10:29:27.779Z] AI Agent: Let me check the retail category for you. 
+
+[2025-06-18T10:29:30.210Z] Unknown: [2025-06-18T10:29:27.779Z] assistant: We have several retail category options. 
+
+1. Chips for $1.19 - You can choose from regular or Lays.
+2. Banana for $1.25 
+3. Pickle for $1
+
+[2025-06-18T10:29:27.781Z] Customer: Hallå, Jud där.
+
+[2025-06-18T10:29:27.781Z] AI Agent: Yes, I'm here. I was just listing out the retail category options for you. We have chips, banana, and pickle available. Is there anything else I can help you with?
+
+[2025-06-18T10:29:27.781Z] Customer: Can you tell me all your retail options?
+
+[2025-06-18T10:29:27.781Z] AI Agent: Let me check the retail options for you. 
+
+[2025-06-18T10:29:30.210Z] Unknown: [2025-06-18T10:29:27.781Z] assistant: We have several retail options. 
+
+1. Chips for $1.19 - You can choose from regular or Lays.
+2. Pickle for $1
+3. Banana for $1.25 
+
+These are the retail options we have available. Is there anything else I can help you with?
+
+[2025-06-18T10:29:27.781Z] Customer: 
+
+[2025-06-18T10:29:27.782Z] AI Agent: Let me check the catering menu for you. 
+
+[2025-06-18T10:29:30.210Z] Unknown: [2025-06-18T10:29:27.787Z] assistant: We have several catering menu options. 
+
+1. Box of Sweets - This includes breakfast sweets like muffins, pastries, and crumb cake, as well as lunch sweets like cookies and brownies. You can choose from a regular or large size.
+2. Catering Coffee Service - This is a box of coffee, tea, or hot chocolate that comes with cups, sweetener, and creamers. You can choose from various coffee and tea options.
+3. Meat & Cheese Platter - This platter includes roast beef, turkey, ham, Swiss and cheddar cheese, assorted bagels, lettuce, tomato, onions, chips, pickles, and condiments. You can choose from different sizes to accommodate 10, 15, or 20 people.
+
+These are the catering options we have available. Is there anything else I can help you with?
+
+[2025-06-18T10:29:27.787Z] Customer: No. Thank you.
+
+[2025-06-18T10:29:27.787Z] AI Agent: You're welcome.

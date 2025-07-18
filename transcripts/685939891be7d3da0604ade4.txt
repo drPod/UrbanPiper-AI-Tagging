@@ -1,0 +1,54 @@
+Call ID: 685939891be7d3da0604ade4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:24:57.624Z
+End Time: 2025-06-23T11:28:00.588Z
+Duration: 240 seconds
+From: +918949862707
+To: +16204558091
+Summary: Gaurav ordered a Breakfast Bundle with specific customizations, including thirteen bagels, two tubs of spread, and four muffins, but declined the box of coffee option.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:28:00.424Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T11:28:00.425Z] Customer: I'm I'm looking to order big fries bundles.
+
+[2025-06-23T11:28:00.425Z] AI Agent: The Breakfast Bundle is perfect for a group. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T11:28:00.425Z] AI Agent: Let's start with the Bagel Dozen. We have options like Plain, Everything, Asiago, Blueberry, and more. Which thirteen bagels would you like?
+
+[2025-06-23T11:28:00.425Z] Customer: I'm looking for, thirteen five as everything, five as, salt.
+
+[2025-06-23T11:28:00.426Z] AI Agent: I see you'd like five Everything bagels and five Salt bagels. That's a total of ten bagels so far. You still need to choose three more bagels to reach the total of thirteen. Which three would you like?
+
+[2025-06-23T11:28:00.426Z] Customer: Three as claim.
+
+[2025-06-23T11:28:00.588Z] Unknown: [2025-06-23T11:28:00.426Z] assistant: You'd like three Plain bagels. So, to recap, you have five Everything bagels, five Salt bagels, and three Plain bagels. That's your thirteen bagels.
+
+Next, let's move on to the Choose 2 Tubs of Spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which two spreads would you like?
+
+[2025-06-23T11:28:00.426Z] Customer: Plain and, vegetable.
+
+[2025-06-23T11:28:00.588Z] Unknown: [2025-06-23T11:28:00.426Z] assistant: You'd like one tub of Plain Cream Cheese and one tub of Vegetable Cream Cheese.
+
+Next, let's move on to the Choose 4 Muffins. We have options like Blueberry, Corn, Double Chocolate, and more. You can choose up to four muffins. Which ones would you like?
+
+[2025-06-23T11:28:00.427Z] Customer: I want two as blueberry two as chocolate chips.
+
+[2025-06-23T11:28:00.588Z] Unknown: [2025-06-23T11:28:00.427Z] assistant: You'd like two Blueberry muffins and two Chocolate Chip muffins.
+
+Finally, let's consider the Box of Coffee. We have options like House Blend, Decaf, Vanilla Hazelnut, and more. Would you like to add a box of coffee to your order?
+
+[2025-06-23T11:28:00.427Z] Customer: No. I don't want
+
+[2025-06-23T11:28:00.427Z] AI Agent: Perfect, let me add that Breakfast Bundle to your order...
+
+[2025-06-23T11:28:00.427Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T11:28:00.428Z] Customer: 
+
+[2025-06-23T11:28:00.428Z] Customer: Hello?
+
+[2025-06-23T11:28:00.428Z] Customer: Hello?

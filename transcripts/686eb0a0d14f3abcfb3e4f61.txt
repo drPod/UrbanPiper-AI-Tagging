@@ -1,0 +1,59 @@
+Call ID: 686eb0a0d14f3abcfb3e4f61
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T18:10:40.639Z
+End Time: 2025-07-09T18:12:32.078Z
+Duration: 109 seconds
+From: 919780032269
+To: 918035740152
+Summary: John placed a successful order for an 11oz Tropicana Orange Juice for pickup at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T18:12:31.640Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T18:12:31.640Z] Customer: Hey. Hi. I'd like to order breakfast, sorry, Tropicana, OZ, orange juice.
+
+[2025-07-09T18:12:31.640Z] AI Agent: Okay, one Tropicana Orange Juice. You'll need to pick just one size for that. We have 11 ounce, and 46 ounce. Which size would you prefer?
+
+[2025-07-09T18:12:31.640Z] Customer: 11 ounce.
+
+[2025-07-09T18:12:31.640Z] AI Agent: Perfect. Is there anything else I can get for you today?
+
+[2025-07-09T18:12:31.640Z] Customer: Não.
+
+[2025-07-09T18:12:31.640Z] AI Agent: Okay, so I have the 11 ounce Tropicana Orange Juice. Is that all for you today?
+
+[2025-07-09T18:12:31.640Z] Customer: Yes, please.
+
+[2025-07-09T18:12:32.078Z] Unknown: [2025-07-09T18:12:31.640Z] assistant: Perfect, let me get that all put together for you.
+
+
+[2025-07-09T18:12:31.641Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-09T18:12:31.641Z] AI Agent: Alright John. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-09T18:12:31.641Z] Customer: No.
+
+[2025-07-09T18:12:31.641Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-09T18:12:31.641Z] Customer: No. As of now, I don't have any.
+
+[2025-07-09T18:12:31.641Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-09T18:12:31.641Z] Customer: Yep.
+
+[2025-07-09T18:12:32.078Z] Unknown: [2025-07-09T18:12:31.643Z] assistant: Great. Placing that for you now, please hold on.
+
+
+[2025-07-09T18:12:31.644Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 167065. That's 1, 6, 7, 0, 6, 5.", 'order_id': '167065', 'call_id': '0b8d061d-ec03-4901-bda3-a8a43650e21c', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f063-2a73-aade-e21f-496ede659b7f'}
+
+[2025-07-09T18:12:31.644Z] AI Agent: Your order is created successfully now! The order number is 1, 6, 7, 0, 6, 5, and the total including taxes comes to eleven dollars and twenty-two cents. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-09T18:12:31.644Z] Customer: No. All good. Thank you.
+
+[2025-07-09T18:12:32.078Z] Unknown: [2025-07-09T18:12:31.644Z] assistant: You’re very welcome! Thank you for choosing Manhattan Bagel. Have a great day!
+
+
+[2025-07-09T18:12:31.644Z] AI Agent: OK

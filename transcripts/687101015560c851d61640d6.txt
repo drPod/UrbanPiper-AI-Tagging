@@ -1,0 +1,12 @@
+Call ID: 687101015560c851d61640d6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T12:18:09.965Z
+End Time: Unknown
+Duration: 296 seconds
+From: +14252466685
+To: +16204558091
+Summary: The customer inquired about the menu and placed a hypothetical order for a breakfast sandwich with specific modifications.
+==================================================
+TRANSCRIPT:
+==================================================

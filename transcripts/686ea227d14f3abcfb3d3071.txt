@@ -1,0 +1,30 @@
+Call ID: 686ea227d14f3abcfb3d3071
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T17:08:55.741Z
+End Time: 2025-07-09T17:10:09.744Z
+Duration: 72 seconds
+From: 919780032269
+To: 918035740152
+Summary: John attempted to order a Breakfast Bundle but had issues with bagel selections.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T17:10:09.522Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T17:10:09.522Z] Customer: Hello?
+
+[2025-07-09T17:10:09.522Z] AI Agent: Hello again, John! How can I assist you today?
+
+[2025-07-09T17:10:09.522Z] Customer: Yeah. Actually, I'm looking to order a breakfast bundle.
+
+[2025-07-09T17:10:09.522Z] AI Agent: You'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, and Cinnamon Raisin. Would you like one of these, or should I list more options?
+
+[2025-07-09T17:10:09.522Z] Customer: No. It said breakfast bundle.
+
+[2025-07-09T17:10:09.522Z] AI Agent: Ah, got it! For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon 
+
+[2025-07-09T17:10:09.522Z] Customer: Okay. I have, I want six, garlic, two vanilla, three sesame, two sorry. And then three, plain, and the rest, could be, like, everything.
+
+[2025-07-09T17:10:09.522Z] AI Agent: I don't see Vanilla bagels on our menu. However, we have Plain, Everything, Sesame, and Cinnamon Raisin. Which of these would

@@ -1,0 +1,26 @@
+Call ID: 686d9a85d14f3abcfb2628fb
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T22:24:05.327Z
+End Time: 2025-07-08T22:25:12.019Z
+Duration: 66 seconds
+From: +19725155417
+To: +16204558091
+Summary: Sonu placed an order for an Avocado BLT Sandwich and a Chicken Cuban with specific customizations.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T22:25:11.720Z] AI Agent: Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T22:25:11.720Z] Customer: Yeah. Let me get my usual avocado BLT sandwich on an Asiago bagel. Let's make it toasted dark and add jalapenos, spinach, provolone, mustard, hot sauce. Let's make a double lunch protein and have Lay's chips on the side.
+
+[2025-07-08T22:25:11.720Z] AI Agent: Alright, one Avocado BLT Sandwich on an Asiago Bagel. Let me make sure I have all your customizations right. You want it toasted dark, with Alapinios, spinach, provolone, mustard, and hot sauce. Also, a double lunch protein and Lays chips on the side. Is that all correct?
+
+[2025-07-08T22:25:11.720Z] Customer: Yes. You want a chicken Cuban? Yeah. I'll get that. Okay. Yeah. Let's do, one chicken Cuban as well.
+
+[2025-07-08T22:25:11.720Z] AI Agent: Got it, one Chicken Cuban as well. Is there anything else I can get for you today?
+
+[2025-07-08T22:25:11.720Z] Customer: 
+
+[2025-07-08T22:25:11.721Z] AI Agent: I'm sorry if I came across as dismissive. Let me make sure I have all your 

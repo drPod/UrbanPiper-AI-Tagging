@@ -1,0 +1,58 @@
+Call ID: 6858f6d21be7d3da06fa115b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T06:40:18.188Z
+End Time: 2025-06-23T06:42:58.315Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jiten ordered a medium hot decaf coffee with Half & Half from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T06:42:57.961Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T06:42:57.961Z] Customer: I'm looking to order hot coffee.
+
+[2025-06-23T06:42:57.961Z] AI Agent: The hot coffee. Let me get the options for your coffee... 
+
+[2025-06-23T06:42:57.961Z] AI Agent: Let's start with the size of your hot coffee. We have Small 12oz, Medium 16oz, Large 20oz, and X Large 24oz. Which one would you like?
+
+[2025-06-23T06:42:57.961Z] Customer: I want, medium size.
+
+[2025-06-23T06:42:57.961Z] AI Agent: A medium 16oz hot coffee. Now, let's talk about the roast. We have House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, and Tea. Which roast would you prefer?
+
+[2025-06-23T06:42:57.962Z] Customer: 
+
+[2025-06-23T06:42:57.962Z] AI Agent: Decaf it is. Next, would you like to add any milk to your decaf coffee? We have Regular Milk, Half & Half, Skim, Almond, Oat Milk, and Soy. Which one would you like?
+
+[2025-06-23T06:42:57.962Z] Customer: Love to have half and half milk.
+
+[2025-06-23T06:42:57.962Z] AI Agent: Half & Half in your decaf coffee. Now, let's consider sweeteners and syrups. We have Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, and various syrups like Pumpkin, Caramel, Hazelnut, and Vanilla. Would you like to add any of these to your coffee?
+
+[2025-06-23T06:42:57.962Z] Customer: No. I'm good with this much, only.
+
+[2025-06-23T06:42:57.962Z] AI Agent: So, to recap, you'd like a medium 16oz hot decaf coffee with Half & Half, and no additional sweeteners or syrups. I'll go ahead and add that to your order. 
+
+[2025-06-23T06:42:57.963Z] AI Agent: Added 1 item(s) to your cart. Total: $4.98
+
+[2025-06-23T06:42:57.963Z] AI Agent: Your total comes out to be $2.49. Would you like to place your order or add anything else?
+
+[2025-06-23T06:42:57.963Z] Customer: No. For now, this much is fine.
+
+[2025-06-23T06:42:57.963Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-23T06:42:57.963Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 587160. That's 5, 8, 7, 1, 6, 0. Total: $5.48 (subtotal 4.98 dollars plus 0.50 dollars tax). Thank you for your order!
+
+[2025-06-23T06:42:57.963Z] AI Agent: Order placed successfully. Your order number is 5, 8, 7, 1, 6, 0. Your total comes out to be 4 dollars and 98 cents plus 0 dollars and 50 cents tax. Thank you for your order, Jiten. Have a great day.
+
+[2025-06-23T06:42:57.964Z] Customer: 
+
+[2025-06-23T06:42:57.964Z] AI Agent: You're welcome, Jiten. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, we'll get your medium hot decaf coffee with Half & Half ready for you. Have a great day and we'll see you soon.
+
+[2025-06-23T06:42:57.964Z] Customer: Okay.
+
+[2025-06-23T06:42:57.964Z] AI Agent: It was nice assisting you. Have a great day and enjoy your coffee. Bye for now. 
+
+[2025-06-23T06:42:57.964Z] AI Agent: OK

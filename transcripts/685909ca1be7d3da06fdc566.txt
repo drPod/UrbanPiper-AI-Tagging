@@ -1,0 +1,56 @@
+Call ID: 685909ca1be7d3da06fdc566
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T08:01:14.172Z
+End Time: 2025-06-23T08:04:10.820Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: Gaurav ordered a Breakfast Bundle with specific customizations and confirmed the order for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T08:04:10.451Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T08:04:10.451Z] Customer: I want to order breakfast bundle.
+
+[2025-06-23T08:04:10.451Z] AI Agent: The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T08:04:10.451Z] AI Agent: Alright, for the Breakfast Bundle, let's start with the bagels. You can choose thirteen bagels from our variety, which includes Plain, Everything, Asiago, Blueberry, and many more. Which ones would you like? You can choose a mix if you prefer.
+
+[2025-06-23T08:04:10.452Z] Customer: Okay. I want to choose all 13 as plain digits.
+
+[2025-06-23T08:04:10.452Z] AI Agent: Thirteen Plain bagels it is. Now, let's move on to the two tubs of spread that come with your bundle. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which two would you like to choose?
+
+[2025-06-23T08:04:10.452Z] Customer: Plain and vegetable.
+
+[2025-06-23T08:04:10.452Z] AI Agent: You've chosen Plain Cream Cheese and Vegetable Cream Cheese for your two tubs of spread. Next, let's select the four muffins. We have Blueberry, Corn, Double Chocolate, and other flavors available. Which four muffins would you like? You can pick a mix or all of the same kind.
+
+[2025-06-23T08:04:10.452Z] Customer: Okay. One, two of blueberry and two of chocolate chip.
+
+[2025-06-23T08:04:10.452Z] AI Agent: Two Blueberry muffins and two Chocolate Chip muffins. Now, let's move on to the Box of Coffee. We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Which one would you like to choose for your bundle? 
+
+[2025-06-23T08:04:10.452Z] AI Agent: Added 1 item(s) to your cart. Total: $29.99
+
+[2025-06-23T08:04:10.452Z] Customer: 
+
+[2025-06-23T08:04:10.452Z] AI Agent: You've chosen Decaf for your Box of Coffee. Perfect, let me add that to your order... 
+
+[2025-06-23T08:04:10.452Z] Customer: Hello?
+
+[2025-06-23T08:04:10.452Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T08:04:10.452Z] Customer: So we would, before bundle, I'm too I have chosen, d, decaf.
+
+[2025-06-23T08:04:10.452Z] AI Agent: You've ordered the Breakfast Bundle with thirteen Plain bagels, two tubs of spread - Plain Cream Cheese and Vegetable Cream Cheese, four muffins - two Blueberry and two Chocolate Chip, and a Box of Decaf Coffee. Your total comes out to be $29.99. Would you like me to read back your order to confirm?
+
+[2025-06-23T08:04:10.452Z] Customer: No.
+
+[2025-06-23T08:04:10.452Z] AI Agent: Alright, so I have your Breakfast Bundle order ready. Before I place the order, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-23T08:04:10.452Z] Customer: No. I don't have any.
+
+[2025-06-23T08:04:10.453Z] AI Agent: I'll make sure the kitchen knows. Now, are you ready to place this order for pickup?
+
+[2025-06-23T08:04:10.453Z] AI Agent: I hope you are still with

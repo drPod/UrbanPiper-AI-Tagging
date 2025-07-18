@@ -1,0 +1,28 @@
+Call ID: 6856df841be7d3da06d48d9a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T16:36:20.337Z
+End Time: 2025-06-21T16:37:29.424Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered a small Mint Oreo Chillerz and a Diet Coke from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T16:37:29.186Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T16:37:29.186Z] Customer: I'd like to order mint porridge chiller and Diet Coke.
+
+[2025-06-21T16:37:29.186Z] AI Agent: The Mint Oreo Chillerz, excellent choice. That's a refreshing drink made with creamy ice cream blended with mint Oreo cookies, topped with whipped cream and festive green sprinkles. And you'd like to pair that with a Diet Coke, correct? Let me get the options for your Mint Oreo Chillerz. We have a few sizes to choose from. Would you like the small, medium, or large size for your Mint Oreo Chillerz?
+
+[2025-06-21T16:37:29.186Z] Customer: No. Small.
+
+[2025-06-21T16:37:29.186Z] AI Agent: Let me get the options for the size of your Mint Oreo Chillerz. 
+
+[2025-06-21T16:37:29.186Z] AI Agent: You've chosen the small size for your Mint Oreo Chillerz. That's a 16oz size. Perfect, let me add that to your order... 
+
+[2025-06-21T16:37:29.186Z] AI Agent: Added 1 item(s) to your cart. Total: $0.00
+
+[2025-06-21T16:37:29.186Z] AI Agent: I've added the small Mint Oreo Chillerz to your order. Your total comes out to be $5.99.

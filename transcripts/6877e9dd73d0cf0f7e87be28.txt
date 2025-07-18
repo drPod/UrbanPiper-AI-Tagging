@@ -1,0 +1,26 @@
+Call ID: 6877e9dd73d0cf0f7e87be28
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T18:05:17.582Z
+End Time: 2025-07-16T18:06:17.188Z
+Duration: 55 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin initiated a call with Manhattan Bagel but did not place an order, instead asking to hold for a moment and then ending the call.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T18:06:16.858Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T18:06:16.859Z] Customer: 
+
+[2025-07-16T18:06:16.859Z] AI Agent: Hello again, Jitin. Welcome back to Manhattan Bagel. I am BagelBot. What would you like to order today?
+
+[2025-07-16T18:06:16.859Z] Customer: I'm just looking to order, like one second, please.
+
+[2025-07-16T18:06:16.859Z] AI Agent: Take your time, Jitin. I'm here when you're ready to order. What can I get for you today?
+
+[2025-07-16T18:06:16.859Z] Customer: One second. One second. Hold on.
+
+[2025-07-16T18:06:16.859Z] AI Agent: No rush, Jitin. Take all the time you need. I'll be here when you're ready to place your order.

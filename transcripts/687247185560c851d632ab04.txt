@@ -1,0 +1,44 @@
+Call ID: 687247185560c851d632ab04
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T11:29:28.318Z
+End Time: 2025-07-12T11:32:36.867Z
+Duration: 186 seconds
+From: 918949862707
+To: 918035740152
+Summary: Jutin ordered a Breakfast Bundle and began customizing it with specific bagel options
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T11:32:36.670Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T11:32:36.670Z] Customer: See, hi. I would like to order, breakfast bundle.
+
+[2025-07-12T11:32:36.670Z] AI Agent: The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to choose the types of bagels and muffins, or would you like me to suggest some popular options?
+
+[2025-07-12T11:32:36.670Z] Customer: I just want to, hear about the popular options.
+
+[2025-07-12T11:32:36.670Z] AI Agent: For the Breakfast Bundle, some of our most popular bagel choices are Everything, Cinnamon Raisin, and Blueberry. And for the muffins, our top picks are Blueberry, Banana, and Cinnamon Chip. We also have a variety of cream cheese flavors to choose from, such as Plain, Scallion, and Strawberry. Would you like me to put together a bundle with these popular options, or is there something else that catches your eye?
+
+[2025-07-12T11:32:36.670Z] Customer: I think I think we can I I can choose some vehicle, options? Okay? So, we can start with the, two sesame, three everything.
+
+[2025-07-12T11:32:36.671Z] AI Agent: So for the
+
+[2025-07-12T11:32:36.671Z] Customer: Seven, seven, garlic bagel and two vanilla, one, blueberry bagel.
+
+[2025-07-12T11:32:36.671Z] AI Agent: So to confirm, for the Breakfast Bundle, you'd like to choose the following bagels: 2 Sesame, 3 Everything, 7 Garlic, 2 Vanilla, and 1 Blueberry. That's a total of 13 bagels. Now, let's move on to the muffins. Would you like to choose 4 muffins from our selection, or would you like me to recommend some popular options?
+
+[2025-07-12T11:32:36.671Z] Customer: I want to know, like, in which stage we are right now.
+
+[2025-07-12T11:32:36.671Z] AI Agent: We are currently in the order discovery stage, where we are exploring the menu and figuring out what you would like to order. Specifically, we are discussing the details of the Breakfast Bundle, which includes choosing the types of bagels and muffins. Once we have finalized the items you would like to order, we will move on to the next stage, which is customization.
+
+[2025-07-12T11:32:36.671Z] Customer: Okay. But, we are already doing the customization. Right?
+
+[2025-07-12T11:32:36.867Z] Unknown: [2025-07-12T11:32:36.671Z] assistant: We are already in the customization stage, where we are selecting the specific bagels and muffins for your Breakfast Bundle. I should have called the `change_to_item_customization_stage` function earlier to officially transition to this stage. Let me do that now. 
+
+
+
+[2025-07-12T11:32:36.671Z] AI Agent: Moving to item customization stage...
+
+[2025-07-12T11:32:36.672Z] AI Agent: Now that we have officially transitioned to the customization stage, let's continue with selecting the muffins for your Breakfast Bundle. You had chosen

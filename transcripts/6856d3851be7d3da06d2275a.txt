@@ -1,0 +1,36 @@
+Call ID: 6856d3851be7d3da06d2275a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T15:45:09.219Z
+End Time: 2025-06-21T15:46:41.467Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer, Mehul, inquired about ordering a plain bagel with cream cheese from Manhattan Bagel and the agent, BagelBot, attempted to provide options but encountered an error while trying to retrieve modifier groups.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T15:46:41.250Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T15:46:41.251Z] Customer: Hey. Hi. May I know your actual name?
+
+[2025-06-21T15:46:41.251Z] AI Agent: My name
+
+[2025-06-21T15:46:41.251Z] Customer: Allô.
+
+[2025-06-21T15:46:41.251Z] AI Agent: Hello. My name is BagelBot. I'll be happy to help you with your order today. What can I get for you?
+
+[2025-06-21T15:46:41.252Z] Customer: Yeah. Actually, I'm looking to order, some, like, I want to know, do you have plain bagel green peas?
+
+[2025-06-21T15:46:41.252Z] AI Agent: We have a plain bagel with cream cheese. That's one of our popular items. Let me get all the details for you. We have several types of cream cheese, including plain, scallion, and vegetable. Which one sounds good to you?
+
+[2025-06-21T15:46:41.252Z] Customer: 
+
+[2025-06-21T15:46:41.253Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-21T15:46:41.253Z] Customer: Hello?
+
+[2025-06-21T15:46:41.253Z] AI Agent: Let me try that again. So, you'd like a plain bagel with cream cheese. I just need to check on the options for you. 
+
+[2025-06-21T15:46:41.254Z] AI Agent: For the bagel, we have several options like Plain, Everything, Asiago, and more. And for the cream cheese, we have Plain, Vegetable,

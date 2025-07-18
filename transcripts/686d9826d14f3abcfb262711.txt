@@ -1,0 +1,32 @@
+Call ID: 686d9826d14f3abcfb262711
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T22:13:58.686Z
+End Time: 2025-07-08T22:15:20.230Z
+Duration: 79 seconds
+From: +19725155417
+To: +16204558091
+Summary: Sonu placed an order for an Avocado BLT sandwich with specific customizations and initially mentioned a Chicken Cutlet but later clarified it was a Chicken Cuban.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T22:15:19.954Z] AI Agent: Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T22:15:19.954Z] Customer: Yeah. Let me get my usual let's get an avocado BLT sandwich on an Asiago bagel. Let's make a Toast in Dark. Let's add, jalapenos and spinach. Let's do provolone cheese, mustard, hot sauce, and light chips.
+
+[2025-07-08T22:15:20.230Z] Unknown: [2025-07-08T22:15:19.954Z] assistant: Alright, one Avocado BLT sandwich on an Asiago bagel. Let me make sure I have all the customizations right.
+
+First, the bagel choice is Asiago. Got it. You want it toasted dark. Perfect.
+
+Now, for the toppings, you'd like jalapeños and spinach. I'll add those. For the cheese, Provolone it is. And the condiments will be mustard and hot sauce. Sounds good.
+
+For the side, you're going with late chips. Noted.
+
+Is there anything else I can get for you today?
+
+[2025-07-08T22:15:19.954Z] Customer: Hey. You're cutting the chicken cuban. Right? Yeah. Yeah. Yeah. Let's get one chicken cuban.
+
+[2025-07-08T22:15:19.955Z] AI Agent: Alright, one Chicken Cutlet. Is there anything else I can get for you today?
+
+[2025-07-08T22:15:19.955Z] Customer: No. Can we do the chicken Cuban? Wait. Wait. Wait. No. No. That would've been fine. Just no. Because that's, like, it misheard us. Bad looks in the top.

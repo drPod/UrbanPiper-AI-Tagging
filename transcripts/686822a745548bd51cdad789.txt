@@ -1,0 +1,26 @@
+Call ID: 686822a745548bd51cdad789
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-04T18:51:19.282Z
+End Time: 2025-07-04T18:52:32.715Z
+Duration: 120 seconds
+From: +918949862707
+To: +16516156214
+Summary: The customer started placing an order for a Manhattan Cheesesteak and Hot Coffee but requested clarification on the customization options and needed more information.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-04T18:52:32.477Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-04T18:52:32.477Z] Customer: I want to order my instant cheese steak and hot coffee.
+
+[2025-07-04T18:52:32.477Z] AI Agent: Got it, we have Manhattan Cheesesteak and Hot Coffee on the menu. Let me start with the Manhattan Cheesesteak. Would you like to hear about the available customizations for your sandwich?
+
+[2025-07-04T18:52:32.477Z] Customer: 
+
+[2025-07-04T18:52:32.478Z] AI Agent: Alright now for your Lunch Bread Choice you can select 1. For the Lunch Bread Choice you can select 1. Let's start with popular choices: Plain Bagel, Everything Bagel, Asiago Bagel. Would you like one of these or more options?
+
+[2025-07-04T18:52:32.478Z] Customer: Sorry? I'm confused what you were saying. Please repeat it again.
+
+[2025-07-04T18:52:32.478Z] AI Agent: Of course! For your Manhattan Cheesesteak, you'll first choose the **Lunch Bread Choice**. You can pick just one. Let's start with a few popular options: Plain Bagel, Everything Bagel, or Asiago Bagel. Would you like one of these or would you like to hear more options?

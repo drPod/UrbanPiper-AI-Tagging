@@ -1,0 +1,22 @@
+Call ID: 685c0fd632ebb07e593dc916
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-25T15:03:50.390Z
+End Time: 2025-06-25T15:04:55.333Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: The user expressed interest in ordering the Big Breakfast Burrito but did not proceed further.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-25T15:04:55.097Z] AI Agent: Hello Jitin, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-25T15:04:55.097Z] Customer: I'd like to order breakfast bundle.
+
+[2025-06-25T15:04:55.098Z] AI Agent: Got it. The Big Breakfast Burrito is a hearty choice with bacon, sausage, scrambled eggs, salsa, jalapeño cream cheese, cheddar cheese, and a hash brown all wrapped up in a flour tortilla. Let me check the customization options for you
+
+[2025-06-25T15:04:55.098Z] Customer: Yeah. Oh, no. No. I I want I want the business bundle. Hello? Hello?
+
+[2025-06-25T15:04:55.098Z] AI Agent: Okay, got it.The Big Breakfast Burrito is a great choice. Let me go over the 

@@ -1,0 +1,80 @@
+Call ID: 68594f381be7d3da06065d51
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T12:57:28.520Z
+End Time: 2025-06-23T13:02:55.383Z
+Duration: 360 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a Breakfast Bundle with 13 Everything bagels, 2 tubs of spread, and 4 Chocolate Chip muffins.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T13:02:54.011Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T13:02:54.011Z] Customer: Yeah. I want to order breakfast bundle.
+
+[2025-06-23T13:02:54.011Z] AI Agent: The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Let me get all the customization options for you.
+
+[2025-06-23T13:02:54.011Z] AI Agent: I have all the options for your Breakfast Bundle right here. Ready to customize now? Let's start
+
+[2025-06-23T13:02:54.011Z] Customer: Ya.
+
+[2025-06-23T13:02:54.011Z] AI Agent: For the Bagel Dozen, we need to choose exactly 13 bagels. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like? You can choose from Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, Honey 
+
+[2025-06-23T13:02:54.011Z] Customer: Okay. I I want, all 13 as, scallion bagels.
+
+[2025-06-23T13:02:54.012Z] AI Agent: We don't have a Scallion bagel option. However, we do have an "Egg Everything" bagel and a "Scallion/Onion Chive" cream cheese spread, but for the bagels themselves, the closest option would be the "Onion" bagel or the "Everything" bagel. Would you like to choose 13 of those instead?
+
+[2025-06-23T13:02:54.012Z] Customer: Okay.
+
+[2025-06-23T13:02:55.383Z] Unknown: [2025-06-23T13:02:54.012Z] assistant: Let's go with the Everything bagel then. So, you'd like 13 Everything bagels. 
+
+Next, for the Choose 2 Tubs of Spread, we need to select exactly 2 options. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, and many more. Which two would you like?
+
+[2025-06-23T13:02:54.012Z] Customer: I want, vanilla and, vegetable.
+
+[2025-06-23T13:02:54.012Z] AI Agent: We don't have a Vanilla cream cheese option, but we do have a Honey Almond cream cheese. For the vegetable option, we have a Vegetable Cream Cheese and a Store Made Vegetable (Chunky) option. Would you like to choose the Honey Almond and one of the vegetable options instead?
+
+[2025-06-23T13:02:54.012Z] Customer: Yeah. Go ahead, please.
+
+[2025-06-23T13:02:55.383Z] Unknown: [2025-06-23T13:02:54.012Z] assistant: Let's go with the Honey Almond and the Vegetable Cream Cheese for the two tubs of spread.
+
+Next, for the Choose 4 Muffins, we can select up to 4 muffins. We have options like Blueberry, Corn, Double Chocolate, and more. Which ones would you like? You can choose 1, 2, 3, or all 4 muffins.
+
+[2025-06-23T13:02:54.012Z] Customer: I want to choose all four as chocolate chip.
+
+[2025-06-23T13:02:54.012Z] AI Agent: So, you'd like all 4 muffins to be Chocolate Chip. Finally, for the
+
+[2025-06-23T13:02:54.012Z] Customer: 
+
+[2025-06-23T13:02:54.012Z] AI Agent: Finally, for the Box of Coffee, it's optional, so you can choose up to 1 option or none at all. We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Which one would you like, or would you like to skip this option?
+
+[2025-06-23T13:02:54.012Z] Customer: I want to skip it.
+
+[2025-06-23T13:02:54.012Z] AI Agent: Alright, let me add that to your order. You've chosen the Breakfast Bundle with 13 Everything bagels, 2 tubs of spread - Honey Almond and Vegetable Cream Cheese, 4 Chocolate Chip muffins, and no coffee. Your total comes out to be $29.99. Does everything sound correct with that? Any changes or anything else you'd like to add?
+
+[2025-06-23T13:02:54.012Z] Customer: No. Thank you so much. Everything looks good to me.
+
+[2025-06-23T13:02:54.012Z] AI Agent: Perfect, let me get this order placed for you.
+
+[2025-06-23T13:02:54.012Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.
+
+[2025-06-23T13:02:54.012Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T13:02:54.012Z] Customer: Yeah. I'm still there.
+
+[2025-06-23T13:02:55.383Z] Unknown: [2025-06-23T13:02:54.012Z] assistant: Before I can place your order, I need to add the items to your cart. Let me do that now. 
+
+You've chosen the Breakfast Bundle with 13 Everything bagels, 2 tubs of spread - Honey Almond and Vegetable Cream Cheese, 4 Chocolate Chip muffins, and no coffee. 
+
+Let me add this to your order.
+
+[2025-06-23T13:02:54.012Z] AI Agent: Added 1 item(s) to your cart. Total: $29.99
+
+[2025-06-23T13:02:54.012Z] AI Agent: Your Breakfast Bundle has been added to the cart. Now, let me place your order.
+
+[2025-06-23T13:02:54.012Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 625201. That's 6, 2, 5, 2, 0, 1. Total: $32.98 (subtotal 29.99 dollars plus 2.99 dollars tax). Thank you for your order!
+
+[2025-06-23T13:02:54.012Z] AI Agent: Alright, Jitin, your order is placed! Your order number is 6, 2, 5, 2, 0, 1. Your final total is $32.98, which includes a subtotal of $29.99 and $2.99 in tax. We'll have that ready for you shortly!

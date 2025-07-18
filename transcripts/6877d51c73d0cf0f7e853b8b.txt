@@ -1,0 +1,110 @@
+Call ID: 6877d51c73d0cf0f7e853b8b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T16:36:44.501Z
+End Time: 2025-07-16T16:42:21.091Z
+Duration: 332 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin, an existing customer, placed an order for an Avocado Veg Out and a Hot Latte with specific customizations through the Manhattan Bagel store.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T16:42:19.348Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T16:42:19.348Z] Customer: Hey. Hi. I'd like to order, something vegetarian and, hot coffee as well. Hot latte.
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.348Z] assistant: For vegetarian options, I have a variety of choices. We have the Avocado Veg Out sandwich, which is avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a sesame bagel. I also have the Garden Avocado Egg White Sandwich, which is egg white, avocado, tomato, spinach, and tomato spread on a bagel. Additionally, we have a Cheese Bagel, which is two slices of cheese on a bagel. 
+
+For hot coffee, I can offer you a hot latte. Would you like to go with one of these options or hear more about our vegetarian choices?
+
+[2025-07-16T16:42:19.348Z] Customer: Okay. I'll go with the ash avocado wedge out then.
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.348Z] assistant: The Avocado Veg Out is a delicious choice. It comes with avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a sesame bagel. 
+
+For the bagel, I have a variety of options. I can offer you a Plain Bagel, Everything Bagel, Asiago Bagel, or a Sesame Bagel, which is the default. Would you like to stick with the Sesame Bagel or try a different one?
+
+[2025-07-16T16:42:19.348Z] Customer: I'll go with the multigrain.
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.349Z] assistant: For the Avocado Veg Out, I'll swap the sesame bagel with a Multigrain Bagel.
+
+Next, I'll move on to your drink order. You mentioned hot coffee and hot latte. Would you like to go with a Hot Latte, or would you prefer a different type of coffee, such as a Hot Coffee or a Cappuccino?
+
+[2025-07-16T16:42:19.349Z] Customer: Okay. I I'd like you to, you know, also invoke the tools, whatever you have, okay, whenever it is required.
+
+[2025-07-16T16:42:19.349Z] Customer: So can I can I complete the customization of veg out please again?
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.349Z] assistant: For the Avocado Veg Out, I have confirmed the Multigrain Bagel. 
+
+Next, I need to check the Lunch Side. For the Lunch Side, I have Chips or Cole Slaw. Which one would you prefer?
+
+[2025-07-16T16:42:19.349Z] Customer: Cole's law, basically.
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.349Z] assistant: The Cole Slaw is a valid choice for the Lunch Side.
+
+Next, I need to check the Toast. For the Toast, I have Toasted, Lightly Toasted, Toasted Dark, or No Toasted. Which one would you prefer?
+
+[2025-07-16T16:42:19.350Z] Customer: I'll go with the dark toasted then.
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.350Z] assistant: The Toasted Dark is a valid choice for the Toast.
+
+Now, I'll move on to your drink order. You mentioned hot coffee and hot latte earlier. Would you like to go with a Hot Latte, or would you prefer a different type of coffee, such as a Hot Coffee or a Cappuccino?
+
+[2025-07-16T16:42:19.350Z] Customer: Hot latte, basically.
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.350Z] assistant: For the Hot Latte, I have a few options. 
+
+First, I need to check the Size. For the Size, I have Small 12 ounce, Medium 16 ounce, or Large 20 ounce. Which one would you prefer?
+
+[2025-07-16T16:42:19.350Z] Customer: Small size.
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.350Z] assistant: The Small 12 ounce is a valid choice for the Size.
+
+Next, I need to check the Specialty Drink Milk Choice. For the Specialty Drink Milk Choice, I have Regular Milk, Skim, Soy Milk, Half & Half, Almond Milk, or Oat Milk. Which one would you prefer?
+
+[2025-07-16T16:42:19.350Z] Customer: Half enough.
+
+[2025-07-16T16:42:19.350Z] AI Agent: The Half & Half is a valid choice for the Specialty Drink Milk Choice. Next, I need to check the Sweetener & Syrups. For the Sweetener & Syrups, I have Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, Pumpkin Syrup, Caramel Syrup, Hazelnut Syrup, Vanilla Syrup, Sugar Free Vanilla Syrup, Pistachio Syrup, Chocolate Sauce, 
+
+[2025-07-16T16:42:19.351Z] Customer: Give me hazard. Let's see.
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.351Z] assistant: The Hazelnut Syrup is a valid choice for the Sweetener & Syrups.
+
+Now, I'll review your order. You have the Avocado Veg Out with a Multigrain Bagel, Cole Slaw, and Toasted Dark, and a Hot Latte with a Small 12 ounce size, Half & Half, and Hazelnut Syrup.
+
+Let me calculate the total price for you. 
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.351Z] assistant: Your total comes out to be 16 dollars and 75 cents.
+
+Now, I'll transition to the order summarization stage. 
+
+[2025-07-16T16:42:19.352Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-16T16:42:19.352Z] AI Agent: May I have your name for the order, please?
+
+[2025-07-16T16:42:19.352Z] Customer: Yeah. My name is, you you you don't have my name, is it? Like that?
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.352Z] assistant: Your name is Jitin. I have it on file since you're an existing customer.
+
+And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-16T16:42:19.352Z] Customer: No. I don't have any allergy. Thank you so much.
+
+[2025-07-16T16:42:19.352Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-16T16:42:19.352Z] Customer: No. I don't want you to read back. Thank you so much.
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.353Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-16T16:42:19.353Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 875431. That's 8, 7, 5, 4, 3, 1.", 'order_id': '875431', 'call_id': 'b4412365-e096-4ce3-bad6-f54b5404b666', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0198141d-0d02-f5d1-134b-c76ae438c407'}
+
+[2025-07-16T16:42:21.091Z] Unknown: [2025-07-16T16:42:19.353Z] assistant: Your order number is 8, 7, 5, 4, 3, 1. Your total is 16 dollars and 75 cents. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment.
+
+Is there anything else I can help you with today?
+
+[2025-07-16T16:42:19.353Z] Customer: No. Thank you.
+
+[2025-07-16T16:42:19.353Z] AI Agent: You're welcome, Jitin. It was a pleasure assisting you with your order. Have a great day and enjoy your Avocado Veg Out and Hot Latte!

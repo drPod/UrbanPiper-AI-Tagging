@@ -1,0 +1,18 @@
+Call ID: 6852f1facb9e39794c00c5dd
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T17:06:02.278Z
+End Time: 2025-06-18T17:06:42.120Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer, Gaurav, ordered a blueberry bagel sandwich from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T17:06:41.881Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T17:06:41.881Z] Customer: I like to order blueberry bagel, sandwich.
+
+[2025-06-18T17:06:41.882Z] AI Agent: I found a Single Bagel that can be used to make a blueberry bagel sandwich for one dollar and forty-nine cents. What type of bagel would you like? We have plain, everything, or blueberry.

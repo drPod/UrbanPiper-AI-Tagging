@@ -1,0 +1,22 @@
+Call ID: 6855b1e91be7d3da06bb25af
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T19:09:29.492Z
+End Time: 2025-06-20T19:10:00.865Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer, Gaurav, inquired about ordering a hot latte from Manhattan Bagel but the search_for_item tool failed to retrieve the item, resulting in an incomplete order process.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T19:10:00.679Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T19:10:00.679Z] Customer: Can I have a hot latte?
+
+[2025-06-20T19:10:00.679Z] AI Agent: Let me check that for you. 
+
+[2025-06-20T19:10:00.679Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-20T19:10:00.679Z] AI Agent: I couldn't find that exactly. Let me check our coffee options

@@ -1,0 +1,48 @@
+Call ID: 6877e5ad73d0cf0f7e876585
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T17:47:25.567Z
+End Time: 2025-07-16T17:50:05.334Z
+Duration: 156 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel with a variety of bagels, Strawberry and Plain cream cheese, and 4 Cinnamon Chip muffins.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T17:50:04.883Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T17:50:04.883Z] Customer: Hey. Hi. Can you hear me?
+
+[2025-07-16T17:50:04.883Z] AI Agent: Yes, I can hear you just fine. How can I assist you with your order today?
+
+[2025-07-16T17:50:04.883Z] Customer: Yeah. I'm looking to order Big Boss Binder.
+
+[2025-07-16T17:50:05.334Z] Unknown: [2025-07-16T17:50:04.883Z] assistant: That would be our Bakers Dozen Value Pack on the menu. I'll add that for you. Now, I'll help you customize it. 
+
+For the Bakers Dozen Value Pack, you get 13 bagels and 2 tubs of spread. What kind of bagels would you like? I have Plain, Everything, Sesame, or Blueberry. Want to hear more options?
+
+[2025-07-16T17:50:04.883Z] Customer: No. I I said I I need breakfast bundle.
+
+[2025-07-16T17:50:05.334Z] Unknown: [2025-07-16T17:50:04.883Z] assistant: That would be our Breakfast Bundle on the menu. I'll add that for you. Now, I'll help you customize it.
+
+For the Breakfast Bundle, you get 13 bagels, 2 tubs of cream cheese, and 4 muffins. What kind of bagels would you like? I have Plain, Everything, Sesame, or Blueberry. Want to hear more options?
+
+[2025-07-16T17:50:04.884Z] Customer: Just, you know no. That's it. I think that's it.
+
+[2025-07-16T17:50:04.884Z] AI Agent: For the Breakfast Bundle, I'll assume you'd like a variety of our most popular bagels. Now, let's move on to the cream cheese. You get to choose two tubs of spread. I have Plain, Vegetable, Scallion, or Strawberry. Which two would you like?
+
+[2025-07-16T17:50:04.884Z] Customer: 
+
+[2025-07-16T17:50:04.884Z] AI Agent: For the Breakfast Bundle, you've chosen a variety of bagels and now you've selected Strawberry cream cheese. You still need to choose one more type of cream cheese. I have Plain, Vegetable, Scallion, or other flavors. Which one would you like as your second choice?
+
+[2025-07-16T17:50:04.884Z] Customer: Scallion.
+
+[2025-07-16T17:50:05.334Z] Unknown: [2025-07-16T17:50:04.884Z] assistant: I think you meant to say "Plain". For the Breakfast Bundle, you've chosen a variety of bagels and now you've selected Strawberry and Plain cream cheese.
+
+Next, let's move on to the muffins. You get to choose 4 muffins. I have Blueberry, Corn, Double Chocolate, or Cinnamon Chip. Which ones would you like?
+
+[2025-07-16T17:50:04.884Z] Customer: Cinnamon.
+
+[2025-07-16T17:50:04.884Z] AI Agent: For the Breakfast Bundle, you've chosen a variety of bagels, Strawberry and Plain cream cheese, and now you've selected Cinnamon Chip muffins. I'll make sure to add 4 Cinnamon Chip

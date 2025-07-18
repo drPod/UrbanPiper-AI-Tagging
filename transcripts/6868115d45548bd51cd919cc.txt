@@ -1,0 +1,46 @@
+Call ID: 6868115d45548bd51cd919cc
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-04T17:37:33.441Z
+End Time: 2025-07-04T17:40:07.234Z
+Duration: 180 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin placed an order for a cinnamon raisin bagel with honey almond cream cheese, grilled chicken, and a medium decaf coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-04T17:40:06.691Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-04T17:40:06.691Z] Customer: I'm looking to order, your cinnamon raisin bagel with cream cheese and grilled chicken.
+
+[2025-07-04T17:40:06.691Z] AI Agent: Alright I can get
+
+[2025-07-04T17:40:06.691Z] Customer: Also, I like to have hot coffee.
+
+[2025-07-04T17:40:06.691Z] AI Agent: Sure thing. For your cinnamon raisin bagel, we have a few options for cream cheese. Would you like to hear what's available? And for the grilled chicken, we can add some cheese or other toppings if you'd like. What about the coffee? We have several types and sizes. Would you like to hear more about those options?
+
+[2025-07-04T17:40:06.691Z] Customer: Okay. So for the green cheese, I'll I'll choose vanilla green cheese. And, for the grilled chicken, I just want grilled chicken.
+
+[2025-07-04T17:40:06.691Z] AI Agent: I don't see vanilla cream cheese available. Our cream cheese options include Plain, Strawberry, Scallion, and Honey Almond. Which would you prefer?
+
+[2025-07-04T17:40:06.691Z] Customer: Honey almond.
+
+[2025-07-04T17:40:06.691Z] AI Agent: Great choice! For your grilled chicken, you just want it on its own without any additional toppings or cheese. And for the hot coffee, we have several types like House Blend, Vanilla Hazelnut, Dark Roast, and Decaf. We also have different sizes: Small (12oz), Medium (16oz), and Large (20oz). What would you like for your coffee?
+
+[2025-07-04T17:40:06.691Z] Customer: Yeah. So, I like to have decaf, medium size. And, have you added the, grilled chicken as well?
+
+[2025-07-04T17:40:06.691Z] AI Agent: You're all set with decaf coffee in a medium size. I've added the grilled chicken to your order as well. Is there anything else I can get for you?
+
+[2025-07-04T17:40:06.691Z] Customer: No. I think that's all.
+
+[2025-07-04T17:40:06.692Z] AI Agent: Alright, let me just confirm your order. You've got a cinnamon raisin bagel with honey almond cream cheese, grilled chicken, and a medium decaf coffee. Is that correct?
+
+[2025-07-04T17:40:06.692Z] Customer: 
+
+[2025-07-04T17:40:06.692Z] AI Agent: You're all set, Jitin! Your order includes a cinnamon raisin bagel with honey almond cream cheese, grilled chicken, and a medium decaf coffee. Thank you for choosing Manhattan Bagel. Have a great day!
+
+[2025-07-04T17:40:06.692Z] Customer: 
+
+[2025-07-04T17:40:06.692Z] AI Agent: You're welcome! Enjoy your order, Jitin. Have a great day!

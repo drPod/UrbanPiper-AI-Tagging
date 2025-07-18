@@ -1,0 +1,26 @@
+Call ID: 6858e4d81be7d3da06f90cf8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T05:23:36.787Z
+End Time: 2025-06-23T05:25:25.556Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jiten inquired about ordering a vegetarian sandwich with cheddar cheese and avocado on a toasted bagel for his wife.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T05:25:25.340Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T05:25:25.340Z] Customer: I want to order, a sandwich which has plain cream cheese, grilled chicken, and avocado or bagel. Can you please get me a sandwich?
+
+[2025-06-23T05:25:25.340Z] AI Agent: Let me see what we have for you. We have a few options that might fit what you're looking for. One of our popular items is the Avocado Veg Out sandwich, which comes with avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a sesame bagel.
+
+[2025-06-23T05:25:25.340Z] Customer: Okay. Actually, my wife is looking for some sandwich, you know, option, which is vegetarian and also has, some cheddar cheese and, yeah, a little toasted.
+
+[2025-06-23T05:25:25.340Z] AI Agent: For a vegetarian sandwich with cheddar cheese and toasted, I think our Avocado Toast might be a great option. It comes with avocado, everything bagel seasoning on multigrain toast or any bagel, and we can definitely add cheddar cheese to it. We can also toast it for you. Would you like to try that?
+
+[2025-06-23T05:25:25.340Z] Customer: Are you sure, like, you have the tendency with avocado?
+
+[2025-06-23T05:25:25.340Z] AI Agent: Let me get the options for your bagel choices... We do have a Cheese Bagel that comes with two slices of cheese on a bagel, and we can add avocado to it. We can also toast it for you. Would you like to try that?

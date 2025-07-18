@@ -1,0 +1,22 @@
+Call ID: 6855a86c1be7d3da06ba81b9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T18:29:00.498Z
+End Time: 2025-06-20T18:29:32.987Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav inquired about the price of a hot coffee at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T18:29:32.828Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T18:29:32.828Z] Customer: Can I get the hot coffee price, please?
+
+[2025-06-20T18:29:32.828Z] AI Agent: Let me check the price of a hot coffee for you.
+
+[2025-06-20T18:29:32.828Z] AI Agent: Found 3 item(s) for your search: HOT Coffee or Tea , Ice Coffee or Tea, Hot Latte. See 'item_details' for more information.
+
+[2025-06-20T18:29:32.828Z] AI Agent: The price of a hot coffee is $1.99. Would you like to add anything else to your order, such as a pastry or a bagel?

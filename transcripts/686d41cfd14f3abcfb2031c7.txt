@@ -1,0 +1,38 @@
+Call ID: 686d41cfd14f3abcfb2031c7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T16:05:35.819Z
+End Time: 2025-07-08T16:06:49.471Z
+Duration: 71 seconds
+From: +917499327459
+To: +19198136886
+Summary: The customer briefly inquired about ordering a burger and bagels before requesting to disconnect the call.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T16:06:48.251Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T16:06:48.251Z] Customer: 
+
+[2025-07-08T16:06:48.251Z] AI Agent: I'm doing great, thank you! How can I help you today?
+
+[2025-07-08T16:06:48.252Z] Customer: 
+
+[2025-07-08T16:06:48.252Z] AI Agent: I'm sorry, but I don't see burgers on our menu. However, we have a variety of breakfast sandwiches, bagels, pastries, and other delicious options.
+
+[2025-07-08T16:06:48.252Z] Customer: I'm here.
+
+[2025-07-08T16:06:48.253Z] AI Agent: Sure thing! You'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, and Cinnamon Raisin. Would you like one of these, or should I list more
+
+[2025-07-08T16:06:48.253Z] Customer: 
+
+[2025-07-08T16:06:48.253Z] AI Agent: Got it! You'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, and Cinnamon Raisin. Which one would you like?
+
+[2025-07-08T16:06:48.253Z] Customer: Ini beban dicuci
+
+[2025-07-08T16:06:48.253Z] AI Agent: Alright, you'll need to pick just one cheese for your bagel. We have American, Swiss, Pepper
+
+[2025-07-08T16:06:48.253Z] Customer: Okay. Thank you. Thank you. Disconnect the call.
+
+[2025-07-08T16:06:48.256Z] AI Agent: OK

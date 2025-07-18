@@ -1,0 +1,30 @@
+Call ID: 6855b34b1be7d3da06bb3ddd
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T19:15:23.493Z
+End Time: 2025-06-20T19:16:13.208Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a medium hot latte from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T19:16:12.926Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T19:16:12.927Z] Customer: Can I get hot latte?
+
+[2025-06-20T19:16:12.927Z] AI Agent: Let me see what I can find for you. 
+
+[2025-06-20T19:16:12.927Z] AI Agent: Found 3 item(s) for your search: Hot Latte, Iced Latte, Hot Caramel Macchiato. See 'item_details' for more information.
+
+[2025-06-20T19:16:12.927Z] AI Agent: I found a hot latte for you. The hot latte is $3.99. What size would you like? We have small, medium, or large.
+
+[2025-06-20T19:16:12.927Z] Customer: I want medium size.
+
+[2025-06-20T19:16:12.927Z] AI Agent: For a medium hot latte, I just need to check the options. 
+
+[2025-06-20T19:16:12.927Z] AI Agent: Found 3 item(s) for your search: Hot Latte, Iced Latte, Hot Caramel Macchiato. See 'item_details' for more information.
+
+[2025-06-20T19:16:12.927Z] AI Agent: A medium hot latte is $4.99.

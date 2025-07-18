@@ -1,0 +1,82 @@
+Call ID: 6870049ad14f3abcfb5b6497
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-10T18:21:14.951Z
+End Time: 2025-07-10T18:25:00.387Z
+Duration: 224 seconds
+From: +14042852033
+To: +16204558091
+Summary: Ira placed an order for a Tuna Salad Sandwich on a toasted Poppy bagel with Chips and an Unsweetened Ice Tea for pickup at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-10T18:24:59.851Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-10T18:24:59.851Z] Customer: I'd like to order some lunch.
+
+[2025-07-10T18:24:59.851Z] AI Agent: We have a variety of delicious options for lunch. You'll need to pick just one item for your lunch. We have sandwiches like the Big City BLT, Grilled Chicken Caesar Wrap, or the Manhattan Cheesesteak. We also have salads and platters. Which type of lunch sounds good to you?
+
+[2025-07-10T18:24:59.851Z] Customer: I'd love a tuna salad sandwich on a bagel.
+
+[2025-07-10T18:24:59.851Z] AI Agent: The Tuna Salad Sandwich is a great choice. For the Tuna Salad Sandwich, you'll need to pick just one bagel. We have Plain, Everything, Sesame, and Poppy. Which bagel would you like?
+
+[2025-07-10T18:24:59.852Z] Customer: Poppy sounds great. Can you toast that bagel for my sandwich? Say it again. Just send a toast. Poppy sounds great. Can you toast that poppy bagel?
+
+[2025-07-10T18:24:59.852Z] Customer: I haven't lost the connection. I I it's it's still, it's still happening.
+
+[2025-07-10T18:24:59.852Z] AI Agent: I think there might have been a slight miscommunication. To confirm, you'd like a Tuna Salad Sandwich on a toasted Poppy bagel, correct? And you'll need to pick just one
+
+[2025-07-10T18:24:59.852Z] Customer: That's right.
+
+[2025-07-10T18:24:59.853Z] AI Agent: You'll need to pick just one side for your Tuna Salad Sandwich. We have Chips or Cole Slaw. Which side would you like?
+
+[2025-07-10T18:24:59.853Z] Customer: 
+
+[2025-07-10T18:24:59.853Z] AI Agent: Perfect, so that's a Tuna Salad Sandwich on a toasted Poppy bagel with Chips on the side. Is there anything else I can get for you today?
+
+[2025-07-10T18:24:59.853Z] Customer: Do you have any drinks?
+
+[2025-07-10T18:24:59.853Z] AI Agent: We have a variety of drinks to choose from. You can pick from our selection of sodas, iced tea, hot coffee, or tea. We also have juices like Tropicana Orange or Apple, and milk. Which type of drink sounds good to you?
+
+[2025-07-10T18:24:59.854Z] Customer: Iced tea would be great.
+
+[2025-07-10T18:24:59.854Z] AI Agent: We have Unsweetened Ice Tea and Sweetened Green Tea. Which one would you prefer?
+
+[2025-07-10T18:24:59.854Z] Customer: Unsweetened, please.
+
+[2025-07-10T18:24:59.854Z] AI Agent: Perfect, so that's a Tuna Salad Sandwich on a toasted Poppy bagel with Chips and a side of Unsweetened Ice Tea. Is there anything else I can get for you today?
+
+[2025-07-10T18:24:59.854Z] Customer: That's it.
+
+[2025-07-10T18:24:59.855Z] AI Agent: I'll get that ready for you. Just to confirm, your order is a Tuna Salad Sandwich on a toasted Poppy bagel with Chips and an Unsweetened Ice Tea. I'll go ahead and put that together for you. Let me just check on the status of your order. 
+
+[2025-07-10T18:24:59.855Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-10T18:24:59.855Z] AI Agent: May I have your name for the order, please?
+
+[2025-07-10T18:24:59.856Z] Customer: Ira, I r a.
+
+[2025-07-10T18:24:59.856Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-10T18:24:59.856Z] Customer: No.
+
+[2025-07-10T18:24:59.856Z] AI Agent: Alright Ira. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-10T18:24:59.856Z] Customer: No. That's not necessary.
+
+[2025-07-10T18:24:59.857Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-10T18:24:59.857Z] Customer: Yes.
+
+[2025-07-10T18:24:59.857Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-10T18:24:59.857Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 370570. That's 3, 7, 0, 5, 7, 0.", 'order_id': '370570', 'call_id': '7536909e-b128-4c65-bbda-8ea70aead980', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f594-f424-8236-f70f-9e91393bf06d'}
+
+[2025-07-10T18:24:59.858Z] AI Agent: Your order is created successfully now ! The order number is 3, 7, 0, 5, 7, 0, and the total including taxes comes to $12.76. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Do you need any further assistance?
+
+[2025-07-10T18:24:59.858Z] Customer: I'm all set. Thank you.
+
+[2025-07-10T18:24:59.858Z] AI Agent: You're welcome, Ira. It was a pleasure assisting you with your order. Have a great day and enjoy your meal! 
+
+[2025-07-10T18:24:59.858Z] AI Agent: OK

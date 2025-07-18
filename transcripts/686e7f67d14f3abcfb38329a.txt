@@ -1,0 +1,26 @@
+Call ID: 686e7f67d14f3abcfb38329a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T14:40:39.890Z
+End Time: 2025-07-09T14:41:20.332Z
+Duration: 37 seconds
+From: 919780032269
+To: 918035740152
+Summary: The user inquired about Diet Coke availability and pricing.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T14:41:20.058Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T14:41:20.058Z] Customer: Hello? Can you hear me?
+
+[2025-07-09T14:41:20.059Z] AI Agent: Hello, I can hear you clearly. What would you like to order today?
+
+[2025-07-09T14:41:20.059Z] Customer: Do you have Diet Coke?
+
+[2025-07-09T14:41:20.059Z] AI Agent: Yes, we have Diet Coke. It's available in a 12 ounce can for one ninety-nine. Would you like to order one?
+
+[2025-07-09T14:41:20.060Z] Customer: Okay. So what is the drive stroke?
+
+[2025-07-09T14:41:20.060Z] AI Agent: Diet Coke is a 12 ounce can available for one 

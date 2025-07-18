@@ -1,0 +1,54 @@
+Call ID: 686909ee45548bd51ce9a387
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T11:18:06.067Z
+End Time: 2025-07-05T11:19:48.089Z
+Duration: 100 seconds
+From: +15615311516
+To: +16204558091
+Summary: The customer, Cy Applebaum, placed an order for a toasted sesame bagel with bacon, egg, and yellow American cheese, along with a small black coffee, through the Manhattan Bagel restaurant.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T11:19:47.881Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-05T11:19:47.881Z] Customer: I would like the bacon, egg, and cheese on a toasted sesame bagel.
+
+[2025-07-05T11:19:47.881Z] AI Agent: One
+
+[2025-07-05T11:19:47.881Z] Customer: With, yellow American cheese.
+
+[2025-07-05T11:19:47.881Z] AI Agent: Alright, so I have a toasted sesame bagel with bacon, egg, and yellow American cheese. Is there anything else I can get for you today?
+
+[2025-07-05T11:19:47.881Z] Customer: Yes, Karin, maak koffie.
+
+[2025-07-05T11:19:47.881Z] AI Agent: One small black coffee. So, to recap, I have a toasted sesame bagel with bacon, egg, and yellow American cheese, and a small black coffee. Is there anything else I can get for you today?
+
+[2025-07-05T11:19:47.881Z] Customer: No. That'll be it.
+
+[2025-07-05T11:19:47.882Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-05T11:19:47.882Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-05T11:19:47.882Z] AI Agent: May I have your name for the order?
+
+[2025-07-05T11:19:47.882Z] Customer: Okay. Fai apple bell.
+
+[2025-07-05T11:19:47.882Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-05T11:19:47.882Z] Customer: No.
+
+[2025-07-05T11:19:47.882Z] AI Agent: Alright, Cy. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-05T11:19:47.882Z] Customer: That is for the invertebrates. No. It's good.
+
+[2025-07-05T11:19:47.882Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-05T11:19:47.882Z] Customer: Yes.
+
+[2025-07-05T11:19:47.882Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-05T11:19:47.882Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 439452. That's 4, 3, 9, 4, 5, 2.", 'order_id': '439452', 'call_id': 'd2e26fdf-5fd3-46a2-8142-1c68104e46d9', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197da4f-f537-48de-4323-c3de517d7c6b'}
+
+[2025-07-05T11:19:47.882Z] AI Agent: Your order is created successfully now ! The order number is 4, 3, 9, 4, 5, 2, and the total including taxes comes to $8.99. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment.

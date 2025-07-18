@@ -1,0 +1,44 @@
+Call ID: 6852be65cb9e39794cf72516
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T13:25:57.387Z
+End Time: 2025-06-18T13:27:36.907Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rahul ordered an Avocado BLT Sandwich with Chips, Asiago Bagel, and Lightly Toasted, with ketchup as a condiment, but the order was not finalized due to incomplete modifier collection and incorrect update_order actions.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T13:27:36.643Z] AI Agent: Hello Rahul, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T13:27:36.643Z] Customer: I want to order avocado BLT sandwich.
+
+[2025-06-18T13:27:36.643Z] AI Agent: I found the Avocado BLT Sandwich for nine dollars and ninety-nine cents. Which lunch side would you like - chips, coleslaw, or Lays chips?
+
+[2025-06-18T13:27:36.644Z] Customer: Les tips
+
+[2025-06-18T13:27:36.644Z] AI Agent: What type of bread would you like - plain bagel, everything bagel, or asiago bagel?
+
+[2025-06-18T13:27:36.644Z] Customer: 
+
+[2025-06-18T13:27:36.644Z] AI Agent: ERROR: 400 - {"success":false,"error":"Invalid action: update. Use 'add', 'remove', 'update_quantity', or 'clear'."}
+
+[2025-06-18T13:27:36.645Z] Customer: Hello?
+
+[2025-06-18T13:27:36.645Z] AI Agent: How would you
+
+[2025-06-18T13:27:36.645Z] Customer: Hello?
+
+[2025-06-18T13:27:36.645Z] AI Agent: How would you like it toasted - regular, lightly toasted, or dark?
+
+[2025-06-18T13:27:36.645Z] Customer: Lightly toasted.
+
+[2025-06-18T13:27:36.645Z] AI Agent: Any
+
+[2025-06-18T13:27:36.645Z] Customer: 
+
+[2025-06-18T13:27:36.645Z] AI Agent: Any condiments? Salt, pepper, or ketchup?
+
+[2025-06-18T13:27:36.645Z] Customer: Yeah. Ketchup.

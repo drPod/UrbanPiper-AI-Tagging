@@ -1,0 +1,38 @@
+Call ID: 687914dc970f265df9defe7d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T15:21:00.977Z
+End Time: 2025-07-17T15:22:46.752Z
+Duration: 103 seconds
+From: +447310143227
+To: +441313810000
+Summary: The customer ordered an Original Classic sandwich on an Everything bagel with bacon, egg, American cheese, and condiments for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T15:22:46.333Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T15:22:46.333Z] Customer: Hey. I'd like to order a bacon, egg, and cheese sandwich for pickup, please.
+
+[2025-07-17T15:22:46.333Z] AI Agent: That would be our Original Classic on the menu. I'll add the Original Classic for you. Now, let's customize it. You mentioned bacon and egg, which is already included. For your cheese, I have American, Swiss, Pepper Jack, Cheddar,
+
+[2025-07-17T15:22:46.333Z] Customer: American. Definitely American.
+
+[2025-07-17T15:22:46.333Z] AI Agent: For your bagel choice, I have Plain, Everything, Sesame, or Blueberry.
+
+[2025-07-17T15:22:46.334Z] Customer: Everything bagel.
+
+[2025-07-17T15:22:46.334Z] AI Agent: So, that's an Everything bagel with bacon, egg, and American cheese. Would you like it toasted?
+
+[2025-07-17T15:22:46.334Z] Customer: Definitely toasted. And can you add salt, pepper, and ketchup?
+
+[2025-07-17T15:22:46.334Z] AI Agent: So, that's an Everything bagel, toasted, with bacon, egg, American cheese, salt, pepper, and ketchup. Anything else you'd like to add, such as lettuce, tomato, or spinach?
+
+[2025-07-17T15:22:46.334Z] Customer: Nope. That's it. How soon is that gonna be ready?
+
+[2025-07-17T15:22:46.334Z] AI Agent: Just a moment while I add that up... Your Original Classic on an Everything bagel, toasted, with bacon, egg, American cheese, salt, pepper, and ketchup, will be ready for pickup in about 15 minutes. Your total comes out to be $8.49. We'll have it ready for you at our location, 1350 Galloping Hill Rd, Union, NJ 07083. Would you like to place another order or is that all for today?
+
+[2025-07-17T15:22:46.334Z] Customer: That's all. Thank you very much.
+
+[2025-07-17T15:22:46.335Z] AI Agent: You're welcome. I'll go ahead and put that order in for you. We'll see you soon to pick up your Original Classic on an Everything bagel. Have a great day, 

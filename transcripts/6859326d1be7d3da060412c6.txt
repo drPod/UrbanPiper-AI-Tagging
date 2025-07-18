@@ -1,0 +1,42 @@
+Call ID: 6859326d1be7d3da060412c6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T10:54:37.398Z
+End Time: 2025-06-23T10:56:14.631Z
+Duration: 120 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh inquired about the menu and showed interest in coffee options at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T10:56:14.389Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T10:56:14.389Z] Customer: ¿En qué lista el bidimenu?
+
+[2025-06-23T10:56:14.389Z] AI Agent: Let me get the menu for you.
+
+[2025-06-23T10:56:14.389Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T10:56:14.389Z] Customer: Yeah.
+
+[2025-06-23T10:56:14.389Z] AI Agent: We have a variety of items, including breakfast sandwiches, bagels, and coffee. What sounds good to you?
+
+[2025-06-23T10:56:14.389Z] Customer: Okay. Coffee.
+
+[2025-06-23T10:56:14.389Z] AI Agent: Let me get the coffee options for you.
+
+[2025-06-23T10:56:14.389Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T10:56:14.389Z] Customer: Yes.
+
+[2025-06-23T10:56:14.389Z] AI Agent: Let me see what we have for coffee. We have hot coffee, iced coffee, and other specialty drinks. Which one would you like?
+
+[2025-06-23T10:56:14.389Z] Customer: Can you please tell me about the other special rings?
+
+[2025-06-23T10:56:14.389Z] AI Agent: Let me get the options for you...
+
+[2025-06-23T10:56:14.390Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T10:56:14.390Z] AI Agent: Thank you for calling. Have a great day. Goodbye.

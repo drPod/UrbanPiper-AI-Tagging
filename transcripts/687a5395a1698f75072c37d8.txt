@@ -1,0 +1,20 @@
+Call ID: 687a5395a1698f75072c37d8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T14:00:53.564Z
+End Time: 2025-07-18T14:01:26.176Z
+Duration: 30 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin attempted to order an Omelet Wrap but it was out of stock, and the agent offered alternative breakfast items.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T14:01:25.871Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T14:01:25.871Z] Customer: I want to order omelette wrap.
+
+[2025-07-18T14:01:25.871Z] AI Agent: That will be our Omelet Wrap on the menu, now let me check the availability. I've checked, and I'm sorry, but that item is currently out of stock today. Instead, I can offer you our Original Classic breakfast sandwich, the Egg & Cheese, or the Garden
+
+[2025-07-18T14:01:25.871Z] Customer: 

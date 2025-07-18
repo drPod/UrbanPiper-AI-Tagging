@@ -1,0 +1,22 @@
+Call ID: 686d41afd14f3abcfb202c41
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T16:05:03.551Z
+End Time: 2025-07-08T16:06:02.794Z
+Duration: 57 seconds
+From: +918867706225
+To: +19198136886
+Summary: The call ended without the customer placing an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T16:06:02.376Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T16:06:02.376Z] Customer: How can you assist me with today?
+
+[2025-07-08T16:06:02.376Z] AI Agent: I'm here to help you place your order for pickup at Manhattan Bagel in Union, New Jersey. We have a wide variety of breakfast sandwiches, bagels, pastries, and more. What would you like to order today?
+
+[2025-07-08T16:06:02.377Z] AI Agent: I hope you are still with me!
+
+[2025-07-08T16:06:02.377Z] AI Agent: Thank you for calling. Have a great day. Goodbye.

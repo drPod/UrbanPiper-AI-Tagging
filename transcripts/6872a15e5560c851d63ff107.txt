@@ -1,0 +1,26 @@
+Call ID: 6872a15e5560c851d63ff107
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T17:54:38.346Z
+End Time: 2025-07-12T17:56:24.828Z
+Duration: 104 seconds
+From: 918949862707
+To: 918035740152
+Summary: Mehl ordered a Breakfast Bundle with a specific selection of thirteen bagels and will choose the cream cheese flavors next.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T17:56:24.412Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T17:56:24.412Z] Customer: Okay. So my first of all, my name is Mehul, and, I'm looking to order breakfast bundle.
+
+[2025-07-12T17:56:24.412Z] AI Agent: Great to have you back, Mehl. For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?
+
+[2025-07-12T17:56:24.412Z] Customer: Okay. So I need, files SMA.
+
+[2025-07-12T17:56:24.412Z] AI Agent: Perfect, five Sesame bagels. That's five bagels so far. We still need to pick eight more to complete the set of thirteen. We also have Blueberry, Chocolate Chip, Garlic, and Onion. How many of each would you like?
+
+[2025-07-12T17:56:24.412Z] Customer: Okay. I need, five sesame, three, plain bagels, one vanilla bagel, and five more, everything bagel and one garlic bagel, one blueberry bagel, one onion bagel.
+
+[2025-07-12T17:56:24.412Z] AI Agent: Perfect. So, to confirm, you'd like five Sesame bagels, three Plain bagels, one Vanilla bagel, four Everything bagels, one Garlic bagel, one Blueberry bagel, and one Onion bagel. That adds up to thirteen bagels, which completes your Breakfast Bundle. Now, you'll also get two tubs of cream cheese with your bundle. We have Plain, Vegetable, Scallion, Strawberry, and Honey Almond. Which two flavors would you like?

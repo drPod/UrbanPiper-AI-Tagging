@@ -1,0 +1,54 @@
+Call ID: 685933fb1be7d3da06043719
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:01:15.298Z
+End Time: 2025-06-23T11:04:00.108Z
+Duration: 180 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh ordered a Breakfast Bundle with customized bagels, spreads, muffins, and a Box of Coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:03:59.772Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T11:03:59.773Z] Customer: Breakfast banten
+
+[2025-06-23T11:03:59.773Z] AI Agent: The Breakfast Bundle is perfect for a group. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T11:03:59.773Z] AI Agent: I have all the options for your bundle right here. Ready to customize? For your thirteen bagels, I have Plain, Everything, or Sesame. What would you like?
+
+[2025-06-23T11:03:59.773Z] Customer: Give me two plain, two sesame.
+
+[2025-06-23T11:03:59.773Z] AI Agent: You'd like two Plain and two Sesame bagels. That's a total of four bagels so far. I still need nine more bagel choices from you. What about the other nine?
+
+[2025-06-23T11:03:59.773Z] Customer: Can you tell me bigger choices?
+
+[2025-06-23T11:03:59.773Z] AI Agent: For the bagels, I have Plain, Everything, Asiago, Blueberry, and many more. Let me list them for you: Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll,
+
+[2025-06-23T11:03:59.773Z] Customer: Give me four, you know, for, and for everything.
+
+[2025-06-23T11:03:59.773Z] AI Agent: You'd like four Jalapeño Cheddar bagels and four Everything bagels. That's a total of twelve bagels so far, including the two Plain and two Sesame you chose earlier. I still need one more
+
+[2025-06-23T11:03:59.773Z] Customer: And one one whole whole week.
+
+[2025-06-23T11:03:59.773Z] AI Agent: You'd like one Whole Wheat bagel. That completes your thirteen bagel selection. Now, let's move on to the two tubs of spread. I have options like Plain Cream Cheese, Vegetable Cream Cheese, and more. Which two would you
+
+[2025-06-23T11:03:59.773Z] Customer: Give me one one vanilla cream cheese and one vegetable cream cheese.
+
+[2025-06-23T11:03:59.773Z] AI Agent: You'd like one Vanilla Cream Cheese and one Vegetable Cream Cheese. Now, let's move on to the muffins. I have Blueberry, Corn, Double Chocolate, and more. You can choose up to
+
+[2025-06-23T11:03:59.773Z] Customer: Give me four four four vanilla, four corn.
+
+[2025-06-23T11:03:59.773Z] AI Agent: You'd like four Corn muffins. Now, let's move on to the Box of
+
+[2025-06-23T11:03:59.773Z] Customer: No. 4 four one four vanilla and four corn.
+
+[2025-06-23T11:03:59.774Z] AI Agent: You'd like four Vanilla and four Corn muffins, but since you can only choose up to four muffins, let's confirm that you want two Vanilla and two Corn muffins. Now, let's move on to the Box of Coffee. Would you like to add a Box of Coffee to your bundle? I have 
+
+[2025-06-23T11:03:59.774Z] Customer: Ja. Als eine Hausblende.
+
+[2025-06-23T11:03:59.774Z] AI Agent: You'd like to add a House Blend Box of 
+
+[2025-06-23T11:03:59.774Z] Customer: Hello? Okay. Hello?

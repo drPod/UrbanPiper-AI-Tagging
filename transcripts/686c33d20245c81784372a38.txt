@@ -1,0 +1,46 @@
+Call ID: 686c33d20245c81784372a38
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T20:53:38.949Z
+End Time: 2025-07-07T20:54:53.059Z
+Duration: 72 seconds
+From: +19725155417
+To: +16204558091
+Summary: The customer, Sonu, placed an order for one plain bagel at Manhattan Bagel and completed the payment process.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T20:54:52.840Z] AI Agent: Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T20:54:52.840Z] Customer: Hi. I just want one plain bagel, please. That's it.
+
+[2025-07-07T20:54:52.840Z] AI Agent: Alright, one plain bagel. Is there anything else I can get for you today?
+
+[2025-07-07T20:54:52.840Z] Customer: Nope. That's it.
+
+[2025-07-07T20:54:52.840Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-07T20:54:52.841Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-07T20:54:52.841Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-07T20:54:52.841Z] Customer: No.
+
+[2025-07-07T20:54:52.841Z] AI Agent: Alright Sonu. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-07T20:54:52.841Z] Customer: No.
+
+[2025-07-07T20:54:52.841Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-07T20:54:52.841Z] Customer: Ja.
+
+[2025-07-07T20:54:52.841Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-07T20:54:52.841Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 010077. That's 0, 1, 0, 0, 7, 7.", 'order_id': '010077', 'call_id': 'c5536377-d27e-4bf0-96b8-f46df7f55bf2', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e6ab-280e-1cc8-d6a7-9e14de3107b9'}
+
+[2025-07-07T20:54:52.841Z] AI Agent: Your order is created successfully now ! The order number is 0, 1, 0, 0, 7, 7, and the total including taxes comes to $2.50. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-07T20:54:52.842Z] Customer: Nope. That's it. Thank you. Bye bye.
+
+[2025-07-07T20:54:52.842Z] AI Agent: OK

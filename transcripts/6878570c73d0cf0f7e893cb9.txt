@@ -1,0 +1,50 @@
+Call ID: 6878570c73d0cf0f7e893cb9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T01:51:08.164Z
+End Time: 2025-07-17T01:52:42.633Z
+Duration: 91 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer, Jitin, called Manhattan Bagel but did not need to place an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T01:52:42.322Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T01:52:42.322Z] Customer: What is the time currently?
+
+[2025-07-17T01:52:42.322Z] AI Agent: The current time is 8:51 PM.
+
+[2025-07-17T01:52:42.322Z] Customer: Eight to 01:50PM, and it is IST. Right?
+
+[2025-07-17T01:52:42.322Z] AI Agent: The current time is 8:51 PM, and yes, it is currently evening.
+
+[2025-07-17T01:52:42.323Z] Customer: Is it IST, PST? What time zone you are in?
+
+[2025-07-17T01:52:42.323Z] AI Agent: I am in the Eastern Time Zone (ET).
+
+[2025-07-17T01:52:42.323Z] Customer: Okay. And city? It is Chicago or what?
+
+[2025-07-17T01:52:42.323Z] AI Agent: The store is located in Union, New Jersey.
+
+[2025-07-17T01:52:42.323Z] Customer: Okay.
+
+[2025-07-17T01:52:42.323Z] AI Agent: So, are you ready to place your order or do you have any questions about our menu?
+
+[2025-07-17T01:52:42.324Z] Customer: 
+
+[2025-07-17T01:52:42.324Z] AI Agent: Let's get started then.
+
+[2025-07-17T01:52:42.324Z] Customer: No. I don't have no. I don't have any questions about Gmail.
+
+[2025-07-17T01:52:42.324Z] AI Agent: What would you
+
+[2025-07-17T01:52:42.324Z] Customer: So
+
+[2025-07-17T01:52:42.325Z] AI Agent: So, what can I get for you today? Would you like to order something from our menu?
+
+[2025-07-17T01:52:42.325Z] Customer: No. I don't need anything from you right now.
+
+[2025-07-17T01:52:42.325Z] AI Agent: OK

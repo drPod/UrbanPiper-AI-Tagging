@@ -1,0 +1,30 @@
+Call ID: 685a0c901be7d3da0612ae5b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T02:25:20.496Z
+End Time: 2025-06-24T02:27:49.609Z
+Duration: 180 seconds
+From: +14083338920
+To: +16204558091
+Summary: Saurabh ordered three bagels from Manhattan Bagel, one for himself, one for his wife, and one for his kid, with various customizations.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T02:27:48.280Z] AI Agent: Hello Saurabh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-24T02:27:48.280Z] Customer: I wanted to order, couple of bagels for one for my wife, one for my kids, and one for myself. For my wife, I wanted to order everything bagel, toasted with cream cheese for the kids, cinnamon bagel with, peanut butter and toasted for myself.
+
+[2025-06-24T02:27:48.280Z] Customer: Sesame bagel with, avocado toasted.
+
+[2025-06-24T02:27:49.609Z] Unknown: [2025-06-24T02:27:48.280Z] assistant: Let me get the options for your bagel choices. I will call the get_modifier_groups tool to get all the options for the bagels. 
+
+
+
+[2025-06-24T02:27:49.609Z] Unknown: [2025-06-24T02:27:48.281Z] assistant: For your wife's everything bagel, I have the following options for the bagel type: Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, Bagel Stick, French Toast ROLL. Since you've chosen an everything bagel, I'll go with that. 
+
+For the spread, let me get the options for you. 
+
+
+
+[2025-06-24T02:27:48.281Z] AI Agent: For your wife's everything bagel, I have the following options for the spread: Butter, Plain Cream Cheese, Vegetable Cream Cheese, Scallion Cream Cheese, Lox Cream Cheese, Strawberry Cream Cheese, Jalapeno Cream Cheese, Honey Almond Cream Cheese, Maple Raisin Cream Cheese, Bacon Scallion Cream Cheese, Olive Pimento Cream Cheese, Low-Fat Vegetable Cream Cheese, Low-Fat Plain Cream Cheese, Hummus, Nutella, Avocado, Peanut Butter, Grape Jelly, Styrawberry Jelly. Since you've chosen cream cheese, I'll go with that. Now, let's move on to your kid's cinnamon bagel. I have the following options for the bagel type: Plain, Everything,

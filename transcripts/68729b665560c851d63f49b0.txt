@@ -1,0 +1,26 @@
+Call ID: 68729b665560c851d63f49b0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T17:29:10.913Z
+End Time: 2025-07-12T17:30:28.851Z
+Duration: 76 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jutin inquired about lunch options and ordered a Chicken Salad Sandwich from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T17:30:28.619Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T17:30:28.620Z] Customer: Tell me what all option you have in lunch.
+
+[2025-07-12T17:30:28.620Z] AI Agent: We have a variety of lunch options. You can choose from our sandwiches, wraps, and salads. For sandwiches, we have the Greenwich Grilled Cheese, Chelsea Grilled Chicken, Spicy
+
+[2025-07-12T17:30:28.620Z] Customer: Okay. What is the price for a b avocado BLT sandwich?
+
+[2025-07-12T17:30:28.620Z] AI Agent: The Avocado BLT Sandwich is priced at $9.99. It comes with turkey-bacon, avocado, lettuce, tomato, and roasted tomato spread on a thintastic bagel. You'll also need to choose a side, which can be chips, cole slaw, or Lays chips for an extra dollar. Would you like to customize it or add any extras?
+
+[2025-07-12T17:30:28.620Z] Customer: I want to order chicken salad sandwich.
+
+[2025-07-12T17:30:28.620Z] AI Agent: The Chicken Salad Sandwich is a great choice. It's priced at $9.49 and comes with white meat chicken salad on your choice of bread or bagel, served with lettuce, tomato, and onions. You'll need to pick a bread option - we have Plain Bagel, Everything Bagel, Asiago Bagel, and many more. Which bread would you like for your Chicken Salad Sandwich?

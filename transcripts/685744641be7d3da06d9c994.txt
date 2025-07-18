@@ -1,0 +1,12 @@
+Call ID: 685744641be7d3da06d9c994
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T23:46:44.937Z
+End Time: 2025-06-21T23:46:54.264Z
+Duration: 60 seconds
+From: +12149402918
+To: +17209999031
+Summary: The call was a demonstration of how BagelBot, a friendly voice AI for Manhattan Bagel, guides customers through ordering and customizing their items while following specific rules and protocols for a seamless and personalized experience.
+==================================================
+TRANSCRIPT:
+==================================================

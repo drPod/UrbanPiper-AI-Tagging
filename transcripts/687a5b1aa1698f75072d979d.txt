@@ -1,0 +1,96 @@
+Call ID: 687a5b1aa1698f75072d979d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T14:32:58.505Z
+End Time: 2025-07-18T14:37:19.658Z
+Duration: 254 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for a Hash Brown at manhattan_bagel_864915
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T14:37:19.238Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T14:37:19.238Z] Customer: Can I get, breakfast bundle?
+
+[2025-07-18T14:37:19.658Z] Unknown: [2025-07-18T14:37:19.238Z] assistant: That will be our Breakfast Bundle on the menu, let me make sure we have that today. 
+
+The Breakfast Bundle includes 13 assorted bagels, 2 tubs of cream cheese, and 4 muffins. Now, I'll help you customize it. 
+
+You'll need to pick exactly 13 bagels for your bundle. I have Plain, Everything, Sesame, or Blueberry. How many of each would you like?
+
+[2025-07-18T14:37:19.238Z] Customer: Forget about this. Tell me, do you have pastry?
+
+[2025-07-18T14:37:19.238Z] AI Agent: I'm sorry, but our pastry is currently out of stock today. Instead, I can offer you our muffins, cookies, or a bagel with cream cheese. Which would you prefer?
+
+[2025-07-18T14:37:19.238Z] Customer: And, do you have a hash brown?
+
+[2025-07-18T14:37:19.658Z] Unknown: [2025-07-18T14:37:19.238Z] assistant: That will be our Hash Brown on the menu, just confirming it's available. 
+
+I'll add the Hash Brown for you. Would you like to add anything else, such as a bagel or a drink, to go with your hash brown?
+
+[2025-07-18T14:37:19.238Z] Customer: Also, like, if if I ask you, give me some dessert.
+
+[2025-07-18T14:37:19.238Z] AI Agent: For
+
+[2025-07-18T14:37:19.238Z] Customer: 
+
+[2025-07-18T14:37:19.239Z] AI Agent: We have a variety of desserts to choose from. Let me see... We have cookies, muffins, and also some sweet treats like our Fruit Cup, Yogurt Parfait, and Muffins. We also have a selection of pastries, but I apologize, those are currently out of stock. Which type of dessert sounds good to you?
+
+[2025-07-18T14:37:19.239Z] Customer: Okay. Muffins. Can you can you give me some muffins?
+
+[2025-07-18T14:37:19.658Z] Unknown: [2025-07-18T14:37:19.239Z] assistant: That will be our Muffins on the menu, let me make sure we have those today.
+
+We have a variety of muffin flavors to choose from. I have Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, and Cranberry Orange. Which one would you like? Or would you like me to recommend some of our most popular flavors?
+
+[2025-07-18T14:37:19.239Z] Customer: Okay. So
+
+[2025-07-18T14:37:19.239Z] AI Agent: So you'd like to order some muffins. Which flavors would you like? I can offer you Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, or Cranberry Orange. Would you like one of these or would you like me to suggest some of our popular flavors?
+
+[2025-07-18T14:37:19.239Z] Customer: 
+
+[2025-07-18T14:37:19.239Z] AI Agent: You're welcome. It was a pleasure assisting you. Just to confirm, I have you down for a Hash Brown and you were interested in muffins but didn't finalize the order for those. If you'd like to proceed with your Hash Brown order or add anything else, please let me know. Otherwise, I can provide you with the total for your Hash Brown. Would you like me to do that?
+
+[2025-07-18T14:37:19.239Z] Customer: Ya, terminé.
+
+[2025-07-18T14:37:19.658Z] Unknown: [2025-07-18T14:37:19.239Z] assistant: Your Hash Brown is $1.99. I'll go ahead and calculate the total with tax. 
+
+Just a moment while I add that up... 
+
+Your total comes out to be $2.18. 
+
+Would you like to pay now or is there anything else I can get for you?
+
+[2025-07-18T14:37:19.239Z] Customer: Yeah. That's all for now.
+
+[2025-07-18T14:37:19.658Z] Unknown: [2025-07-18T14:37:19.239Z] assistant: Perfect, let me get that all put together for you. 
+
+
+
+[2025-07-18T14:37:19.240Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-18T14:37:19.240Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-18T14:37:19.240Z] Customer: No. I don't have any.
+
+[2025-07-18T14:37:19.240Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-18T14:37:19.240Z] Customer: No. I don't want that.
+
+[2025-07-18T14:37:19.658Z] Unknown: [2025-07-18T14:37:19.240Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-18T14:37:19.240Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 850472. That's 8, 5, 0, 4, 7, 2.", 'order_id': '850472', 'call_id': '2965a15a-6609-4065-bce5-e46a74e71ad9', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981df7-3920-0d69-d21e-403724024e57'}
+
+[2025-07-18T14:37:19.240Z] AI Agent: Your order number is 8, 5, 0, 4, 7, 2. Your total is two dollars and eighteen cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-18T14:37:19.240Z] Customer: No. Thank you.
+
+[2025-07-18T14:37:19.241Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and enjoy your Hash Brown!
+
+[2025-07-18T14:37:19.241Z] Customer: Okay. Bye.
+
+[2025-07-18T14:37:19.241Z] AI Agent: Bye, Jitin! Have a great day!

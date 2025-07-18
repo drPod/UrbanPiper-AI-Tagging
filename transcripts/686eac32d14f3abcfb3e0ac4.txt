@@ -1,0 +1,30 @@
+Call ID: 686eac32d14f3abcfb3e0ac4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T17:51:46.305Z
+End Time: 2025-07-09T17:52:40.690Z
+Duration: 51 seconds
+From: 919780032269
+To: 918035740152
+Summary: John ordered a Mint Oreo Chillerz in a sixteen-ounce size.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T17:52:40.527Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T17:52:40.527Z] Customer: I want to order a mint orchillers, 16 ounce, and that's it.
+
+[2025-07-09T17:52:40.527Z] AI Agent: Alright, one Mint Oreo Chillerz in a sixteen ounce size. Is there anything else I can get for you today?
+
+[2025-07-09T17:52:40.527Z] Customer: No, 30 anch'io.
+
+[2025-07-09T17:52:40.690Z] Unknown: [2025-07-09T17:52:40.527Z] assistant: Okay, so I have the Mint Oreo Chillerz for you. Let me get that all put together. 
+
+
+
+[2025-07-09T17:52:40.528Z] AI Agent: ERROR: Tool timed out
+
+[2025-07-09T17:52:40.528Z] Customer: Yeah.
+
+[2025-07-09T17:52:40.528Z] AI Agent: Call ended before tool response was received

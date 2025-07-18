@@ -1,0 +1,50 @@
+Call ID: 685917ad1be7d3da0600bf55
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T09:00:29.142Z
+End Time: 2025-06-23T09:03:44.048Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle with thirteen Butter Bagels, two tubs of Vanilla spread, and four Double Chocolate muffins, skipping the Box of Coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T09:03:43.607Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T09:03:43.607Z] Customer: Breakfast bundle?
+
+[2025-06-23T09:03:43.607Z] AI Agent: The Breakfast Bundle, great choice. Let me get all the customization options for you...
+
+[2025-06-23T09:03:43.607Z] Customer: 
+
+[2025-06-23T09:03:43.608Z] AI Agent: Let's start with the Bagel Dozen. We have many options like Plain, Everything, Asiago, and more. Which thirteen bagels would you like?
+
+[2025-06-23T09:03:43.608Z] Customer: I want all 13 is butter bagel.
+
+[2025-06-23T09:03:43.608Z] AI Agent: You'd like all thirteen as Everything bagels.
+
+[2025-06-23T09:03:43.608Z] Customer: No. No. Butter bagel. I said butter.
+
+[2025-06-23T09:03:43.608Z] AI Agent: You'd like all thirteen bagels to be Butter Bagels. Next, for your two tubs of spread, we have options like Plain Cream Cheese, Vegetable Cream Cheese, and more. Which two would you like?
+
+[2025-06-23T09:03:43.608Z] Customer: Vanilla and, and, yeah, Vanilla. Both both should be Vanilla.
+
+[2025-06-23T09:03:43.608Z] AI Agent: You'd like both tubs of spread to be Vanilla. Next, for your four muffins, we have options like Blueberry, Corn, Double Chocolate, and more. Which four muffins would you like?
+
+[2025-06-23T09:03:43.608Z] Customer: All of our double chopsticks.
+
+[2025-06-23T09:03:43.608Z] AI Agent: You'd like all four muffins to be Double Chocolate. Lastly, for the Box of Coffee, would you like to add House Blend, Decaf, or another option, or skip it altogether?
+
+[2025-06-23T09:03:43.609Z] Customer: I don't want box of coffee.
+
+[2025-06-23T09:03:43.609Z] AI Agent: You'd like to skip the Box of Coffee. Perfect, let me add that to your order...
+
+[2025-06-23T09:03:43.609Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T09:03:43.609Z] Customer: Yes. Hello?
+
+[2025-06-23T09:03:43.609Z] Customer: 
+
+[2025-06-23T09:03:43.609Z] AI Agent: {"name": "update_order", "parameters": {"action": "add", "items": [{"item_name": "Breakfast Bundle", 

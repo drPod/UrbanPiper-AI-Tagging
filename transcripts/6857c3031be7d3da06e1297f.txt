@@ -1,0 +1,42 @@
+Call ID: 6857c3031be7d3da06e1297f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T08:46:59.977Z
+End Time: 2025-06-22T08:49:25.200Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul placed an order for a Breakfast Bundle with 13 plain bagels and two tubs of spread, and the order was successfully placed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T08:49:24.924Z] AI Agent: Hello Jatin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T08:49:24.927Z] Customer: Breakfast bundle.
+
+[2025-06-22T08:49:24.928Z] AI Agent: The Breakfast Bundle, excellent choice. That includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to add 4oz of premium Acme smoked nova for just $9.99 to make it extra special?
+
+[2025-06-22T08:49:24.928Z] Customer: No. I don't want that. I just want breakfast bundle.
+
+[2025-06-22T08:49:24.928Z] AI Agent: Let me get the options for your bagel choices... 
+
+[2025-06-22T08:49:24.928Z] AI Agent: Let's start with the bagel choices for your Breakfast Bundle. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like to choose? Also, for the spreads, we have options like Plain Cream Cheese, Vegetable Cream Cheese, and Store Made Vegetable. Which 2 tubs of spread would you like to choose? Additionally,
+
+[2025-06-22T08:49:24.928Z] Customer: Okay. So with with the with the, bagel, I I love to have forty, thirteen, plain bagel and spread plain cream cheese and scallion cream cheese.
+
+[2025-06-22T08:49:24.928Z] AI Agent: Let me add that to your order. Perfect, let me add that to your order... 
+
+[2025-06-22T08:49:24.929Z] AI Agent: Added 1 item(s) to your cart. Total: $29.99
+
+[2025-06-22T08:49:24.929Z] AI Agent: Alright, I've added the Breakfast Bundle with 13 plain bagels, plain cream cheese, and scallion cream cheese to your order. Your total comes out to be $29.99. Before we finalize, may I have your name for the order?
+
+[2025-06-22T08:49:24.929Z] Customer: How many times you will be asking me my name? My name is Mehul.
+
+[2025-06-22T08:49:24.929Z] AI Agent: I apologize for the confusion earlier, Mehul. I've got your name now. Let me get your order placed for you... 
+
+[2025-06-22T08:49:24.929Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 877440. That's 8, 7, 7, 4, 4, 0. Total: $32.98 (subtotal 29.99 dollars plus 2.99 dollars tax). Thank you for your order!
+
+[2025-06-22T08:49:24.929Z] AI Agent: Alright, Mehul, your order is placed. Your order number is 8, 7, 7, 4, 4, 0. Your total comes out to be 29.99 dollars for the subtotal and 2.99 dollars for the tax, making it a total of 32.98 dollars. We'll have that ready for you shortly. Thank you for your order!
+
+[2025-06-22T08:49:24.929Z] AI Agent: I hope you are still with me! 

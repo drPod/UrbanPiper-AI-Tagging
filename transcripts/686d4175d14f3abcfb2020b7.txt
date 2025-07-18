@@ -1,0 +1,30 @@
+Call ID: 686d4175d14f3abcfb2020b7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T16:04:05.446Z
+End Time: 2025-07-08T16:04:58.126Z
+Duration: 51 seconds
+From: +918867706225
+To: +19198136886
+Summary: The customer inquired about Coca-Cola Zero and desserts available at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T16:04:57.832Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T16:04:57.832Z] Customer: Hey. I'd like to have some, Coca Cola maybe.
+
+[2025-07-08T16:04:57.832Z] AI Agent: Sure thing. We have 12 ounce can soda. For the soda, you can choose from Coke, Diet Coke, Sprite, Ginger Ale, or Coke Zero. Which one would you like?
+
+[2025-07-08T16:04:57.833Z] Customer: Code zero resigned.
+
+[2025-07-08T16:04:57.833Z] AI Agent: Perfect. You've
+
+[2025-07-08T16:04:57.833Z] Customer: What do you have in Dallas?
+
+[2025-07-08T16:04:57.833Z] AI Agent: Sure thing. We have 12 ounce cans of Coke Zero available. Would you like one?
+
+[2025-07-08T16:04:57.834Z] Customer: What do you have in desserts?
+
+[2025-07-08T16:04:57.834Z] AI Agent: For desserts, we have some great options! Here are a few you might enjoy: - **Cookies**: We have Large Chocolate Chip

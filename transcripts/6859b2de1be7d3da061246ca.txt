@@ -1,0 +1,20 @@
+Call ID: 6859b2de1be7d3da061246ca
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T20:02:38.363Z
+End Time: 2025-06-23T20:03:07.047Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin, an existing customer, called Manhattan Bagel and immediately requested to speak with a human agent.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T20:03:06.912Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T20:03:06.912Z] Customer: I want to, I want to talk to a human agent, please.
+
+[2025-06-23T20:03:06.912Z] AI Agent: I can transfer you to a human agent. Let me go ahead and do that for you. 
+
+[2025-06-23T20:03:06.912Z] AI Agent: Call ended before tool response was received

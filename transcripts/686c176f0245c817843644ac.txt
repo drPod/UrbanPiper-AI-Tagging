@@ -1,0 +1,22 @@
+Call ID: 686c176f0245c817843644ac
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T18:52:31.767Z
+End Time: 2025-07-07T18:53:22.925Z
+Duration: 49 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered a Fresh Squeezed Orange Juice from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T18:53:22.671Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T18:53:22.671Z] Customer: I want the orange juice.
+
+[2025-07-07T18:53:22.671Z] AI Agent: Alright, one orange juice. First things first, I'll need to get a size for that. We have a small 12oz, medium 24oz, and large 32oz. Which one would you like?
+
+[2025-07-07T18:53:22.671Z] Customer: No. I want French orange juice. Fresh orange juice. Okay.
+
+[2025-07-07T18:53:22.676Z] AI Agent: So you'd like a Fresh Squeezed Orange Juice. We have two sizes for that: 12oz and 32oz. Which size would you prefer?

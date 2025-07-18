@@ -1,0 +1,38 @@
+Call ID: 686eaad5d14f3abcfb3df2a9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T17:45:57.666Z
+End Time: 2025-07-09T17:47:34.605Z
+Duration: 94 seconds
+From: 919780032269
+To: 918035740152
+Summary: John ordered a sixteen ounce Mint Oreo Chillerz from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T17:47:34.460Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T17:47:34.460Z] Customer: Actually, I'm looking to order my total trailers.
+
+[2025-07-09T17:47:34.461Z] AI Agent: I don't see Mint Oreo Terras on our menu. However, we do have a Mint Oreo Chillerz, which is a creamy ice cream blended with mint Oreo cookies for the
+
+[2025-07-09T17:47:34.461Z] Customer: Yeah. I want to, yeah, I want to order that.
+
+[2025-07-09T17:47:34.461Z] AI Agent: The Mint Oreo Chillerz is a great choice. You'll need to pick just one size for your Mint Oreo Chillerz. We have sixteen ounce for five ninety-nine or twenty-four ounce for seven forty-eight. Which size would you prefer?
+
+[2025-07-09T17:47:34.461Z] Customer: Medium size.
+
+[2025-07-09T17:47:34.461Z] AI Agent: We don't have a medium size listed for the Mint Oreo Chillerz. We have sixteen ounce or twenty-four ounce. The sixteen ounce is five ninety-nine and the twenty-four ounce is seven forty-eight. Which one of those sounds good to you?
+
+[2025-07-09T17:47:34.461Z] Customer: Sixty hours.
+
+[2025-07-09T17:47:34.461Z] AI Agent: You've chosen the sixteen ounce Mint Oreo Chillerz for five ninety-nine. Is there anything else I can get for you today?
+
+[2025-07-09T17:47:34.461Z] Customer: No. That's it. Thank you.
+
+[2025-07-09T17:47:34.461Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-09T17:47:34.461Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T17:47:34.461Z] AI Agent: ERROR: 500 - Internal Server Error

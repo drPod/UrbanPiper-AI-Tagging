@@ -1,0 +1,46 @@
+Call ID: 685745a41be7d3da06d9ca55
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T23:52:04.652Z
+End Time: 2025-06-21T23:54:13.105Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Alex ordered a Half Dozen Bagels with all 6 bagels being Sesame from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T23:54:12.886Z] AI Agent: Hello Alex, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T23:54:12.886Z] Customer: I want the box of vehicle.
+
+[2025-06-21T23:54:12.886Z] AI Agent: The Box of Vehicles isn't something we typically offer at Manhattan Bagel. We specialize in delicious bagels, sandwiches, and other tasty treats. Could you be thinking of
+
+[2025-06-21T23:54:12.886Z] Customer: I want box of bagel. Box of bagel.
+
+[2025-06-21T23:54:12.886Z] AI Agent: We have a few options for boxes of bagels. Let me get the details for you. We have a Half Dozen Bagels, a Dozen Bagels, and even a Bakers Dozen Value Pack that comes with 13
+
+[2025-06-21T23:54:12.887Z] Customer: Okay. I I need a half dozen bagel. Can you get that for me?
+
+[2025-06-21T23:54:13.104Z] Unknown: [2025-06-21T23:54:12.887Z] assistant: The Half Dozen Bagels, that's 6 bagels of your choice. Let me get the options for you. We have a variety of bagel types, such as Plain, Everything, Sesame, and more. Let me see what we have... 
+
+Let me get the bagel options for you. 
+
+[2025-06-21T23:54:12.887Z] AI Agent: For the Half Dozen Bagels, you can choose from a variety of bagel types. We have Plain, Everything, Sesame, and many more. Which ones would you like? You can pick any 6. To make it easier, I can give you some options. We have some popular ones like Plain, Everything, and Sesame. Or if you'd like to hear more, I can give you some other choices. Let's start
+
+[2025-06-21T23:54:12.887Z] Customer: No. I I want I want all sesame and place the order, please.
+
+[2025-06-21T23:54:13.104Z] Unknown: [2025-06-21T23:54:12.887Z] assistant: Alright, so that's 6 Sesame bagels. Perfect, let me add that to your order... 
+
+
+
+[2025-06-21T23:54:12.888Z] AI Agent: Added 1 item(s) to your cart. Total: $8.94
+
+[2025-06-21T23:54:13.105Z] Unknown: [2025-06-21T23:54:12.889Z] assistant: Alright, I've added the Half Dozen Bagels to your order. Your total comes out to be $8.94. Now, let me get this order placed for you... 
+
+
+
+[2025-06-21T23:54:12.889Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 802199. That's 8, 0, 2, 1, 9, 9. Total: $9.83 (subtotal 8.94 dollars plus 0.89 dollars tax). Thank you for your order!
+
+[2025-06-21T23:54:12.889Z] AI Agent: Alright Alex, your order is placed. Your order number is 8, 0, 2, 1, 9, 9. Your total comes out to be 8 dollars and 94 cents for the subtotal, plus 89 cents in tax, making it a total of 9 dollars and 83 cents. We'll have that ready for you shortly. Thank you for your order. 

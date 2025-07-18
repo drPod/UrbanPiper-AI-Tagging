@@ -1,0 +1,46 @@
+Call ID: 686a20f645548bd51cfca509
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-06T07:08:38.934Z
+End Time: 2025-07-06T07:10:45.449Z
+Duration: 123 seconds
+From: +64220434685
+To: +19198136886
+Summary: Hadeeb ordered a Farmhouse Egg Sandwich with added vegetables and inquired about sides.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-06T07:10:44.171Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-06T07:10:44.177Z] Customer: Can I order a burger?
+
+[2025-07-06T07:10:44.177Z] AI Agent: May I have your name for the order?
+
+[2025-07-06T07:10:44.177Z] Customer: Adeep?
+
+[2025-07-06T07:10:44.178Z] AI Agent: Alright Hadeeb,
+
+[2025-07-06T07:10:44.178Z] Customer: Pradeep?
+
+[2025-07-06T07:10:44.178Z] AI Agent: What would you like to order today?
+
+[2025-07-06T07:10:44.178Z] Customer: Burger.
+
+[2025-07-06T07:10:44.178Z] AI Agent: We don't have burgers on our menu. We specialize in bagels, sandwiches, and breakfast items. Would you like me to suggest some options?
+
+[2025-07-06T07:10:44.178Z] Customer: Can I have a king chicken burger?
+
+[2025-07-06T07:10:44.179Z] AI Agent: I don't see a king chicken burger on our menu. Let me share some options: we have a variety of bagel sandwiches, including the Original Classic, Spinach Bacon Croissant, and Farmhouse Egg Sandwich. Would you like to hear more about those?
+
+[2025-07-06T07:10:44.179Z] Customer: Can I have farmhouse, Bagel?
+
+[2025-07-06T07:10:44.179Z] AI Agent: The Farmhouse Egg Sandwich is a great choice. It comes with ham, bacon, egg, cheddar cheese, and pepper cream cheese on a cheesy hash brown roll. First, I'll need to know if you'd like to add any vegetables to it. We have options like lettuce, tomato, and spinach. Would you like any of those?
+
+[2025-07-06T07:10:44.179Z] Customer: Yes. Can you add three of those?
+
+[2025-07-06T07:10:44.179Z] AI Agent: For the Farmhouse Egg Sandwich, you can choose up to 11 vegetables. I can add lettuce, tomato, and spinach for you. Would you like to hear more options or proceed with those?
+
+[2025-07-06T07:10:44.179Z] Customer: Proceed with this.
+
+[2025-07-06T07:10:44.179Z] AI Agent: I'll add lettuce, tomato, and spinach to your Farmhouse Egg Sandwich. Next, would you like to choose a side, such as chips or cole slaw, or perhaps something else?

@@ -1,0 +1,50 @@
+Call ID: 68712eff5560c851d61de0cf
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T15:34:23.090Z
+End Time: 2025-07-11T15:36:32.979Z
+Duration: 127 seconds
+From: +18456613480
+To: +16204558091
+Summary: The customer ordered an Everything bagel with Plain Cream Cheese, toasted, and paid with cash.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T15:36:32.541Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-11T15:36:32.541Z] Customer: Yeah. I'd like to order a a couple bagels.
+
+[2025-07-11T15:36:32.541Z] AI Agent: You'll need to pick just one type of bagel for your order. We have
+
+[2025-07-11T15:36:32.541Z] Customer: What what's the most popular one?
+
+[2025-07-11T15:36:32.541Z] AI Agent: Our most popular bagel is the Everything bagel. It's a classic choice, toasted to perfection with a blend of poppy seeds, sesame seeds, garlic, salt, and dried onion. Would you like to go with the Everything bagel?
+
+[2025-07-11T15:36:32.541Z] Customer: Yes.
+
+[2025-07-11T15:36:32.541Z] AI Agent: Perfect, one Everything bagel. Now, you'll need to pick just one type of spread or cream cheese for your bagel. We have Plain Cream
+
+[2025-07-11T15:36:32.541Z] Customer: What do you recommend?
+
+[2025-07-11T15:36:32.541Z] AI Agent: I'd recommend our Plain Cream Cheese. It's a classic pairing with the Everything bagel and a fan favorite. We also have other options like Scallion, Vegetable, or Strawberry if you'd like to
+
+[2025-07-11T15:36:32.541Z] Customer: Yeah. But let's do the one that let's do the one that you, recommend.
+
+[2025-07-11T15:36:32.541Z] AI Agent: So, to confirm, you'd like one Everything bagel with Plain Cream Cheese, correct? And would you like it 
+
+[2025-07-11T15:36:32.541Z] Customer: Yes.
+
+[2025-07-11T15:36:32.541Z] AI Agent: Perfect. You'll need to pick just one toast level for your bagel. We have Toasted, Lightly Toasted, or No Toast. Which would you prefer?
+
+[2025-07-11T15:36:32.541Z] Customer: Toasted.
+
+[2025-07-11T15:36:32.541Z] AI Agent: Perfect, so that's one Everything bagel with Plain Cream Cheese, toasted. Is there anything else I can get for you today?
+
+[2025-07-11T15:36:32.541Z] Customer: Nara z
+
+[2025-07-11T15:36:32.541Z] AI Agent: Alright, so I have one Everything bagel with Plain Cream Cheese, toasted. I'll get that ready for you. We'll have it ready for pickup in about 15 minutes. Would you like to pay with card or cash today?
+
+[2025-07-11T15:36:32.541Z] Customer: Cash.
+
+[2025-07-11T15:36:32.541Z] AI Agent: That'll be a total of $3.29. We'll have your Everything bagel with Plain Cream Cheese, toasted, ready for pickup in about 15 minutes. Just come by the store, and we'll get you all set. Thank you for choosing Manhattan Bagel, and have a great day!

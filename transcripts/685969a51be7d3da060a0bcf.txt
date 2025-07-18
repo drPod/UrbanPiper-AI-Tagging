@@ -1,0 +1,90 @@
+Call ID: 685969a51be7d3da060a0bcf
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T14:50:13.940Z
+End Time: 2025-06-23T14:55:42.573Z
+Duration: 360 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a Breakfast Bundle with thirteen Asiago bagels, two tubs of Plain Cream Cheese, four Chocolate Chip muffins, and a box of House Blend coffee, along with a hot latte with Oat Milk, totaling $73.66.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T14:55:41.948Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T14:55:41.948Z] Customer: I like to order, breakfast bundle.
+
+[2025-06-23T14:55:42.573Z] Unknown: [2025-06-23T14:55:41.948Z] assistant: The Breakfast Bundle, great choice. Let me get all the customization options for you. 
+
+
+
+[2025-06-23T14:55:41.948Z] AI Agent: Okay, I have all the options for your Breakfast Bundle right here. Ready to customize? Let's start with the Bagel Dozen. You need to choose exactly thirteen bagels. The options I have listed here are Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten
+
+[2025-06-23T14:55:41.948Z] Customer: Okay. So I want, like, all 30 should be a Tiago bagel.
+
+[2025-06-23T14:55:42.573Z] Unknown: [2025-06-23T14:55:41.948Z] assistant: For the Bagel Dozen, you'd like all thirteen to be Asiago bagels. Alright, that's a great choice. 
+
+Let's move on to the next group, which is Choose 2 Tubs of Spread. You need to choose exactly two tubs of spread. The options I have listed here are Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Lox Spread, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, Philadelphia, and Butter. Which two would you like?
+
+[2025-06-23T14:55:41.949Z] Customer: I love to have, one, vanilla, and second one is vegetable.
+
+[2025-06-23T14:55:42.573Z] Unknown: [2025-06-23T14:55:41.949Z] assistant: For the Choose 2 Tubs of Spread, you'd like one to be Vanilla and the second one to be Vegetable. 
+
+However, I don't see Vanilla as an option for the spreads. We do have options like Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, and others. But Vanilla is not one of them. 
+
+Let me ask you again, which two spreads would you like to choose from the available options? Maybe you could consider something like Plain Cream Cheese or Store Made Vegetable to go along with the Vegetable Cream Cheese?
+
+[2025-06-23T14:55:41.949Z] Customer: Then plain is the good option. Another one will be the, plain.
+
+[2025-06-23T14:55:42.573Z] Unknown: [2025-06-23T14:55:41.949Z] assistant: For the Choose 2 Tubs of Spread, you'd like both to be Plain Cream Cheese. That's a classic choice.
+
+Let's move on to the next group, which is Choose 4 Muffins. You can choose anywhere from 1 to 4 muffins. The options I have listed here are Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which ones would you like?
+
+[2025-06-23T14:55:41.949Z] Customer: Can I have all four as chocolate chips?
+
+[2025-06-23T14:55:42.573Z] Unknown: [2025-06-23T14:55:41.949Z] assistant: For the Choose 4 Muffins, you'd like all four to be Chocolate Chip muffins. That sounds like a delicious choice.
+
+Finally, let's look at the Box of Coffee. This is an optional choice, so you can choose up to one box of coffee if you'd like. The options I have listed here are House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Would you like to add a box of coffee to your order, or would you like to skip this option?
+
+[2025-06-23T14:55:41.949Z] Customer: I would love to have house blend.
+
+[2025-06-23T14:55:42.573Z] Unknown: [2025-06-23T14:55:41.949Z] assistant: For the Box of Coffee, you'd like to choose the House Blend. That's a great choice.
+
+Alright, I have all your choices for the Breakfast Bundle noted down. You've chosen thirteen Asiago bagels, two tubs of Plain Cream Cheese, four Chocolate Chip muffins, and a box of House Blend coffee.
+
+Before I place your order, I just want to confirm: is there anything else you'd like to add or change?
+
+[2025-06-23T14:55:41.949Z] Customer: If the if it is possible for you to add one hot latte as well?
+
+[2025-06-23T14:55:42.573Z] Unknown: [2025-06-23T14:55:41.949Z] assistant: I can definitely add a hot latte to your order. Let me get the options for that. 
+
+
+
+[2025-06-23T14:55:41.949Z] AI Agent: Okay, I have all the options for your hot latte right here. Ready to customize? Let's start with the Size. You need to choose exactly one size. The options I have listed here are Small twelve ounces, Medium sixteen ounces, and Large twenty ounces. Which one would you like?
+
+[2025-06-23T14:55:41.949Z] Customer: Medium.
+
+[2025-06-23T14:55:41.949Z] AI Agent: For
+
+[2025-06-23T14:55:41.949Z] Customer: Medium size.
+
+[2025-06-23T14:55:42.573Z] Unknown: [2025-06-23T14:55:41.950Z] assistant: For the Size, you'd like to choose the Medium sixteen ounces. 
+
+Next, let's look at the Specialty Drink Milk Choice. You need to choose exactly one type of milk. The options I have listed here are Regular Milk, Half & Half, Skim, Almond Milk, Oat Milk, and Soy Milk. Which one would you like?
+
+[2025-06-23T14:55:41.950Z] Customer: Oat milk.
+
+[2025-06-23T14:55:41.950Z] AI Agent: For the Specialty Drink Milk Choice, you'd like to choose Oat Milk. Next, let's look at the Sweetener & Syrups. You can choose up to twenty
+
+[2025-06-23T14:55:41.950Z] Customer: No. I don't need it. We can go ahead and, you know, submit the order now.
+
+[2025-06-23T14:55:42.573Z] Unknown: [2025-06-23T14:55:41.950Z] assistant: For the Sweetener & Syrups, you don't need any. 
+
+Alright, let me get this order placed for you. 
+
+
+
+[2025-06-23T14:55:41.950Z] AI Agent: {'result': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 770711. That's 7, 7, 0, 7, 1, 1. Total: $73.66 (subtotal 66.97 dollars plus 6.69 dollars tax). Thank you for your order!", 'responseType': 'tool-response', 'success': True, 'orderNumber': '770711', 'orderTotal': 73.66, 'itemCount': 2, 'customer': 'Jitin', 'orderSummary': {'orderNumber': '770711', 'callId': '16377aca-8ca5-45e8-81d1-786ca4625f4f', 'tenantName': 'manhattan_bagel_864915', 'storeId': '1', 'customer': {'name': 'Jitin', 'contact_number': '', 'country_code': '+1', 'customer_email': 'noemail@example.com', 'full_address': 'Pickup Order - No Address Required', 'locality': 'Restaurant Location', 'payment_method_preference': 'cash', 'preferred_time_for_delivery_pickup': 'pickup'}, 'items': [{'item_name': 'Breakfast Bundle', 'ref_id': 'itm_c48d2371-691d-4f10-8a62-e47318172262', 'quantity': 1, 'base_price': 29.99, 'modifier_groups': [{'group_title': 'Bagel Dozen', 'option_title': 'Asiago', 'price': 0.5, 'quantity': 13, 'group_ref_id': 'mg1409622', 'option_ref_id': '5709580'}, {'group_title': 'Choose 2 Tubs of Spread', 'option_title': 'Plain Cream Cheese', 'price': 0, 'quantity': 2, 'group_ref_id': 'mg1409626', 'option_ref_id': '5709607'}, {'group_title': 'Bagel Dozen', 'option_title': 'Chocolate Chip', 'price': 0, 'quantity': 4, 'group_ref_id': 'mg1409622', 'option_ref_id': '5709585'}, {'group_title': 'Box of Coffee', 'option_title': 'House Blend', 'price': 24.99, 'quantity': 1, 'group_ref_id': 'mg1409624', 'option_ref_id': '5709626'}], 'item_total_price': 61.48, 'category': 'Uncategorized', 'description': '', 'food_type': '1', 'taxes': []}, {'item_name': 'Hot Latte', 'ref_id': 'itm_5664484c-aa8c-42d2-a07c-29c41325bce0', 'quantity': 1, 'base_price': 0, 'modifier_groups': [{'group_title': 'Size', 'option_title': 'Medium 16oz', 'price': 4.49, 'quantity': 1, 'group_ref_id': 'mg1409647', 'option_ref_id': '5709699'}, {'group_title': 'Specialty Drink Milk Choice', 'option_title': 'Oat Milk', 'price': 1, 'quantity': 1, 'group_ref_id': 'mg1409585', 'option_ref_id': '5709430'}], 'item_total_price': 5.49, 'category': 'Beverages', 'description': '', 'food_type': '1', 'taxes': []}], 'itemCount': 2, 'subtotal': 66.97, 'specialInstructions': '', 'placedAt': '2025-06-23T14:55:16.603Z'}, 'externalApiResponse': {'status': 'success', 'message': 'Order processed', 'order_request_id': 'bf88f6b6-42f0-48c2-ba88-65602aef9086', 'order_total_price': 73.66, 'total_tax_applied': 6.6899999999999995}, 'externalApiSubmitted': True}
+
+[2025-06-23T14:55:41.950Z] AI Agent: Order placed successfully! Your order number is 7, 7, 0, 7, 1, 1. That's a total of $73.66, which includes a subtotal of $66.97 plus $6.69 in tax. Thank you for your order!

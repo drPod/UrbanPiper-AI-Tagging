@@ -1,0 +1,66 @@
+Call ID: 68683dde45548bd51cdc1b4e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-04T20:47:26.035Z
+End Time: 2025-07-04T20:50:45.146Z
+Duration: 240 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered a large Mango smoothie with whipped cream from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-04T20:50:44.760Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-04T20:50:44.760Z] Customer: What are beverages you have?
+
+[2025-07-04T20:50:44.760Z] AI Agent: We have a variety of beverages to choose from. We've got hot coffee, iced coffee, tea, hot chocolate, cold brew, espresso shots, lattes, cappuccinos, and macchiatos. We also have frozen drinks like our Manhattan Chillerz, fruit smoothies, and frozen lemonade. And if you're looking for something a bit different, we've got Tropicana orange juice, soda, Gatorade, milk, Snapple, and water. Which one of these sounds good to you?
+
+[2025-07-04T20:50:44.760Z] Customer: 
+
+[2025-07-04T20:50:44.760Z] AI Agent: One fruit smoothie. Would you like to hear our flavor options for the smoothie?
+
+[2025-07-04T20:50:44.761Z] Customer: Yeah.
+
+[2025-07-04T20:50:44.761Z] AI Agent: We have Strawberry Banana, Strawberry Mango, Mango, and Wild Berry Yogurt. Which one of these flavors sounds good to you?
+
+[2025-07-04T20:50:44.761Z] Customer: Mango.
+
+[2025-07-04T20:50:44.761Z] AI Agent: One Mango smoothie. Would you like to hear about our size options for the smoothie?
+
+[2025-07-04T20:50:44.761Z] Customer: Yeah.
+
+[2025-07-04T20:50:44.761Z] AI Agent: For our
+
+[2025-07-04T20:50:44.761Z] Customer: Yes.
+
+[2025-07-04T20:50:44.761Z] AI Agent: For our smoothies, we have a few different sizes. We've got a small, medium, and large. Which size would you like for your Mango smoothie?
+
+[2025-07-04T20:50:44.761Z] Customer: I'll choose this, large what is the large size price?
+
+[2025-07-04T20:50:44.761Z] AI Agent: Our large Mango smoothie is $5.99. And would you like whipped cream on top of that?
+
+[2025-07-04T20:50:44.761Z] Customer: Last size is five ninety nine. Are you sure?
+
+[2025-07-04T20:50:44.761Z] AI Agent: Yes, that's correct. Our large Mango smoothie is $5.99. And, as I mentioned earlier, would you like whipped cream on top of that?
+
+[2025-07-04T20:50:44.761Z] Customer: How much how much how much how much was it hours?
+
+[2025-07-04T20:50:44.761Z] AI Agent: Our large smoothie is 24 ounces.
+
+[2025-07-04T20:50:44.761Z] Customer: I mean, it start all?
+
+[2025-07-04T20:50:44.761Z] AI Agent: No whipped cream on your large Mango smoothie. So, just to confirm, I have a
+
+[2025-07-04T20:50:44.761Z] Customer: No. No. I I said I said, I want whipped cream. Any any extra dollar for that.
+
+[2025-07-04T20:50:44.762Z] AI Agent: So, you would like whipped cream on your large Mango smoothie. The whipped cream is an additional $0.75. So, your total comes out to be $6.74. Is there anything else I can get for you today?
+
+[2025-07-04T20:50:44.762Z] Customer: And, what what is the price for small size? And, also tell me the ounce.
+
+[2025-07-04T20:50:44.762Z] AI Agent: For our Mango smoothie, the small size is $5.99, and it's 12 ounces.
+
+[2025-07-04T20:50:44.762Z] Customer: But I see only two sizes, 16 ounce and 24 ounce. I don't know from where you are getting all this.
+
+[2025-07-04T20:50:44.762Z] AI Agent: It seems I had incorrect information. We actually have a 16-ounce and a 24-ounce size for our smoothies. The 24-ounce is the large size you originally ordered, and the price for that is $5.99. If you'd like to switch to the 16-ounce size, the price for that would be $5.49.

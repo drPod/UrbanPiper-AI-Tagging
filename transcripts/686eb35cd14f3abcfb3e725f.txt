@@ -1,0 +1,68 @@
+Call ID: 686eb35cd14f3abcfb3e725f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T18:22:20.287Z
+End Time: 2025-07-09T18:26:34.570Z
+Duration: 251 seconds
+From: +13155606344
+To: +16204558091
+Summary: The customer initially requested the menu, inquired about recommendations, and ultimately ordered a medium Vanilla Hazelnut Cold Brew before cancelling the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T18:26:33.107Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-09T18:26:33.108Z] Customer: So what should I tell him? Anything? Oh. Oh, k.
+
+[2025-07-09T18:26:33.108Z] AI Agent: Hello! Welcome to Manhattan Bagel, I am BagelBot. What would you like to order today?
+
+[2025-07-09T18:26:33.108Z] Customer: Can you show me the menu?
+
+[2025-07-09T18:26:33.108Z] AI Agent: Sure thing! Here's a look at our menu. **CATEGORY: LTO SPRING BEVERAGES & SWEET TREAT** 
+
+[2025-07-09T18:26:33.109Z] Customer: Do you have any recommendation do you have any recommendations?
+
+[2025-07-09T18:26:33.109Z] AI Agent: Sure thing! For a refreshing treat, the Mint Pistachio Chillerz is very popular. If you're looking for something with coffee, the Iced Lavender Blackberry Oat Milk Latte is a great choice. Or, for a quick breakfast, the Original Classic sandwich is always a hit! Would you like to hear more about any of those, or something else?
+
+[2025-07-09T18:26:33.109Z] Customer: What if I want to have something for lunch?
+
+[2025-07-09T18:26:33.109Z] AI Agent: Alright! We have a great selection for lunch. We have sandwiches like the Greenwich Grilled Cheese, Chelsea Grilled Chicken, or the Ellis Island Hot Pastrami. We also have salads and wraps! Would you like me to tell you more about any of those, or perhaps list the lunch options by category?
+
+[2025-07-09T18:26:33.110Z] Customer: Okay. Tell me more about the wraps.
+
+[2025-07-09T18:26:33.110Z] AI Agent: Sure thing! We have a few delicious wrap options. There's the Balsamic Grilled Chicken Wrap with lettuce, tomato, roasted red peppers, and balsamic dressing. We also have the Buffalo Grilled Chicken Wrap with Franks Buffalo Sauce, lettuce, tomato, and blue cheese. And finally, the Chicken Caesar Wrap with grilled chicken, lettuce, tomato, Italian cheeses, and caesar dressing. They all come with your choice of chips or coleslaw. Does any of those sound good to you?
+
+[2025-07-09T18:26:33.110Z] Customer: Can you can you show me something else?
+
+[2025-07-09T18:26:33.110Z] AI Agent: Sure thing!
+
+[2025-07-09T18:26:33.111Z] Customer: What about drinks?
+
+[2025-07-09T18:26:33.113Z] AI Agent: Alright! For drinks, we have Hot Coffee or Tea, Iced Coffee or Tea, Hot Chocolate, Cold Brew Iced Coffee, Espresso Shots, and a variety of other beverages like Lemonade, Fruit Smoothies, and Soda. Would you like me to go into more detail about any of those?
+
+[2025-07-09T18:26:33.113Z] Customer: I would like to learn more about the brew cold brew.
+
+[2025-07-09T18:26:33.113Z] AI Agent: Sure thing! Our Cold Brew Iced Coffee is a smooth and refreshing option. You can choose from House Blend or Vanilla Hazelnut Blend for the coffee base. You'll also need to pick a size: Small sixteen ounce for three ninety-nine, Medium twenty-four ounce for four forty-nine, or Large thirty-two ounce for four ninety-nine. Would you like to hear about the milk and sweetener options as well?
+
+[2025-07-09T18:26:33.114Z] Customer: No. That's fine. Can I have a vanilla hazelnut?
+
+[2025-07-09T18:26:33.115Z] AI Agent: Perfect! So that's a Medium twenty-four ounce Cold Brew with Vanilla Hazelnut Blend. Is there anything else I can get for you?
+
+[2025-07-09T18:26:33.116Z] Customer: That would be it. Thank you.
+
+[2025-07-09T18:26:33.117Z] AI Agent: Okay, so I have a Medium twenty-four ounce Cold Brew with Vanilla Hazelnut Blend. Is that all for you today?
+
+[2025-07-09T18:26:33.117Z] Customer: Yes.
+
+[2025-07-09T18:26:33.117Z] AI Agent: Okay, great! That comes to $4.49. Your order will be ready for pickup in about 15 minutes. Can I get a name for the order?
+
+[2025-07-09T18:26:33.117Z] Customer: Oh, should I cancel it by now? I don't want them to be prepared for me. Yeah. Yeah.
+
+[2025-07-09T18:26:33.117Z] AI Agent: No problem at all! I can cancel that for you right away. I
+
+[2025-07-09T18:26:33.118Z] Customer: Hold on.
+
+[2025-07-09T18:26:33.118Z] AI Agent: Okay, your order has been cancelled. Is there anything else I can help you with
+
+[2025-07-09T18:26:33.124Z] Customer: 

@@ -1,0 +1,58 @@
+Call ID: 686d2981d14f3abcfb1b3626
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T14:21:53.304Z
+End Time: 2025-07-08T14:24:47.065Z
+Duration: 170 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer ordered a breakfast bundle with specific bagel selections, two tubs of spread, and inquired about muffins and a box of coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T14:24:45.923Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T14:24:45.923Z] Customer: Do you have vulnerabilities?
+
+[2025-07-08T14:24:45.923Z] AI Agent: I don't see vanilla bagels on our menu. Let me share some options: Plain, Everything, Blueberry, Chocolate Chip, 
+
+[2025-07-08T14:24:45.923Z] Customer: Okay. I want to I I want to order breakfast bundle, where I want to, you know, have five sesame, five everything, and two vanilla and one, garlic bagel.
+
+[2025-07-08T14:24:45.923Z] AI Agent: I don't see vanilla bagels on our menu. Let me share some options: Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic,
+
+[2025-07-08T14:24:45.924Z] Customer: Okay. Then okay. You can you can replace the vanilla bagels with the chocolate chip.
+
+[2025-07-08T14:24:45.924Z] AI Agent: Sure thing. So for your breakfast bundle, I have five sesame, five everything, two chocolate chip, and one garlic bagel. Is that all for you today?
+
+[2025-07-08T14:24:45.924Z] Customer: Yeah.
+
+[2025-07-08T14:24:45.924Z] AI Agent: Perfect, let
+
+[2025-07-08T14:24:45.924Z] Customer: And, also, can I get more, more more, like, two types of spread over there? Like,
+
+[2025-07-08T14:24:45.925Z] AI Agent: Sure thing. For your breakfast bundle, you can choose two tubs of spread. We have options like plain cream cheese, vegetable cream cheese, scallion, strawberry, and more. Would you like to hear some of these options or choose from these?
+
+[2025-07-08T14:24:45.925Z] Customer: Yeah. I like to have strawberry in one vanilla, tub.
+
+[2025-07-08T14:24:45.925Z] AI Agent: I don't see a vanilla tub of spread available. Our options include plain cream cheese, strawberry, scallion, and more. Would you like strawberry
+
+[2025-07-08T14:24:45.925Z] Customer: Okay. One one strawberry, one plain cream cheese.
+
+[2025-07-08T14:24:45.925Z] AI Agent: Got it. One tub of strawberry and one tub of plain cream cheese. Is there anything else I can get for you today?
+
+[2025-07-08T14:24:45.925Z] Customer: Are we done with the all modifiers?
+
+[2025-07-08T14:24:45.926Z] AI Agent: You're all set with the modifiers for your breakfast bundle. Let me confirm your order: you have five sesame, five everything, two
+
+[2025-07-08T14:24:45.926Z] Customer: No. I'm asking you, have we have we covered all the modifiers?
+
+[2025-07-08T14:24:45.926Z] AI Agent: Yes, we've covered all the modifiers for your breakfast bundle. You've selected the bagels and the two tubs of spread. Is there anything else I can get for you today?
+
+[2025-07-08T14:24:45.926Z] Customer: How about muffins and box of coffee?
+
+[2025-07-08T14:24:45.926Z] AI Agent: For your breakfast bundle, you can choose four muffins. We have options like blueberry, corn, double chocolate, chocolate chip, cinnamon chip, and cranberry orange. Would you like to hear some of these options or choose from these?
+
+[2025-07-08T14:24:45.927Z] Customer: Yeah.
+
+[2025-07-08T14:24:45.927Z] AI Agent: Got it. For your muffins, we have blueberry, corn, double

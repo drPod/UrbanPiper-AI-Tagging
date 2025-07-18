@@ -1,0 +1,18 @@
+Call ID: 687a3c76def8059841a33291
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T12:22:14.506Z
+End Time: 2025-07-18T12:22:42.895Z
+Duration: 25 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha ordered pastries from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T12:22:42.486Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T12:22:42.486Z] Customer: I'm looking to order some pastries.
+
+[2025-07-18T12:22:42.486Z] AI Agent: That would be our PASTRY. I'll add the PASTRY for you. Now, let's customize it. What type of pastry would you like? I have Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, or Cranberry Orange.

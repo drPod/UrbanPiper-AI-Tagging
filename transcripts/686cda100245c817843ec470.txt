@@ -1,0 +1,30 @@
+Call ID: 686cda100245c817843ec470
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T08:42:56.524Z
+End Time: 2025-07-08T08:44:52.632Z
+Duration: 113 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer attempted to order a customized Breakfast Bundle but needed clarification on bagel types.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T08:44:52.287Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T08:44:52.287Z] Customer: Say hi. I'd like to order avocado BLT sandwich.
+
+[2025-07-08T08:44:52.287Z] AI Agent: Okay, one Avocado BLT sandwich. First things first, I'll need to get a bread choice for that. We have Multigrain Bread, Plain, Everything, Blueberry, Cinnamon Raisin, Egg, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey
+
+[2025-07-08T08:44:52.287Z] Customer: Okay. Can can I, can I have, breakfast bundle?
+
+[2025-07-08T08:44:52.288Z] AI Agent: I don't see Big Frost bundles on our menu. Let
+
+[2025-07-08T08:44:52.288Z] Customer: No. No. I said breakfast bundle.
+
+[2025-07-08T08:44:52.290Z] AI Agent: I apologize for the misunderstanding. Let me share our Breakfast Bundle options with you. The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). Would you like to proceed with this bundle?
+
+[2025-07-08T08:44:52.291Z] Customer: Yeah. So I want, five sesame, five vanilla, and, two tubs of green tea as plain, and two are vanilla green tea, and one box of coffee as decaf and four, chocolate chip muffins.
+
+[2025-07-08T08:44:52.291Z] AI Agent: Alright, let's start putting your Breakfast Bundle together. First, I'll need to confirm the bagel choices. You mentioned five sesame and five vanilla. However, "vanilla" isn't a bagel type. Let me share some options: Plain, Everything, Blueberry, Cinnamon Raisin, Egg, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, 

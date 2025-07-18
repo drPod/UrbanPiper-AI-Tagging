@@ -1,0 +1,14 @@
+Call ID: 6859b2f71be7d3da0612471b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T20:03:03.164Z
+End Time: 2025-06-23T20:03:19.253Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The call was a greeting and introduction to Manhattan Bagel, with the customer's name being Jitin.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T20:03:19.056Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?

@@ -1,0 +1,66 @@
+Call ID: 685730371be7d3da06d9c21d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T22:20:39.926Z
+End Time: 2025-06-21T22:25:10.256Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: Alex ordered an Avocado Toast on an Everything bagel with salt, pepper, tomato, and cucumber for pickup from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T22:25:09.879Z] AI Agent: Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T22:25:09.879Z] Customer: Hi there. I'd love to order an avocado toast, and my name is Alex. Just so you have
+
+[2025-06-21T22:25:09.879Z] AI Agent: The Avocado Toast, great choice, Alex. That's toasted multigrain bread with fresh avocado and everything bagel seasoning. Let me get the options for your bagel choices...
+
+[2025-06-21T22:25:09.879Z] AI Agent: For your Avocado Toast, let's start with the bagel choice. We have several options like Plain, Everything, Asiago, and more. Which type of bagel would you like?
+
+[2025-06-21T22:25:09.879Z] Customer: I think I'll go look in everything bagel. That should add a nice flavor to the avocado toast.
+
+[2025-06-21T22:25:09.879Z] AI Agent: The Everything bagel will add a nice flavor to your Avocado Toast. Next, let's talk about condiments. We have options like Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, Tomato Spread, Butter, Cream Cheese, and more. Which condiment would you like to add?
+
+[2025-06-21T22:25:09.879Z] Customer: I think I'll keep it simple and just go with a little bit of salt and pepper. That should be perfect.
+
+[2025-06-21T22:25:09.879Z] AI Agent: Salt and pepper will enhance the flavors of the avocado and the Everything bagel nicely. Next, let's consider adding some vegetables. We have options like Lettuce, Tomato, Red Onions, Avocado, Spinach, Cucumber, Green Peppers, Capers, Roasted Red Peppers, Grilled Onions, and Jalapeño Peppers. Which vegetables would you like to add to your Avocado Toast?
+
+[2025-06-21T22:25:09.880Z] Customer: I think tomato and maybe a few slices of cucumber would be perfect. Let's go with that.
+
+[2025-06-21T22:25:09.880Z] AI Agent: Tomato and cucumber will add a fresh and cool touch to your Avocado Toast. Now, let's think about adding some extra breakfast meat. We have options like Extra Bacon, Extra Pork Roll, Extra Sausage, Extra Ham, Extra Turkey Sausage, Extra Turkey Bacon, Steak, Extra Deli Turkey, Extra Grilled Chicken, and Extra Pastrami. Would you like to add any of these to your Avocado Toast?
+
+[2025-06-21T22:25:09.880Z] Customer: I think I'll skip the extra meat this time and keep it veggie focused. I'm all set with just the tomato and cucumber.
+
+[2025-06-21T22:25:09.880Z] AI Agent: Keeping it veggie-focused is a great idea. The tomato and cucumber will complement the avocado nicely. Now, let's consider adding some lox or a hard-boiled egg. We have options like Add Lox or Add Hard Boiled Egg. Would you like to add either of these to your Avocado Toast?
+
+[2025-06-21T22:25:09.880Z] Customer: I think I'll pass on those as well.
+
+[2025-06-21T22:25:09.880Z] AI Agent: So,
+
+[2025-06-21T22:25:09.880Z] Customer: I like to keep it simple, so I'm all
+
+[2025-06-21T22:25:09.880Z] AI Agent: Perfect, let me add that to your order...
+
+[2025-06-21T22:25:09.880Z] AI Agent: Added 1 item(s) to your cart. Total: $8.99
+
+[2025-06-21T22:25:09.880Z] AI Agent: Your Avocado Toast on an Everything bagel with salt, pepper, tomato, and cucumber has been added to your order. Your total comes out to be $8.99. Is there anything else you'd like to order today?
+
+[2025-06-21T22:25:09.880Z] Customer: Nope. That should be everything for now. I'm all set and excited to pick it up.
+
+[2025-06-21T22:25:09.880Z] AI Agent: I'll just confirm your order. You have one Avocado Toast on an Everything bagel with salt, pepper, tomato, and cucumber, totaling $8.99. Before I place the order, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-21T22:25:09.880Z] Customer: No special requests or allergies. Everything looks perfect as is. Thank you so much.
+
+[2025-06-21T22:25:09.880Z] AI Agent: I'll make sure the kitchen knows that everything is as is. Alright, let me get this order placed for you...
+
+[2025-06-21T22:25:09.880Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 283666. That's 2, 8, 3, 6, 6, 6. Total: $9.89 (subtotal 8.99 dollars plus 0.90 dollars tax). Thank you for your order!
+
+[2025-06-21T22:25:09.881Z] AI Agent: Your order has been placed successfully. Your order number is 2, 8, 3, 6, 6, 6. Your total comes out to be 8 dollars and 99 cents for the subtotal, plus 90 cents tax, making it a total of 9 dollars and 89 cents. We'll have your Avocado Toast ready for pickup shortly. Thank you for ordering from Manhattan Bagel!
+
+[2025-06-21T22:25:09.881Z] Customer: You're welcome. I'm really looking forward to it. Thanks again, and I'll see you soon when I pick it up.
+
+[2025-06-21T22:25:09.881Z] AI Agent: You're welcome, Alex. We're looking forward to seeing you soon when you pick up your order. Have a great day and we'll see you then. Bye for now. 
+
+[2025-06-21T22:25:09.881Z] AI Agent: OK

@@ -1,0 +1,18 @@
+Call ID: 686eb56ed14f3abcfb3e8f8d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T18:31:10.835Z
+End Time: 2025-07-09T18:31:39.782Z
+Duration: 27 seconds
+From: 919780032269
+To: 918035740152
+Summary: The user asked to see the menu but did not proceed further.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T18:31:39.561Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T18:31:39.561Z] Customer: I don't know. Like, can you show me your menu?
+
+[2025-07-09T18:31:39.561Z] AI Agent: Sure thing! We have a variety of options for you, like breakfast sandwiches, bagels, sweet treats, and more. For breakfast, you can try our Original Classic with egg, cheese, and your choice of meat on a bagel, or the Spinach Bacon Croissant for a

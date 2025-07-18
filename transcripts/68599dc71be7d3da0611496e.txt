@@ -1,0 +1,24 @@
+Call ID: 68599dc71be7d3da0611496e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T18:32:39.796Z
+End Time: 2025-06-23T18:33:31.217Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered an Avocado Toast and a Breakfast Bundle from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T18:33:30.960Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T18:33:30.961Z] Customer: I want to order, avocado toast and breakfast bundle.
+
+[2025-06-23T18:33:30.961Z] AI Agent: The Avocado Toast and Breakfast Bundle, excellent choices. Let me get the options for your Avocado Toast first.
+
+[2025-06-23T18:33:30.961Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T18:33:30.961Z] Customer: Ges hem det?
+
+[2025-06-23T18:33:30.961Z] AI Agent: Let me get the options for your Avocado Toast... Alright, for the Avocado Toast, you can choose from multigrain toast or any of our bagels. We also have

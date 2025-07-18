@@ -1,0 +1,18 @@
+Call ID: 68701ac2d14f3abcfb5c9ab3
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-10T19:55:46.233Z
+End Time: 2025-07-10T19:56:08.765Z
+Duration: 19 seconds
+From: +13215054148
+To: +16204558091
+Summary: The customer, Ace Jack, inquired about the language capabilities of the BagelBot and confirmed that it can speak Portuguese.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-10T19:56:08.501Z] AI Agent: Hello Ace Jack Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-10T19:56:08.501Z] Customer: Do you speak in Portuguese?
+
+[2025-07-10T19:56:08.501Z] AI Agent: Sim, eu falo português. Como posso ajudá-lo hoje? (Yes, I speak Portuguese. How can I help you today?)

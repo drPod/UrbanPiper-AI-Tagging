@@ -1,0 +1,30 @@
+Call ID: 687a66e7a1698f7507301679
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T15:23:19.038Z
+End Time: 2025-07-18T15:24:43.936Z
+Duration: 82 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer attempted to order an Original Classic sandwich, which was out of stock, and instead opted for a pastry.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T15:24:43.655Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T15:24:43.655Z] Customer: I would like to order a classic sandwich.
+
+[2025-07-18T15:24:43.655Z] AI Agent: That will be our Classic Crossant on the menu, just confirming it's available. The Classic Crossant comes with meat, cheese, and egg on a croissant. Now, let's
+
+[2025-07-18T15:24:43.655Z] Customer: No. No. I said classic sandwich, not the classic also. I want classic sandwich.
+
+[2025-07-18T15:24:43.656Z] AI Agent: That will be our Original Classic on the menu, let me make sure we have that today. The Original Classic comes with egg, cheese, and choice of meat on a bagel. However, I see that the Original Classic is currently out of stock today. Instead, I can offer you our Spinach Bacon Croissant, Farmhouse Egg Sandwich, or Big
+
+[2025-07-18T15:24:43.656Z] Customer: No. Please go ahead and add to the odd. I want the same only. I want original classic only.
+
+[2025-07-18T15:24:43.656Z] AI Agent: I'm sorry, but our Original Classic is currently out of stock today. I won't be able to add it to your order. Instead, I can offer you our Spinach Bacon Croissant, Farmhouse Egg Sandwich, or Big Breakfast Burrito. Which one of these would you like?
+
+[2025-07-18T15:24:43.656Z] Customer: Okay. So give me, pastry then.
+
+[2025-07-18T15:24:43.656Z] AI Agent: That will be our Pastry on the menu, just confirming it's available. We have a variety of pastries to choose from.

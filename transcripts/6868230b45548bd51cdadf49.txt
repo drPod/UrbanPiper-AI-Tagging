@@ -1,0 +1,34 @@
+Call ID: 6868230b45548bd51cdadf49
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-04T18:52:59.055Z
+End Time: 2025-07-04T18:54:33.254Z
+Duration: 120 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin ordered a hot chocolate from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-04T18:54:32.883Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-04T18:54:32.884Z] Customer: Hard copy.
+
+[2025-07-04T18:54:32.884Z] AI Agent: I don't see hard copy on our menu. Let me share some options: HOT Coffee or Tea, Ice Coffee or Tea, or Cold Brew Iced Coffee. Would you like one of these or hear more options?
+
+[2025-07-04T18:54:32.884Z] Customer: Hot chocolate.
+
+[2025-07-04T18:54:32.884Z] AI Agent: Our hot chocolate is a rich and delicious treat. Would you like to hear about the customization options for your hot chocolate, such as size or specialty milk?
+
+[2025-07-04T18:54:32.884Z] Customer: No. Yeah.
+
+[2025-07-04T18:54:32.884Z] AI Agent: For your hot chocolate, you can choose from two sizes: 16 ounces or 24 ounces. And for the milk, you can choose from our specialty milks. We have a few options: would you like to hear about them?
+
+[2025-07-04T18:54:32.884Z] Customer: Hey. Hi. Hot chocolate has only three sizes, twelve, sixteen, and 20.
+
+[2025-07-04T18:54:32.884Z] AI Agent: So you'd like a hot chocolate. For the size, we have 12 ounces, 16 ounces, or 24 ounces. Which one of these sizes sounds good to you?
+
+[2025-07-04T18:54:32.885Z] Customer: Why you were saying sixteen twenty four ounce only?
+
+[2025-07-04T18:54:32.885Z] AI Agent: I sometimes make mistakes. Our hot chocolate actually comes in 12 ounces, 16 ounces, and 24 ounces. I should have given you all the options from the start. So,

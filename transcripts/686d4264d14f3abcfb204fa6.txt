@@ -1,0 +1,38 @@
+Call ID: 686d4264d14f3abcfb204fa6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T16:08:04.372Z
+End Time: 2025-07-08T16:09:10.328Z
+Duration: 62 seconds
+From: +31614798622
+To: +16204558091
+Summary: The customer ordered a plain bagel and is considering spread options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T16:09:09.919Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T16:09:09.919Z] Customer: 
+
+[2025-07-08T16:09:09.920Z] AI Agent: Sure thing! May I have your
+
+[2025-07-08T16:09:09.920Z] Customer: Alright.
+
+[2025-07-08T16:09:09.920Z] AI Agent: Sure, I can help with that.
+
+[2025-07-08T16:09:09.921Z] Customer: What kind of bagger what kind of bagels do you have?
+
+[2025-07-08T16:09:09.921Z] AI Agent: We have a variety of bagels to choose from. Some of our popular options include Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Garlic, and Multigrain. Would you like to hear more options or choose from these?
+
+[2025-07-08T16:09:09.921Z] Customer: No. Can you give me the healthiest one with the lowest number of calories?
+
+[2025-07-08T16:09:09.921Z] AI Agent: The plain bagel is a great choice for the healthiest option with the lowest number of calories. Would you like to proceed with the plain bagel?
+
+[2025-07-08T16:09:09.922Z] Customer: Yoc plus
+
+[2025-07-08T16:09:09.922Z] AI Agent: Alright, one plain bagel. Would you like to hear about any customizations or additional options for your bagel?
+
+[2025-07-08T16:09:09.923Z] Customer: Yes, please.
+
+[2025-07-08T16:09:09.923Z] AI Agent: Sure thing! For your plain bagel, you can choose from a variety of spreads. Some of our popular options include Plain Cream Cheese

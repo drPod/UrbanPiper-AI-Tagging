@@ -1,0 +1,26 @@
+Call ID: 687266875560c851d6358df3
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T13:43:35.535Z
+End Time: 2025-07-12T13:44:49.829Z
+Duration: 72 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer attempted to order an Avocado BLT Sandwich and Manhattan Cheesestick, but both items were not found on the menu by BagelBot.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T13:44:49.625Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T13:44:49.625Z] Customer: Hey. Hi, BagelBot. I would like to order avocado BLT sandwich.
+
+[2025-07-12T13:44:49.625Z] AI Agent: I don't see Avocado Bagelty Sandwich on our menu. However, we do have some great options like the Avocado Toast, or our Egg and Cheese sandwich. Which of these sounds good to you?
+
+[2025-07-12T13:44:49.625Z] Customer: Can you please check your menu, because it's there in the avocado BLT sandwich under the sandwich section?
+
+[2025-07-12T13:44:49.625Z] AI Agent: I don't see Avocado BLT Sandwich on our menu. However, we do have some great options like the Avocado Toast, or our Big City BLT. Which of these sounds good to you?
+
+[2025-07-12T13:44:49.625Z] Customer: Okay. Can I have then, Manhattan cheese stick?
+
+[2025-07-12T13:44:49.626Z] AI Agent: I don't see Manhattan Cheesestick on our menu. However, we do have some great options like the Manhattan Bagel Menu, which includes a variety of bagels, sandwiches, and other items. We also have a Chelsea Grilled Chicken, Manhattan Cheesesteak Sandwich, and

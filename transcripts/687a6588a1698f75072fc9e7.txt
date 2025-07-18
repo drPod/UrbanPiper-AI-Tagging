@@ -1,0 +1,86 @@
+Call ID: 687a6588a1698f75072fc9e7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T15:17:28.649Z
+End Time: 2025-07-18T15:20:52.437Z
+Duration: 200 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha placed an order for one Brownie Pastry and two Fruity Rice Crispy Bars at manhattan_bagel_864915, with a total of $10.42, and received an order number of 995000.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T15:20:51.390Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T15:20:51.390Z] Customer: I want to order three pastry. Can you please give me three pastry?
+
+[2025-07-18T15:20:51.390Z] AI Agent: That will be our Pastry on the menu, just confirming it's available. For your pastry, I have Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. Which three would you like?
+
+[2025-07-18T15:20:51.390Z] Customer: I like,
+
+[2025-07-18T15:20:51.390Z] AI Agent: I don't
+
+[2025-07-18T15:20:51.391Z] Customer: Brownies, you see.
+
+[2025-07-18T15:20:51.391Z] AI Agent: That will be our Brownie Pastry on the menu. I'll add one Brownie Pastry for you. You wanted three pastries, so I still need to know about the other two. We have Blueberry Lemon Loaf, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. Which two would you like to add to your Brownie Pastry?
+
+[2025-07-18T15:20:51.391Z] Customer: Can you please repeat again?
+
+[2025-07-18T15:20:51.391Z] AI Agent: For your pastry, I have Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. You've already chosen the Brownie. Which two other pastries would you like?
+
+[2025-07-18T15:20:51.391Z] Customer: Both are, same.
+
+[2025-07-18T15:20:51.391Z] AI Agent: You'd like two more Brownies, in addition to the one you already chose. So, that's three Brownies in 
+
+[2025-07-18T15:20:51.391Z] Customer: Wait. Can I can I have fruit? Can I get fruity rice crispy bars?
+
+[2025-07-18T15:20:52.437Z] Unknown: [2025-07-18T15:20:51.391Z] assistant: You'd like to replace two of the Brownies with Fruity Rice Crispy Bars. So, that's one Brownie and two Fruity Rice Crispy Bars. I'll update your order. 
+
+Just to confirm, you now have one Brownie Pastry and two Fruity Rice Crispy Bars. Is that correct?
+
+[2025-07-18T15:20:51.391Z] Customer: Yeah. Right.
+
+[2025-07-18T15:20:52.437Z] Unknown: [2025-07-18T15:20:51.391Z] assistant: I'll just calculate the total for you. Just a moment... 
+
+
+
+[2025-07-18T15:20:52.437Z] Unknown: [2025-07-18T15:20:51.392Z] assistant: I'm sorry, but it seems like there was an error calculating the price for your order. Let me try again.
+
+
+
+[2025-07-18T15:20:52.437Z] Unknown: [2025-07-18T15:20:51.392Z] assistant: Your total for one Brownie Pastry and two Fruity Rice Crispy Bars comes to 10 dollars and 42 cents. 
+
+Would you like to make any changes or add anything else to your order?
+
+[2025-07-18T15:20:51.392Z] Customer: No
+
+[2025-07-18T15:20:52.437Z] Unknown: [2025-07-18T15:20:51.392Z] assistant: Perfect, let me get that all put together for you.
+
+
+
+[2025-07-18T15:20:51.393Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-18T15:20:51.393Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-18T15:20:51.393Z] Customer: No. I don't have any. Thank you so much.
+
+[2025-07-18T15:20:51.393Z] AI Agent: Alright Aksha. Would you like me to read back your order with all the details?
+
+[2025-07-18T15:20:51.393Z] Customer: No.
+
+[2025-07-18T15:20:52.437Z] Unknown: [2025-07-18T15:20:51.393Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-18T15:20:51.394Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 995000. That's 9, 9, 5, 0, 0, 0.", 'order_id': '995000', 'call_id': 'e28ed69b-204d-4748-992a-f526d19be449', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981e1e-e1b2-71ac-8c08-34691c47a07f'}
+
+[2025-07-18T15:20:52.437Z] Unknown: [2025-07-18T15:20:51.394Z] assistant: Your order number is 9, 9, 5, 0, 0, 0. Your total is 10 dollars and 42 cents. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment.
+
+Is there anything else I can help you with today?
+
+[2025-07-18T15:20:51.394Z] Customer: No. Thank you so much.
+
+[2025-07-18T15:20:51.394Z] AI Agent: You're welcome, Aksha. It was a pleasure helping you with your order. If you have any other questions or need assistance in the future, don't hesitate to reach out. Have a great day and enjoy your pastries!
+
+[2025-07-18T15:20:51.395Z] AI Agent: I hope you are still with me!

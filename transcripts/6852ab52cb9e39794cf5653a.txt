@@ -1,0 +1,14 @@
+Call ID: 6852ab52cb9e39794cf5653a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T12:04:34.982Z
+End Time: 2025-06-18T12:04:43.032Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The call was a greeting from Emily, the Manhattan Bagel voice AI, to Radz, welcoming them to Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T12:04:42.892Z] AI Agent: Hello Radz, Welcome to Manhattan Bagel. It is great

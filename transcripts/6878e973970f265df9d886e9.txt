@@ -1,0 +1,44 @@
+Call ID: 6878e973970f265df9d886e9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T12:15:47.263Z
+End Time: 2025-07-17T12:17:58.213Z
+Duration: 127 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for Tropicana OJ at manhattan_bagel_864915.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T12:17:57.782Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T12:17:57.782Z] Customer: I like to order, orange juice.
+
+[2025-07-17T12:17:57.782Z] AI Agent: That would be our Fresh Squeezed Orange Juice on the menu. I'll add that for you. Now, would you like it in a small 12-ounce size for $5.99 or a larger 32-ounce size for $14.99?
+
+[2025-07-17T12:17:57.782Z] Customer: No. I I need, Tropicana, OJ, orange juice.
+
+[2025-07-17T12:17:57.782Z] AI Agent: That would be our Tropicana OJ. I'll add that for you. We have an 11-ounce size. Would you like that, or would you prefer a
+
+[2025-07-17T12:17:57.782Z] Customer: Yeah.
+
+[2025-07-17T12:17:57.782Z] AI Agent: The 11-ounce Tropicana OJ is $3.79. I've added that to your order. Would you like to order anything else today?
+
+[2025-07-17T12:17:57.782Z] Customer: No. That's it.
+
+[2025-07-17T12:17:57.783Z] AI Agent: Your total comes to $3.79. I'll just calculate the total with tax for you. Just a moment... Your complete order total comes to $4.16 including tax. Great! We're about to submit your order. If you'd like to make any changes or add anything, now would be the time. Otherwise, we'll proceed with placing your order. Perfect, let me get that all put together
+
+[2025-07-17T12:17:57.785Z] Customer: Can you can you can you please call the pricing tool?
+
+[2025-07-17T12:17:57.786Z] AI Agent: Your total comes to 4 dollars and 17 cents including tax. Great! We're about to submit your order. If you'd like to make any changes or add anything, now would be the time. Otherwise, we'll proceed with placing your order. Perfect, let me get that all put together for you. 
+
+[2025-07-17T12:17:57.787Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T12:17:57.787Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T12:17:57.787Z] Customer: Não.
+
+[2025-07-17T12:17:57.787Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-17T12:17:57.788Z] AI Agent: I hope you are still with me!

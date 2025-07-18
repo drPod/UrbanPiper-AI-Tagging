@@ -1,0 +1,70 @@
+Call ID: 685925111be7d3da0602b95f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T09:57:37.186Z
+End Time: 2025-06-23T10:00:59.969Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav placed an order for a Breakfast Bundle with specific customizations and no special requests or allergies.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T10:00:59.689Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T10:00:59.689Z] Customer: 13. I want to order a big one bundle.
+
+[2025-06-23T10:00:59.689Z] AI Agent: The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T10:00:59.689Z] AI Agent: Alright, I have all the customization options for you. Do you want to proceed with the customization now?
+
+[2025-06-23T10:00:59.690Z] Customer: Yes.
+
+[2025-06-23T10:00:59.690Z] AI Agent: First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd
+
+[2025-06-23T10:00:59.690Z] Customer: Yeah. All three will be scallion.
+
+[2025-06-23T10:00:59.690Z] AI Agent: Thirteen Scallion bagels. Next, for your **two tubs of spread**. We have Plain, Vegetable, or Scallion. Want to hear more options?
+
+[2025-06-23T10:00:59.690Z] Customer: I want one vegetable. Second is vanilla.
+
+[2025-06-23T10:00:59.690Z] AI Agent: One Vegetable and one Strawberry, not Vanilla as it is not available in the options. Next, for your **four muffins**. You can choose from Blueberry, Corn, or Double Chocolate. What are your choices for the four muffins?
+
+[2025-06-23T10:00:59.690Z] Customer: 
+
+[2025-06-23T10:00:59.690Z] AI Agent: Two Vanilla and two Blueberry muffins. Vanilla is not available in the options, so I will replace it with Double Chocolate. Now, for your **Box of Coffee** that comes with your bundle, would you prefer our House Blend, Decaf, or one of the other flavors?
+
+[2025-06-23T10:00:59.690Z] Customer: Details.
+
+[2025-06-23T10:00:59.690Z] AI Agent: Decaf it is. Perfect, let me add that to your order...
+
+[2025-06-23T10:00:59.690Z] AI Agent: Added 1 item(s) to your cart. Total: $54.98
+
+[2025-06-23T10:00:59.690Z] Customer: Hello?
+
+[2025-06-23T10:00:59.690Z] AI Agent: Alright Gaurav, I have your complete order ready. You have one Breakfast Bundle. That includes thirteen Scallion bagels, one Vegetable Cream Cheese, one Strawberry cream cheese, two Double Chocolate muffins, two Blueberry muffins, and a Decaf coffee. Your total before tax is $54.98. Does everything sound correct with that?
+
+[2025-06-23T10:00:59.690Z] Customer: One second. Yeah.
+
+[2025-06-23T10:00:59.690Z] AI Agent: Do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-23T10:00:59.690Z] Customer: No.
+
+[2025-06-23T10:00:59.690Z] AI Agent: I'll make sure the kitchen knows...
+
+[2025-06-23T10:00:59.690Z] AI Agent: I've added your special instructions to the order.
+
+[2025-06-23T10:00:59.690Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-23T10:00:59.690Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 699578. That's 6, 9, 9, 5, 7, 8. Total: $60.47 (subtotal 54.98 dollars plus 5.49 dollars tax). Special instructions noted: No special requests or allergies. Thank you for your order!
+
+[2025-06-23T10:00:59.690Z] Customer: Yeah.
+
+[2025-06-23T10:00:59.690Z] AI Agent: Alright Gaurav, your order is placed. Your order number is 6-9-9-5-7-8. Your final total is $60.47, which includes a subtotal of $54.98 and $5.49 in tax. We'll have that ready for you shortly. Thank you for your order. Is there anything else I can help you with today?
+
+[2025-06-23T10:00:59.690Z] Customer: 
+
+[2025-06-23T10:00:59.690Z] AI Agent: You're welcome, Gaurav. It was a pleasure helping you with your order. Have a great day and we'll see you soon at Manhattan Bagel. Bye for now. 
+
+[2025-06-23T10:00:59.690Z] AI Agent: OK

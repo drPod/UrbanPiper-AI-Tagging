@@ -1,0 +1,44 @@
+Call ID: 686e80f9d14f3abcfb387df6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T14:47:21.108Z
+End Time: 2025-07-09T14:50:13.896Z
+Duration: 170 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin placed an order for a Breakfast Bundle with specific bagel and cream cheese selections.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T14:50:13.693Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T14:50:13.693Z] Customer: Do you have apple juice?
+
+[2025-07-09T14:50:13.693Z] AI Agent: I don't see apple juice on our menu. However, we do have some great options like Tropicana Apple Lemonade, Fresh Squeezed Orange Juice, or other lemonade flavors. Which of these would you prefer?
+
+[2025-07-09T14:50:13.693Z] Customer: I want breakfast bundle.
+
+[2025-07-09T14:50:13.693Z] AI Agent: Perfect! For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?
+
+[2025-07-09T14:50:13.693Z] Customer: Okay. I want, five sesame, five cinnamon, one garlic, and two vanilla.
+
+[2025-07-09T14:50:13.694Z] AI Agent: Got it! That's five Sesame, five Cinnamon Raisin, one Garlic, and two Vanilla bagels. We've got twelve bagels so far. We still need to pick one more to complete the set of thirteen. We also have Plain, Everything, Blueberry, and Chocolate Chip. How many of each would you like?
+
+[2025-07-09T14:50:13.694Z] Customer: 4
+
+[2025-07-09T14:50:13.694Z] Customer: Do you have vanilla bagels?
+
+[2025-07-09T14:50:13.694Z] AI Agent: I don't see a Vanilla bagel on our menu. However, we do have options like Plain, Everything, Sesame, Cinnamon Raisin, Garlic, Blueberry, and Chocolate Chip. Which of these would you prefer for the thirteenth bagel?
+
+[2025-07-09T14:50:13.694Z] Customer: Then why did you, say for vanilla vehicle? You have added the vanilla vehicle. You should not. Right?
+
+[2025-07-09T14:50:13.694Z] AI Agent: I apologize for the confusion earlier. I should have clarified that we don't have a Vanilla bagel on our menu. I mistakenly mentioned it as an option. We only have Plain, Everything, Sesame, Cinnamon Raisin, Garlic, Blueberry, and Chocolate Chip. Which of these would you like for your thirteenth bagel?
+
+[2025-07-09T14:50:13.694Z] Customer: I I want, I see a go then.
+
+[2025-07-09T14:50:13.694Z] AI Agent: Got it! We'll add the Asiago for your thirteenth bagel. Now, for the Breakfast Bundle, you'll need to choose two tubs of cream cheese. We have Plain, Vegetable, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), Storemade Maple Raisin (Chunky), Storemade Bacon Scallion (Chunky), Strawberry, Honey Almond, Jalapeño Cream Cheese, Butter 8 ounce Whipped, and Philadelphia 8 ounce for an additional charge. Which two would you like?
+
+[2025-07-09T14:50:13.694Z] Customer: Okay. I want I want one plain, one burrito, cream cheese tub.
+
+[2025-07-09T14:50:13.695Z] AI Agent: Got it! We'll include one Plain and one Vanilla cream cheese tub for your Breakfast Bundle. Next, you'll need to choose

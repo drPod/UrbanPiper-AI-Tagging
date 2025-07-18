@@ -1,0 +1,16 @@
+Call ID: 687a4e1ea1698f75072b64d8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T13:37:34.645Z
+End Time: 2025-07-18T13:38:02.149Z
+Duration: 25 seconds
+From: 919780032269
+To: 918035740152
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T13:38:01.893Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T13:38:01.893Z] Customer: Okay. Give me an omelet wrap, please. Hello?

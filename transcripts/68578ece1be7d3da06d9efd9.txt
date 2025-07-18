@@ -1,0 +1,32 @@
+Call ID: 68578ece1be7d3da06d9efd9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T05:04:14.527Z
+End Time: 2025-06-22T05:05:33.698Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer ordered a Big Breakfast Burrito and a hot coffee from Manhattan Bagel but didn't complete the customization process.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T05:05:33.481Z] AI Agent: Hello Alex, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T05:05:33.481Z] Customer: I want to order Big Bill's pizza and, coffee.
+
+[2025-06-22T05:05:33.481Z] AI Agent: The Big
+
+[2025-06-22T05:05:33.481Z] Customer: Hot coffee.
+
+[2025-06-22T05:05:33.481Z] AI Agent: The Big Breakfast Burrito, excellent choice. That's one of our hearty options with bacon, sausage, eggs, salsa, jalapeño cream cheese, and cheddar, plus a hash brown all wrapped up. And you'd like to pair that with a hot coffee. Let me get the options for your coffee... 
+
+[2025-06-22T05:05:33.482Z] AI Agent: Let's start with your Big Breakfast Burrito. For the meat, you can choose from bacon, sausage, or ham. Which one would you like?
+
+[2025-06-22T05:05:33.482Z] Customer: Can I have more options?
+
+[2025-06-22T05:05:33.482Z] AI Agent: For the Big Breakfast Burrito, let me see what other options we have for the meat. We also have chorizo, steak, or you can go without meat. Which one of these sounds good to you?
+
+[2025-06-22T05:05:33.482Z] AI Agent: For the Big Breakfast Burrito, you can choose from bacon, sausage, ham, chorizo, or steak. You can also choose to have no meat. Which one would you like?
+
+[2025-06-22T05:05:33.482Z] Customer: One sec.

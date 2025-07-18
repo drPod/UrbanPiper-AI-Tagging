@@ -1,0 +1,98 @@
+Call ID: 685a96d0f664fde5010f1f71
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T12:15:12.220Z
+End Time: 2025-06-24T12:23:56.360Z
+Duration: 540 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered a Breakfast Bundle with customized bagels and a hot coffee with specific preferences, which was successfully placed with an order number provided.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T12:23:54.619Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-24T12:23:54.619Z] Customer: I'm I'm willing to order breakfast bundle and hot coffee.
+
+[2025-06-24T12:23:54.620Z] AI Agent: The Breakfast Bundle, excellent choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and you can even add 4 ounces of premium Acme smoked nova for a little extra. And to go with that, you'd like a hot coffee, correct? Let me get the options for your bagel choices...
+
+[2025-06-24T12:23:54.621Z] AI Agent: Let's start with the Bagel Dozen. You need to choose exactly 13 bagels. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like? Please go ahead and list them out.
+
+[2025-06-24T12:23:54.621Z] Customer: Okay. So I'm thinking to have, two as, vanilla and the rest of them as, everything bagels.
+
+[2025-06-24T12:23:56.360Z] Unknown: [2025-06-24T12:23:54.621Z] assistant: You'd like 2 Vanilla bagels and the rest, which would be 11, as Everything bagels. That sounds like a great combination. 
+
+Next, let's move on to the Choose 2 Tubs of Spread. You need to select exactly 2 tubs of spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which two would you like to choose?
+
+[2025-06-24T12:23:54.621Z] Customer: Plain and another could be, like, vegetable.
+
+[2025-06-24T12:23:56.360Z] Unknown: [2025-06-24T12:23:54.622Z] assistant: You'd like one tub of Plain Cream Cheese and another tub of Vegetable Cream Cheese. That's a great choice.
+
+Now, let's move on to the Choose 4 Muffins. You can select between 1 and 4 muffins. We have options like Blueberry, Corn, Double Chocolate, and more. Which muffins would you like to choose? You can pick up to 4.
+
+[2025-06-24T12:23:54.622Z] Customer: Okay. So, if that is there, then I can, you know, love to I love to have all of our chip.
+
+[2025-06-24T12:23:54.622Z] AI Agent: You'd like all 4 muffins to be Chocolate Chip. That sounds delicious. Finally, let's talk about the Box of Coffee. This is an optional selection, so you can choose up to 1 box of coffee or none at all. We have options like House Blend, Decaf, Vanilla Hazelnut
+
+[2025-06-24T12:23:54.622Z] Customer: Ok. So I'm already ordering the hot coffee. Ok? So let's not talk about it.
+
+[2025-06-24T12:23:56.360Z] Unknown: [2025-06-24T12:23:54.623Z] assistant: Since you're already ordering a hot coffee, we can skip the Box of Coffee option. 
+
+So, to recap, you've got the Breakfast Bundle with 2 Vanilla bagels and 11 Everything bagels, 2 tubs of spread - Plain Cream Cheese and Vegetable Cream Cheese, and 4 Chocolate Chip muffins. And, of course, you'd like a hot coffee to go with that. 
+
+Is there anything else I can get for you?
+
+[2025-06-24T12:23:54.623Z] Customer: Okay. So, before I just want to know, like, do you have vanilla bagel as well? Because I I I ask you to add two vanilla bagel. Do you have vanilla bagel?
+
+[2025-06-24T12:23:54.623Z] AI Agent: We actually have a French Toast BAGEL, but not a specific Vanilla bagel. I should have clarified that earlier when you asked for Vanilla bagels. If you'd like, we can substitute those with a different flavor or go with the French Toast BAGEL, which has a sweet and vanilla-like flavor. Would you like to make any changes to your order?
+
+[2025-06-24T12:23:54.623Z] Customer: I think that French toast to vanilla, I mean, that that will be good enough. I think that I can, you know, go with. Two French toast and the rest of the time has everything bigger.
+
+[2025-06-24T12:23:56.360Z] Unknown: [2025-06-24T12:23:54.624Z] assistant: So, you'd like to substitute the 2 Vanilla bagels with 2 French Toast BAGELs, and the rest will remain as Everything bagels. That sounds like a great plan.
+
+Now, let me just confirm your order. You have the Breakfast Bundle with 2 French Toast BAGELs and 11 Everything bagels, 2 tubs of spread - Plain Cream Cheese and Vegetable Cream Cheese, and 4 Chocolate Chip muffins. And, of course, you'd like a hot coffee to go with that.
+
+Before I place your order, may I have your name for the order, please?
+
+[2025-06-24T12:23:54.624Z] Customer: My name is Jatin.
+
+[2025-06-24T12:23:54.624Z] AI Agent: Alright Jitin, I have your complete order. Would you like me to read it back to make sure everything is perfect?
+
+[2025-06-24T12:23:54.624Z] Customer: I want to customize my hot coffee.
+
+[2025-06-24T12:23:54.625Z] AI Agent: Let me get the options for your hot coffee...
+
+[2025-06-24T12:23:54.625Z] AI Agent: Let's start with the Size of your hot coffee. You need to choose exactly 1 size. We have options like Small 12oz, Medium 16oz, Large 20oz, and X Large 24oz. Which size would you like?
+
+[2025-06-24T12:23:54.626Z] Customer: Medium size.
+
+[2025-06-24T12:23:56.360Z] Unknown: [2025-06-24T12:23:54.626Z] assistant: You'd like a Medium 16oz size for your hot coffee. 
+
+Next, let's talk about the Roast. This is an optional selection, so you can choose up to 5 options or none at all. We have House Blend, Vanilla Hazelnut Blend, Dark Roast, and Decaf. Which one would you like? Or would you like to skip this option?
+
+[2025-06-24T12:23:54.626Z] Customer: 
+
+[2025-06-24T12:23:56.360Z] Unknown: [2025-06-24T12:23:54.626Z] assistant: You'd like to go with the Decaf option for your hot coffee.
+
+Next, let's move on to the Milk Choice. This is also an optional selection, so you can choose up to 1 option or none at all. We have Regular Milk, Half & Half, Skim, Almond, Oat Milk, and Soy. Which one would you like? Or would you like to skip this option?
+
+[2025-06-24T12:23:54.626Z] Customer: No. I I'd love to have the oat milk.
+
+[2025-06-24T12:23:54.627Z] AI Agent: You'd like to have Oat Milk with your hot coffee. That's a great choice. Next, let's talk about the Sweetener & Syrups. This is an optional selection, so you can choose up to 20 options or none at all. We have Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, and various syrups
+
+[2025-06-24T12:23:54.627Z] Customer: Okay. Then then then you can skip it.
+
+[2025-06-24T12:23:54.627Z] AI Agent: You'd like to skip the Sweetener & Syrups option for your hot coffee. Now, let's move on to the Tea Choice. This is also an optional selection, so you can choose up to 1 option or none at all. We have Lipton Black Tea, Lipton Decaf Tea, Chamomile
+
+[2025-06-24T12:23:54.627Z] Customer: No. I don't want the t I. I want hot copy only. So let's, get rid of this, you know, customization. We can go ahead now.
+
+[2025-06-24T12:23:54.627Z] AI Agent: You'd like to skip the Tea Choice option since you're looking for hot coffee only. So, to recap, you've customized your hot coffee to be a Medium 16oz size, Decaf, with Oat Milk, and no sweeteners or syrups. Now, let's get back to your original order. You had the Breakfast Bundle with 2 French Toast BAGELs and 11
+
+[2025-06-24T12:23:54.628Z] Customer: Right. You can go ahead now. You can place the order. I mean, you can submit the order.
+
+[2025-06-24T12:23:54.628Z] Customer: Hello? Can you hear me? You can submit the order now.
+
+[2025-06-24T12:23:54.628Z] AI Agent: Alright, let me get this order placed for you...Please hold for a moment
+
+[2025-06-24T12:23:54.629Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 349285. That's 3, 4, 9, 2, 8, 5.", 'order_id': '349285', 'call_id': '9d7472bb-cbf4-4627-ac44-72bffb3e276b', 'responseType': 'tool-response', 'api_response': {'status': 'success', 'workflow_run_id': 'id: "7f87f66abd504b64ab90a68f52da218f"\n', 'call_id': '9d7472bb-cbf4-4627-ac44-72bffb3e276b', 'message': 'Menu content refresh workflow started.'}}

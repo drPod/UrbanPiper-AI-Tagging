@@ -1,0 +1,22 @@
+Call ID: 6872a7b55560c851d6407de6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T18:21:41.853Z
+End Time: 2025-07-12T18:23:12.047Z
+Duration: 87 seconds
+From: 918949862707
+To: 918035740152
+Summary: Mehl ordered a Breakfast Bundle from Manhattan Bagel with a customized selection of bagel flavors.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T18:23:11.816Z] AI Agent: Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T18:23:11.816Z] Customer: I like to order a breakfast bundle.
+
+[2025-07-12T18:23:11.816Z] AI Agent: The Breakfast Bundle is a popular choice. It comes with 13 fresh-baked Manhattan Bagels and 2 tubs of cream cheese. You can choose from a variety of bagel flavors and cream cheese flavors. You'll need to pick just one type of bagel for your bundle. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye,
+
+[2025-07-12T18:23:11.816Z] Customer: Okay. So I want, one plain, two, two, vanilla, three sorry. One plain, one vanilla, six everything, two garlic, one blueberry, and one everything.
+
+[2025-07-12T18:23:11.817Z] AI Agent: You'd like to customize your Breakfast Bundle with a mix of bagel flavors. Let me confirm: you want one Plain bagel, one Vanilla bagel, six Everything bagels, two Garlic bagels, one Blueberry bagel, and one more Everything bagel, right? That's a total of 12 bagels so far. You still need to pick one more bagel to complete your bundle of 13. Which one would you like for the last bagel?

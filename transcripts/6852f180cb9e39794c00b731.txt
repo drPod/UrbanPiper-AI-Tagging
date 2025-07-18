@@ -1,0 +1,30 @@
+Call ID: 6852f180cb9e39794c00b731
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T17:04:00.078Z
+End Time: 2025-06-18T17:05:29.794Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: Gaurav ordered a Single Bagel for $1.49 from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T17:05:29.503Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T17:05:29.503Z] Customer: Hey. Hi. I'd like to make an order of, blueberry bagel and, yeah, blueberry bagel. Do you have blueberry bagel sandwich?
+
+[2025-06-18T17:05:29.504Z] AI Agent: I found a few items for your search. We have an Egg on a Bagel for $3.99, The LEO for $11.99, and a Single Bagel for $1.49. Which one of these items sounds good to you?
+
+[2025-06-18T17:05:29.504Z] Customer: The single beagle. Can I can I go with the single beagle?
+
+[2025-06-18T17:05:29.504Z] Customer: 
+
+[2025-06-18T17:05:29.504Z] AI Agent: Your current order is a Single Bagel for $1.49. Is that all you'd like to order today?
+
+[2025-06-18T17:05:29.505Z] Customer: 
+
+[2025-06-18T17:05:29.505Z] Customer: Are you
+
+[2025-06-18T17:05:29.505Z] AI Agent: Your order number is 6 8 4 5 9 7. Your total is 1 dollar and 64 cents, which includes a subtotal of

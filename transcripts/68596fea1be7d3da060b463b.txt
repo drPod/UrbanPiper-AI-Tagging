@@ -1,0 +1,42 @@
+Call ID: 68596fea1be7d3da060b463b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T15:16:58.427Z
+End Time: 2025-06-23T15:19:07.993Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a single everything bagel and a medium hot latte with half-and-half milk and whipped cream at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T15:19:07.686Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T15:19:07.686Z] Customer: 
+
+[2025-06-23T15:19:07.686Z] AI Agent: Let me get the options
+
+[2025-06-23T15:19:07.686Z] Customer: 
+
+[2025-06-23T15:19:07.686Z] AI Agent: Let me get the options for your bagel choices... 
+
+[2025-06-23T15:19:07.687Z] AI Agent: For your bagel, we have a variety of options. You can choose from Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll
+
+[2025-06-23T15:19:07.687Z] Customer: Okay. So I want, hot latte, medium size, half and half milk, and, whipped cream, cream as well.
+
+[2025-06-23T15:19:07.687Z] AI Agent: Let me get the options for your hot latte... 
+
+[2025-06-23T15:19:07.687Z] AI Agent: You've chosen a hot latte. For the size, we have small, twelve ounces, medium, sixteen ounces, and large, twenty ounces. Which size would you like?
+
+[2025-06-23T15:19:07.687Z] Customer: I I minimum.
+
+[2025-06-23T15:19:07.687Z] AI Agent: For your medium hot latte, you've also mentioned half-and-half milk and whipped cream. I just want to confirm that you'd like half-and-half as your milk choice, and whipped cream on top, is that correct?
+
+[2025-06-23T15:19:07.688Z] Customer: 
+
+[2025-06-23T15:19:07.688Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-23T15:19:07.688Z] AI Agent: {'result': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 325872. That's 3, 2, 5, 8, 7, 2. Total: $8.50 (subtotal 7.73 dollars plus 0.77 dollars tax). Thank you for your order!", 'responseType': 'tool-response', 'success': True, 'orderNumber': '325872', 'orderTotal': 8.5, 'itemCount': 2, 'customer': '', 'orderSummary': {'orderNumber': '325872', 'callId': '02834441-0c51-413b-b8f8-59b789a892e7', 'tenantName': 'manhattan_bagel_864915', 'storeId': '1', 'customer': {'name': '', 'contact_number': '', 'country_code': '+1', 'customer_email': 'noemail@example.com', 'full_address': 'Pickup Order - No Address Required', 'locality': 'Restaurant Location', 'payment_method_preference': 'cash', 'preferred_time_for_delivery_pickup': 'pickup'}, 'items': [{'item_name': 'Single Bagel', 'ref_id': 'itm_a3ce106d-faec-4b42-8816-079271c28b9b', 'quantity': 1, 'base_price': 1.49, 'modifier_groups': [{'group_title': 'Bagel', 'option_title': 'Everything', 'price': 0, 'quantity': 1, 'group_ref_id': 'mg1409549', 'option_ref_id': '5709137'}], 'item_total_price': 1.49, 'category': 'Uncategorized', 'description': '', 'food_type': '1', 'taxes': []}, {'item_name': 'Hot Latte', 'ref_id': 'itm_8e985cff-5fe2-4778-ad12-106cc4126824', 'quantity': 1, 'base_price': 0, 'modifier_groups': [{'group_title': 'Size', 'option_title': 'Medium 16oz', 'price': 4.49, 'quantity': 1, 'group_ref_id': 'mg1409647', 'option_ref_id': '5709699'}, {'group_title': 'Specialty Drink Milk Choice', 'option_title': 'Half & Half', 'price': 1, 'quantity': 1, 'group_ref_id': 'mg1409585', 'option_ref_id': '5709427'}, {'group_title': 'Sweetener & Syrups', 'option_title': 'Whipped Cream', 'price': 0.75, 'quantity': 1, 'group_ref_id': 'mg1409578', 'option_ref_id': '5709401'}], 'item_total_price': 6.24, 'category': 'Beverages', 'description': '', 'food_type': '1', 'taxes': []}], 'itemCount': 2, 'subtotal': 7.73, 'specialInstructions': '', 'placedAt': '2025-06-23T15:18:37.284Z'}, 'externalApiResponse': {'status': 'success', 'message': 'Order processed', 'order_request_id': 'cc8f1f5b-3b39-41eb-a4f1-bb4e59887bb4', 'order_total_price': 8.5, 'total_tax_applied': 0.77}, 'externalApiSubmitted': True}
+
+[2025-06-23T15:19:07.688Z] AI Agent: Order placed successfully. Your order number is 3, 2, 5, 8, 7, 2. Your total comes out to be 7 dollars and 73 cents for the items, plus 77 cents tax. That's a total of 8 dollars and 50 cents. Thank you for your order.

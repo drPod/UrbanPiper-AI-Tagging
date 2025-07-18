@@ -1,0 +1,56 @@
+Call ID: 685690161be7d3da06c8882b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T10:57:26.458Z
+End Time: 2025-06-21T11:01:04.698Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a Big Breakfast Burrito with extra grilled chicken, extra cheese, tomato, spinach, and a hash brown, along with a medium hot coffee with half-and-half and whipped cream
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T11:01:04.334Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T11:01:04.335Z] Customer: I want to order big breakfast burrito and hot coffee.
+
+[2025-06-21T11:01:04.698Z] Unknown: [2025-06-21T11:01:04.335Z] assistant: The Big Breakfast Burrito is a great choice, and I can get that started for you. It comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. 
+
+For the Big Breakfast Burrito, would you like to add any extra breakfast meat, such as extra bacon, sausage, or ham?
+
+[2025-06-21T11:01:04.335Z] Customer: I want to have extra grilled chicken, extra cheese, tomato and spinach, and, hash brown, if it is there.
+
+[2025-06-21T11:01:04.698Z] Unknown: [2025-06-21T11:01:04.335Z] assistant: I've added extra grilled chicken, extra cheese, tomato, spinach, and a hash brown to your Big Breakfast Burrito. 
+
+Now, let me just confirm the details. Your Big Breakfast Burrito will have bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, a hash brown, extra grilled chicken, extra cheese, tomato, and spinach, all in a flour tortilla. 
+
+Moving on to your hot coffee, would you like it in a small 12-ounce size for 1 dollar and 99 cents, a medium 16-ounce size for 2 dollars and 49 cents, or a large 20-ounce size for 2 dollars and 99 cents? And would you prefer whole milk, half-and-half, skim milk, almond milk, or oat milk?
+
+[2025-06-21T11:01:04.335Z] Customer: Okay. So I need, medium size, half and half milk, and whipped cream. That's all.
+
+[2025-06-21T11:01:04.698Z] Unknown: [2025-06-21T11:01:04.335Z] assistant: So, for your hot coffee, I've got a medium 16-ounce size with half-and-half and whipped cream. That sounds like a great way to start your day.
+
+Let me just add these items to your order. 
+
+Perfect, let me add that to your order... 
+
+[2025-06-21T11:01:04.335Z] AI Agent: I hope you are still with me!
+
+[2025-06-21T11:01:04.335Z] Customer: Yeah. I'm still there.
+
+[2025-06-21T11:01:04.698Z] Unknown: [2025-06-21T11:01:04.335Z] assistant: I've added the Big Breakfast Burrito and the hot coffee to your order. Your total comes out to be $14.47. 
+
+Before I place the order, I just want to confirm a few details. Your Big Breakfast Burrito will have bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, a hash brown, extra grilled chicken, extra cheese, tomato, and spinach, all in a flour tortilla. And your hot coffee will be a medium 16-ounce size with half-and-half and whipped cream. 
+
+Is everything correct? And do you have any special requests or allergies I should note?
+
+[2025-06-21T11:01:04.335Z] Customer: Yeah. That's all correct, and I don't I don't have any request. Thank you so much.
+
+[2025-06-21T11:01:04.335Z] AI Agent: I'll go ahead and place your order. Alright, let me place this order for you...
+
+[2025-06-21T11:01:04.335Z] AI Agent: I hope you are still with me!
+
+[2025-06-21T11:01:04.335Z] Customer: Yeah.
+
+[2025-06-21T11:01:04.336Z] AI Agent: Your order has been successfully placed. We'll get your Big Breakfast Burrito and hot coffee ready for pickup. If you need any further assistance or have any other questions, feel free to ask. Otherwise, we'll see you soon at Manhattan Bagel. Have a great day, Jitin.

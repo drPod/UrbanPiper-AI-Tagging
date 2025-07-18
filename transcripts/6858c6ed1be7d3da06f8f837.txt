@@ -1,0 +1,28 @@
+Call ID: 6858c6ed1be7d3da06f8f837
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T03:15:57.888Z
+End Time: 2025-06-23T03:17:41.395Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jiten ordered a Multigrain Bagel with cheddar cheese and avocado from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T03:17:40.976Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T03:17:40.976Z] Customer: Actually, I'm looking to order, something crispy and vegetarian bagel, kind of multigrain bagel.
+
+[2025-06-23T03:17:40.976Z] Customer: And, with the cheddar cheese, also avocado. Can you please get or else maybe you can have plain cheese, plain cream cheese as well. Can I get something?
+
+[2025-06-23T03:17:41.395Z] Unknown: [2025-06-23T03:17:40.976Z] assistant: The Multigrain Bagel, excellent choice. That's one of our fresh-baked bagels made with a blend of different grains. I can definitely get that with some cheddar cheese and avocado for you. For the cheese, we have plain cream cheese, and I can also offer you a plain cheese option, which would be a great addition to your bagel. Let me get the options for your bagel... 
+
+I will call the get_modifier_groups tool to get all the available options for the Multigrain Bagel. 
+
+
+
+[2025-06-23T03:17:40.977Z] AI Agent: For your Multigrain Bagel, I can offer you a variety of options. Let's start with the cheese. We have plain cream cheese, and I can also offer you a plain cheese option. Which type of cheese would you like? We have cheddar as an option. Also, I see you mentioned avocado. We can definitely add that to your bagel. Let me walk you through the other options we have available for your Multigrain Bagel. We have a variety of condiments such as salt, pepper, ketchup, mayo, mustard, hot sauce, tomato spread, butter, cream cheese, flavor cream cheese, and
+
+[2025-06-23T03:17:40.977Z] Customer: Wait. Wait. Wait. Wait. So

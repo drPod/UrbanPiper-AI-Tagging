@@ -1,0 +1,40 @@
+Call ID: 6852c2e0cb9e39794cf7bb05
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T13:45:04.715Z
+End Time: 2025-06-18T13:47:26.546Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: Irfan ordered a dozen bagels and a mini bagel from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T13:47:25.903Z] AI Agent: Hello Bhanu, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T13:47:25.903Z] Customer: 
+
+[2025-06-18T13:47:25.903Z] AI Agent: I'd
+
+[2025-06-18T13:47:25.903Z] Customer: Hey. My name is Irfan. Okay? And I like to order, dozen bagel and bagel mini bagel.
+
+[2025-06-18T13:47:25.903Z] AI Agent: I found a few items for your search. We have Dozen Bagels for $16.99, Mini Bagels for $0.99, and Half Dozen Bagels for $8.94. Which one would you like to order?
+
+[2025-06-18T13:47:25.903Z] Customer: I'd like to order, dozen bagels first.
+
+[2025-06-18T13:47:25.904Z] AI Agent: For the Dozen Bagels, which type of bagel would you like? We have Plain, Everything, Asiago, Bagel Stick, Bialy, Blueberry, California, Cheesy Hashbrown Roll, Cheesy Jalepeño Bacon Roll, Chocolate Chip, Cinnamon Raisin, Egg Everything, French Toast BAGEL, Garlic, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Roll, Rye, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, and Egg.
+
+[2025-06-18T13:47:25.904Z] Customer: Okay. So would love to have, plain bagel, three, and, two blueberry bagels.
+
+[2025-06-18T13:47:25.904Z] AI Agent: ERROR: 400 - {"success":false,"error":"Item \"Plain\" not found in menu.","item":"Plain"}
+
+[2025-06-18T13:47:25.904Z] AI Agent: I need to search for the item "Plain" to get the correct item name from the menu.
+
+[2025-06-18T13:47:25.904Z] AI Agent: I hope you are still with me!
+
+[2025-06-18T13:47:25.904Z] Customer: Я Anstadé
+
+[2025-06-18T13:47:25.904Z] AI Agent: I found a few items for your search. We have Dozen Bagels for $16.99, Half Dozen Bagels for $8.94, and Single Bagel for $1.49. Which one would you like to order? You said you wanted to order a
+
+[2025-06-18T13:47:25.904Z] Customer: 

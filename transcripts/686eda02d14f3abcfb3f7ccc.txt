@@ -1,0 +1,67 @@
+Call ID: 686eda02d14f3abcfb3f7ccc
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T21:07:14.939Z
+End Time: 2025-07-09T21:09:39.075Z
+Duration: 142 seconds
+From: +18325446511
+To: +16204558091
+Summary: George placed an order for two bagels at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T21:09:38.780Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-09T21:09:38.781Z] Customer: Hey, BagelBot. I'm curious. Do you offer, like, cream cheese, options or, like, everything bagels? Like, what do you got?
+
+[2025-07-09T21:09:38.781Z] AI Agent: Sure thing! We have a wide variety of bagels and cream cheese options. For bagels, we offer Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg,
+
+[2025-07-09T21:09:38.781Z] Customer: Okay. Yeah. But, my my my wife is gluten free. Do you have any gluten free options?
+
+[2025-07-09T21:09:38.783Z] AI Agent: Yes, we do have gluten-free options available. For bagels, we offer a Gluten Free bagel. For cream cheese, we have several options, including Plain Cream Cheese, Vegetable Cream Cheese, and more.
+
+[2025-07-09T21:09:38.783Z] Customer: Okay. What about what about other gluten free toppings that are not cream cheese? What do you what do you have?
+
+[2025-07-09T21:09:38.783Z] AI Agent: For gluten-free toppings, we have options like Lettuce, Tomato, Red Onions, Spinach, Cucumber, Green Peppers, Capers,
+
+[2025-07-09T21:09:38.784Z] Customer: Okay. So so pretty much vegetables. Okay. So I I'll order, one gluten free everything bagel, with blueberry cream cheese and a plain buttered bagel.
+
+[2025-07-09T21:09:38.784Z] AI Agent: Got it! Let's start with your Gluten Free Everything Bagel with Blueberry Cream Cheese. You'll need to pick just one size for your bagel. We have Single, Half Dozen, or Dozen. Which would you prefer?
+
+[2025-07-09T21:09:38.784Z] Customer: Den gav.
+
+[2025-07-09T21:09:38.784Z] AI Agent: Perfect! So that's one Gluten Free Everything Bagel with Blueberry Cream Cheese. Now for your plain buttered bagel, you'll need to pick just one bagel type. We have Plain,
+
+[2025-07-09T21:09:38.784Z] Customer: Another single.
+
+[2025-07-09T21:09:38.784Z] AI Agent: Alright, one plain buttered bagel. Is there anything else I can get for you today?
+
+[2025-07-09T21:09:38.784Z] Customer: No. Nope. That's it.
+
+[2025-07-09T21:09:39.075Z] Unknown: [2025-07-09T21:09:38.785Z] assistant: Perfect, let me get that all put together for you. 
+
+
+
+[2025-07-09T21:09:38.785Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-09T21:09:38.785Z] AI Agent: May I have your name for the order?
+
+[2025-07-09T21:09:38.785Z] Customer: George.
+
+[2025-07-09T21:09:38.789Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-09T21:09:38.790Z] Customer: I mean, I already told you it was gluten free. So yeah. Gluten allergy?
+
+[2025-07-09T21:09:38.790Z] AI Agent: Alright George. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-09T21:09:38.790Z] Customer: No. You already did that. How much is it?
+
+[2025-07-09T21:09:39.075Z] Unknown: [2025-07-09T21:09:38.790Z] assistant: Great. Placing that for you now, please hold on.
+
+
+
+
+[2025-07-09T21:09:38.792Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 616018. That's 6, 1, 6, 0, 1, 8.", 'order_id': '616018', 'call_id': 'b1076fdb-cd55-4077-92b6-1a7f2bd4ac7b', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f105-aec7-15bc-b205-b88fb93ee938'}
+
+[2025-07-09T21:09:38.792Z] AI Agent: Your order is created successfully now! The

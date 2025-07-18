@@ -1,0 +1,26 @@
+Call ID: 685a951ef664fde5010eff1f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T12:07:58.330Z
+End Time: 2025-06-24T12:09:15.945Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a Big Breakfast Burrito at Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T12:09:15.754Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-24T12:09:15.754Z] Customer: Allô.
+
+[2025-06-24T12:09:15.754Z] AI Agent: Hello. Welcome to
+
+[2025-06-24T12:09:15.754Z] Customer: Hello? Hello? Can you hear me?
+
+[2025-06-24T12:09:15.754Z] AI Agent: I can hear you just fine, Jitin. How can I help you with your order today?
+
+[2025-06-24T12:09:15.754Z] Customer: I like to order big breakfast burrito. Hello?
+
+[2025-06-24T12:09:15.754Z] AI Agent: The Big Breakfast Burrito, excellent choice. That's one of our hearty options with bacon, sausage, eggs, salsa, jalapeño cream

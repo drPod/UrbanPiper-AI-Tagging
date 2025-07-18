@@ -1,0 +1,18 @@
+Call ID: 68725c6d5560c851d6347165
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T13:00:29.123Z
+End Time: 2025-07-12T13:00:52.274Z
+Duration: 21 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer, Jutin, attempted to order an Avocado BLT sandwich, which is not on the Manhattan Bagel menu.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T13:00:52.164Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T13:00:52.164Z] Customer: I want to order avocado BLT sandwich.
+
+[2025-07-12T13:00:52.164Z] AI Agent: I don't see Avocado BLT sandwich on our menu. However, we

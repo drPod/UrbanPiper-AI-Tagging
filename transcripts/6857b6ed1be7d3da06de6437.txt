@@ -1,0 +1,66 @@
+Call ID: 6857b6ed1be7d3da06de6437
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T07:55:25.843Z
+End Time: 2025-06-22T07:59:35.491Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jatin ordered a Breakfast Bundle with specific customizations, but the order was not successfully placed due to an issue with the ordering tool.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T07:59:34.198Z] AI Agent: Hello Jatin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T07:59:34.198Z] Customer: Breakfast bundle?
+
+[2025-06-22T07:59:34.198Z] AI Agent: The Breakfast Bundle, excellent choice. That includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get the options for your bagel choices...
+
+[2025-06-22T07:59:34.199Z] AI Agent: Let me help you customize your Breakfast Bundle. You have 13 fresh-baked Manhattan Bagels to choose from. We have a variety of bagel options such as Plain, Everything, Asiago, Blueberry, and many more. Which bagels would you like to choose?
+
+[2025-06-22T07:59:34.199Z] Customer: I want, 13 of blueberry. Okay. So seven of blueberry, two of, chocolate chip, and the rest are egg.
+
+[2025-06-22T07:59:34.199Z] AI Agent: Let's get the options for your cream cheese choices...
+
+[2025-06-22T07:59:34.200Z] AI Agent: For your cream cheese, we have options like Plain Cream Cheese, Vegetable Cream Cheese, and many more. Which two types of cream cheese would you like to choose?
+
+[2025-06-22T07:59:34.200Z] Customer: A
+
+[2025-06-22T07:59:34.251Z] Customer: I'll choose this scallion and, vegetable cream cheese.
+
+[2025-06-22T07:59:34.251Z] AI Agent: Let me get the options for your muffin choices...
+
+[2025-06-22T07:59:34.252Z] AI Agent: For your muffins, we have options like Blueberry, Corn, Double Chocolate, and more. Which four muffins would you like to choose?
+
+[2025-06-22T07:59:34.252Z] Customer: Corn and, blueberry chocolate chips and cinnamon chips. Hello?
+
+[2025-06-22T07:59:34.252Z] Customer: You there? Hello?
+
+[2025-06-22T07:59:34.252Z] AI Agent: I'm here. Now, let me get the options for your coffee box...
+
+[2025-06-22T07:59:34.253Z] AI Agent: For your coffee box, we have options like House Blend, Decaf, Vanilla Hazelnut, and more. Which type of coffee would you like to choose?
+
+[2025-06-22T07:59:34.254Z] Customer: I want to choose dark roast.
+
+[2025-06-22T07:59:34.254Z] AI Agent: Perfect, let me add that to your order...
+
+[2025-06-22T07:59:34.254Z] AI Agent: I hope you are still with me!
+
+[2025-06-22T07:59:34.254Z] Customer: 
+
+[2025-06-22T07:59:34.255Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-22T07:59:34.255Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.
+
+[2025-06-22T07:59:34.255Z] Customer: What happened?
+
+[2025-06-22T07:59:34.265Z] AI Agent: It seems like your
+
+[2025-06-22T07:59:34.265Z] Customer: You haven't used you haven't used the order date order to can you please use that?
+
+[2025-06-22T07:59:34.265Z] AI Agent: I'll make sure the kitchen knows...
+
+[2025-06-22T07:59:34.266Z] AI Agent: I've added your special instructions to the order.
+
+[2025-06-22T07:59:34.266Z] Customer: Hello?

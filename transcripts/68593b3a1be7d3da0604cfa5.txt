@@ -1,0 +1,82 @@
+Call ID: 68593b3a1be7d3da0604cfa5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:32:10.597Z
+End Time: 2025-06-23T11:36:57.300Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer ordered a Breakfast Bundle with twelve Garlic bagels, one Everything bagel, two tubs of Plain and Vegetable cream cheese, two Blueberry muffins, two Corn muffins, and a Box of Decaf Coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:36:56.854Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T11:36:56.854Z] Customer: 
+
+[2025-06-23T11:36:56.854Z] AI Agent: Let me get
+
+[2025-06-23T11:36:56.854Z] Customer: Like, to order Bigfoot wonders.
+
+[2025-06-23T11:36:56.854Z] AI Agent: The Breakfast Bundle is perfect for a group. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T11:36:56.854Z] AI Agent: For your thirteen bagels, popular choices are Plain, Everything, or Sesame. What would you like?
+
+[2025-06-23T11:36:56.854Z] Customer: Three planes, five SMA.
+
+[2025-06-23T11:36:56.854Z] AI Agent: Let me confirm that for you.
+
+[2025-06-23T11:36:56.855Z] Customer: And, six.
+
+[2025-06-23T11:36:56.855Z] AI Agent: You'd like three Plain, five Sesame, and six... which type for the last six?
+
+[2025-06-23T11:36:56.855Z] Customer: Six as everything.
+
+[2025-06-23T11:36:56.855Z] AI Agent: So, to confirm, you'd like three Plain, five Sesame, and six Everything bagels. Next, for your two tubs of spread, we have options like Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive. Which two would you like?
+
+[2025-06-23T11:36:56.855Z] Customer: So I think I have exceeded exceeded the, you know, bagel count. Right? I it it counted, as the total is, like, 14 in my case. Isn't it?
+
+[2025-06-23T11:36:56.855Z] AI Agent: Let me get the options for your muffins... 
+
+[2025-06-23T11:36:56.855Z] Customer: Hello? Can you hear me?
+
+[2025-06-23T11:36:56.855Z] AI Agent: Yes, I can hear you.
+
+[2025-06-23T11:36:56.855Z] Customer: I'm saying, that the vague the vague vague options, which I select, like, five three eight and plus six fourteen. Right? But I should have only go with 13.
+
+[2025-06-23T11:36:56.856Z] AI Agent: You're right, the total number of bagels you selected exceeds thirteen. Let's start again with the bagel selection to ensure we get exactly thirteen. Which types would you like?
+
+[2025-06-23T11:36:56.856Z] Customer: Okay. 12 is garlic.
+
+[2025-06-23T11:36:56.856Z] AI Agent: Let me
+
+[2025-06-23T11:36:56.856Z] Customer: And two as everything.
+
+[2025-06-23T11:36:56.856Z] AI Agent: So, to confirm, you'd like twelve Garlic bagels and one Everything bagel, right? That's a total of thirteen bagels. Next, for your two tubs of spread, we have options like Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive. Which two would you like?
+
+[2025-06-23T11:36:56.856Z] Customer: Clean and everything.
+
+[2025-06-23T11:36:56.856Z] AI Agent: For your spreads, you've chosen Plain Cream Cheese and... Everything isn't an option for spreads, but we do have Scallion/Onion Chive. Would you like to replace Everything with Scallion/Onion Chive or choose a different spread
+
+[2025-06-23T11:36:56.856Z] Customer: Plain and plain vegetable. Plain or vegetable.
+
+[2025-06-23T11:36:56.856Z] AI Agent: You'd like two tubs of spread, and you've chosen Plain Cream Cheese and Vegetable Cream Cheese. Next, for your four muffins, we have options like Blueberry, Corn, Double Chocolate, and more. Which ones would you like?
+
+[2025-06-23T11:36:56.856Z] Customer: Two blueberries, two corn. Hello?
+
+[2025-06-23T11:36:56.856Z] AI Agent: So, to confirm, you'd like two Blueberry muffins and two Corn muffins. Lastly, for your Box of Coffee, would you like to add House Blend, Decaf, or another option?
+
+[2025-06-23T11:36:56.856Z] Customer: I'll choose, decaf.
+
+[2025-06-23T11:36:56.857Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-23T11:36:56.857Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T11:36:56.857Z] Customer: Yes. I'm still there.
+
+[2025-06-23T11:36:56.857Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T11:36:56.857Z] Customer: 
+
+[2025-06-23T11:36:56.857Z] AI Agent: I hope you are still with me!

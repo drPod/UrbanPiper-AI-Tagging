@@ -1,0 +1,30 @@
+Call ID: 6855b0c51be7d3da06bb1384
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T19:04:37.739Z
+End Time: 2025-06-20T19:05:14.513Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: The call to Manhattan Bagel ended abruptly due to technical issues with the search_for_item tool, preventing the customer from ordering a hot latte.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T19:05:14.332Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T19:05:14.332Z] Customer: Can I get hot lobby?
+
+[2025-06-20T19:05:14.332Z] AI Agent: Let me check that for you. 
+
+[2025-06-20T19:05:14.332Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-20T19:05:14.332Z] AI Agent: I couldn't find that exactly. Let me check our drinks options. 
+
+[2025-06-20T19:05:14.332Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-20T19:05:14.332Z] AI Agent: I couldn't find any drinks options. Let me check our menu. 
+
+[2025-06-20T19:05:14.332Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-20T19:05:14.332Z] AI Agent: I couldn't find any b

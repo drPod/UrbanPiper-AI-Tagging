@@ -1,0 +1,38 @@
+Call ID: 685911561be7d3da06ff7744
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T08:33:26.990Z
+End Time: 2025-06-23T08:35:01.180Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with three Everything bagels and discussed spread options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T08:34:59.625Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T08:34:59.625Z] Customer: I want to order breakfast bundle.
+
+[2025-06-23T08:34:59.625Z] AI Agent: The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T08:34:59.625Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T08:34:59.625Z] Customer: Hjärnstund
+
+[2025-06-23T08:34:59.625Z] AI Agent: Let me get the options for your bagel choices...
+
+[2025-06-23T08:34:59.626Z] Customer: Okay.
+
+[2025-06-23T08:34:59.626Z] AI Agent: First, for the thirteen bagels in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those?
+
+[2025-06-23T08:34:59.626Z] AI Agent: Let's start with the bagels. You can choose thirteen bagels from our variety, which includes Plain, Everything, Asiago, Blueberry, and many more. Which ones would you like?
+
+[2025-06-23T08:34:59.626Z] Customer: I want
+
+[2025-06-23T08:34:59.626Z] AI Agent: Let me get the
+
+[2025-06-23T08:34:59.626Z] Customer: Three three I want three playing, three everything label.
+
+[2025-06-23T08:34:59.626Z] AI Agent: Three Everything bagels. Now, for your two tubs of spread, we have Plain Cream Cheese, Vegetable Cream

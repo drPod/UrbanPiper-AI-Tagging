@@ -1,0 +1,54 @@
+Call ID: 685933d11be7d3da06043338
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:00:33.208Z
+End Time: 2025-06-23T11:03:37.387Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle with specific customizations and placed the order for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:03:37.068Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T11:03:37.068Z] Customer: I'd like to order breakfast bundle.
+
+[2025-06-23T11:03:37.068Z] AI Agent: The Breakfast Bundle is perfect for a group. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T11:03:37.069Z] AI Agent: Alright, I have all the options for your Breakfast Bundle. First, for your thirteen bagels, I have options like Plain, Everything, Asiago, and more. Which ones would you like?
+
+[2025-06-23T11:03:37.069Z] Customer: I'll choose all of our everything bagels.
+
+[2025-06-23T11:03:37.069Z] AI Agent: For the thirteen bagels, you've chosen all Everything bagels. Next, for your two tubs of cream cheese, I have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which two would you like?
+
+[2025-06-23T11:03:37.069Z] Customer: One as plain, second one is vegetable.
+
+[2025-06-23T11:03:37.069Z] AI Agent: You've chosen one tub of Plain Cream Cheese and one tub of Vegetable Cream Cheese. Now, for your four muffins, I have options like Blueberry, Corn, Double Chocolate, and more. Which ones would you like?
+
+[2025-06-23T11:03:37.069Z] Customer: Two of blueberry, two of chocolate chips.
+
+[2025-06-23T11:03:37.069Z] AI Agent: You've chosen two Blueberry muffins and two Chocolate Chip muffins. Lastly, for the Box of Coffee, I have options like House Blend, Decaf, Vanilla Hazelnut, and more. Would you like to add a box of coffee to
+
+[2025-06-23T11:03:37.069Z] Customer: Okay. I'll do
+
+[2025-06-23T11:03:37.069Z] AI Agent: You've decided not to add a box of coffee.
+
+[2025-06-23T11:03:37.069Z] Customer: Yeah. I'll I'll choose the decaf. No. I'll choose the I'll choose the decaf as, option in box of coffee.
+
+[2025-06-23T11:03:37.069Z] AI Agent: You've chosen the Decaf option for the Box of Coffee. Perfect, let me add that to your order...
+
+[2025-06-23T11:03:37.069Z] AI Agent: Added 1 item(s) to your cart. Total: $54.98
+
+[2025-06-23T11:03:37.069Z] AI Agent: Alright, I've added the Breakfast Bundle with all your choices. Your total is now $54.98. Anything else for you today?
+
+[2025-06-23T11:03:37.070Z] Customer: No.
+
+[2025-06-23T11:03:37.070Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-23T11:03:37.070Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 980385. That's 9, 8, 0, 3, 8, 5. Total: $60.47 (subtotal 54.98 dollars plus 5.49 dollars tax). Thank you for your order!
+
+[2025-06-23T11:03:37.070Z] AI Agent: Alright, Gaurav, your order is placed. Your order number is 9, 8, 0, 3, 8, 5. Your total is $54.98 plus $5.49 tax, making it $60.47. We'll have that ready for you shortly. Thank you for your order!
+
+[2025-06-23T11:03:37.070Z] Customer: Okay. Bye.

@@ -1,0 +1,76 @@
+Call ID: 68720ca45560c851d6289cc4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T07:20:04.977Z
+End Time: 2025-07-12T07:24:50.778Z
+Duration: 282 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Breakfast Bundle with specific bagel and cream cheese choices, and added a Box of Coffee to their order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T07:24:50.387Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T07:24:50.387Z] Customer: I want to order breakfast bundle and, hot, sorry, apple juice. Do you have apple juice?
+
+[2025-07-12T07:24:50.387Z] AI Agent: For the Breakfast Bundle, that's a great
+
+[2025-07-12T07:24:50.387Z] Customer: No. No. I wanted to know, do you have Apple use?
+
+[2025-07-12T07:24:50.387Z] AI Agent: We have Tropicana Orange Juice, but I don't see Apple Juice on our menu. We do have other beverages like coffee, tea, and hot chocolate, though. Would you like me to tell you more about those options?
+
+[2025-07-12T07:24:50.388Z] Customer: Okay.
+
+[2025-07-12T07:24:50.388Z] AI Agent: For the Breakfast Bundle, you'll need to pick exactly 13 bagels together. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, 
+
+[2025-07-12T07:24:50.388Z] Customer: Okay. So then I I I'll go with the, five, poppy bagel, three garlic bagel, two vanilla bagel, and the rest of the three can be everything bagel.
+
+[2025-07-12T07:24:50.388Z] AI Agent: I don't see Vanilla Bagel on our menu. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast 
+
+[2025-07-12T07:24:50.388Z] Customer: Okay. Then make three as egg egg bigger.
+
+[2025-07-12T07:24:50.388Z] AI Agent: So, to confirm, for the Breakfast Bundle, you'd like 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and the remaining 2 will be Everything Bagels. That's a total of 13 bagels. Next, you'll need to choose 2 tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, 
+
+[2025-07-12T07:24:50.389Z] Customer: One plain, one, blueberry cream cheese.
+
+[2025-07-12T07:24:50.389Z] AI Agent: For the Breakfast Bundle, you've chosen 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and 2 Everything Bagels. And for the cream cheese, you'd like one Plain Cream Cheese and one Strawberry Cream Cheese. Next, you'll need to
+
+[2025-07-12T07:24:50.389Z] Customer: I said blueberry blueberry cream cheese.
+
+[2025-07-12T07:24:50.389Z] AI Agent: We don't have Blueberry Cream Cheese on our menu. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, and Strawberry Cream Cheese, among others. Would you like to choose a different flavor for your second tub of cream cheese?
+
+[2025-07-12T07:24:50.389Z] Customer: Yeah. Strawberry. Then make it strawberry.
+
+[2025-07-12T07:24:50.389Z] AI Agent: So, to confirm, for the Breakfast Bundle, you'd like 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and 2 Everything Bagels. And for the cream cheese, you'd like one Plain Cream Cheese and one Strawberry Cream Cheese. Next, you'll need to choose 4 muffins. We have Blueberry, Corn,
+
+[2025-07-12T07:24:50.389Z] Customer: All all all as the chocolate chip, Mahan.
+
+[2025-07-12T07:24:50.390Z] AI Agent: For the Breakfast Bundle, you've chosen 5 Poppy Bagels, 3 Garlic
+
+[2025-07-12T07:24:50.390Z] Customer: Yeah.
+
+[2025-07-12T07:24:50.390Z] AI Agent: For the Breakfast Bundle, you've chosen 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and 2 Everything Bagels. And for the cream cheese, you'd like one Plain Cream Cheese and one Strawberry Cream Cheese. You've also chosen 4 Chocolate Chip Muffins. Is there anything else I can get for you today?
+
+[2025-07-12T07:24:50.390Z] Customer: Box of muffins, box of coffee is missing. Right?
+
+[2025-07-12T07:24:50.390Z] AI Agent: You're thinking of adding a Box of Coffee to your order. That's a great idea. For the Box of Coffee, you can choose from House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Would you like to add a
+
+[2025-07-12T07:24:50.391Z] Customer: He's in it.
+
+[2025-07-12T07:24:50.391Z] AI Agent: For the Breakfast Bundle, you've chosen 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and 2 Everything Bagels. And for the cream cheese, you'd like one Plain Cream Cheese and one Strawberry Cream Cheese. You've also chosen 4 Chocolate Chip Muffins. And you'd like to add a Box of Coffee, with the House Blend. Is there anything else I can get for you today?
+
+[2025-07-12T07:24:50.391Z] Customer: No. All set now.
+
+[2025-07-12T07:24:50.391Z] AI Agent: Perfect, let me get that all put together for you.
+
+[2025-07-12T07:24:50.391Z] Customer: Hello?
+
+[2025-07-12T07:24:50.394Z] AI Agent: ERROR: Tool timed out
+
+[2025-07-12T07:24:50.397Z] Customer: Hello?
+
+[2025-07-12T07:24:50.398Z] Customer: Hello?
+
+[2025-07-12T07:24:50.398Z] AI Agent: OK

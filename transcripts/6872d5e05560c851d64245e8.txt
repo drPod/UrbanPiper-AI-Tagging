@@ -1,0 +1,70 @@
+Call ID: 6872d5e05560c851d64245e8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T21:38:40.670Z
+End Time: 2025-07-12T21:40:43.229Z
+Duration: 118 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a customized Chicken Cuban sandwich and a hot coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T21:40:42.116Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T21:40:42.116Z] Customer: I want to order chicken Cuban and, yeah, hot coffee.
+
+[2025-07-12T21:40:42.117Z] AI Agent: Great choice! The Chicken Cuban sandwich and a hot coffee. Anything else you'd like with that?
+
+[2025-07-12T21:40:42.117Z] Customer: No. No.
+
+[2025-07-12T21:40:43.229Z] Unknown: [2025-07-12T21:40:42.117Z] assistant: Perfect! I have one Chicken Cuban sandwich and one hot coffee for you. Now let me help you customize each one exactly how you like it.  
+
+
+[2025-07-12T21:40:42.117Z] AI Agent: Moving to item customization stage...
+
+[2025-07-12T21:40:43.229Z] Unknown: [2025-07-12T21:40:42.117Z] assistant: Let's start with your **Chicken Cuban sandwich**. We'll go through each part to customize it just right.  
+
+For the **bagel**, you can choose from:  
+- Plain  
+- Everything  
+- Blueberry  
+- Cinnamon Raisin  
+
+Which one would you like?
+
+[2025-07-12T21:40:42.117Z] Customer: I I I think the first one.
+
+[2025-07-12T21:40:43.229Z] Unknown: [2025-07-12T21:40:42.117Z] assistant: Perfect! Plain bagel. Now for the **cheese**, you can choose:  
+- American  
+- Swiss (+ $0.75)  
+- Cheddar (+ $0.75)  
+- Provolone (+ $0.75)  
+
+What would you like?
+
+[2025-07-12T21:40:42.118Z] Customer: General.
+
+[2025-07-12T21:40:43.229Z] Unknown: [2025-07-12T21:40:42.118Z] assistant: Perfect! American cheese. Now for the **toast**, you can choose:  
+- Toasted  
+- Lightly Toasted  
+- Toasted Dark  
+- No Toast  
+
+How would you like your sandwich toasted?
+
+[2025-07-12T21:40:42.118Z] Customer: Let me give it to me, like, that poster.
+
+[2025-07-12T21:40:43.229Z] Unknown: [2025-07-12T21:40:42.118Z] assistant: Perfect! Toasted. Now for the **condiments**, you can choose up to 10 from:  
+- Salt  
+- Pepper  
+- Ketchup  
+- Mayo  
+- Mustard  
+
+Which ones would you like?
+
+[2025-07-12T21:40:42.118Z] Customer: Mustard.
+
+[2025-07-12T21:40:42.118Z] AI Agent: Perfect! Mustard. Now for the **add vegetables**, you can choose up to 11 from: - Lettuce (+ $1.00) - Tomato (+ $1.00) - Red Onions (+

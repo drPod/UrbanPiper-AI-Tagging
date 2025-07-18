@@ -1,0 +1,76 @@
+Call ID: 6852c548cb9e39794cf80bdf
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T13:55:20.185Z
+End Time: 2025-06-18T14:00:19.614Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered a Half Dozen Bagels with various types, including Gluten Free, and the order was successfully placed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T14:00:18.282Z] AI Agent: Hello Irfan, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T14:00:18.282Z] Customer: Hey. Hi. What did you pronounce my name? My name is Jatin. Okay?
+
+[2025-06-18T14:00:18.282Z] AI Agent: I apologize for the mistake, Jitin. I'll make sure to get it right this time. Before we begin, may I confirm that your contact number is +918949862707?
+
+[2025-06-18T14:00:18.282Z] Customer: It's right.
+
+[2025-06-18T14:00:18.282Z] AI Agent: Great, thank you for confirming, Jitin. Now, what can I get for you today? Would you like to order something or do you have any questions about our menu?
+
+[2025-06-18T14:00:18.282Z] Customer: I'd like to order, a half dozen bagel.
+
+[2025-06-18T14:00:18.283Z] AI Agent: I'll check what options we have for a half-dozen bagels. Let me see what we have. 
+
+[2025-06-18T14:00:18.283Z] AI Agent: We have a Half Dozen Bagels option for $8.94. For the bagel selection, I can offer you Plain, Everything, or Asiago for $0.50 extra. Which ones would you like?
+
+[2025-06-18T14:00:18.283Z] Customer: Can I have more workers?
+
+[2025-06-18T14:00:18.283Z] AI Agent: We have many more options for the Half Dozen Bagels. In addition to Plain, Everything, and Asiago, we also have Bagel Stick for $0.50 extra, Bialy for $0.50 extra, Blueberry, California for $0.50 extra, Cheesy Hashbrown Roll for $0.50 extra, and many more. Would you like to hear a few more options or would you like me to list all of them for you?
+
+[2025-06-18T14:00:18.283Z] Customer: Can I have, chocolate chips, garlic, and egg everything?
+
+[2025-06-18T14:00:19.614Z] Unknown: [2025-06-18T14:00:18.283Z] assistant: For the Half Dozen Bagels, I can make you a selection with Chocolate Chip, Garlic, and Egg Everything. The total price will be $8.94 for the Half Dozen Bagels, with no extra charge for the Chocolate Chip, Garlic, and Egg Everything options. 
+
+Let me update your order with the Half Dozen Bagels and the selected bagel types. 
+
+[2025-06-18T14:00:18.284Z] AI Agent: Your current order is a Half Dozen Bagels with Chocolate Chip, Garlic, and Egg Everything for a total of $8.94. Is that all for today, or would you like to add anything else?
+
+[2025-06-18T14:00:18.284Z] Customer: How's it like I want to know, like, how many bakers I can select.
+
+[2025-06-18T14:00:18.284Z] AI Agent: For the Half Dozen Bagels, you can select up to 6 different bagel types. Since you've already chosen 3 types - Chocolate Chip, Garlic, and Egg Everything - you have 3 more selections available if you'd like to add them. Would you like to add any other types or stick with these 3?
+
+[2025-06-18T14:00:18.284Z] Customer: Yeah. See, gluten free, poppy, and, salt.
+
+[2025-06-18T14:00:19.614Z] Unknown: [2025-06-18T14:00:18.284Z] assistant: For the Half Dozen Bagels, I can add Gluten Free, Poppy, and Salt to your selection. The Gluten Free option is $1.49 extra per bagel. 
+
+So, your updated selection is: Chocolate Chip, Garlic, Egg Everything, Gluten Free, Poppy, and Salt. 
+
+Let me update your order with the new bagel types. 
+
+[2025-06-18T14:00:18.284Z] Customer: 
+
+[2025-06-18T14:00:18.285Z] AI Agent: For the Half
+
+[2025-06-18T14:00:18.285Z] Customer: 
+
+[2025-06-18T14:00:18.285Z] AI Agent: Let me update your order to reflect the correct total with the additional bagel types and the Gluten Free option. 
+
+[2025-06-18T14:00:18.285Z] Customer: 
+
+[2025-06-18T14:00:18.285Z] AI Agent: Your current order isa Half Dozen Bagels with Chocolate Chip, Garlic, Egg Everything, Gluten Free, Poppy, and Salt. The total price for this order is $8.94 for the Half Dozen Bagels, plus $1.49 for the Gluten Free bagel, making it a total of $10.43. Before I place your order, I just need to confirm a few details. Your name is Jitin, and your contact number is +918949862707, correct? Also, would you like to pay with
+
+[2025-06-18T14:00:18.285Z] Customer: Yep.
+
+[2025-06-18T14:00:18.285Z] AI Agent: I'll go ahead and place your order. 
+
+[2025-06-18T14:00:18.286Z] AI Agent: Your order number is 6-2-3-2-6-9. Your order total is $9.83, which includes a subtotal of $8.94 and $0.89 in tax. Is there anything else I can help you with?
+
+[2025-06-18T14:00:18.286Z] Customer: No. All good.
+
+[2025-06-18T14:00:18.286Z] AI Agent: You're all set, Jitin. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, have a great day and enjoy your Half Dozen Bagels. Goodbye. 
+
+[2025-06-18T14:00:18.286Z] AI Agent: OK

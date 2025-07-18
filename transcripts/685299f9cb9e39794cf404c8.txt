@@ -1,0 +1,44 @@
+Call ID: 685299f9cb9e39794cf404c8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T10:50:33.791Z
+End Time: 2025-06-18T10:52:54.093Z
+Duration: 180 seconds
+From: +917014838195
+To: +16204558091
+Summary: The customer ordered an everything bagel and chips, but the everything bagel was not found in the menu, so the order could not be completed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T10:52:53.723Z] AI Agent: Hello Nitin, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T10:52:53.723Z] Customer: Yeah. Could you please, place my order? Like, I want one bagel with everything and one chips.
+
+[2025-06-18T10:52:53.723Z] AI Agent: I'd be happy to help you with that, Nitin. Let me just check on the availability of everything bagels and chips. 
+
+[2025-06-18T10:52:53.723Z] AI Agent: I've found several items that match your request. Our popular sandwiches include the Ellis Island Hot Pastrami Sandwich for $10.99, the Big City BLT for $9.49, and the Avocado BLT Sandwich for $9.99. Would you like to hear about more options?
+
+[2025-06-18T10:52:53.724Z] Customer: Yes.
+
+[2025-06-18T10:52:54.092Z] Unknown: [2025-06-18T10:52:53.724Z] assistant: We also have the Chicken Salad Sandwich for $9.49, the East Side Egg Salad Sandwich for $9.49, and the South Street Whitefish Salad Sandwich for $9.99. Additionally, we have the Empire State Turkey Club for $10.99, the Great White Tuna Sandwich for $9.49, and the Ham Sandwich for $9.49. 
+
+Now, let me check on the availability of everything bagels.
+
+[2025-06-18T10:52:54.092Z] Unknown: [2025-06-18T10:52:53.724Z] assistant: I've found several items that match your request. Our popular bagels include the Everything Bagel for $1.49, the Cinnamon Raisin Bagel for $1.49, and the Sesame Bagel for $1.49. Would you like to hear about more options? 
+
+Now, let me check on the availability of chips.
+
+[2025-06-18T10:52:53.724Z] AI Agent: I've found several it
+
+[2025-06-18T10:52:53.724Z] Customer: Okay.
+
+[2025-06-18T10:52:54.093Z] Unknown: [2025-06-18T10:52:53.725Z] assistant: I've found several items that match your request. Our popular bagels include the Everything Bagel for $1.49, the Cinnamon Raisin Bagel for $1.49, and the Sesame Bagel for $1.49. We also have chips available for $1.19. Would you like to order any of these items? 
+
+Now, let me update your order with the everything bagel and chips. 
+
+[2025-06-18T10:52:53.725Z] AI Agent: ERROR: 400 - {"success":false,"error":"Item \"Everything Bagel\" not found in menu.","item":"Everything Bagel"}
+
+[2025-06-18T10:52:54.093Z] Unknown: [2025-06-18T10:52:53.725Z] assistant: I apologize for the mistake. It seems that the "Everything Bagel" item was not found in the menu. Let me try again to update your order. 
+
+First, I will search for the everything bagel again. 

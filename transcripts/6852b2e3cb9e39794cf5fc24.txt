@@ -1,0 +1,120 @@
+Call ID: 6852b2e3cb9e39794cf5fc24
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T12:36:51.009Z
+End Time: 2025-06-18T12:44:58.547Z
+Duration: 540 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rahul ordered a Cheese Sandwich and a Cold Brew Iced Coffee from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T12:44:56.281Z] AI Agent: Hello Rohan, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T12:44:56.281Z] Customer: Hello. My name is Rahul.
+
+[2025-06-18T12:44:56.281Z] AI Agent: May I have your name for the order, please?
+
+[2025-06-18T12:44:56.281Z] Customer: My name is Rahul.
+
+[2025-06-18T12:44:56.283Z] AI Agent: Hi Rahul, what can I get for you today at Manhattan Bagel?
+
+[2025-06-18T12:44:56.283Z] Customer: Yeah. I want to order some wrap in my dinner.
+
+[2025-06-18T12:44:56.284Z] AI Agent: I found a few wraps for you. We have the Buffalo Grilled Chicken Wrap, the Balsamic Grilled Chicken Wrap, and the Omelet Wrap. Which one of these wraps sounds good to you?
+
+[2025-06-18T12:44:56.284Z] Customer: Do you have some vegetarian options?
+
+[2025-06-18T12:44:56.284Z] AI Agent: I wasn't able to find any vegetarian wraps. Let me try searching for something else. Would you like me to look for vegetarian sandwiches or flatbreads?
+
+[2025-06-18T12:44:56.285Z] Customer: Okay. Tell me sandwiches.
+
+[2025-06-18T12:44:56.285Z] AI Agent: I found a few vegetarian sandwich options for you. We have the Avocado Veg Out, the Garden Avocado Egg White Sandwich, and the Cheese Sandwich. The Avocado Veg Out is nine dollars and forty-nine cents, the Garden Avocado Egg White Sandwich is seven dollars and forty-nine cents, and the Cheese Sandwich is seven dollars and ninety-nine cents. Which one of these sandwiches sounds good to you?
+
+[2025-06-18T12:44:56.285Z] Customer: But the second one contains egg that is also non vegetarian.
+
+[2025-06-18T12:44:56.285Z] AI Agent: You are correct that the Garden Avocado Egg White
+
+[2025-06-18T12:44:56.285Z] Customer: 
+
+[2025-06-18T12:44:56.285Z] AI Agent: I found a few options that are vegetarian. We have the Avocado Veg Out for nine dollars and forty-nine cents. Would you like to try that?
+
+[2025-06-18T12:44:56.285Z] Customer: Is there any other options for vegetative and sedentures?
+
+[2025-06-18T12:44:56.286Z] AI Agent: I found a few options that are vegetarian. We have the Avocado Veg Out for nine dollars and forty-nine cents, and the Garden Avocado Egg White Sandwich is not vegetarian since it has egg. Another option is to customize a Cheese Sandwich, which is seven dollars and ninety-nine cents. Which one of these options sounds good to you?
+
+[2025-06-18T12:44:56.286Z] Customer: Add a cheese sandwich in my order.
+
+[2025-06-18T12:44:56.286Z] AI Agent: I've added a Cheese Sandwich to your order. Your current total is $7.99. Would you like to add any other items or proceed with your order?
+
+[2025-06-18T12:44:56.286Z] Customer: Is there any modifiers in cheese sandwich?
+
+[2025-06-18T12:44:56.287Z] AI Agent: Yes, there are several modifiers available for the Cheese Sandwich. What type of cheese would you like on your sandwich? We have American, Swiss, Pepper Jack, Cheddar, Muenster, and Provolone.
+
+[2025-06-18T12:44:56.287Z] Customer: Go third one.
+
+[2025-06-18T12:44:56.287Z] AI Agent: You've chosen the third option, which is Pepper Jack cheese. Next, would you like to choose a bread option? We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, and many more. Which one would you like?
+
+[2025-06-18T12:44:56.287Z] Customer: Go with cheesy
+
+[2025-06-18T12:44:56.287Z] AI Agent: You've chosen the Cheesy Jalapeno Bacon Roll. Next, would you like to add any lunch sides? We have Chips, Cole Slaw, or Lays Chips. Which one would you like?
+
+[2025-06-18T12:44:56.287Z] Customer: 
+
+[2025-06-18T12:44:56.287Z] AI Agent: You've chosen Chips as your side. Next, would you like your sandwich to be toasted, lightly toasted, or not toasted at all?
+
+[2025-06-18T12:44:56.287Z] Customer: Lightly toasted.
+
+[2025-06-18T12:44:58.547Z] Unknown: [2025-06-18T12:44:56.287Z] assistant: You've chosen to have your sandwich lightly toasted. Next, would you like to add any extra cheese? We have an option for extra cheese for $1.49. 
+
+Also, would you like to add any vegetables to your sandwich? We have options like avocado, spinach, cucumber, and more.
+
+[2025-06-18T12:44:56.287Z] Customer: What are the other options?
+
+[2025-06-18T12:44:56.288Z] AI Agent: We have a variety of vegetables to choose from. You can add lettuce, tomato, onion, avocado, spinach, cucumber, green peppers, roasted red peppers, grilled yellow onions, jalapeno peppers, or capers to your sandwich. Which one of these options sounds good to you?
+
+[2025-06-18T12:44:56.288Z] Customer: At Lettuce.
+
+[2025-06-18T12:44:58.547Z] Unknown: [2025-06-18T12:44:56.288Z] assistant: I've added lettuce to your Cheese Sandwich. So, to recap, you have a Cheese Sandwich with Pepper Jack cheese, on a Cheesy Jalapeno Bacon Roll, lightly toasted, with chips as your side, and lettuce added to your sandwich. 
+
+Would you like to confirm your order or make any changes?
+
+[2025-06-18T12:44:56.288Z] Customer: No. Confirm it.
+
+[2025-06-18T12:44:56.288Z] AI Agent: Your order has been placed successfully. Your order number is 3 9 8 3 5 4. Your order total is $8.79, which includes a subtotal of $8.79 and $0.80 in tax. Is there anything else I can help you with?
+
+[2025-06-18T12:44:56.288Z] AI Agent: I hope
+
+[2025-06-18T12:44:56.288Z] Customer: Yeah. I want to also add some cold drink.
+
+[2025-06-18T12:44:56.288Z] AI Agent: I found a few cold drink options for you. We have Ice Coffee or Tea, Hot Coffee or Tea, and Cold Brew Iced Coffee. Which one of these drinks sounds good to you?
+
+[2025-06-18T12:44:56.289Z] AI Agent: I hope you are still with me!
+
+[2025-06-18T12:44:56.289Z] Customer: Go with cold brew iced coffee.
+
+[2025-06-18T12:44:56.289Z] AI Agent: I've added a Cold Brew Iced Coffee to your
+
+[2025-06-18T12:44:56.289Z] Customer: Yeah. Go with cold brew iced coffee.
+
+[2025-06-18T12:44:56.289Z] AI Agent: You've chosen Cold Brew Iced Coffee.
+
+[2025-06-18T12:44:56.291Z] Customer: Add cold brew.
+
+[2025-06-18T12:44:56.294Z] Customer: Okay.
+
+[2025-06-18T12:44:56.294Z] Customer: Yeah.
+
+[2025-06-18T12:44:56.294Z] AI Agent: Your order has been placed successfully. Your order number is 2 0 7 4 3 9. Your subtotal is $0.00. The final total with tax will be confirmed shortly. Is there anything else I can help you with?
+
+[2025-06-18T12:44:56.294Z] AI Agent: I hope you are still with me!
+
+[2025-06-18T12:44:56.294Z] AI Agent: Thank you for calling. Have a great day.
+
+[2025-06-18T12:44:56.295Z] Customer: Okay. Thank you.
+
+[2025-06-18T12:44:56.295Z] AI Agent: OK
+
+[2025-06-18T12:44:56.295Z] Customer: 

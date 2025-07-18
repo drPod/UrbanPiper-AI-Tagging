@@ -1,0 +1,18 @@
+Call ID: 6879b7d6970f265df9e6aede
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T02:56:22.914Z
+End Time: 2025-07-18T02:56:51.710Z
+Duration: 26 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha ordered a Big Breakfast Burrito from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T02:56:51.516Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T02:56:51.516Z] Customer: Hey. Hi. Yeah. Actually, I want to order big breakfast burrito.
+
+[2025-07-18T02:56:51.517Z] AI Agent: That would be our Big Breakfast Burrito on the menu. I'll add the Big Breakfast Burrito for you. Now, let's customize it. The Big Breakfast Burrito comes with scrambled

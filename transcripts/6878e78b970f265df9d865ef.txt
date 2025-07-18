@@ -1,0 +1,48 @@
+Call ID: 6878e78b970f265df9d865ef
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T12:07:39.252Z
+End Time: 2025-07-17T12:09:41.416Z
+Duration: 120 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a small Tropicana orange juice at manhattan_bagel_864915 and the order was successfully submitted.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T12:09:41.131Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T12:09:41.131Z] Customer: Can you give me, orange juice?
+
+[2025-07-17T12:09:41.131Z] AI Agent: We have Tropicana orange juice. Would you like the 11-ounce size for $3.79 or the 46-ounce size for $7.99?
+
+[2025-07-17T12:09:41.131Z] Customer: I need,
+
+[2025-07-17T12:09:41.131Z] AI Agent: That would be our Small Tropicana Orange Juice, which is 11 ounces. I'll add that for you. Would you like to order anything else today?
+
+[2025-07-17T12:09:41.131Z] Customer: No. That's it for now.
+
+[2025-07-17T12:09:41.132Z] AI Agent: Just a moment while I add that up... 
+
+[2025-07-17T12:09:41.132Z] AI Agent: Your total for the small Tropicana orange juice comes to $3.79. Would you like to pay now or is there anything else I can get for you? 
+
+[2025-07-17T12:09:41.132Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T12:09:41.132Z] AI Agent: I'm going to finalize your order now. And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T12:09:41.132Z] Customer: No. I don't have any allergy. Thank you so much for asking.
+
+[2025-07-17T12:09:41.132Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-17T12:09:41.132Z] Customer: No. I don't need that.
+
+[2025-07-17T12:09:41.132Z] AI Agent: Great. Placing that for you now, please hold on... 
+
+[2025-07-17T12:09:41.133Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 532513. That's 5, 3, 2, 5, 1, 3.", 'order_id': '532513', 'call_id': '3a3069b7-52bc-4770-a628-3583f02ef264', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981849-d769-ced9-1065-466347e5f3a2'}
+
+[2025-07-17T12:09:41.133Z] AI Agent: Your order number is 5, 3, 2, 5, 1, 3. Your total is $3.79 including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-17T12:09:41.133Z] Customer: No. Thank you so much.
+
+[2025-07-17T12:09:41.133Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and enjoy your orange juice!

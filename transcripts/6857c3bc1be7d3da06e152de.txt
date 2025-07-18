@@ -1,0 +1,50 @@
+Call ID: 6857c3bc1be7d3da06e152de
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T08:50:04.090Z
+End Time: 2025-06-22T08:52:41.076Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered a Breakfast Bundle with specific cream cheese flavors, muffin types, and bagel choices.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T08:52:40.167Z] AI Agent: Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T08:52:40.168Z] Customer: Breakfast bundle?
+
+[2025-06-22T08:52:40.168Z] AI Agent: The Breakfast Bundle, a fantastic choice. That comes with thirteen fresh-baked Manhattan Bagels, two tubs of cream cheese, and four muffins. You can also make it extra special by adding four ounces of premium Acme smoked nova for just nine dollars and ninety-nine cents. Would you like to add the smoked nova?
+
+[2025-06-22T08:52:40.168Z] Customer: No. I don't want that.
+
+[2025-06-22T08:52:40.168Z] AI Agent: Alright, no problem. Let's start with your choices for the **two tubs of cream cheese** that come with the bundle. Let me get the flavor options for you...
+
+[2025-06-22T08:52:40.168Z] Customer: Okay.
+
+[2025-06-22T08:52:40.168Z] AI Agent: Let me see what we have for the cream cheese flavors... 
+
+[2025-06-22T08:52:40.168Z] AI Agent: For the cream cheese, we have several flavors. You can pick two. To start, some popular ones are Plain, Vegetable, or Scallion. Do any of those sound good, or would you like to hear a few more?
+
+[2025-06-22T08:52:40.169Z] Customer: Plain and vegetable are good for me.
+
+[2025-06-22T08:52:40.169Z] AI Agent: Got it, Plain and Vegetable cream cheese. Next up for your Breakfast Bundle are the **four muffins**. Let me see what muffin flavors we have today... 
+
+[2025-06-22T08:52:40.169Z] AI Agent: For the muffins, you can choose four. Some options are Blueberry, Corn, or Double Chocolate. What sounds good?
+
+[2025-06-22T08:52:40.169Z] Customer: Muffins, blueberry, and, two chocolate chips.
+
+[2025-06-22T08:52:40.169Z] AI Agent: Got it, two Blueberry and two Chocolate Chip muffins. And finally for the Breakfast Bundle, we need to choose your **thirteen bagels**. Let me get the list of bagel types... 
+
+[2025-06-22T08:52:40.170Z] AI Agent: For the bagels, you can choose thirteen. Some popular options are Everything, Plain, or Sesame. What sounds good?
+
+[2025-06-22T08:52:40.170Z] Customer: 13, sesame.
+
+[2025-06-22T08:52:41.076Z] Unknown: [2025-06-22T08:52:40.170Z] assistant: Thirteen Sesame bagels it is.
+
+Alright! So that's the Breakfast Bundle with Plain and Vegetable cream cheese, two Blueberry and two Chocolate Chip muffins, and thirteen Sesame bagels. Perfect, let me add that to your order... 
+
+[2025-06-22T08:52:40.170Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-22T08:52:40.170Z] AI Agent: I'll make sure to get this order placed for you. Let me just confirm a few details. You've ordered a Breakfast Bundle with Plain and Vegetable cream cheese, two Blueberry and two Chocolate Chip muffins,

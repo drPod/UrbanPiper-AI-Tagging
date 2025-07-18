@@ -1,0 +1,50 @@
+Call ID: 6856fc7f1be7d3da06d80fbb
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T18:39:59.657Z
+End Time: 2025-06-21T18:42:11.356Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a medium hot tea with half and half, but the order could not be placed due to an internal server error.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T18:42:11.077Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T18:42:11.078Z] Customer: I want to order hot tea.
+
+[2025-06-21T18:42:11.078Z] AI Agent: The hot tea, excellent choice. Let me get the options for your hot tea...
+
+[2025-06-21T18:42:11.078Z] AI Agent: You have several options for your hot tea. For the size, we have small, 12 ounces for $1.99, medium, 16 ounces for $2.49, large, 20 ounces for $2.99, and X-large, 24 ounces for $3.49. Which size would you like?
+
+[2025-06-21T18:42:11.078Z] Customer: Medium size.
+
+[2025-06-21T18:42:11.078Z] AI Agent: For the roast, we have House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, and Tea. Which one would you prefer?
+
+[2025-06-21T18:42:11.078Z] Customer: Rusty.
+
+[2025-06-21T18:42:11.078Z] AI Agent: You've chosen the Tea option for your hot tea. Now, let's move on to the milk choice. We have Regular Milk, Half & Half, Skim, Almond, Oat Milk, and Soy. Which one would you like?
+
+[2025-06-21T18:42:11.078Z] Customer: Half and half.
+
+[2025-06-21T18:42:11.078Z] AI Agent: You've chosen Half & Half for your hot tea. Next, let's consider any sweeteners or syrups. We have Sugar, Sweet & Low, Equal, Splenda,
+
+[2025-06-21T18:42:11.078Z] Customer: Not needed. Not needed.
+
+[2025-06-21T18:42:11.078Z] AI Agent: You don't need any sweeteners or syrups for your hot tea. Perfect, let me add that to your order...
+
+[2025-06-21T18:42:11.079Z] AI Agent: Added 1 item(s) to your cart. Total: $4.98
+
+[2025-06-21T18:42:11.079Z] AI Agent: Your hot tea has been added to the order. Your total comes out to be $2.49. Would you like to order anything else?
+
+[2025-06-21T18:42:11.079Z] Customer: Is it placed? Order is placed?
+
+[2025-06-21T18:42:11.079Z] AI Agent: Not yet, I just added the hot tea to your order. To place the order, I'll need to confirm a few details with you. Alright, let me get this order placed for you...
+
+[2025-06-21T18:42:11.080Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-21T18:42:11.080Z] AI Agent: I apologize, but it seems like there's been an error placing your order. Let me try again. Alright, let me get this order placed for you...
+
+[2025-06-21T18:42:11.080Z] AI Agent: ERROR: 500 - Internal Server Error

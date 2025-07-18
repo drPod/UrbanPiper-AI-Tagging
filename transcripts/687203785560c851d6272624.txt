@@ -1,0 +1,40 @@
+Call ID: 687203785560c851d6272624
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T06:40:56.386Z
+End Time: 2025-07-12T06:44:09.888Z
+Duration: 190 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel, customizing it with 13 bagels, 2 cream cheeses, and 4 muffins.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T06:44:09.656Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T06:44:09.656Z] Customer: I'm thinking to order breakfast bundle.
+
+[2025-07-12T06:44:09.656Z] AI Agent: The Breakfast Bundle is a great choice It comes with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You'll need to pick just one type of bagel for your bundle. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, and more. Which type of bagel would you like?
+
+[2025-07-12T06:44:09.657Z] Customer: Okay. I want, five sesame, two vanilla, one, everything, and rest, as everything bagel.
+
+[2025-07-12T06:44:09.888Z] Unknown: [2025-07-12T06:44:09.657Z] assistant: You'd like 5 Sesame bagels, 2 Vanilla bagels, 1 Everything bagel, and the rest as Everything bagels. That's a total of 13 bagels, which fits perfectly with the Breakfast Bundle. 
+
+Now, let's move on to the cream cheese. You'll need to choose 2 types of cream cheese for your bundle. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, and more. Which 2 types of cream cheese would you like?
+
+[2025-07-12T06:44:09.657Z] Customer: What? What? What? What? What? What? Sorry. Can you please repeat it again?
+
+[2025-07-12T06:44:09.888Z] Unknown: [2025-07-12T06:44:09.657Z] assistant: You'd like 5 Sesame bagels, 2 Vanilla bagels, 1 Everything bagel, and the rest as Everything bagels. That's a total of 13 bagels, which fits perfectly with the Breakfast Bundle.
+
+Now, let's move on to the cream cheese. You'll need to choose 2 types of cream cheese for your bundle. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, and more. Which 2 types of cream cheese would you like?
+
+[2025-07-12T06:44:09.657Z] Customer: I want, jalapeno cream cheese.
+
+[2025-07-12T06:44:09.658Z] AI Agent: You'd like one of the cream cheeses
+
+[2025-07-12T06:44:09.658Z] Customer: And, one butter butter.
+
+[2025-07-12T06:44:09.888Z] Unknown: [2025-07-12T06:44:09.658Z] assistant: You'd like Jalapeño Cream Cheese as one of your cream cheeses, and Butter as the second one. 
+
+Now, let's move on to the muffins. You get to choose 4 muffins with your Breakfast Bundle. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which 4 muffins would you like?

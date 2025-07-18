@@ -1,0 +1,66 @@
+Call ID: 687277595560c851d638a753
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T14:55:21.315Z
+End Time: 2025-07-12T14:59:42.180Z
+Duration: 259 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer ordered a Breakfast Bundle and added a box of coffee to their order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T14:59:41.705Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T14:59:41.705Z] Customer: I'm looking to order, breakfast bundle.
+
+[2025-07-12T14:59:41.705Z] AI Agent: The Breakfast Bundle is a fantastic choice. For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?
+
+[2025-07-12T14:59:41.705Z] Customer: K. I need five sesame, five, plain, and two garlic, one vanilla, one blueberry.
+
+[2025-07-12T14:59:41.705Z] AI Agent: Perfect. That's eight bagels so far with five Sesame, five Plain, two Garlic, one Vanilla, and one Blueberry. We still need to pick five more to complete the set of thirteen. We also have Everything, Cinnamon Raisin, Onion, Poppy, and Multigrain. How many of each would you like?
+
+[2025-07-12T14:59:41.705Z] Customer: Okay. So you can add, you know, two more vanilla burgers.
+
+[2025-07-12T14:59:41.706Z] AI Agent: We now have a total of ten bagels with the additional two Vanilla bagels. To complete the set of thirteen, we still need to pick three more. We have options like
+
+[2025-07-12T14:59:41.706Z] Customer: You can, you can add rest rest as vanilla बेगल then.
+
+[2025-07-12T14:59:41.706Z] AI Agent: So, to confirm, you'd like to add three more Vanilla bagels to complete the set of thirteen. That brings us to a total of five Vanilla bagels, five Sesame, five Plain, two Garlic, and one
+
+[2025-07-12T14:59:41.706Z] Customer: But do we have any label?
+
+[2025-07-12T14:59:41.706Z] AI Agent: I don't see
+
+[2025-07-12T14:59:41.706Z] Customer: Do you have any lab? Yeah. Go ahead, please.
+
+[2025-07-12T14:59:41.757Z] AI Agent: I don't see Vanilla bagel on our menu. We have Plain, Everything, Sesame, and other options. Would you like to choose from those instead?
+
+[2025-07-12T14:59:41.757Z] Customer: Okay. So, yeah, we can move ahead. Sorry.
+
+[2025-07-12T14:59:41.757Z] AI Agent: Let's move forward with the Breakfast Bundle. We had five Sesame, five Plain, two Garlic, and one Blueberry. To complete the thirteen bagels, you can choose from our available options like Everything, Cinnamon Raisin, Onion, Poppy, or Multigrain. Which ones would you like to add?
+
+[2025-07-12T14:59:41.761Z] Customer: This can be poppy bagels is good.
+
+[2025-07-12T14:59:41.762Z] AI Agent: For the remaining three bagels, you'd like to add Poppy bagels. So, to confirm, your Breakfast Bundle will include five Sesame bagels, five Plain bagels, two Garlic bagels, one Blueberry bagel, and three Poppy bagels. Next, you'll need to choose two tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Scallion Cream Cheese, and other flavors. Which two would you like?
+
+[2025-07-12T14:59:41.762Z] Customer: One plain, one apple flare, green peas.
+
+[2025-07-12T14:59:41.762Z] AI Agent: I don't see Apple Cinnamon Cream Cheese on our menu. We have Plain Cream Cheese, Vegetable Cream Cheese, Scallion Cream Cheese, and other flavors. Would you like to choose from those instead?
+
+[2025-07-12T14:59:41.763Z] Customer: Get me blueberry green cheese then.
+
+[2025-07-12T14:59:41.763Z] AI Agent: One Plain Cream Cheese and one Blueberry Cream Cheese. The Breakfast Bundle also comes with 4 muffins. We have Blueberry, Double Chocolate, Cinnamon Chip, and other flavors. Which 4 muffins would you like?
+
+[2025-07-12T14:59:41.764Z] Customer: All could can be chocolate chip.
+
+[2025-07-12T14:59:41.766Z] AI Agent: So, you'd like all four muffins to be Chocolate Chip. I've got that noted. Now, would you like to add anything else to your order, or is that all for today?
+
+[2025-07-12T14:59:41.766Z] Customer: 
+
+[2025-07-12T14:59:41.767Z] AI Agent: The Breakfast Bundle is a fantastic choice. For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon 
+
+[2025-07-12T14:59:41.767Z] Customer: We have already done that. Right? Why are you doing this again? I did not ask you to do that.
+
+[2025-07-12T14:59:41.767Z] AI Agent: You are correct, we had already completed the bagel selection for the Breakfast Bundle. I should not have repeated that step. To continue, you had asked for a box of coffee to add to your order.

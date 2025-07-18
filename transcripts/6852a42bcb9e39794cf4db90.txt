@@ -1,0 +1,20 @@
+Call ID: 6852a42bcb9e39794cf4db90
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T11:34:03.209Z
+End Time: 2025-06-18T11:34:41.307Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The call was a greeting and introduction between the Manhattan Bagel assistant and the customer, Tom, where the assistant asked for Tom's contact number.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T11:34:41.144Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It's great to see you again. How can I help you today?
+
+[2025-06-18T11:34:41.144Z] Customer: Hello? My name is Tom.
+
+[2025-06-18T11:34:41.144Z] AI Agent: Nice to meet you, Tom. Before we get started, may I please have your contact number so I can easily reach out to you about your order?
+
+[2025-06-18T11:34:41.145Z] Customer: Contact number is which is this? Contact number?

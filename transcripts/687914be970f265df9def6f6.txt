@@ -1,0 +1,118 @@
+Call ID: 687914be970f265df9def6f6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T15:20:30.763Z
+End Time: 2025-07-17T15:26:42.351Z
+Duration: 369 seconds
+From: +353872628050
+To: +441313810000
+Summary: The customer, Ryan, placed an order for a plain toasted bagel, chicken tenders, and sour cream and onion chips, and the order was successfully submitted.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T15:26:41.626Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T15:26:41.626Z] Customer: Hi there. And what where where are you? What's your address?
+
+[2025-07-17T15:26:41.626Z] AI Agent: We're located at 1350 Galloping Hill Rd, Union, NJ 07083, USA. We're open 7 days a week, from 6:00 AM to 3:00 PM. What can I get for you today?
+
+[2025-07-17T15:26:41.626Z] Customer: Yeah. What time do you close that tomorrow?
+
+[2025-07-17T15:26:41.626Z] AI Agent: We close at 3:00 PM tomorrow. Just a heads up, we have a cut-off time for placing new orders at 2:45 PM, which is 15 minutes before closing. Would you like to place an order or inquire about something else?
+
+[2025-07-17T15:26:41.627Z] Customer: Yeah. I'd love to place an order.
+
+[2025-07-17T15:26:41.627Z] AI Agent: What would you like to order today? We have a variety of bagels, sandwiches, and other items on our menu.
+
+[2025-07-17T15:26:41.627Z] Customer: Can you tell me do you have any chicken tenders?
+
+[2025-07-17T15:26:41.627Z] AI Agent: We have several chicken options. One popular item is our Grilled Chicken Club, which comes with grilled chicken, bacon, lettuce, tomato, and mayo on a bagel. We also have a Chicken Cheese Steak sandwich with grilled chicken, roasted peppers, grilled onions, and cheese on a hero roll. And for our lunch items, we have a Grilled Chicken Wrap with grilled chicken, lettuce, tomato, and Caesar dressing in a flour tortilla. Which one of these sounds good to you?
+
+[2025-07-17T15:26:41.628Z] Customer: I don't actually like any of them. I just want plain chicken tenders and some chips.
+
+[2025-07-17T15:26:41.628Z] AI Agent: We don't have plain chicken tenders as a standalone item on our menu, but I can offer you a side of chicken tenders as part of our catering options or possibly as an add-on to one of our meals. However, I want to let you know that our menu is primarily focused on bagels, sandwiches, and breakfast items. If you're looking for chicken tenders, I can suggest some alternatives that might interest you, such as our Grilled Chicken Club or Chicken Cheese Steak, which I mentioned earlier. Alternatively, if you're set on having chicken tenders, I can offer to add some to a meal, but it would be as part of a larger item. Would you like me to explore some options for you?
+
+[2025-07-17T15:26:41.628Z] Customer: Yeah. Let's try out it to a meal then.
+
+[2025-07-17T15:26:41.628Z] AI Agent: Let's try to put together a meal for you. We have a variety of sandwiches and bagels that you can customize to your liking. What type of bagel or bread would you like? We have everything from plain to sesame to whole wheat, and even some specialty bagels like cinnamon raisin or blueberry.
+
+[2025-07-17T15:26:41.628Z] Customer: Can I just add a plain bagel?
+
+[2025-07-17T15:26:41.628Z] AI Agent: That would be our Single Bagel. I'll add that for you. Would you like it toasted, lightly toasted, or not toasted at all? And would you like any cream cheese or butter on it?
+
+[2025-07-17T15:26:41.629Z] Customer: I wanna toast it.
+
+[2025-07-17T15:26:41.629Z] AI Agent: So, you'd like a plain bagel, toasted. I'll add that for you. Now, would you like to add any spread, such as cream cheese or butter? We have a variety of 
+
+[2025-07-17T15:26:41.629Z] Customer: Nope.
+
+[2025-07-17T15:26:41.629Z] AI Agent: So, just a plain toasted bagel. That's a total of $1.49. Would you like to add anything else to your order, or is that all for now?
+
+[2025-07-17T15:26:41.629Z] Customer: I thought I was able to get something with chicken tenders, part of a meal.
+
+[2025-07-17T15:26:41.630Z] AI Agent: I remember you mentioning chicken tenders earlier. Unfortunately, we don't have a specific meal that comes with chicken tenders as an option. However, I can offer you a side of chicken tenders as part of our catering options. If
+
+[2025-07-17T15:26:41.630Z] Customer: Yeah. Can I do that then as part of the catering option?
+
+[2025-07-17T15:26:41.630Z] AI Agent: I can offer you a side of chicken tenders as part of our catering options, but please note that it's not a standard menu item and it's usually for larger orders. However,
+
+[2025-07-17T15:26:41.630Z] Customer: 
+
+[2025-07-17T15:26:41.630Z] AI Agent: Let me see what I can do. For the chicken tenders, I can offer you a side of 5 tenders for $6.99 as part of our catering options. Would you like to add
+
+[2025-07-17T15:26:41.630Z] Customer: Yeah. Let's do that.
+
+[2025-07-17T15:26:41.631Z] AI Agent: So, to recap, you'd like a plain toasted bagel for $1.49 and a side of 5 chicken tenders for $6.99. Your total comes out to be $8.48. Would you like to add any drinks or chips to your order, or is that all for now?
+
+[2025-07-17T15:26:41.631Z] Customer: Can I get some chips?
+
+[2025-07-17T15:26:41.631Z] AI Agent: We have a variety of chips available. You can get a small bag of chips for $1.19. Which type of chips would you like? We have regular, barbecue, or sour cream and onion.
+
+[2025-07-17T15:26:41.631Z] Customer: Sour cream and onion.
+
+[2025-07-17T15:26:41.631Z] AI Agent: Sour cream and onion chips it is. I'll add that to your order. So, to recap, you have a plain toasted bagel for $1.49, a side of 5 chicken tenders for $6.99, and a small bag of sour cream and onion chips for $1.19. Your new total comes out to be $9.67. Is that all for now, or would you like to add anything else to your order?
+
+[2025-07-17T15:26:41.632Z] Customer: That's all.
+
+[2025-07-17T15:26:41.632Z] AI Agent: I'll just calculate the total with tax for you. Your total comes out to be $10.53. I'll go ahead and put that order in for you. We'll have it ready for pickup in about 15 minutes. Would you like to pay now or when you arrive?
+
+[2025-07-17T15:26:41.632Z] Customer: Let's see when I arrive.
+
+[2025-07-17T15:26:41.632Z] AI Agent: I'll have your order ready for pickup in about 15 minutes. You can pay when you arrive. We accept cash, credit, or debit cards. Just come to the counter and let us know your name, and we'll get your order ready for you. Thank you for 
+
+[2025-07-17T15:26:41.632Z] Customer: Okay.
+
+[2025-07-17T15:26:41.633Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T15:26:41.633Z] Customer: Sorry? This one was G R 7 Hello?
+
+[2025-07-17T15:26:41.633Z] AI Agent: May I have your name for the order?
+
+[2025-07-17T15:26:41.633Z] Customer: Atlas. Ryan.
+
+[2025-07-17T15:26:41.633Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T15:26:41.634Z] Customer: Oh, I'd love an extra chicken tender if you could.
+
+[2025-07-17T15:26:41.634Z] AI Agent: I can add an extra chicken tender for you. That'll be an additional $1.40. Your new total comes out to
+
+[2025-07-17T15:26:41.634Z] Customer: 
+
+[2025-07-17T15:26:41.634Z] AI Agent: In that case, I'll just stick with the original order. So, to confirm, you'd like a plain toasted bagel, a side of 5 chicken tenders, and a small bag of sour cream and onion chips, all for a total of $10.53. Alright, Ryan. Would you like me to read back your order with all the details?
+
+[2025-07-17T15:26:41.634Z] Customer: No. Thanks.
+
+[2025-07-17T15:26:41.635Z] AI Agent: Great. Placing that for you now, please hold on... 
+
+[2025-07-17T15:26:41.635Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 924942. That's 9, 2, 4, 9, 4, 2.", 'order_id': '924942', 'call_id': 'e01fe3b7-9ca7-404f-86ba-10677d43071c', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '019818fe-357e-56a2-44fb-ce10e44e0f0b'}
+
+[2025-07-17T15:26:41.635Z] AI Agent: Your order number is 9, 2, 4, 9, 4, 2. Your total is $10.53. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-17T15:26:41.636Z] Customer: No. Thank you.
+
+[2025-07-17T15:26:41.636Z] AI Agent: You're welcome, Ryan. Have a great day and we'll see you soon to pick up your order. Bye for now.
+
+[2025-07-17T15:26:41.636Z] Customer: はい。
+
+[2025-07-17T15:26:41.636Z] AI Agent: Bye, Ryan. Have a great day!

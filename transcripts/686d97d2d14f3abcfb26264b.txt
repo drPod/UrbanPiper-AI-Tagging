@@ -1,0 +1,26 @@
+Call ID: 686d97d2d14f3abcfb26264b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T22:12:34.653Z
+End Time: 2025-07-08T22:13:47.359Z
+Duration: 70 seconds
+From: +19732047453
+To: +16204558091
+Summary: The customer wanted to order a dozen bagels but clarified they wanted one of each type.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T22:13:46.851Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T22:13:46.852Z] Customer: I'd like to order a dozen bagels.
+
+[2025-07-08T22:13:46.852Z] AI Agent: Okay, one dozen bagels. Let me check the options for you. First, I need to know which bagels you'd like. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Multigrain Bread, and Marble Rye Bread. Would you like to hear more options or choose from these?
+
+[2025-07-08T22:13:46.852Z] Customer: No. I'd like to actually order one of each.
+
+[2025-07-08T22:13:46.852Z] AI Agent: Got it. For a dozen bagels, you'll need to choose 12 types from the available options. Here are some more options you can choose from:
+
+[2025-07-08T22:13:46.852Z] Customer: I'll take I'll take more than a dozen bagels. I'll take one of each.
+
+[2025-07-08T22:13:46.852Z] AI Agent: Understood. To get one of each, we'll need to select 13 different bagels since a dozen includes 12. Here are some additional options you can choose from:

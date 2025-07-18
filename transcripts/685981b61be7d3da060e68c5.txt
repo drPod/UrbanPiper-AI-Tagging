@@ -1,0 +1,84 @@
+Call ID: 685981b61be7d3da060e68c5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T16:32:54.755Z
+End Time: 2025-06-23T16:37:12.575Z
+Duration: 300 seconds
+From: +14083338920
+To: +16204558091
+Summary: Saurabh placed an order for a customized Plain Bagel, a Cinnamon Raisin Bagel, and a Vanilla Manhattan Chillerz, but the order could not be processed due to an internal server error.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T16:37:11.578Z] AI Agent: Hello Saurabh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T16:37:11.579Z] AI Agent: Let's start with your
+
+[2025-06-23T16:37:11.579Z] Customer: Hi. I would like to order one.
+
+[2025-06-23T16:37:11.579Z] AI Agent: Let me get the options for your bagel choices... 
+
+[2025-06-23T16:37:11.580Z] Customer: I would like to have a, cheese chicken bagel.
+
+[2025-06-23T16:37:11.580Z] AI Agent: Let me see what we have for your bagel choices... You've chosen a Cheese Chicken Bagel. That's not a standard option, but I can help you customize a bagel to get close to that. For the bagel itself, we
+
+[2025-06-23T16:37:11.580Z] Customer: Very good.
+
+[2025-06-23T16:37:11.580Z] AI Agent: Let me get the options for your bagel choices... 
+
+[2025-06-23T16:37:11.581Z] AI Agent: Okay, I have all the options for
+
+[2025-06-23T16:37:11.582Z] Customer: Okay.
+
+[2025-06-23T16:37:11.582Z] AI Agent: Let's start with the bagel. We have a variety of options, including Plain, Everything, Asiago, and more. Which one would you like?
+
+[2025-06-23T16:37:11.582Z] Customer: LEN
+
+[2025-06-23T16:37:11.582Z] AI Agent: For the bagel, you've chosen Plain. Now, let's talk about the cheese. We have a few options like Cheddar, Swiss, and American. Which one would you like? Or would you like to add any other type of cheese?
+
+[2025-06-23T16:37:11.582Z] Customer: Nothing cheddar is good.
+
+[2025-06-23T16:37:11.582Z] AI Agent: Cheddar is a great choice. Now, let's talk about the chicken. Since we're customizing a bagel, I can offer you the option to add chicken to it. We have grilled chicken or crispy chicken bacon. Which one sounds good to you?
+
+[2025-06-23T16:37:11.583Z] Customer: Good chicken.
+
+[2025-06-23T16:37:11.583Z] AI Agent: You've chosen grilled chicken. So, to recap, you've got a Plain bagel with Cheddar cheese and grilled chicken. Anything else you'd like to add, such as veggies or spreads?
+
+[2025-06-23T16:37:11.583Z] Customer: Yeah. My I have a seven year old son, not feeling well. Do you have any recommendations for him? Like, what is your best and favorite for for kids?
+
+[2025-06-23T16:37:11.583Z] AI Agent: I'm so sorry to hear that your son isn't feeling well. For kids, we have a few options that are usually a hit. Our Plain Bagel with cream cheese or peanut butter is a classic favorite. We also have a Cinnamon Raisin Bagel that's sweet and gentle on the stomach. If he's feeling up to something a bit more savory, our Cheese Bagel is a popular choice. Sometimes, when kids aren't feeling well, something plain and simple can be the way to go. Would you like me to
+
+[2025-06-23T16:37:11.583Z] Customer: Alright. I think the the the minimum, and the this option sounds good. Why don't we add this also in the order?
+
+[2025-06-23T16:37:11.583Z] AI Agent: The Cinnamon Raisin Bagel is a wonderful choice for your son. I'll add that to your order as well. So, to recap, you now have two items: the Plain Bagel with Cheddar cheese and grilled chicken for you, and the Cinnamon Raisin Bagel for your son. Would you like to add anything else, such as a drink or maybe some cream
+
+[2025-06-23T16:37:11.584Z] Customer: In beverages, do you have, like, a boba tea?
+
+[2025-06-23T16:37:11.584Z] AI Agent: We don't have Boba Tea on our menu, but we do have a variety of other drinks that might be refreshing. We have coffee, tea, hot chocolate, and some specialty drinks like our Manhattan Chillerz, which are frozen blended beverages made with either coffee or
+
+[2025-06-23T16:37:11.584Z] Customer: Tell me tell me more about the management pillars. Like, exactly, like, what is this?
+
+[2025-06-23T16:37:11.584Z] AI Agent: Our Manhattan Chillerz are a delicious and refreshing treat. They're frozen blended beverages made with either a coffee or ice cream base, and they come in a variety of flavors. We have options like Mocha, Caramel, and Vanilla, and you can even customize them with whipped cream and extra flavor shots. They're perfect for hot days or anytime you need a cool pick-me-up. Would you like to try one?
+
+[2025-06-23T16:37:11.585Z] Customer: Got it. Yeah. I think man Manila is, is awesome. I think Manila is good. Add it to the cart. Thank you.
+
+[2025-06-23T16:37:11.585Z] AI Agent: I'll add a Vanilla Manhattan Chillerz to your order. So, to recap,
+
+[2025-06-23T16:37:11.585Z] Customer: Thank you.
+
+[2025-06-23T16:37:11.585Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-23T16:37:11.585Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T16:37:11.586Z] Customer: 
+
+[2025-06-23T16:37:11.586Z] AI Agent: It seems like there was an error processing your order. Let me try again. Alright, let me get this order placed for you... 
+
+[2025-06-23T16:37:11.586Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T16:37:11.587Z] AI Agent: It seems like there's still an issue. Let me try to place your order again. Alright, let me get this order placed for you... 
+
+[2025-06-23T16:37:11.587Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T16:37:11.587Z] Customer: 544 It's

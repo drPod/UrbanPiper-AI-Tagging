@@ -1,0 +1,112 @@
+Call ID: 686839f745548bd51cdbffdc
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-04T20:30:47.027Z
+End Time: 2025-07-04T20:36:09.881Z
+Duration: 360 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer ordered a Manhattan cheesesteak with cole slaw and a medium orange juice.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-04T20:36:08.225Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-04T20:36:08.225Z] Customer: I'm looking to order, Manhattan cheesesteak and, I want orange juice as well.
+
+[2025-07-04T20:36:08.225Z] AI Agent: Alright, one Manhattan cheesesteak and one orange juice. Let me get the details for the cheesesteak started. First, what kind of side can I get for you with the cheesesteak? It comes with chips or cole slaw. Which one would you like?
+
+[2025-07-04T20:36:08.226Z] Customer: I want do you have any other option as well?
+
+[2025-07-04T20:36:08.226Z] AI Agent: The Manhattan cheesesteak comes with a choice of chips or cole slaw as the side. Those are the only options available for the side. Would you like chips or cole slaw with your cheesesteak?
+
+[2025-07-04T20:36:08.226Z] Customer: Okay. But I can see late shifts as well.
+
+[2025-07-04T20:36:08.226Z] AI Agent: I don't see Lays chips as an option for the Manhattan cheesesteak side. The available options are
+
+[2025-07-04T20:36:08.226Z] Customer: One second.
+
+[2025-07-04T20:36:08.226Z] AI Agent: Sure thing. Let me know when you're ready.
+
+[2025-07-04T20:36:08.227Z] Customer: One second. Let me but I'm just checking. Wait a second. Wait a second. Manageal cheese steak.
+
+[2025-07-04T20:36:08.227Z] AI Agent: Of
+
+[2025-07-04T20:36:08.227Z] Customer: I have the lunch side. The lunch side has chips, coleslaw, and Lay's chips as well as well of $1. Can you please check it properly?
+
+[2025-07-04T20:36:08.227Z] AI Agent: Let me check that for you. For the lunch side with the Manhattan cheesesteak, our available options are chips, cole slaw, or Lays chips for an additional dollar. Got it. Would you like chips, cole slaw, or Lays chips for your side?
+
+[2025-07-04T20:36:08.227Z] Customer: You missed the first part. Why?
+
+[2025-07-04T20:36:08.227Z] AI Agent: I apologize for the confusion. For the lunch side with the Manhattan cheesesteak, we have three options: regular chips,
+
+[2025-07-04T20:36:08.228Z] Customer: No. I want to know I want to know why did you miss that.
+
+[2025-07-04T20:36:08.228Z] AI Agent: I apologize for the oversight earlier. Let me clarify completely: for the lunch side that comes with the Manhattan cheesesteak, the options are chips, cole slaw, or Lays chips for an additional $1. I appreciate you pointing that out. So, would you like chips, cole slaw, or Lays chips for your side?
+
+[2025-07-04T20:36:08.228Z] Customer: But why you missed that? That's the point.
+
+[2025-07-04T20:36:08.228Z] AI Agent: I understand your concern, and I truly apologize for missing the Lays chips option earlier. That was my mistake. To be clear, the lunch side for the Manhattan cheesesteak includes chips, cole slaw, or Lays chips at an extra $1. Thank you for your patience. So, would you like 
+
+[2025-07-04T20:36:08.228Z] Customer: Is it mandatory?
+
+[2025-07-04T20:36:08.230Z] AI Agent: Yes,
+
+[2025-07-04T20:36:08.230Z] Customer: To choose an inside.
+
+[2025-07-04T20:36:08.230Z] AI Agent: Sure thing. Let me confirm: you'd like Lays chips as the side for your Manhattan cheesesteak. Is that correct?
+
+[2025-07-04T20:36:08.231Z] Customer: No. No. My question is, is it maintained?
+
+[2025-07-04T20:36:08.231Z] AI Agent: Ah, I see. Yes, choosing a lunch side is mandatory for the Manhattan cheesesteak. You must select one of the available options: chips, cole slaw, or Lays chips. Would you like to proceed with one of these?
+
+[2025-07-04T20:36:08.231Z] Customer: 
+
+[2025-07-04T20:36:08.231Z] AI Agent: Great choice! I've added cole slaw as the side for your Manhattan cheesesteak. Now, moving on to the orange juice. What size would you like? We have small, medium, and large options.
+
+[2025-07-04T20:36:08.231Z] Customer: Medium size.
+
+[2025-07-04T20:36:08.231Z] AI Agent: Alright, one medium orange juice. Is there anything else I can get for you today?
+
+[2025-07-04T20:36:08.231Z] Customer: No.
+
+[2025-07-04T20:36:08.232Z] AI Agent: Okay, so I have the Manhattan cheesesteak with cole slaw and a medium orange juice. Is that all for you today?
+
+[2025-07-04T20:36:08.232Z] Customer: What is that orange juice?
+
+[2025-07-04T20:36:08.232Z] AI Agent: The orange juice is a medium size, priced at $3.99. It’s our signature fresh orange juice. Is there anything else I can get for you today?
+
+[2025-07-04T20:36:08.232Z] Customer: Signature.
+
+[2025-07-04T20:36:08.233Z] AI Agent: Got it!
+
+[2025-07-04T20:36:08.233Z] Customer: What is it? What
+
+[2025-07-04T20:36:08.233Z] AI Agent: The orange juice is a medium size, and it's our signature fresh-squeezed orange juice. Is there anything else I can help with?
+
+[2025-07-04T20:36:08.233Z] Customer: One second.
+
+[2025-07-04T20:36:08.233Z] AI Agent: Sure thing, take your time.
+
+[2025-07-04T20:36:08.234Z] Customer: No. No. That's that's all.
+
+[2025-07-04T20:36:09.881Z] Unknown: [2025-07-04T20:36:08.234Z] assistant: Alright, let me get that all put together for you.  
+
+
+
+[2025-07-04T20:36:08.234Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 746859. That's 7, 4, 6, 8, 5, 9.", 'order_id': '746859', 'call_id': '4b1388dd-25c0-495d-b205-7588ce813d7a', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197d726-528c-6558-36da-934ccaeb266b'}
+
+[2025-07-04T20:36:08.234Z] AI Agent: Your order has been placed successfully! Your order number is 7, 4, 6, 8, 5, 9. The total is $14.48, which includes a $1.00 tax. Let me know if you need anything else!
+
+[2025-07-04T20:36:08.234Z] Customer: What is what is the price for the orange juice?
+
+[2025-07-04T20:36:08.235Z] AI Agent: The medium orange juice is $3.99. Is there anything else I can assist you with?
+
+[2025-07-04T20:36:08.235Z] Customer: 
+
+[2025-07-04T20:36:08.235Z] AI Agent: I apologize for the confusion. Let me clarify: the medium orange juice is $3.99, and the total for your order is $14.48, which includes a $1.00 tax. If you'd like, I can break it down for you. Would that be helpful?
+
+[2025-07-04T20:36:08.235Z] Customer: One second, please.
+
+[2025-07-04T20:36:08.235Z] AI Agent: Of course, take your time.

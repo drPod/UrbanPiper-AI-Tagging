@@ -1,0 +1,116 @@
+Call ID: 68578bd91be7d3da06d9e955
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T04:51:37.581Z
+End Time: 2025-06-22T04:57:40.960Z
+Duration: 420 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer placed an order for a half dozen mixed bagels and a medium-sized unsweetened iced tea from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T04:57:39.435Z] AI Agent: Hello Alex, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T04:57:39.435Z] Customer: I like to I'm thinking to order a box of bacon and, iced tea.
+
+[2025-06-22T04:57:39.435Z] AI Agent: The box of bagels and iced tea, sounds like a great choice. Let me get the options for your bagel choices...
+
+[2025-06-22T04:57:39.435Z] AI Agent: I hope you are still with me!
+
+[2025-06-22T04:57:39.435Z] Customer: Hello? Yeah.
+
+[2025-06-22T04:57:39.435Z] AI Agent: Let me see what we have for bagel choices... We have a variety of bagels to choose from. For the box of bagels, you can choose from our assortment which includes Plain, Everything, Sesame, Poppy, Salt, Whole Wheat, Cinnamon Raisin, Blueberry, Onion, Garlic, and Bialy. Which ones would you like to include in your box?
+
+[2025-06-22T04:57:39.435Z] Customer: Valley.
+
+[2025-06-22T04:57:39.435Z] AI Agent: The Bialy, great choice. Let me see what else we have for your box of bagels. Would you like to add any other types, or would you like all thirteen to be Bialy?
+
+[2025-06-22T04:57:39.436Z] Customer: Are you talking about, breakfast bundle or something?
+
+[2025-06-22T04:57:39.436Z] AI Agent: I was
+
+[2025-06-22T04:57:39.436Z] Customer: And the sync.
+
+[2025-06-22T04:57:39.436Z] AI Agent: So, you'd like to order a box of bagels and an iced tea. For the box of bagels, you've chosen the Bialy. Now, let me get the options for your iced tea...
+
+[2025-06-22T04:57:39.436Z] AI Agent: For your iced tea, we have
+
+[2025-06-22T04:57:39.436Z] Customer: No. No. I no. No. No. I mean, my question is, what is what is you are referring? Like, box of bagel as a breakfast bundle or, you know, dozen bagel or half dozen bagel?
+
+[2025-06-22T04:57:39.436Z] AI Agent: I was referring to a box of bagels, which can be a dozen or half dozen bagels. We have a few options for bagel boxes, including a half dozen or a full dozen. If you're interested in a larger quantity, we also have a Breakfast Bundle that includes 13 bagels, 2 tubs of cream cheese, and 4 muffins. Which one of these options sounds most appealing to you?
+
+[2025-06-22T04:57:39.436Z] Customer: I'm thinking of, how does it make it?
+
+[2025-06-22T04:57:39.436Z] AI Agent: A half dozen bagels is a great choice. That's 6 bagels of your choice. You've already mentioned you like Bialy, so would you like all 6 to be Bialy, or would you like to mix and match with some other flavors?
+
+[2025-06-22T04:57:39.451Z] AI Agent: We have a variety of bagel flavors to choose from
+
+[2025-06-22T04:57:39.451Z] Customer: You can look scratch.
+
+[2025-06-22T04:57:39.452Z] AI Agent: Let me get the options for your bagel
+
+[2025-06-22T04:57:39.452Z] Customer: 
+
+[2025-06-22T04:57:39.452Z] AI Agent: For your half dozen
+
+[2025-06-22T04:57:39.453Z] Customer: Okay.
+
+[2025-06-22T04:57:39.453Z] AI Agent: Let's start with your half dozen bagels. You've chosen Bialy, and you can have up to 6 bagels in your half dozen. Would you like to have all 6 as Bialy, or would you like to mix and match with other flavors?
+
+[2025-06-22T04:57:39.506Z] Customer: Begin do mismatch.
+
+[2025-06-22T04:57:39.506Z] AI Agent: Let me see what other flavors we have. We have Plain, Everything, Sesame, Poppy, Salt, Whole Wheat, Cinnamon Raisin, Blueberry, Onion, Garlic, and many more. Which ones would you like to mix with your Bialy?
+
+[2025-06-22T04:57:39.506Z] Customer: Like, you can do whatever as per you or, you know, your solution. I'm fine with that.
+
+[2025-06-22T04:57:39.507Z] AI Agent: Let me just add that to your order...
+
+[2025-06-22T04:57:39.507Z] AI Agent: Added 1 item(s) to your cart. Total: $11.94
+
+[2025-06-22T04:57:39.507Z] AI Agent: Now, about that iced tea you wanted... Let me get the options for your iced tea...
+
+[2025-06-22T04:57:39.508Z] AI Agent: For your iced tea, we have several options. Let's start with the size. We have Small, which is 16 ounces, Medium, which is 24 ounces, and Large, which is 32 ounces. Which size would you like?
+
+[2025-06-22T04:57:39.508Z] Customer: I want medium size.
+
+[2025-06-22T04:57:39.508Z] AI Agent: A medium size is 24 ounces. Now, let's move on to the type of tea. We have Unsweetened Ice Tea, Sweetened Green Tea, and Arnold Palmer. Which one of these options sounds good to you?
+
+[2025-06-22T04:57:39.508Z] Customer: Unchecking.
+
+[2025-06-22T04:57:39.508Z] AI Agent: Let me just add that to your order...
+
+[2025-06-22T04:57:39.509Z] AI Agent: Added 1 item(s) to your cart. Total: $15.43
+
+[2025-06-22T04:57:39.509Z] AI Agent: Alright, I've added the medium-sized unsweetened iced tea to your order. Your total comes out to be $15.43. Would you like to make any changes or add anything else to your order?
+
+[2025-06-22T04:57:39.509Z] Customer: No. I just want to understand, like, what what can you tell me the summary of my order?
+
+[2025-06-22T04:57:39.509Z] AI Agent: You've ordered a half dozen bagels, with all 6 bagels being Bialy, and a medium-sized unsweetened iced tea. Your total comes out to be $15.43. Is that correct?
+
+[2025-06-22T04:57:39.509Z] Customer: So instead of, like, all six by Biali, bigger, can we do mix match? Like, that's what I was saying earlier as well.
+
+[2025-06-22T04:57:39.510Z] AI Agent: Let me just update that for you...
+
+[2025-06-22T04:57:39.510Z] AI Agent: Updated your order. Total: $12.43
+
+[2025-06-22T04:57:39.510Z] AI Agent: I've updated your order to include a mix of 3 Bialy bagels and 3 Plain bagels, along with the medium-sized unsweetened iced tea. Your new total comes out to be $12.43. Is that okay with you?
+
+[2025-06-22T04:57:39.510Z] Customer: Well, that's good.
+
+[2025-06-22T04:57:39.510Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-22T04:57:39.510Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 932008. That's 9, 3, 2, 0, 0, 8. Total: $13.67 (subtotal 12.43 dollars plus 1.24 dollars tax). Thank you for your order!
+
+[2025-06-22T04:57:39.511Z] AI Agent: Order placed successfully. Your order number is 9, 3, 2, 0, 0, 8. Your total comes out to be $12.43 plus $1.24 tax. That's a total of $13.67. We'll have your order ready for pickup soon. Thank you for ordering from Manhattan Bagel!
+
+[2025-06-22T04:57:39.511Z] Customer: 
+
+[2025-06-22T04:57:39.511Z] AI Agent: You're welcome. Have a great day and we'll see you soon to pick up your order.
+
+[2025-06-22T04:57:39.511Z] Customer: 
+
+[2025-06-22T04:57:39.512Z] AI Agent: Alright, let me hang up the call for you...
+
+[2025-06-22T04:57:39.512Z] AI Agent: OK

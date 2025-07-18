@@ -1,0 +1,28 @@
+Call ID: 6855b4f51be7d3da06bb56a6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T19:22:29.463Z
+End Time: 2025-06-20T19:23:15.671Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav inquired about ordering a hot latte from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T19:23:15.412Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T19:23:15.412Z] Customer: Can I get hot latte?
+
+[2025-06-20T19:23:15.412Z] AI Agent: Let me check on that for you. I will search for hot latte.
+
+[2025-06-20T19:23:15.412Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:23:15.412Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:23:15.413Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:23:15.413Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:23:15.413Z] AI Agent: I found a hot latte for $4.49. Would you like to customize it with any milk options, such as whole milk, skim milk, or a non-dairy alternative like almond milk or oat milk?

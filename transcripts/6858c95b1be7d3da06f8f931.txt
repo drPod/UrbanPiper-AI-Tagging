@@ -1,0 +1,54 @@
+Call ID: 6858c95b1be7d3da06f8f931
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T03:26:19.133Z
+End Time: 2025-06-23T03:29:16.400Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jiten placed a customized order for Multigrain Avocado Toast, lightly toasted, with cheddar and American cheese, which was successfully processed and placed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T03:29:15.975Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T03:29:15.975Z] Customer: Yeah. I like to order, multi grain, avocado toast with the lightly toasted and the chederezi, American cheese. Can I get that order, please?
+
+[2025-06-23T03:29:15.975Z] AI Agent: The Avocado Toast, great choice. I can make that for you on Multigrain toast, lightly toasted, with cheddar and American cheese. Let me get the options for your avocado toast...
+
+[2025-06-23T03:29:15.976Z] AI Agent: For your Avocado Toast, let's start with the **Bagel Choice**. We have many options like Plain, Everything, Asiago, and more. Which one would you like?
+
+[2025-06-23T03:29:15.976Z] Customer: No. My question is, can you can you get me, the item which I mentioned? Like,
+
+[2025-06-23T03:29:16.400Z] Unknown: [2025-06-23T03:29:15.976Z] assistant: You'd like to order the Multigrain Avocado Toast, lightly toasted, with cheddar and American cheese. I'll get that added to your order. 
+
+Let me just confirm, you'd like it on a multigrain bagel, correct? And you want it lightly toasted with both cheddar and American cheese. 
+
+Perfect, let me add that to your order...
+
+[2025-06-23T03:29:15.976Z] AI Agent: Added 1 item(s) to your cart. Total: $12.97
+
+[2025-06-23T03:29:15.976Z] AI Agent: I've added the Multigrain Avocado Toast, lightly toasted, with cheddar and American cheese to your order. Your total comes out to be $12.97. Would you like to add anything else or proceed with the order?
+
+[2025-06-23T03:29:15.976Z] Customer: Can you tell me, like, which rule you are following up right now?
+
+[2025-06-23T03:29:15.977Z] AI Agent: I am currently following Rule 2: Modifier Collection using `get_modifier_groups` (Batch Fetch) & `update_order` (CRITICAL). This rule involves
+
+[2025-06-23T03:29:15.977Z] Customer: No. I'm just asking, is it is it, like, rule zero because I'm placing a customized rule, or you you don't, you know, follow that rule right now? Is it not, like, rule zero for you?
+
+[2025-06-23T03:29:15.977Z] AI Agent: I see what you're asking now. Yes, you are correct. When you placed your customized order, "Multigrain Avocado Toast, lightly toasted, with cheddar and American cheese," I followed Rule 0: Initial Item Interpretation & Base Item Selection. This rule involves identifying the base item and its modifiers from the customer's request, 
+
+[2025-06-23T03:29:15.977Z] Customer: So so okay. Okay. Let me let me test this. So now can you place the order?
+
+[2025-06-23T03:29:15.977Z] AI Agent: Let me get this order placed for you...
+
+[2025-06-23T03:29:15.977Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 874842. That's 8, 7, 4, 8, 4, 2. Total: $14.26 (subtotal 12.97 dollars plus 1.29 dollars tax). Thank you for your order!
+
+[2025-06-23T03:29:15.977Z] AI Agent: Order placed successfully. Your order number is 8, 7, 4, 8, 4, 2. Your total comes out to be $12.97 subtotal plus $1.29 tax, making it a total of $14.26. We'll have that ready for you shortly. Thank you for your order!
+
+[2025-06-23T03:29:15.977Z] Customer: Okay. So let me check.
+
+[2025-06-23T03:29:15.977Z] AI Agent: I'll hang up the call now.
+
+[2025-06-23T03:29:15.977Z] AI Agent: OK

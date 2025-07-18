@@ -1,0 +1,42 @@
+Call ID: 6858f9671be7d3da06fa686c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T06:51:19.687Z
+End Time: 2025-06-23T06:56:23.530Z
+Duration: 360 seconds
+From: +919686500112
+To: +16204558091
+Summary: The customer inquired about Manhattan Bagel's menu options, including breakfast sandwiches, bagels and sweets, breakfast platters, and lunch items, but did not place an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T06:56:23.198Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T06:56:23.198Z] Customer: Hi. I would want to order a delivery.
+
+[2025-06-23T06:56:23.199Z] AI Agent: I'm so sorry, Vansh. We're a pickup-only store, so we don't offer delivery. Would you like to place an order for pickup instead?
+
+[2025-06-23T06:56:23.199Z] Customer: Okay. I'll go with a pickup order. Can you tell me, what do you have for the, as a breakfast option?
+
+[2025-06-23T06:56:23.199Z] AI Agent: We have a variety of delicious breakfast options. Let me tell you about some of our popular items. We have breakfast sandwiches like the Original Classic, which comes with egg, cheese, and your choice of meat on a bagel, roll, or croissant. We also have omelets, wraps, and breakfast burritos. And if you're looking for something a little lighter, we have bagels with cream cheese or butter, and even avocado toast. Which of these sounds good to you, or would you like me to tell you more about our options?
+
+[2025-06-23T06:56:23.199Z] Customer: Tell me all the break question which is Revise app.
+
+[2025-06-23T06:56:23.199Z] AI Agent: We have a wide range of breakfast sandwiches. Let me go through them with you. We have the Original Classic, which comes with egg, cheese, and your choice of meat on a bagel, roll, or croissant. Then there's the Spinach Bacon Croissant, which has spinach, scrambled egg, bacon, Swiss cheese, and zesty tomato spread on a croissant. We also have the Farmhouse Egg Sandwich, which features ham, bacon, egg, cheddar cheese, and pepper cream cheese on a cheesy hash brown roll. Additionally, we offer the Big Breakfast Burrito, which is a flour tortilla filled with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown. The Santa Fe Egg White sandwich is another option, with egg whites, turkey sausage, cheddar cheese, salsa, and jalapeno cream cheese on an Asiago thin bagel. We also have the Egg and Cheese, which is a simple but delicious combination of egg and cheese on a bagel, roll, or croissant. The Garden Avocado Egg White Sandwich features egg whites, avocado, tomato, spinach, and tomato spread on a bagel. And for those who like a little meat, we have the Meat on Bagel, which is just breakfast meat on a bagel. The Philly 
+
+[2025-06-23T06:56:23.199Z] Customer: Okay. I think I've heard a lot of breakfast option. Can you tell me what do you have for breakfast, bagels, and sweets category?
+
+[2025-06-23T06:56:23.199Z] AI Agent: In our Breakfast Bagels and Sweets category, we have a variety of items. We have the Classic Nova Lox Sandwich, which features smoked salmon, cream cheese, tomato, red onion, and capers on a bagel. You can also get a Single Bagel, which is just a plain bagel, or a Half Dozen Bagels, which is six bagels of your choice. If you're looking for a deal, we have the Dozen Bagels, which is thirteen bagels, and the Bakers Dozen Value Pack, which includes thirteen bagels and two tubs of spread. We also have Bagel with Spread, which is a bagel with cream cheese or butter, and Mini Bagels. If you're in the mood for something sweet, we have muffins, pastries, and cookies. And for a more filling option, we have the Cheese Bagel, which comes with two slices of cheese on a bagel. Let me see what else... Ah yes, we also have a Tub of Manhattan Bagel Plain Cream Cheese, a Tub of Manhattan Flavored Cream
+
+[2025-06-23T06:56:23.200Z] Customer: That's okay. That's okay. Can you tell me more about your breakfast platters?
+
+[2025-06-23T06:56:23.200Z] AI Agent: Our Breakfast Platters are a great option if you're looking for a more filling breakfast. We have a few different options to choose from. The Eggs and Omelettes platter comes with scrambled eggs and the option to make your own omelette. We also have the Sweet and Savory French Toast Platter, which includes two pieces of Texas toast French toast, two scrambled eggs, and four strips of bacon, served with maple syrup and butter. If you prefer pancakes, we have the Sweet and Savory Pancake Platter, which is similar to the French toast platter but with pancakes instead. We also offer the Just French Toast and Just Pancakes options, which are three pieces of French toast or pancakes, respectively, served with maple syrup and butter. Let me get the options for our Eggs and Omelettes platter...
+
+[2025-06-23T06:56:23.200Z] Customer: No. I think I think that's good. Can you tell me more about your lunch menu?
+
+[2025-06-23T06:56:23.200Z] AI Agent: Our lunch menu offers a variety of delicious options. We have sandwiches, wraps, and platters that are perfect for a quick and satisfying meal. Let me tell you about some of our popular items. We have the Greenwich Grilled Cheese, which features bacon, tomato, Swiss, cheddar, and American cheese on grilled multigrain bread. The Chelsea Grilled Chicken is another favorite, with grilled chicken, roasted peppers, pepper jack cheese, and tomato spread on an Asiago bagel. We also offer the Spicy Avocado Grilled Chicken, which has grilled chicken, avocado, pepper jack cheese, and jalapeno cream
+
+[2025-06-23T06:56:23.201Z] Customer: Okay. That's all. That's all. That's all for now. Thank you very much.
+
+[2025-06-23T06:56:23.201Z] AI Agent: It was my pleasure to help you explore our menu options. If you have any other 

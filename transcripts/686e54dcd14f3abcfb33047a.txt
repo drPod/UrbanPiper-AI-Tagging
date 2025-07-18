@@ -1,0 +1,18 @@
+Call ID: 686e54dcd14f3abcfb33047a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T11:39:08.613Z
+End Time: 2025-07-09T11:39:27.196Z
+Duration: 18 seconds
+From: +19737032606
+To: +16204558091
+Summary: The call concluded with the user asking if the assistant speaks other languages.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T11:39:27.034Z] AI Agent: Hello Akram Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T11:39:27.034Z] Customer: Do you speak any other language?
+
+[2025-07-09T11:39:27.034Z] AI Agent: I'm fluent in English and can assist with your order in a friendly and helpful manner. If you have any questions or

@@ -1,0 +1,30 @@
+Call ID: 68527043cb9e39794ced2695
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T07:52:35.037Z
+End Time: 2025-06-18T07:54:21.844Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer inquired about breakfast sandwich options and was presented with several choices, including an Egg & Cheese sandwich, but did not place an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T07:54:21.254Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T07:54:21.255Z] Customer: 嘿 嘿 逃 逸 对 应
+
+[2025-06-18T07:54:21.255Z] AI Agent: I'm doing well, thank you for asking. It's great to have you here at Manhattan Bagel. What can I get for you today?
+
+[2025-06-18T07:54:21.255Z] Customer: Looking to order some breakfast sandwich. Can you please tell me the breakfast breakfast sandwich options?
+
+[2025-06-18T07:54:21.255Z] AI Agent: Let me see what we have for breakfast sandwiches. 
+
+[2025-06-18T07:54:21.255Z] AI Agent: I found several options for breakfast sandwiches. We have a Classic Crossant for $8.49, an Egg on a Bagel for $3.99, a Big Breakfast Burrito for $9.49, a Side of Breakfast Meat for $3.99, an Original Classic for $7.49, and a Farmhouse Egg Sandwich for $8.99. Which one of these options sounds good to you?
+
+[2025-06-18T07:54:21.255Z] Customer: I'll I'm okay to go with, egg and cheese.
+
+[2025-06-18T07:54:21.255Z] AI Agent: Let me see what we have for an egg and cheese sandwich. 
+
+[2025-06-18T07:54:21.256Z] AI Agent: I found an Egg & Cheese sandwich for $4.99. It comes with egg and cheese on a bagel, roll, or croissant. We also have an Egg on a Bagel for $3.99, a Farmhouse Egg Sandwich for $8.99, a Philly Steak Egg & Cheese for $8.99, an Original Classic for $7.49, an Omelet Wrap for $8.99, and a Breakfast Cheesesteak for $9.49. Which one of these options sounds good to you?

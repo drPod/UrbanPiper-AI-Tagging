@@ -1,0 +1,36 @@
+Call ID: 6871fa605560c851d6264dd6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T06:02:08.682Z
+End Time: 2025-07-12T06:04:52.730Z
+Duration: 158 seconds
+From: 919780032269
+To: 918035740152
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T06:04:52.475Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-12T06:04:52.476Z] Customer: Okay. Hi. Actually, I'm looking to order, your breakfast bundle.
+
+[2025-07-12T06:04:52.476Z] AI Agent: Okay, great choice! For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular options - we have Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?
+
+[2025-07-12T06:04:52.476Z] Customer: I'm looking to, you know, five, three vanilla, and, two, everything, and the rest can be plain.
+
+[2025-07-12T06:04:52.476Z] AI Agent: Perfect! So that's five Plain, three Cinnamon Raisin, two Everything, and we still need three more to reach thirteen. Would you like those three to also be Plain?
+
+[2025-07-12T06:04:52.476Z] Customer: 
+
+[2025-07-12T06:04:52.476Z] AI Agent: Great! So that’s eight Plain, three Cinnamon Raisin, and two Everything bagels. Now, for the Breakfast Bundle, you'll need to choose two tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made
+
+[2025-07-12T06:04:52.476Z] Customer: But bagel water, I said vanilla. Right? So do you have vanilla, bagel?
+
+[2025-07-12T06:04:52.476Z] AI Agent: You are absolutely right to call me out on that! My apologies, I should have remembered that you said Vanilla. I don't see Vanilla Bagel on our menu, but we do have Cinnamon Raisin. Would you like to stick with Cinnamon Raisin, or would you like to choose a different bagel?
+
+[2025-07-12T06:04:52.476Z] Customer: I I want to know, like, how how you confirm like, how why did you acknowledge? Like, did you relate to any existing vehicle or by by any chance, like, you missed the validation, the menu?
+
+[2025-07-12T06:04:52.730Z] Unknown: [2025-07-12T06:04:52.476Z] assistant: You are absolutely right to question me! I apologize for the error. I jumped ahead and didn't properly validate your initial bagel request against the menu. I should have confirmed if we had "Vanilla" bagels before acknowledging. I am still under development and learning to follow the validation process perfectly. 
+
+Let's start over with the bagels for the Breakfast Bundle. We have Plain, Everything, Sesame, Cinnamon Raisin, and several others. To confirm, we need thirteen bagels total. How many of each would you like? I will double-check against the menu this time.

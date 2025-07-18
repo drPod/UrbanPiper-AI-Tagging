@@ -1,0 +1,72 @@
+Call ID: 685929b91be7d3da06033a58
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T10:17:29.272Z
+End Time: 2025-06-23T10:21:47.968Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer attempted to order a Breakfast Bundle but had difficulties with bagel selection due to validation issues with the options provided.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T10:21:47.516Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T10:21:47.516Z] Customer: Looking to order, breakfast bundle?
+
+[2025-06-23T10:21:47.516Z] AI Agent: The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T10:21:47.517Z] AI Agent: Do you want to proceed with the customization now?
+
+[2025-06-23T10:21:47.517Z] AI Agent: I hope you
+
+[2025-06-23T10:21:47.517Z] Customer: Hello? Yes?
+
+[2025-06-23T10:21:47.517Z] AI Agent: First, for the thirteen
+
+[2025-06-23T10:21:47.517Z] Customer: Yes. Yes. Go ahead, please.
+
+[2025-06-23T10:21:47.518Z] AI Agent: First, for the thirteen bagels in your Bagel Dozen, popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a 
+
+[2025-06-23T10:21:47.518Z] Customer: I like to I like to choose all 13 should be butter bagels.
+
+[2025-06-23T10:21:47.518Z] AI Agent: Butter Bagel isn't an option for the Bagel Dozen. Would you like to choose from Plain, Everything, or Sesame?
+
+[2025-06-23T10:21:47.518Z] Customer: I want to choose all 13. Should be stallion.
+
+[2025-06-23T10:21:47.518Z] AI Agent: Scallion is an option. You've chosen all thirteen bagels to be Scallion. Next, for your two tubs of spread, we have Plain Cream Cheese, Vegetable Cream Cheese, and more. What are your choices for
+
+[2025-06-23T10:21:47.518Z] Customer: Hello? Sorry. So are we done with the bagel time?
+
+[2025-06-23T10:21:47.519Z] AI Agent: Yes, we're done with the bagel selection. You've chosen all thirteen bagels to be Scallion. Now, let's move on to the spreads.
+
+[2025-06-23T10:21:47.519Z] Customer: No. No. Can you please, make the all 13, should be chocolate bagel?
+
+[2025-06-23T10:21:47.519Z] AI Agent: Chocolate Chip is an option for the Bagel Dozen. You've changed your selection to all thirteen bagels being Chocolate Chip. Next, for your two tubs of spread, we have Plain Cream Cheese, Vegetable Cream Cheese, and more. What are your choices for the spreads?
+
+[2025-06-23T10:21:47.519Z] Customer: Oh, tell me, like, from like, how you are saying Italian bagel is is the is present in the bagel dozen options? Because I don't see them. How you are validating this? Confusing for me.
+
+[2025-06-23T10:21:47.519Z] AI Agent: I
+
+[2025-06-23T10:21:47.519Z] Customer: For which vehicle type you are relating to it to?
+
+[2025-06-23T10:21:47.519Z] AI Agent: I was relating to the options provided in the "Bagel Dozen" group, which includes options like Plain, Everything, Asiago, and others, but not Scallion or Chocolate Chip as a bagel type. I should have been more accurate in my earlier response. Let me start again. For the thirteen bagels in your Bagel Dozen, which type would you like? We have Plain, Everything, Asiago, and more.
+
+[2025-06-23T10:21:47.519Z] Customer: Okay. I want, 13 to be scallion burger.
+
+[2025-06-23T10:21:47.520Z] AI Agent: Scallion is not an option for the Bagel Dozen. Let me offer you some available options: Plain,
+
+[2025-06-23T10:21:47.520Z] Customer: Okay. So tell me, like, why why you were not able to, you know, understand in the first place? What makes you, you know, making that mistake?
+
+[2025-06-23T10:21:47.520Z] AI Agent: I'm a large language model, my responses are generated based on patterns and associations in the data I was trained on. Sometimes, this can lead to errors or misunderstandings, especially when dealing with complex or nuanced information. In this case, I should have been
+
+[2025-06-23T10:21:47.520Z] Customer: Okay. So so in your system prompt, where where you should be more careful, like, handling the situation? Tell me.
+
+[2025-06-23T10:21:47.520Z] AI Agent: I should be more careful when handling user input and options, especially when it comes to validating choices against available options. In this case, I should have immediately checked if "Scallion" was a valid option for the Bagel Dozen and responded accordingly, instead of initially accepting it and then correcting myself later. This would help prevent confusion and ensure a smoother conversation flow.
+
+[2025-06-23T10:21:47.520Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T10:21:47.520Z] Customer: One second.
+
+[2025-06-23T10:21:47.520Z] AI Agent: Let's get back to your Breakfast Bundle order. For the thirteen

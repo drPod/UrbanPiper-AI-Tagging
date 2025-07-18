@@ -1,0 +1,54 @@
+Call ID: 68724ef75560c851d6335194
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T12:03:03.970Z
+End Time: 2025-07-12T12:07:11.383Z
+Duration: 240 seconds
+From: 918949862707
+To: 918035740152
+Summary: Jutin ordered a Breakfast Bundle from Manhattan Bagel, which includes 13 bagels, 2 tubs of cream cheese, and 4 muffins, and specified the types of bagels and muffins they wanted.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T12:07:10.938Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T12:07:10.938Z] Customer: I want to order, Big Fo's bundle.
+
+[2025-07-12T12:07:10.938Z] AI Agent: The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and paper products. Would you like to choose the types of bagels and muffins, or would you like me to
+
+[2025-07-12T12:07:10.938Z] Customer: Sorry. Pardon? Can you repeat again what did you say?
+
+[2025-07-12T12:07:10.938Z] AI Agent: The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to choose the types of bagels and muffins, or would you like me to suggest some options for you?
+
+[2025-07-12T12:07:10.938Z] Customer: Suggest me some options, please.
+
+[2025-07-12T12:07:11.383Z] Unknown: [2025-07-12T12:07:10.939Z] assistant: For the bagels, we have a variety of flavors such as Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, and more. We also have some specialty bagels like Asiago, California, and Cheesy Hashbrown Roll.
+
+For the muffins, we have Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, and Cranberry Orange.
+
+Would you like me to recommend a combination, or is there a specific type of bagel or muffin you're in the mood for?
+
+[2025-07-12T12:07:10.939Z] Customer: I just want to have, I want to I want to go with the, like, the bagel choice. Okay? So, going with the five everything, five SMA.
+
+[2025-07-12T12:07:10.939Z] Customer: Two vanilla, one blueberry, and garlic.
+
+[2025-07-12T12:07:11.383Z] Unknown: [2025-07-12T12:07:10.939Z] assistant: So for the bagels, you'd like to have 5 Everything bagels, 5 Sesame bagels, 2 Vanilla bagels, 1 Blueberry bagel, and 1 Garlic bagel. That's a total of 13 bagels, which is perfect for the Breakfast Bundle.
+
+And for the muffins, we have a few options. We can go with 2 Blueberry muffins, 1 Double Chocolate Chip muffin, and 1 Cinnamon Chip muffin. Would that sound good to you?
+
+[2025-07-12T12:07:10.939Z] Customer: But why do you agree on the vanilla bagel? It is not a vanilla bagel. Right? You don't have vanilla bagel.
+
+[2025-07-12T12:07:11.383Z] Unknown: [2025-07-12T12:07:10.939Z] assistant: You are correct, we don't have a Vanilla bagel. I should have said that instead of agreeing to it. Let me correct that.
+
+So, for the bagels, you'd like to have 5 Everything bagels, 5 Sesame bagels, 1 Blueberry bagel, 1 Garlic bagel, and 2 other bagels to complete the 13. Would you like to choose two more types of bagels from our menu, such as Plain, Cinnamon Raisin, or Onion?
+
+[2025-07-12T12:07:10.940Z] AI Agent: I hope you are still with me!
+
+[2025-07-12T12:07:10.940Z] Customer: I'm just thinking how I can check the validate validate how can I add the validation?
+
+[2025-07-12T12:07:10.940Z] AI Agent: To confirm, you'd like to validate the order and make sure everything is correct before proceeding. That's a great idea! Let me summarize your order: you'd like to have the Breakfast Bundle, which includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. For the
+
+[2025-07-12T12:07:10.941Z] Customer: In which stage in which stage we are right now? First stage, second stage, third stage?
+
+[2025-07-12T12:07:10.941Z] AI Agent: We are currently in the first stage, which is the order discovery and menu navigation stage. This is where we explore the menu, validate the customer's order, and build a list of the items they would like to purchase. We have not yet moved on to the second stage, which is the item customization stage, or the third stage, which is the order summarization and payment stage. 

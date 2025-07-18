@@ -1,0 +1,50 @@
+Call ID: 68760b4e73d0cf0f7e5bb606
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-15T08:03:26.534Z
+End Time: 2025-07-15T08:06:02.070Z
+Duration: 152 seconds
+From: +918949862707
+To: +16516156214
+Summary: The customer ordered a medium hot coffee and the order was successfully placed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-15T08:06:01.276Z] AI Agent: Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-15T08:06:01.276Z] Customer: 
+
+[2025-07-15T08:06:01.277Z] AI Agent: I don't see that on our menu. We have a variety of bagels, sandwiches, and beverages. Could you please tell me what you're in the mood for today?
+
+[2025-07-15T08:06:01.277Z] Customer: Hello? Can you hear me?
+
+[2025-07-15T08:06:01.277Z] AI Agent: Yes, I can hear you just fine. How can I assist you with your order today?
+
+[2025-07-15T08:06:01.277Z] Customer: Okay. Get me breakfast bundle. Sorry. Get me, a watercolor toast.
+
+[2025-07-15T08:06:01.278Z] AI Agent: The Avocado Toast is a great choice. It comes with avocado, everything bagel seasoning on multigrain toast or any bagel. You'll need to pick just one bagel for your Avocado Toast. We have Plain, Everything, Blueberry, Chocolate Chip, and many more. Which would you prefer?
+
+[2025-07-15T08:06:01.278Z] Customer: Okay. Forget about this. Can I have hot coffee only?
+
+[2025-07-15T08:06:01.279Z] AI Agent: For the hot coffee, you'll need to pick a size. We have Small 12 ounce, Medium 16 ounce, Large 20 ounce, and X Large 24 ounce. Which size would you like?
+
+[2025-07-15T08:06:01.279Z] Customer: And, what is the price for, medium amount medium size?
+
+[2025-07-15T08:06:01.279Z] AI Agent: The price for a Medium 16 ounce hot coffee is $2.49. Would you like to add any milk, sweetener, or flavor to your coffee?
+
+[2025-07-15T08:06:01.279Z] Customer: No.
+
+[2025-07-15T08:06:01.279Z] AI Agent: Your total comes out to be $2.49 for the Medium 16 ounce hot coffee. Is there anything else I can get for you today?
+
+[2025-07-15T08:06:01.280Z] Customer: Non.
+
+[2025-07-15T08:06:01.280Z] AI Agent: Alright, so I have a Medium 16 ounce hot coffee for $2.49. I'll get that ready for you. We'll have it ready for pickup in about 15 minutes. Is that okay with you?
+
+[2025-07-15T08:06:01.280Z] Customer: 
+
+[2025-07-15T08:06:01.280Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-15T08:06:01.281Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 822833. That's 8, 2, 2, 8, 3, 3.", 'order_id': '822833', 'call_id': '7a0a2425-fc60-4525-a523-b8cd87cb9f0d', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01980d1e-186f-c246-28cc-05af95b13ea5'}
+
+[2025-07-15T08:06:01.281Z] AI Agent: Your order is created successfully now! The order number is 8, 2, 2, 8, 3, 3, and the total including taxes comes to $2.75. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?

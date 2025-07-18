@@ -1,0 +1,26 @@
+Call ID: 687a5625a1698f75072ca886
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T14:11:49.035Z
+End Time: 2025-07-18T14:12:50.902Z
+Duration: 59 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered a Hash Brown and attempted to order a Farmhouse Egg Sandwich, which was out of stock, but the agent did not offer alternatives or complete the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T14:12:50.603Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T14:12:50.604Z] Customer: Can I get hash brown, please?
+
+[2025-07-18T14:12:50.604Z] AI Agent: That will be our Hash Brown on the menu, just confirming it's available. I'll add the Hash Brown for you. Now, would you like to add anything else to your order, or is that all for today?
+
+[2025-07-18T14:12:50.604Z] Customer: Also, I like to add a farmhouse egg sandwich.
+
+[2025-07-18T14:12:50.605Z] AI Agent: That will be our Farmhouse Egg Sandwich on the menu, just making sure that's available. I'll add the Farmhouse Egg Sandwich for you. Now, let's customize it. You'll need to pick some options for your Farmhouse Egg Sandwich. For your
+
+[2025-07-18T14:12:50.605Z] Customer: Are you sure, like, five more side sandwiches available?
+
+[2025-07-18T14:12:50.605Z] AI Agent: That will be our Farmhouse Egg Sandwich on the menu, let me verify we have that today. I've checked, and it says "OUT OF STOCK" for the Farmhouse Egg Sandwich. I'm sorry, but that item is currently out of stock today. Instead, I can offer you our Original Classic, the Egg & Cheese, or the Omelet Wrap. 

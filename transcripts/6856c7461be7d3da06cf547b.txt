@@ -1,0 +1,22 @@
+Call ID: 6856c7461be7d3da06cf547b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T14:52:54.923Z
+End Time: 2025-06-21T14:53:47.239Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered a medium hot latte and the agent began customizing the drink with milk options before the call ended abruptly.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T14:53:46.990Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T14:53:46.991Z] Customer: I'm looking for hot latte, medium size.
+
+[2025-06-21T14:53:46.991Z] AI Agent: You've chosen a medium hot latte. That's four dollars and forty-nine cents. We have several milk options: Regular Milk, Half & Half for a dollar extra, Skim, Almond Milk for a dollar extra, Oat Milk for a dollar extra, or Soy Milk. Which milk would you like?
+
+[2025-06-21T14:53:46.991Z] Customer: One second, please.
+
+[2025-06-21T14:53:46.991Z] AI Agent: I'll wait for your milk selection. Take your time.

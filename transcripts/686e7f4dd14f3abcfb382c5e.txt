@@ -1,0 +1,12 @@
+Call ID: 686e7f4dd14f3abcfb382c5e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T14:40:13.727Z
+End Time: 2025-07-09T14:42:19.042Z
+Duration: None seconds
+From: 919780032269
+To: 918035740152
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================

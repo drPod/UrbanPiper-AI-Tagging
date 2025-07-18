@@ -1,0 +1,66 @@
+Call ID: 6879af5b970f265df9e6ad60
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T02:20:11.804Z
+End Time: 2025-07-18T02:23:26.685Z
+Duration: 192 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha placed an order for a customized Avocado BLT Sandwich at Manhattan Bagel and the order was successfully submitted.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T02:23:26.269Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T02:23:26.269Z] Customer: Hey. I, I'd like to order avocado BLT sandwich.
+
+[2025-07-18T02:23:26.269Z] AI Agent: That would be our Avocado BLT Sandwich on the menu. I'll add that for you. Now, let's customize it. You mentioned Avocado BLT, which comes with turkey-bacon, avocado, lettuce, tomato, and roasted tomato spread on a thintastic bagel. Would you like to make any changes to that?
+
+[2025-07-18T02:23:26.269Z] Customer: Okay. Clean me avocado beer, the sandwich with spinach, avocado, cucumber, green pepper, roasted red pepper, grilled yellow onion, jalapeno pepper, capas, lettuce, tomato, onion, and removed bacon. Okay?
+
+[2025-07-18T02:23:26.270Z] AI Agent: For your Avocado BLT Sandwich, I'll add spinach, avocado, cucumber, green peppers, roasted red peppers, grilled yellow onions, jalapeno peppers, and capers. I'll also remove the bacon and add lettuce, tomato, and onion, as those were already included. Just to confirm, you'd like to remove the turkey-bacon from the sandwich, correct? And would you like to toast your thintastic bagel or have it untoasted?
+
+[2025-07-18T02:23:26.270Z] Customer: Yeah. Give me toasted, slightly toasted.
+
+[2025-07-18T02:23:26.270Z] AI Agent: I'll make sure your thintastic bagel is lightly toasted. Now, let me just confirm your order. You've got the Avocado BLT Sandwich with spinach, avocado, cucumber, green peppers, roasted red peppers, grilled yellow onions, jalapeno peppers, capers, lettuce, tomato, and onion, without bacon, on a lightly toasted thintastic bagel. Is that all for you today?
+
+[2025-07-18T02:23:26.270Z] Customer: Yes.
+
+[2025-07-18T02:23:26.685Z] Unknown: [2025-07-18T02:23:26.271Z] assistant: Just a moment while I add that up... 
+
+
+
+[2025-07-18T02:23:26.685Z] Unknown: [2025-07-18T02:23:26.272Z] assistant: Your complete order total comes to 20 dollars and 87 cents including tax. 
+
+Now, let me get that all put together for you. 
+
+
+
+[2025-07-18T02:23:26.272Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-18T02:23:26.685Z] Unknown: [2025-07-18T02:23:26.272Z] assistant: Now that we have your order finalized, I just need to confirm a few details before I submit it. 
+
+And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-18T02:23:26.272Z] Customer: No.
+
+[2025-07-18T02:23:26.272Z] AI Agent: Alright Aksha. Would you like me to read back your order with all the details?
+
+[2025-07-18T02:23:26.273Z] Customer: Nothing yet.
+
+[2025-07-18T02:23:26.685Z] Unknown: [2025-07-18T02:23:26.273Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-18T02:23:26.273Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 113674. That's 1, 1, 3, 6, 7, 4.", 'order_id': '113674', 'call_id': '05fc3e2a-a9e9-4676-a8f9-79970da3835b', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981b57-3dc2-9418-2544-7177237d2fde'}
+
+[2025-07-18T02:23:26.273Z] AI Agent: Your order number is 1, 1, 3, 6, 7, 4. Your total is 20 dollars and 87 cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-18T02:23:26.274Z] Customer: 
+
+[2025-07-18T02:23:26.274Z] AI Agent: You're welcome, Aksha. It was a pleasure helping you with your order. If you have any other questions or need assistance in the future, don't hesitate to reach out. Have a great day and enjoy your Avocado BLT Sandwich!
+
+[2025-07-18T02:23:26.274Z] Customer: Okay.
+
+[2025-07-18T02:23:26.274Z] AI Agent: You're welcome. Have a great day and we'll see you next time at Manhattan Bagel. Bye for now.

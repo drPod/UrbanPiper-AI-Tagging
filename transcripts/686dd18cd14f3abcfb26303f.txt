@@ -1,0 +1,75 @@
+Call ID: 686dd18cd14f3abcfb26303f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T02:18:52.209Z
+End Time: 2025-07-09T02:21:50.266Z
+Duration: 174 seconds
+From: 919780032269
+To: 918035740152
+Summary: John placed an order for an Avocado BLT Sandwich with Bialy bagel, Provolone cheese, and veggies at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T02:21:48.997Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T02:21:48.997Z] Customer: I like to order, avocado BLT sandwich, with, tomato, lettuce, and cucumber as in veggie and with extra cheese.
+
+[2025-07-09T02:21:48.997Z] AI Agent: Alright, one Avocado BLT Sandwich. First things first, I'll need to get a bread choice for that. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California Protein 
+
+[2025-07-09T02:21:48.997Z] Customer: But I'll I'll choose the, Biali, basil type.
+
+[2025-07-09T02:21:48.997Z] AI Agent: Got it, Bialy bagel. Next up, would you like to add any cheese to your sandwich? We have American, Swiss, Cheddar, Provolone,
+
+[2025-07-09T02:21:48.997Z] Customer: I I'll go with the provolone. I'll go to provolone cheese.
+
+[2025-07-09T02:21:48.997Z] AI Agent: Alright, Provolone cheese added. Would you like to add any extra protein to your sandwich? We have options like
+
+[2025-07-09T02:21:48.998Z] Customer: No.
+
+[2025-07-09T02:21:48.998Z] AI Agent: Great. How
+
+[2025-07-09T02:21:48.998Z] Customer: Just just add some veggies. Like, I said tomato lettuce and cucumber, and that's it.
+
+[2025-07-09T02:21:48.998Z] AI Agent: Alright, adding tomato, lettuce, and cucumber to your sandwich. Would you like to add any condiments? We have options like mayo, mustard, hot sauce, and more.
+
+[2025-07-09T02:21:48.998Z] Customer: No. That's it. I said that's it. Only veggies and the, they are legal type and extra cheese, and that's it. Nothing more.
+
+[2025-07-09T02:21:48.998Z] AI Agent: Alright, your Avocado BLT Sandwich with Bialy bagel, Provolone cheese, and veggies is all set. Is there anything else I can get for you today?
+
+[2025-07-09T02:21:48.998Z] Customer: Can I have, yeah, that's it? I think that's all.
+
+[2025-07-09T02:21:48.998Z] AI Agent: Okay, so I have your Avocado BLT Sandwich with Bialy bagel, Provolone cheese, and veggies. Is that all for you today?
+
+[2025-07-09T02:21:48.998Z] Customer: Yeah.
+
+[2025-07-09T02:21:50.266Z] Unknown: [2025-07-09T02:21:48.998Z] assistant: Perfect, let me get that all put together for you. 
+
+
+
+[2025-07-09T02:21:48.998Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-09T02:21:48.998Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-09T02:21:48.998Z] Customer: No.
+
+[2025-07-09T02:21:48.999Z] AI Agent: Alright John. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-09T02:21:48.999Z] Customer: No.
+
+[2025-07-09T02:21:48.999Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-09T02:21:48.999Z] Customer: Yeah.
+
+[2025-07-09T02:21:50.266Z] Unknown: [2025-07-09T02:21:48.999Z] assistant: Great. Placing that for you now, please hold on.
+
+
+
+
+[2025-07-09T02:21:48.999Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 864166. That's 8, 6, 4, 1, 6, 6.", 'order_id': '864166', 'call_id': '6542f860-65d0-4f7f-b124-be87ba5ce803', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197ecfc-bde9-0ef1-fc3c-bfd30bd19fe0'}
+
+[2025-07-09T02:21:48.999Z] AI Agent: Your order is created successfully now! The order number is 8, 6, 4, 1, 6, 6, and the total including taxes comes to $12.95. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist you with today?
+
+[2025-07-09T02:21:48.999Z] Customer: No. All good. Thank you. Bye.
+
+[2025-07-09T02:21:48.999Z] AI Agent: You're welcome, John! Have a great day! Goodbye!

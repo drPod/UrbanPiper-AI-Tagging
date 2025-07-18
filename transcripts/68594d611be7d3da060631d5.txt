@@ -1,0 +1,66 @@
+Call ID: 68594d611be7d3da060631d5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T12:49:37.472Z
+End Time: 2025-06-23T12:54:36.438Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a Breakfast Bundle with 13 Scallion bagels, 2 tubs of spread, and 2 Blueberry muffins.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T12:54:36.040Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T12:54:36.041Z] Customer: Breakfast.
+
+[2025-06-23T12:54:36.041Z] AI Agent: The Breakfast Bundle, excellent choice. That's one of our popular items, including 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Let me get the options for your bagel choices.
+
+[2025-06-23T12:54:36.041Z] AI Agent: I have all the options for your Breakfast Bundle right here. Ready to customize now? Let's start with the Bagel Dozen. You need to choose exactly 13 bagels. The options I have listed here are Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything,
+
+[2025-06-23T12:54:36.041Z] Customer: Okay. So I want, 13 as a scale and bigger.
+
+[2025-06-23T12:54:36.042Z] AI Agent: For the Bagel Dozen, you've chosen thirteen Scallion bagels. Now, let's move on to the Choose 2 Tubs of Spread. You need to choose exactly 2 tubs of spread. The options I have listed here are Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Lox Spread, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, Philadelphia 8oz, and Butter 8oz Whipped. Which two would you like?
+
+[2025-06-23T12:54:36.042Z] Customer: Like, one one second.
+
+[2025-06-23T12:54:36.042Z] AI Agent: I'll wait for your response regarding the Choose 2 Tubs of Spread for your Breakfast Bundle. Take your time, and let me know when you're ready to proceed.
+
+[2025-06-23T12:54:36.042Z] Customer: I'll choose strawberry and honey almond.
+
+[2025-06-23T12:54:36.042Z] AI Agent: For the Choose 2 Tubs of Spread, you've chosen Strawberry and Honey Almond. Now, let's move on to the Choose 4 Muffins. You can choose between 1 to 4 muffins. The options I have listed here are Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which ones would you like?
+
+[2025-06-23T12:54:36.043Z] Customer: Two blueberry and, two
+
+[2025-06-23T12:54:36.043Z] AI Agent: For the Choose 4 Muffins, you've chosen two Blueberry muffins. Now, let's move on to the Box of Coffee. This is an optional choice, and you can choose up to 1 box of coffee. The options I have listed here are House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Would you like to add a box of coffee to your Breakfast Bundle?
+
+[2025-06-23T12:54:36.043Z] Customer: No. But I want to know, like, in the muffin side, I have only choose I have only selected two. So, I do I need to select code at least or minimum, like, what is the minimum count I need to select?
+
+[2025-06-23T12:54:36.043Z] AI Agent: For the Choose 4 Muffins, the minimum selection is 1, and the maximum selection is 4. You've chosen 2 Blueberry muffins, which is within the allowed range. So, you're good to go with just the 2 Blueberry muffins. You don't need to select more, but you could if you wanted to, up to a total of 4 muffins. Now, let's review your Breakfast Bundle: you have 13 Scallion bagels, 2 tubs of spread (Strawberry and Honey Almond), and 2 Blueberry muffins. Perfect, let me add that to your order.
+
+[2025-06-23T12:54:36.043Z] AI Agent: Added 1 item(s) to your cart. Total: $29.99
+
+[2025-06-23T12:54:36.044Z] AI Agent: Alright, I've added the Breakfast Bundle to your order. Your total comes out to be $29.99. Would you like to add anything else or proceed with the order?
+
+[2025-06-23T12:54:36.044Z] Customer: Yeah. Proceed with the order now.
+
+[2025-06-23T12:54:36.044Z] AI Agent: Alright, let me get this order placed for you. Before we finalize, may I have your name for the order, please? 
+
+[2025-06-23T12:54:36.044Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 487330. That's 4, 8, 7, 3, 3, 0. Total: $32.98 (subtotal 29.99 dollars plus 2.99 dollars tax). Thank you for your order!
+
+[2025-06-23T12:54:36.044Z] Customer: My name is Jitin.
+
+[2025-06-23T12:54:36.045Z] Customer: 
+
+[2025-06-23T12:54:36.045Z] AI Agent: Alright, let me get this order placed for you. Before we finalize, I just need to confirm: you've ordered a Breakfast Bundle with 13 Scallion bagels, 2 tubs of spread - Strawberry and Honey Almond, and 2 Blueberry muffins. Your total comes out to be $29.99. Would you like me to read it back to make sure everything is perfect?
+
+[2025-06-23T12:54:36.045Z] Customer: No. È il diffuso.
+
+[2025-06-23T12:54:36.045Z] AI Agent: Alright, Jitin, your order is placed. Your order number is 4-8-7-3-3-0. Your total is $32.98, which includes a subtotal of $29.99 and $2.99 in tax. We'll have that ready for you shortly!
+
+[2025-06-23T12:54:36.045Z] Customer: Okay
+
+[2025-06-23T12:54:36.045Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, we'll see you soon to pick up your Breakfast Bundle. Have a great day!
+
+[2025-06-23T12:54:36.046Z] AI Agent: OK

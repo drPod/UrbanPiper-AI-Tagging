@@ -1,0 +1,50 @@
+Call ID: 685985d41be7d3da060f04da
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T16:50:28.223Z
+End Time: 2025-06-23T16:53:28.145Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for Avocado Toast with lox at Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T16:53:27.759Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T16:53:27.759Z] Customer: I like to order order aloe vera toast.
+
+[2025-06-23T16:53:27.759Z] AI Agent: The Avocado Toast, great choice. That's toasted multigrain bread with mashed avocado and everything bagel seasoning. Let me get the options for your bread and spread choices... 
+
+[2025-06-23T16:53:27.759Z] AI Agent: For your Avocado Toast, I have a few options to customize it to your liking. Let's start with the Lox. You can choose to add lox to your Avocado Toast. The available option is Add Lox for $5.99. Would you like to add lox?
+
+[2025-06-23T16:53:27.759Z] Customer: Via
+
+[2025-06-23T16:53:27.760Z] AI Agent: I've added the lox to your Avocado Toast. Now, let's move on to the Hard Boiled Egg. You can choose to add a hard-boiled egg to your Avocado Toast. The available option is Add Hard Boiled Egg for $3.50. Would you like to add a hard-boiled egg?
+
+[2025-06-23T16:53:27.760Z] Customer: No.
+
+[2025-06-23T16:53:27.760Z] AI Agent: I've noted that you don't want to add a hard-boiled egg to your Avocado Toast. Now, let's move on to the Add Egg options. You can choose to add eggs to your Avocado Toast. The available options are Add 2 Eggs for $3, Add 2 Egg Whites for $4, Add 4 Eggs for $6, or Add 4 Egg Whites for $6.
+
+[2025-06-23T16:53:27.760Z] Customer: No. I don't no. No. I don't need that.
+
+[2025-06-23T16:53:27.760Z] AI Agent: I've noted that you don't want to add any eggs to your Avocado Toast. So, to confirm, you've got the Avocado Toast with lox added. That's it for the customizations. Now, I just need to confirm a few things before we place your order. Are you ready to proceed?
+
+[2025-06-23T16:53:27.760Z] Customer: Are we talking about the avocado toast?
+
+[2025-06-23T16:53:27.760Z] AI Agent: Yes, we are talking about the Avocado Toast. You had chosen the Avocado Toast and added lox to it. Now, I'd like to read back your order to make sure everything is correct. You have the Avocado Toast with lox added. Is that all correct?
+
+[2025-06-23T16:53:27.760Z] Customer: Я.
+
+[2025-06-23T16:53:27.760Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-23T16:53:27.771Z] AI Agent: {'result': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 451779. That's 4, 5, 1, 7, 7, 9. Total: $14.28 (subtotal 12.98 dollars plus 1.30 dollars tax). Thank you for your order!", 'responseType': 'tool-response', 'success': True, 'orderNumber': '451779', 'orderTotal': 14.280000000000001, 'itemCount': 1, 'customer': '', 'orderSummary': {'orderNumber': '451779', 'callId': '837ffe27-f7ae-4e65-ab31-6f2683c6139d', 'tenantName': 'manhattan_bagel_864915', 'storeId': '1', 'customer': {'name': '', 'contact_number': '', 'country_code': '+1', 'customer_email': 'noemail@example.com', 'full_address': 'Pickup Order - No Address Required', 'locality': 'Restaurant Location', 'payment_method_preference': 'cash', 'preferred_time_for_delivery_pickup': 'pickup'}, 'items': [{'item_name': 'Avocado Toast', 'ref_id': 'itm_a4923e51-dc22-42fa-8844-e354f937aed1', 'quantity': 1, 'base_price': 6.99, 'modifier_groups': [{'group_title': 'Lox', 'option_title': 'Add Lox', 'price': 5.99, 'quantity': 1, 'group_ref_id': 'mg1409541', 'option_ref_id': '5709113'}], 'item_total_price': 12.98, 'category': 'Uncategorized', 'description': '', 'food_type': '1', 'taxes': []}], 'itemCount': 1, 'subtotal': 12.98, 'specialInstructions': '', 'placedAt': '2025-06-23T16:52:35.313Z'}, 'externalApiResponse': {'status': 'success', 'message': 'Order processed', 'order_request_id': 'ab733497-def3-4f6a-a573-5c0ec99a478f', 'order_total_price': 14.280000000000001, 'total_tax_applied': 1.3}, 'externalApiSubmitted': True}
+
+[2025-06-23T16:53:27.771Z] AI Agent: Your order number is 4, 5, 1, 7, 7, 9. Your total comes out to be $12.98 plus $1.30 in tax, making it $14.28. We'll have that ready for you shortly here at Manhattan Bagel. Thank you for your order!
+
+[2025-06-23T16:53:27.771Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T16:53:27.771Z] Customer: Yeah. Thank you so much.
+
+[2025-06-23T16:53:27.771Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, we'll see you soon at Manhattan Bagel to pick up your Avocado Toast. Have a great day!

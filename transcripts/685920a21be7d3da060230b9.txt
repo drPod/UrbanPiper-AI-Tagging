@@ -1,0 +1,46 @@
+Call ID: 685920a21be7d3da060230b9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T09:38:42.325Z
+End Time: 2025-06-23T09:41:18.282Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: Gaurav ordered a Breakfast Bundle with thirteen Sesame bagels, one Vanilla and one Vegetable Cream Cheese, two Corn and two Blueberry muffins, and a House Blend coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T09:41:18.102Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T09:41:18.102Z] Customer: I'm looking to order breakfast bundle.
+
+[2025-06-23T09:41:18.102Z] AI Agent: The Breakfast Bundle, great choice. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T09:41:18.102Z] AI Agent: Do you want to proceed with the customization now?
+
+[2025-06-23T09:41:18.102Z] Customer: Yes.
+
+[2025-06-23T09:41:18.102Z] AI Agent: Alright, for the thirteen bagels in your Bagel Dozen, we have options like Plain, Everything, Asiago, and more. Which ones would you like? You can choose a variety if you'd like.
+
+[2025-06-23T09:41:18.102Z] Customer: All 13, should be sesame.
+
+[2025-06-23T09:41:18.102Z] AI Agent: Thirteen Sesame bagels. Next, for your two tubs of spread, we have Plain Cream Cheese, Vegetable Cream Cheese, and others. Which two would you like?
+
+[2025-06-23T09:41:18.102Z] Customer: 
+
+[2025-06-23T09:41:18.103Z] AI Agent: One Vanilla and one Vegetable Cream Cheese. Now, for your four muffins, you can choose from Blueberry, Corn, Double Chocolate, and more. Which ones would you like?
+
+[2025-06-23T09:41:18.103Z] Customer: One, two of corn, two of blueberry.
+
+[2025-06-23T09:41:18.103Z] AI Agent: Two Corn and two Blueberry muffins. Lastly, for the Box of Coffee, would you like House Blend, Decaf, or another option?
+
+[2025-06-23T09:41:18.103Z] Customer: How's Glenn?
+
+[2025-06-23T09:41:18.103Z] AI Agent: House Blend it is. Perfect, let me add that to your order...
+
+[2025-06-23T09:41:18.103Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T09:41:18.103Z] Customer: Yes. I'm still with you.
+
+[2025-06-23T09:41:18.103Z] Customer: Hello?

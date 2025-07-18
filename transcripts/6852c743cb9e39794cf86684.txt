@@ -1,0 +1,46 @@
+Call ID: 6852c743cb9e39794cf86684
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T14:03:47.132Z
+End Time: 2025-06-18T14:05:13.617Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rifat ordered a Ham Sandwich on an Everything Bagel, toasted dark, and confirmed his order for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T14:05:10.806Z] AI Agent: Hello Jitin, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T14:05:10.806Z] Customer: I wanted to have a sandwich. Can you please help?
+
+[2025-06-18T14:05:10.806Z] AI Agent: I'd be happy to help you with a sandwich. Before I get started, may I have your name, please?
+
+[2025-06-18T14:05:10.806Z] Customer: Yeah. My name is Ripul.
+
+[2025-06-18T14:05:10.807Z] AI Agent: I found several greatoptions! Popular sandwiches include the Cheese Sandwich for seven dollars and ninety-nine cents, the Ham Sandwich for nine dollars and forty-nine cents,
+
+[2025-06-18T14:05:10.807Z] Customer: I wanted the ham sandwich.
+
+[2025-06-18T14:05:10.807Z] AI Agent: For the Ham Sandwich,we have several bread options. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, 
+
+[2025-06-18T14:05:10.807Z] Customer: Okay. Go with the everything bigger.
+
+[2025-06-18T14:05:10.807Z] AI Agent: For the Ham Sandwich on an Everything Bagel, would you like it toasted, lightly toasted, or toasted dark?
+
+[2025-06-18T14:05:10.807Z] Customer: 
+
+[2025-06-18T14:05:13.617Z] Unknown: [2025-06-18T14:05:10.807Z] assistant: So, to confirm, you'd like a Ham Sandwich on an Everything Bagel, toasted dark. I'll also add that to your order. 
+
+
+
+[2025-06-18T14:05:10.807Z] AI Agent: Your current order isa Ham
+
+[2025-06-18T14:05:10.807Z] Customer: Yeah. Please.
+
+[2025-06-18T14:05:10.807Z] AI Agent: Your total comes out to be 18 dollars and 98 cents. Is that correct? Also, do you have any
+
+[2025-06-18T14:05:10.807Z] Customer: Yağya.
+
+[2025-06-18T14:05:10.807Z] AI Agent: Do you have any special requests or allergies I should know about? 

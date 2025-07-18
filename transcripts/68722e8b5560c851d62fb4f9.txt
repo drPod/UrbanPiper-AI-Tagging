@@ -1,0 +1,22 @@
+Call ID: 68722e8b5560c851d62fb4f9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T09:44:43.289Z
+End Time: 2025-07-12T09:45:22.164Z
+Duration: 33 seconds
+From: +918949862707
+To: +16516156214
+Summary: The customer attempted to order an Avocado BLT Sandwich, which is not on the menu, and the conversation was cut short.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T09:45:22.008Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T09:45:22.008Z] Customer: Looking to order a big, avocado BLT sandwich.
+
+[2025-07-12T09:45:22.009Z] AI Agent: For the Garden Avocado Egg White Sandwich, you'll need to pick just one bagel for your sandwich. We have Plain, Everything,
+
+[2025-07-12T09:45:22.009Z] Customer: No. I said avocado BLD sandwich.
+
+[2025-07-12T09:45:22.009Z] AI Agent: I don't see Avocado BLT Sandwich on our menu. However, we do have some great options like the Big City BLT,

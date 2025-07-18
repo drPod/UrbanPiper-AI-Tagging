@@ -1,0 +1,20 @@
+Call ID: 6859b2331be7d3da061243e8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T19:59:47.606Z
+End Time: 2025-06-23T20:00:17.147Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer, Jitin, did not place an order and instead requested to be transferred to a human agent.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T20:00:16.967Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T20:00:16.967Z] Customer: I want to order
+
+[2025-06-23T20:00:16.968Z] AI Agent: Let's get
+
+[2025-06-23T20:00:16.968Z] Customer: Hello? I don't want to order anything. You just transfer this call to a human agent, please.

@@ -1,0 +1,40 @@
+Call ID: 6856f9751be7d3da06d7d4b5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T18:27:01.931Z
+End Time: 2025-06-21T18:28:53.153Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered an Omelet Wrap with Grilled Chicken, American Cheese, Mustard, Green Peppers, and a Wheat tortilla, but the order placement failed due to technical issues.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T18:28:52.865Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T18:28:52.865Z] Customer: Omelette wrap.
+
+[2025-06-21T18:28:52.865Z] AI Agent: The Omelet Wrap, excellent choice. That's one of our popular items with 3 eggs, cheese, and your choice of meat in a tortilla. Let me get the options for your omelet wrap...
+
+[2025-06-21T18:28:52.866Z] AI Agent: For the Omelet Wrap, let's start with the meat. We have several options like Bacon, Pork Roll, Sausage, Ham, Steak, Deli Turkey, Turkey Bacon, Turkey Sausage, Pastrami, and Grilled Chicken. Which one would you like?
+
+[2025-06-21T18:28:52.866Z] Customer: Grilled chicken. I want American cheese, mustard condiment, green pepper as vegetable, and wheat tortilla.
+
+[2025-06-21T18:28:52.866Z] AI Agent: So, for your Omelet Wrap, you'd like to have Grilled Chicken, American Cheese, Mustard as the condiment, Green Peppers as the vegetable, and a Wheat tortilla. Perfect, let me add that to your order...
+
+[2025-06-21T18:28:52.866Z] AI Agent: Added 1 item(s) to your cart. Total: $13.98
+
+[2025-06-21T18:28:52.867Z] AI Agent: Alright, I've added the Omelet Wrap to your order with Grilled Chicken, American Cheese, Mustard, Green Peppers, and a Wheat tortilla. Your total comes out to be $13.98. What else can I get for you today?
+
+[2025-06-21T18:28:52.867Z] Customer: And that's all. You can place the order now.
+
+[2025-06-21T18:28:52.867Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-21T18:28:52.867Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-21T18:28:52.867Z] AI Agent: I apologize, but it seems like there was an issue with placing your order. Let me try again. Alright, let me get this order placed for you...
+
+[2025-06-21T18:28:52.868Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-21T18:28:52.868Z] AI Agent: I apologize, but it seems like there

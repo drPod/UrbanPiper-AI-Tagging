@@ -1,0 +1,102 @@
+Call ID: 6859888c1be7d3da060f5db7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T17:02:04.212Z
+End Time: 2025-06-23T17:07:45.352Z
+Duration: 360 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh attempted to place an order for a Breakfast Bundle with customizations and a box of House Blend coffee, but the order could not be placed due to technical issues.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T17:07:44.552Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T17:07:44.552Z] Customer: I would like to order the breakfast one.
+
+[2025-06-23T17:07:45.352Z] Unknown: [2025-06-23T17:07:44.552Z] assistant: The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get all the customization options for you. 
+
+I will now fetch the options for the Breakfast Bundle. 
+
+
+
+[2025-06-23T17:07:44.552Z] AI Agent: Let me see what we have for the bagel dozen. For the Breakfast Bundle, you'll need to choose exactly 13 bagels. We have a variety of options, including Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like?
+
+[2025-06-23T17:07:44.552Z] Customer: Give me two plain, two Asiago, two everything, two sesame.
+
+[2025-06-23T17:07:44.552Z] AI Agent: For the bagel dozen, I have noted down 2 Plain, 2 Asiago, 2 Everything, and 2 Sesame. That's 8 bagels so far. You still need to choose 5 more bagels to reach the total of 13. Which 5 additional bagels would you like?
+
+[2025-06-23T17:07:44.552Z] Customer: Give me, three jalapeno and two California.
+
+[2025-06-23T17:07:45.352Z] Unknown: [2025-06-23T17:07:44.552Z] assistant: For the bagel dozen, I now have 2 Plain, 2 Asiago, 2 Everything, 2 Sesame, 3 Jalapeño Cheddar, and 2 California. That completes your selection of 13 bagels.
+
+Next, let's move on to the Choose 2 Tubs of Spread. You need to select exactly 2 tubs of spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, and more. Which 2 tubs of spread would you like?
+
+[2025-06-23T17:07:44.552Z] Customer: Give me give me plain cream cheese and strawberry cream cheese.
+
+[2025-06-23T17:07:45.352Z] Unknown: [2025-06-23T17:07:44.553Z] assistant: For the Choose 2 Tubs of Spread, I have noted down 1 Plain Cream Cheese and 1 Strawberry Cream Cheese.
+
+Next, let's move on to the Choose 4 Muffins. You can choose between 1 to 4 muffins. We have options like Blueberry, Corn, Double Chocolate, and more. Which muffins would you like?
+
+[2025-06-23T17:07:44.553Z] Customer: You need three blueberries and two corn.
+
+[2025-06-23T17:07:44.553Z] AI Agent: For the Choose 4 Muffins, I have noted down 3 Blueberry and 1 Corn, since you can choose up to 4 muffins and you've selected a total of 4 muffins. Next, let's move on to the Box of Coffee. This is an optional
+
+[2025-06-23T17:07:44.554Z] Customer: Oh, actually, change it. Check check. Change to blueberries and two pound then.
+
+[2025-06-23T17:07:44.554Z] AI Agent: For the Choose 4 Muffins, I have updated your selection to 2 Blueberry and 2 Corn. Next, let's move on to the Box of Coffee. This is an optional item, so you can choose up to 1 box of coffee or none at all. We have options like House Blend, Decaf, Vanilla Hazelnut, and more.
+
+[2025-06-23T17:07:44.555Z] Customer: Is there an extra is there an extra charge for the coffee?
+
+[2025-06-23T17:07:44.555Z] AI Agent: Yes, there is an extra charge for the coffee. Each box of coffee costs $24.99. So, if you choose to add a box of coffee to your Breakfast Bundle, it will be an additional $24.99 on top of the bundle's price. Would you like to add a box of coffee to your order?
+
+[2025-06-23T17:07:44.555Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T17:07:44.561Z] Customer: Yes, please. Add a house blend.
+
+[2025-06-23T17:07:45.352Z] Unknown: [2025-06-23T17:07:44.561Z] assistant: I've added a box of House Blend coffee to your order. That's an additional $24.99.
+
+Now, let me just confirm your entire order. You've chosen the Breakfast Bundle with 2 Plain bagels, 2 Asiago bagels, 2 Everything bagels, 2 Sesame bagels, 3 Jalapeño Cheddar bagels, and 2 California bagels. For the spreads, you've selected 1 Plain Cream Cheese and 1 Strawberry Cream Cheese. For the muffins, you've chosen 2 Blueberry and 2 Corn. And finally, you've added a box of House Blend coffee.
+
+Before I place your order, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-23T17:07:44.561Z] Customer: Can you tell me can you tell me what is my total?
+
+[2025-06-23T17:07:45.352Z] Unknown: [2025-06-23T17:07:44.561Z] assistant: Let me calculate your total.
+
+The Breakfast Bundle is $29.99. You've added a box of House Blend coffee for $24.99. So, your subtotal is $29.99 + $24.99 = $54.98. 
+
+I will now calculate tax on your subtotal. 
+
+
+
+[2025-06-23T17:07:44.577Z] AI Agent: ERROR: Tool 'calculate_tax' does not exist
+
+[2025-06-23T17:07:45.352Z] Unknown: [2025-06-23T17:07:44.577Z] assistant: I can't calculate the tax. Let me just place your order and you'll get the total then.
+
+Alright, let me get this order placed for you...
+
+
+
+[2025-06-23T17:07:44.577Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T17:07:45.352Z] Unknown: [2025-06-23T17:07:44.577Z] assistant: I am sorry, but I am unable to place your order at this time. Let me try again.
+
+Alright, let me get this order placed for you...
+
+
+
+[2025-06-23T17:07:44.577Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T17:07:44.577Z] Customer: I am with you. Can you place the order?
+
+[2025-06-23T17:07:45.352Z] Unknown: [2025-06-23T17:07:44.577Z] assistant: Let me try to place your order again.
+
+Alright, let me get this order placed for you...
+
+
+
+[2025-06-23T17:07:44.577Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T17:07:44.577Z] AI Agent: I am sorry, but I am unable to place your order at this time. Can I

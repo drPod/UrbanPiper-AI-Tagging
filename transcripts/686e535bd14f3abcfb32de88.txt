@@ -1,0 +1,119 @@
+Call ID: 686e535bd14f3abcfb32de88
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T11:32:43.194Z
+End Time: 2025-07-09T11:37:03.174Z
+Duration: 256 seconds
+From: +19737032606
+To: +16204558091
+Summary: Akram placed a large order for pickup at Manhattan Bagel but encountered a technical issue during finalization.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T11:37:02.051Z] AI Agent: Hello Akram Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T11:37:02.053Z] Customer: Hi, I wanna place an order for pickup.
+
+[2025-07-09T11:37:02.054Z] AI Agent: Sure thing Akram! What can I get started for you today?
+
+[2025-07-09T11:37:02.054Z] Customer: Let me get a Manhattan cheesesteak, a toasted plain bagel with butter, five bacon, egg, and cheese on plain bagels, one Taylor ham, egg, and cheese on a sesame, tuna, sesame, bagel, lettuce, tomato, one, Alice Island hot pastrami, one omelette crab with bacon.
+
+[2025-07-09T11:37:02.054Z] AI Agent: Alright, one
+
+[2025-07-09T11:37:02.055Z] Customer: One snapple I'm not finished. I'm not finished. One snapple with lemon snapple lemon and two peach snapple.
+
+[2025-07-09T11:37:02.056Z] AI Agent: Sure thing, one Snapple with lemon and two peach Snapples. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.056Z] Customer: Can you can you confirm my order? Repeat the order to me.
+
+[2025-07-09T11:37:02.056Z] AI Agent: Okay, so I have the Manhattan Cheesesteak, five Bacon Egg & Cheese on Plain Bagels, one Taylor Ham Egg & Cheese on a Sesame Bagel, lettuce and tomato, one Ellis Island Hot Pastrami, one Ham & Bacon Club, one Snapple with lemon, and two Peach Snapples. Is that all for you today?
+
+[2025-07-09T11:37:02.056Z] Customer: I did not order the ham bacon club.
+
+[2025-07-09T11:37:02.057Z] AI Agent: You're absolutely right, let me fix that. So, I have the Manhattan Cheesesteak, five Bacon Egg & Cheese on Plain Bagels, one Taylor Ham Egg & Cheese on a Sesame Bagel with lettuce and tomato, one Ellis Island Hot Pastrami, one Snapple with lemon, and two Peach Snapples. Is that all for you today?
+
+[2025-07-09T11:37:02.057Z] Customer: Yeah. The bacon, egg, and cheese. Can you toast the bagels?
+
+[2025-07-09T11:37:02.057Z] AI Agent: Sure thing, I can toast the bagels for your Bacon Egg & Cheese. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.058Z] Customer: Yeah. Give me a toasted and scooped, plain bagel, with cream cheese.
+
+[2025-07-09T11:37:02.059Z] AI Agent: Alright, one toasted and scooped plain bagel with cream cheese. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.060Z] Customer: Can I get an omelette crab with bacon?
+
+[2025-07-09T11:37:02.060Z] AI Agent: Sure thing, one omelet wrap with bacon. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.060Z] Customer: Yeah. The bacon, egg, and cheese, put salt, pepper, ketchup on it.
+
+[2025-07-09T11:37:02.060Z] AI Agent: Got it, I'll add salt, pepper, and ketchup to your Bacon Egg & Cheese. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.060Z] Customer: 他 们 利 渡 的 项 目 其 实 都 来 有 的
+
+[2025-07-09T11:37:02.061Z] AI Agent: You didn't order any tuna sandwiches. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.061Z] Customer: Yeah. Let me get tuna and sesame with lettuce and tomato.
+
+[2025-07-09T11:37:02.062Z] AI Agent: Alright, one tuna on sesame with lettuce and tomato. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.062Z] Customer: What's my total?
+
+[2025-07-09T11:37:02.062Z] AI Agent: Your total is $69.99. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.063Z] Customer: Please speak Arabic.
+
+[2025-07-09T11:37:02.063Z] AI Agent: I'm sorry, but I can't switch to Arabic. I can only assist in English. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.063Z] Customer: 
+
+[2025-07-09T11:37:02.064Z] AI Agent: Sure thing, we have chicken noodle soup available. Would you like a cup or a bowl?
+
+[2025-07-09T11:37:02.064Z] Customer: No. No soup. How about soda? Can I let me get Coca Cola? Coke, 30 ounce.
+
+[2025-07-09T11:37:02.064Z] AI Agent: We have 12 ounce cans of Coke available. Would you like one?
+
+[2025-07-09T11:37:02.065Z] Customer: Yeah. I'll take a 12 can 12 ounce can. That's fine.
+
+[2025-07-09T11:37:02.065Z] AI Agent: Alright, one 12 ounce can of Coke. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.066Z] Customer: Yeah. Let me also do, let me also do a Manhattan cheese steak.
+
+[2025-07-09T11:37:02.066Z] AI Agent: Sure thing, another Manhattan Cheesesteak. Is there anything else I can get for you today?
+
+[2025-07-09T11:37:02.070Z] Customer: Neurologue
+
+[2025-07-09T11:37:03.174Z] Unknown: [2025-07-09T11:37:02.071Z] assistant: Perfect, let me get that all put together for you. 
+
+
+
+[2025-07-09T11:37:02.072Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T11:37:03.174Z] Unknown: [2025-07-09T11:37:02.072Z] assistant: I'm sorry, there was an issue processing your request. Let me get that all put together for you. 
+
+
+
+[2025-07-09T11:37:02.073Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T11:37:03.174Z] Unknown: [2025-07-09T11:37:02.073Z] assistant: I'm sorry, there seems to be a technical issue. Let me try one more time to finalize your order. .
+
+
+
+
+[2025-07-09T11:37:02.073Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T11:37:03.174Z] Unknown: [2025-07-09T11:37:02.073Z] assistant: I'm sorry for the inconvenience. Let me attempt to process your order again.  .
+
+
+
+
+
+[2025-07-09T11:37:02.074Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T11:37:03.174Z] Unknown: [2025-07-09T11:37:02.074Z] assistant: I'm sorry, there seems to be a persistent issue with the system. Let me transfer you to a team member who can assist you directly.  .
+
+
+
+
+
+[2025-07-09T11:37:02.079Z] AI Agent: Call ended before tool response was received

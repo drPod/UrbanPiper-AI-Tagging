@@ -1,0 +1,68 @@
+Call ID: 6859373d1be7d3da06047e25
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:15:09.261Z
+End Time: 2025-06-23T11:19:21.387Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: Gaurav ordered a Breakfast Bundle with customized bagels, spreads, muffins, and a box of House Blend coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:19:20.808Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T11:19:20.808Z] Customer: I want to order breakfast bundle.
+
+[2025-06-23T11:19:20.808Z] AI Agent: The Breakfast Bundle is perfect for a group. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T11:19:20.809Z] AI Agent: The available customization groups are: Bagel Dozen, Choose 2 Tubs of Spread, Choose 4 Muffins, Box of Coffee. I'll guide you through each. First, for your thirteen bagels, what would you like?
+
+[2025-06-23T11:19:20.809Z] Customer: I'll go with the 13 as Italian bagel.
+
+[2025-06-23T11:19:20.809Z] AI Agent: I see Scallion Bagel as an option. Would you like all thirteen to be Scallion Bagels?
+
+[2025-06-23T11:19:20.809Z] Customer: I said, 13 is a scallion bagel.
+
+[2025-06-23T11:19:20.809Z] AI Agent: Let me clarify, you'd like seven of them to be Scallion Bagels and six to be Plain Bagels, right?
+
+[2025-06-23T11:19:20.809Z] Customer: Yes.
+
+[2025-06-23T11:19:20.809Z] AI Agent: So, seven Scallion Bagels and six Plain Bagels. Next, for your two tubs of spread, which ones would you like?
+
+[2025-06-23T11:19:20.809Z] Customer: Okay. Sorry. My bad. Can you make, all as, okay. Five planes, five everything, and, yeah.
+
+[2025-06-23T11:19:20.810Z] AI Agent: For the bagels, you'd like five Plain, five Everything, and three...?
+
+[2025-06-23T11:19:20.810Z] Customer: Three as every three as garlic.
+
+[2025-06-23T11:19:20.810Z] AI Agent: So, for the bagels, you'd like five Plain, five Everything, and three Garlic. Next, for your two tubs of spread, which ones would you like?
+
+[2025-06-23T11:19:20.810Z] Customer: I'll choose the plain and vegetable.
+
+[2025-06-23T11:19:20.810Z] AI Agent: You've chosen Plain and Vegetable for your two tubs of spread. Now, for your four muffins, which ones would you like?
+
+[2025-06-23T11:19:20.810Z] Customer: Tell me the options.
+
+[2025-06-23T11:19:20.810Z] AI Agent: For the muffins, the options are Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which four would you like to choose?
+
+[2025-06-23T11:19:20.810Z] Customer: I'll choose blueberry and, chocolate chips.
+
+[2025-06-23T11:19:20.810Z] AI Agent: You've chosen Blueberry and Chocolate Chip. You still have two more muffins to choose. Would you like to pick from the remaining options: Corn, Double Chocolate, Cinnamon
+
+[2025-06-23T11:19:20.811Z] Customer: Can we make can we make, each of them, two?
+
+[2025-06-23T11:19:20.811Z] AI Agent: So, you'd like two Blueberry muffins and two Chocolate Chip muffins. Now, for the Box of Coffee, would you like to add House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast, or none at all?
+
+[2025-06-23T11:19:20.811Z] Customer: You can add house blend.
+
+[2025-06-23T11:19:20.811Z] AI Agent: I'll add the House Blend coffee. Perfect, let me add that to your order...
+
+[2025-06-23T11:19:20.811Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T11:19:20.811Z] Customer: 
+
+[2025-06-23T11:19:20.811Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T11:19:20.812Z] Customer: Yes. Yes. I'm still there.

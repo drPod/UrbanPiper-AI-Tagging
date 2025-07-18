@@ -1,0 +1,38 @@
+Call ID: 685932871be7d3da0604154b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T10:55:03.749Z
+End Time: 2025-06-23T10:56:21.375Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle from Manhattan Bagel but the order could not be placed due to an empty cart.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T10:56:21.105Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T10:56:21.105Z] Customer: Bagel, breakfast, breakfast bundle.
+
+[2025-06-23T10:56:21.105Z] AI Agent: The
+
+[2025-06-23T10:56:21.105Z] Customer: And I need 13. Is everything legal?
+
+[2025-06-23T10:56:21.106Z] AI Agent: Let me get all the customization options for you...
+
+[2025-06-23T10:56:21.106Z] Customer: One plain cream cheese and one vegetable cream cheese.
+
+[2025-06-23T10:56:21.106Z] AI Agent: Two muffins blueberry and two corn muffins
+
+[2025-06-23T10:56:21.106Z] Customer: Hello?
+
+[2025-06-23T10:56:21.106Z] AI Agent: House Blend coffee, Perfect, let me add that to your order...
+
+[2025-06-23T10:56:21.106Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T10:56:21.106Z] Customer: Yes.
+
+[2025-06-23T10:56:21.106Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-23T10:56:21.106Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.

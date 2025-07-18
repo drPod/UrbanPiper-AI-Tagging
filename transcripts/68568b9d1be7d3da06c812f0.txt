@@ -1,0 +1,50 @@
+Call ID: 68568b9d1be7d3da06c812f0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T10:38:21.921Z
+End Time: 2025-06-21T10:40:53.215Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a medium hot latte with half and half milk at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T10:40:52.987Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T10:40:52.987Z] Customer: Emily, I I'd like to order hot latte, medium size, half and half milk.
+
+[2025-06-21T10:40:52.987Z] AI Agent: A medium hot latte with half and half milk sounds great. I'll get that started for you. For the half and half milk, would you like whipped cream on top for an extra seventy-five cents?
+
+[2025-06-21T10:40:52.987Z] Customer: No. I don't need it. That that's, it only half and half mil, medium size.
+
+[2025-06-21T10:40:52.987Z] AI Agent: So, to confirm, you'd like a medium hot latte with half and half milk, no whipped cream. I'll add that to your order. Your total comes out to be four dollars and forty-nine cents. Would you like to pay with card or cash today?
+
+[2025-06-21T10:40:52.987Z] Customer: Yes.
+
+[2025-06-21T10:40:53.215Z] Unknown: [2025-06-21T10:40:52.988Z] assistant: Perfect, let me add that to your order... 
+
+
+
+[2025-06-21T10:40:52.988Z] AI Agent: Alright, your medium hot latte with half and half milk has been added to your order. The total comes out to be four dollars and forty-nine cents. What else can I get for you today?
+
+[2025-06-21T10:40:52.988Z] Customer: That's it for now. Thank you so much.
+
+[2025-06-21T10:40:52.988Z] AI Agent: You're welcome, Mehul. It was a pleasure helping you with your order. Before I place it, may I confirm your name for the order, please?
+
+[2025-06-21T10:40:52.988Z] Customer: Yeah. My name is Jitin.
+
+[2025-06-21T10:40:52.988Z] AI Agent: Thank you for confirming, Jitin. I'll make sure to get that right. Now, I just need to ask: Any special requests or allergies I should note for your order?
+
+[2025-06-21T10:40:52.988Z] Customer: No. I don't have any. Thank you so much for asking.
+
+[2025-06-21T10:40:53.215Z] Unknown: [2025-06-21T10:40:52.988Z] assistant: I'll note that down. Alright, let me place this order for you... 
+
+
+
+[2025-06-21T10:40:52.989Z] AI Agent: Your order has been placed successfully. Your order number is 9-2-6-6-1-9. Your order total is six dollars and four cents, which includes a subtotal of five dollars and forty-nine cents and fifty-five cents in tax. Is there anything else I can help you with?
+
+[2025-06-21T10:40:52.989Z] Customer: No. Thank you so much.
+
+[2025-06-21T10:40:52.989Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and enjoy your hot latte!

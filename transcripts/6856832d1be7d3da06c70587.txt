@@ -1,0 +1,91 @@
+Call ID: 6856832d1be7d3da06c70587
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T10:02:21.314Z
+End Time: 2025-06-21T10:05:55.757Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered a Diet Coke and a 16oz Mint Oreo Chillerz from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T10:05:55.425Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm Emily an AI Assistant, and How can I assist you today?
+
+[2025-06-21T10:05:55.425Z] Customer: Hey. Hi, Emily. Right?
+
+[2025-06-21T10:05:55.425Z] AI Agent: Hello again, welcome back to Manhattan Bagel. Before we continue, may I have your name for the order?
+
+[2025-06-21T10:05:55.425Z] Customer: Yeah, my name is मेहुल.
+
+[2025-06-21T10:05:55.425Z] AI Agent: Hello Mehul, what can I get for you today?
+
+[2025-06-21T10:05:55.425Z] Customer: I'd like to order, Diet Coke.
+
+[2025-06-21T10:05:55.425Z] AI Agent: I've found the Diet Coke in our menu. It's a 12oz can for 1.99. Would you like to add that to your order?
+
+[2025-06-21T10:05:55.426Z] Customer: Yes.
+
+[2025-06-21T10:05:55.757Z] Unknown: [2025-06-21T10:05:55.426Z] assistant: Perfect, let me add that to your order. 
+
+{
+    "action": "add",
+    "items": [
+        {
+            "item_name": "Diet Coke",
+            "quantity": 1,
+            "price": 1.99,
+            "modifiers": []
+        }
+    ],
+    "tenantName": "manhattan_bagel_864915",
+    "storeId": "1"
+}
+
+[2025-06-21T10:05:55.426Z] AI Agent: I hope you are still with me!
+
+[2025-06-21T10:05:55.426Z] Customer: Yeah. I'm still there.
+
+[2025-06-21T10:05:55.426Z] AI Agent: Alright, I have your Diet Coke added to the order. Your total comes out to be $1.99. What else can I get for you today?
+
+[2025-06-21T10:05:55.426Z] Customer: Can I have, mint Oreo chillers?
+
+[2025-06-21T10:05:55.426Z] AI Agent: I've found the Mint Oreo Chillerz in our menu. It's $5.99. For the size, we have 16oz and 24oz. Which one would you like?
+
+[2025-06-21T10:05:55.426Z] Customer: 161.
+
+[2025-06-21T10:05:55.757Z] Unknown: [2025-06-21T10:05:55.426Z] assistant: The 16oz Mint Oreo Chillerz is $5.99. I'll add that to your order.
+
+{
+    "action": "add",
+    "items": [
+        {
+            "item_name": "Mint Oreo Chillerz",
+            "quantity": 1,
+            "price": 5.99,
+            "modifiers": [
+                {
+                    "group_title": "Size",
+                    "option_title": "16oz",
+                    "price": 0,
+                    "quantity": 1
+                }
+            ]
+        }
+    ],
+    "tenantName": "manhattan_bagel_864915",
+    "storeId": "1"
+}
+
+Your new total is $7.98. Would you like to add anything else?
+
+[2025-06-21T10:05:55.426Z] Customer: Just no. I think that's it. But, yeah. Go ahead, please.
+
+[2025-06-21T10:05:55.757Z] Unknown: [2025-06-21T10:05:55.426Z] assistant: Alright, let me place this order for you.
+
+
+
+[2025-06-21T10:05:55.426Z] AI Agent: ERROR: 400 - {"success":false,"error":"No items found in cart. Please add items using update_order before placing order."}
+
+[2025-06-21T10:05:55.426Z] AI Agent: I've found the Diet Coke and Mint Oreo Chillerz in our menu. The Diet Coke is $1.99 and the Mint Oreo Chillerz is $5.99. For the size of the Mint Oreo Chillerz, we have 16oz and 24oz. You've chosen the 16oz size. I'll add these items to your order. { "action": "add", "items": [ { "item_name": "Diet Coke", "quantity": 1, "price": 1.99, "modifiers": [] }, { "item_name": "Mint Oreo Chillerz", "quantity": 1, "price": 5.99, "modifiers": [ { "group_title": "Size", "option_title": "16oz", "price": 0, "quantity": 1 } ] } ], "tenantName": 

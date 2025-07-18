@@ -1,0 +1,20 @@
+Call ID: 6852984bcb9e39794cf3dc64
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T10:43:23.769Z
+End Time: 2025-06-18T10:43:58.528Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: Punit inquired about breakfast options at Manhattan Bagel and the agent searched for available items, finding a Box of Sweets, but the call ended before further discussion or ordering.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T10:43:58.235Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T10:43:58.235Z] Customer: Say hi. I like to order some, something in breakfast. Can you please suggest me something?
+
+[2025-06-18T10:43:58.236Z] AI Agent: Let me see what we have for breakfast. 
+
+[2025-06-18T10:43:58.237Z] AI Agent: I found a Box of Sweets for breakfast. It includes muffins,

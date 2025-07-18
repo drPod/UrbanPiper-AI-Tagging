@@ -1,0 +1,52 @@
+Call ID: 6858cb4f1be7d3da06f8fa64
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T03:34:39.030Z
+End Time: 2025-06-23T03:37:27.903Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer attempted to order an Avocado Bagel with various customizations but the call was cut off due to confusion and errors in the ordering process.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T03:37:27.631Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T03:37:27.631Z] Customer: 
+
+[2025-06-23T03:37:27.631Z] AI Agent: Let me get the options for you... What can I get started for you today?
+
+[2025-06-23T03:37:27.631Z] Customer: 
+
+[2025-06-23T03:37:27.631Z] AI Agent: Let's start fresh then. What can I get for you
+
+[2025-06-23T03:37:27.631Z] Customer: Actually, I'm looking to order I'm I'm looking to order, American avocado bagel with the, lightly toasted and some extra cheese and extra grilled chicken as well. Also love to have tomato and cucumber and vegetable.
+
+[2025-06-23T03:37:27.903Z] Unknown: [2025-06-23T03:37:27.631Z] assistant: The Avocado Bagel, lightly toasted, with extra cheese and grilled chicken, plus tomato and cucumber. Let me see what we have for your bagel choices... 
+
+For the Avocado Bagel, we have a variety of bagel types. Which one would you like? We have Everything, Cinnamon Raisin, Sesame, Poppy, Salt, Whole Wheat, and Plain. 
+
+Also, for the extra cheese, we have Cheddar, Swiss, American, and Mozzarella. Which one would you prefer? 
+
+And would you like your grilled chicken to be crispy or regular? 
+
+We can definitely add tomato and cucumber to that as well. Anything else you'd like to add or change?
+
+[2025-06-23T03:37:27.632Z] Customer: Hold on, please.
+
+[2025-06-23T03:37:27.632Z] AI Agent: Let's
+
+[2025-06-23T03:37:27.632Z] Customer: So I I don't know, like, which, which item you are referring right now, which item it is actually from your managed structure.
+
+[2025-06-23T03:37:27.632Z] AI Agent: Let me clarify. The item we were discussing is the Avocado Bagel, which is a menu item from our "Breakfast | Bagels & Sweets" category. It's a bagel with avocado spread. We were customizing it with your preferences, such as lightly toasted, extra cheese, grilled chicken, tomato, and cucumber. Does that sound right to you?
+
+[2025-06-23T03:37:27.633Z] AI Agent: Let's start with
+
+[2025-06-23T03:37:27.633Z] Customer: Hold on. Avocado. What what is the name of that? Avocado?
+
+[2025-06-23T03:37:27.633Z] AI Agent: The item we were discussing is the "Avocado Toast" from our menu, which is a toasted bagel with mashed avocado spread. We were customizing it with your preferences, such as extra cheese, grilled chicken, tomato, and cucumber. Does that sound right
+
+[2025-06-23T03:37:27.633Z] Customer: But but why why why why you mentioned, like, modular cheese? It does not have modular cheese. How come you are saying modular cheese?
+
+[2025-06-23T03:37:27.633Z] AI Agent: I sometimes make errors. Let me start fresh with your order. You initially mentioned an Avocado Bagel, lightly toasted, with extra cheese, grilled chicken, tomato, and cucumber. I'll make sure to get it right this time. For the Avocado Bagel, we have various bagel types. Which one would you like? We have Everything, Cinnamon Raisin, Sesame,

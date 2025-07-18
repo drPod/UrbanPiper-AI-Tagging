@@ -1,0 +1,56 @@
+Call ID: 686b825045548bd51c1e5fb8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T08:16:16.431Z
+End Time: 2025-07-07T08:18:44.780Z
+Duration: 144 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer attempted to order a Farmhouse Egg Sandwich with cucumber, but it was not available as an option.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T08:18:44.553Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T08:18:44.553Z] Customer: I'm looking to order, a small sack sandwich.
+
+[2025-07-07T08:18:44.553Z] AI Agent: I don't see farm house egg sandwich on our menu. Let me share some options: Original Classic, Spinach Bacon Croissant, Farmhouse Egg
+
+[2025-07-07T08:18:44.553Z] Customer: Can you please check the menu again? I'm just asking from house egg sandwich.
+
+[2025-07-07T08:18:44.553Z] AI Agent: I don't see farm house egg sandwich on our menu. Let me share some options: Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich.
+
+[2025-07-07T08:18:44.553Z] Customer: Hello?
+
+[2025-07-07T08:18:44.779Z] Unknown: [2025-07-07T08:18:44.553Z] assistant: I don't see farm house egg sandwich on our menu. Let me share some options: Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich. 
+
+However I do see a Farmhouse Egg Sandwich, it comes with Ham, bacon, egg, cheddar cheese, and pepper cream cheese on a cheesy hash brown roll. Would you like to order that?
+
+[2025-07-07T08:18:44.553Z] Customer: One second, please.
+
+[2025-07-07T08:18:44.553Z] AI Agent: I'll wait for a
+
+[2025-07-07T08:18:44.553Z] Customer: Yes. Yes. Yes. Yes.
+
+[2025-07-07T08:18:44.554Z] AI Agent: So you'd like to order the Farmhouse Egg Sandwich. That comes with ham, bacon, egg, cheddar cheese, and pepper cream cheese on a cheesy hash brown roll. Would you like to add any vegetables to that?
+
+[2025-07-07T08:18:44.554Z] Customer: Vegetable.
+
+[2025-07-07T08:18:44.554Z] AI Agent: For the
+
+[2025-07-07T08:18:44.554Z] Customer: 
+
+[2025-07-07T08:18:44.554Z] AI Agent: For the Farmhouse
+
+[2025-07-07T08:18:44.554Z] Customer: I want to yeah. I would like to have, a Google and, green pepper.
+
+[2025-07-07T08:18:44.554Z] AI Agent: I don't see cucumber as an option for the Farmhouse Egg Sandwich. Let me share some options: Lettuce, Tomato, Red Onions, Avocado, Spinach, and Grilled Onions. Would you like to add one of these?
+
+[2025-07-07T08:18:44.554Z] Customer: Don't you have, cucumber?
+
+[2025-07-07T08:18:44.554Z] AI Agent: I don't see
+
+[2025-07-07T08:18:44.554Z] Customer: And vegetable?
+
+[2025-07-07T08:18:44.554Z] AI Agent: I don't see cucumber as an option for the Farmhouse Egg Sandwich. Let me share some options: Lettuce, Tomato, Red Onions, Avocado, Spinach, and Grilled

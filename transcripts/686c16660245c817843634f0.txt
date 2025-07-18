@@ -1,0 +1,20 @@
+Call ID: 686c16660245c817843634f0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T18:48:06.447Z
+End Time: 2025-07-07T18:48:54.847Z
+Duration: 47 seconds
+From: +918949862707
+To: +16204558091
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T18:48:54.621Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T18:48:54.621Z] Customer: What's your order? I'm looking to order, mint oil chillers. Do you have mint oil chillers?
+
+[2025-07-07T18:48:54.621Z] AI Agent: I hope you are still with me!
+
+[2025-07-07T18:48:54.621Z] Customer: Yeah. I'm still there. Can you hear me?

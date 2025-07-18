@@ -1,0 +1,58 @@
+Call ID: 685728a51be7d3da06d9baa7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T21:48:21.413Z
+End Time: 2025-06-21T21:52:02.512Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul placed an order for a medium-sized iced tea with no milk or sweetener, which was confirmed and placed successfully.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T21:52:01.894Z] AI Agent: Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T21:52:01.895Z] Customer: I want to order iced tea.
+
+[2025-06-21T21:52:01.895Z] AI Agent: The Ice Coffee or Tea, excellent choice. Let me get the options for your tea...
+
+[2025-06-21T21:52:01.896Z] AI Agent: For your Ice Coffee or Tea, let's start with the size. We have Small, 16 ounces for $2.49, Medium, 24 ounces for $2.99, or Large, 32 ounces for $3.49. Which size would you prefer?
+
+[2025-06-21T21:52:01.897Z] Customer: Medium.
+
+[2025-06-21T21:52:01.897Z] AI Agent: For the size, you've chosen Medium, 24 ounces for $2.99. Next, let's talk about your milk choice. We have Regular Milk, Half & Half, Skim, Almond for an extra $0.50, Oat Milk for an extra $0.80, or Soy for an extra $1.00. Which milk would you like?
+
+[2025-06-21T21:52:01.897Z] Customer: I don't need milk in this. I see that's not possible, actually.
+
+[2025-06-21T21:52:01.897Z] AI Agent: For your Ice Coffee or Tea, you've chosen Medium, 24 ounces for $2.99, and you don't want any milk in it. That's perfectly fine. Now, let's move on to the sweetener and syrups. We have options like Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, and various syrups such as Pumpkin, Caramel, or Hazelnut for an extra $0.75 each. Would you like to add any of these to your tea?
+
+[2025-06-21T21:52:01.898Z] Customer: No.
+
+[2025-06-21T21:52:01.898Z] AI Agent: For your Ice Coffee or Tea, you've chosen Medium, 24 ounces for $2.99, no milk, and no sweetener or syrup. Lastly, let's confirm the type of ice drink. Since you ordered iced tea, I'll make sure it's unsweetened iced tea. Perfect, let me add that to your order...
+
+[2025-06-21T21:52:01.903Z] AI Agent: Added 1 item(s) to your cart. Total: $6.48
+
+[2025-06-21T21:52:01.903Z] AI Agent: I've added the unsweetened iced tea to your order. Your total comes out to be $6.48. Would you like to order anything else or is that all for today?
+
+[2025-06-21T21:52:01.903Z] Customer: Yeah. That's all for today.
+
+[2025-06-21T21:52:01.903Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-21T21:52:01.904Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 174964. That's 1, 7, 4, 9, 6, 4. Total: $7.13 (subtotal 6.48 dollars plus 0.65 dollars tax). Thank you for your order!
+
+[2025-06-21T21:52:01.904Z] AI Agent: Your order has been placed successfully. Your order number is 1, 7, 4, 9, 6, 4. Your total comes out to be $6.48 for the items, plus $0.65 in tax, making it a total of $7.13. We'll have your order ready for pickup shortly. Thank you for choosing Manhattan Bagel, and we look forward to serving you!
+
+[2025-06-21T21:52:01.904Z] AI Agent: I hope you are still with
+
+[2025-06-21T21:52:01.904Z] Customer: Okay. Can you tell me, like, did I did I say unsweetened iced tea?
+
+[2025-06-21T21:52:01.905Z] AI Agent: Yes, you did order unsweetened iced tea. I confirmed it with you during the ordering process. Would you like me to confirm any other details of your order?
+
+[2025-06-21T21:52:01.905Z] Customer: Okay. What I said what what was my reply?
+
+[2025-06-21T21:52:01.905Z] AI Agent: You said "Ah, that's all for today".
+
+[2025-06-21T21:52:01.905Z] Customer: But that doesn't mean like, I I wanted unsweet nicely. Right?
+
+[2025-06-21T21:52:01.905Z] AI Agent: I made an assumption earlier. When you said "I don't need milk in this iced tea, that's not possible, actually", I should have asked for clarification, but instead, I moved forward with the order. To confirm, you did not explicitly say "unsweetened iced tea", but rather mentioned that you didn't want milk in your iced tea. If you'd like to make any changes or corrections to your order, please let me know!

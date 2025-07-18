@@ -1,0 +1,98 @@
+Call ID: 6877cf2973d0cf0f7e8441be
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T16:11:21.691Z
+End Time: 2025-07-16T16:16:10.601Z
+Duration: 281 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a Breakfast Bundle from Manhattan Bagel, which included 13 bagels, 2 tubs of cream cheese, 4 muffins, and a box of Dark Roast coffee, totaling $32.98.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T16:16:09.942Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T16:16:09.943Z] Customer: I I want, breakfast bundle and hot coffee.
+
+[2025-07-16T16:16:09.943Z] AI Agent: The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. For the hot coffee, I have a few options. Would you like House Blend, Decaf, Vanilla Hazelnut Blend, or Dark Roast?
+
+[2025-07-16T16:16:09.943Z] Customer: First, I want to go with the breakfast bundle.
+
+[2025-07-16T16:16:09.943Z] AI Agent: For the Breakfast Bundle, you'll need to choose 13 bagels. I have Plain, Everything, Sesame, and Blueberry. Would you like to start with one of these, or would you like to hear more options?
+
+[2025-07-16T16:16:09.944Z] Customer: Okay. I will go with the five SMA, two plain, seven, blueberry, and three vanilla.
+
+[2025-07-16T16:16:09.944Z] AI Agent: For the bagels, you've chosen 5 Sesame, 2 Plain, 7 Blueberry, but I need to let you know that Vanilla is not a standard bagel option. We do have a Vanilla Hazelnut Blend for our coffee, but for bagels, we have a variety of other flavors. Would you like to replace the 3 Vanilla bagels with another option, such as Everything, Cinnamon Raisin, or Multigrain?
+
+[2025-07-16T16:16:09.944Z] Customer: Okay. Then do the do replay with the multigrade.
+
+[2025-07-16T16:16:10.601Z] Unknown: [2025-07-16T16:16:09.944Z] assistant: So, to confirm, you'd like to replace the 3 Vanilla bagels with 3 Multigrain bagels. That gives us a total of 5 Sesame, 2 Plain, 7 Blueberry, and 3 Multigrain bagels.
+
+Next, for the 2 tubs of cream cheese, would you like to choose from our options like Plain Cream Cheese, Vegetable Cream Cheese, or Scallion Cream Cheese?
+
+[2025-07-16T16:16:09.944Z] Customer: Yeah. Give me blueberry and, strawberry.
+
+[2025-07-16T16:16:10.601Z] Unknown: [2025-07-16T16:16:09.945Z] assistant: For the 2 tubs of cream cheese, you've chosen Blueberry and Strawberry. 
+
+Next, for the 4 muffins, would you like to choose from our options like Blueberry, Corn, Double Chocolate, or Cinnamon Chip?
+
+[2025-07-16T16:16:09.945Z] Customer: Give me four corn and two, double chocolate.
+
+[2025-07-16T16:16:09.945Z] AI Agent: For the muffins, you've chosen 4 Corn and 2 Double Chocolate. However, I need to let you know that the Breakfast Bundle comes with 4 muffins, so you can only choose 4 muffins in total. Would you like to replace the 2 Double Chocolate muffins with 2 more Corn muffins, or choose 2 different types of muffins to add to the 2 Corn muffins?
+
+[2025-07-16T16:16:09.945Z] Customer: Okay. Do that.
+
+[2025-07-16T16:16:10.601Z] Unknown: [2025-07-16T16:16:09.945Z] assistant: So, to confirm, you'd like to have 4 Corn muffins and 0 Double Chocolate muffins, since the bundle only comes with 4 muffins.
+
+Now, let's review your Breakfast Bundle: you have 5 Sesame bagels, 2 Plain bagels, 7 Blueberry bagels, and 3 Multigrain bagels. For the cream cheese, you've chosen Blueberry and Strawberry. And for the muffins, you've chosen 4 Corn muffins.
+
+Next, would you like to add a box of coffee to your Breakfast Bundle? We have House Blend, Decaf, Vanilla Hazelnut Blend, or Dark Roast.
+
+[2025-07-16T16:16:09.945Z] Customer: Dark roast fees.
+
+[2025-07-16T16:16:10.601Z] Unknown: [2025-07-16T16:16:09.946Z] assistant: For the box of coffee, you've chosen Dark Roast.
+
+Now, let me just calculate the total for your Breakfast Bundle... 
+
+
+
+[2025-07-16T16:16:10.601Z] Unknown: [2025-07-16T16:16:09.946Z] assistant: Your Breakfast Bundle total comes out to be 32 dollars and 98 cents.
+
+Now, I'll just transition your order to the next stage for final processing.
+
+
+
+[2025-07-16T16:16:09.947Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-16T16:16:09.947Z] AI Agent: May I have your name for the order, please?
+
+[2025-07-16T16:16:09.947Z] Customer: Yeah. My name is Jiten.
+
+[2025-07-16T16:16:09.948Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-16T16:16:09.948Z] Customer: No. I don't have it.
+
+[2025-07-16T16:16:09.948Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-16T16:16:09.949Z] Customer: 
+
+[2025-07-16T16:16:10.601Z] Unknown: [2025-07-16T16:16:09.949Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-16T16:16:09.950Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 917000. That's 9, 1, 7, 0, 0, 0.", 'order_id': '917000', 'call_id': '3bd05a45-e64d-4d2b-8efd-aa4e7bdfc91b', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981404-ce5c-b3f6-1558-a06dd2faaebc'}
+
+[2025-07-16T16:16:09.950Z] AI Agent: Your order number is 9, 1, 7, 0, 0, 0. Your total is 32 dollars and 98 cents. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-16T16:16:09.950Z] Customer: No. No. Thank you so much.
+
+[2025-07-16T16:16:09.951Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, have a great day and enjoy your Breakfast Bundle from Manhattan Bagel!
+
+[2025-07-16T16:16:09.952Z] Customer: Okay.
+
+[2025-07-16T16:16:09.952Z] AI Agent: You're welcome. Have a great day and we'll see you next time at Manhattan Bagel!
+
+[2025-07-16T16:16:09.952Z] Customer: Yeah. Thank you. Bye bye.
+
+[2025-07-16T16:16:09.952Z] AI Agent: Bye, Jitin! Have a great day!

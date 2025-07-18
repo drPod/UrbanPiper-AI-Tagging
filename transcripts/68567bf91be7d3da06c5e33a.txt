@@ -1,0 +1,38 @@
+Call ID: 68567bf91be7d3da06c5e33a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T09:31:37.338Z
+End Time: 2025-06-21T09:33:33.286Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer ordered a Big Breakfast Burrito with a wheat wrap, grilled chicken, and Swiss cheese from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T09:33:33.074Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm Emily an AI Assistant, and How can I assist you today?
+
+[2025-06-21T09:33:33.074Z] Customer: Hey, Emily. I would like to order a big breakfast burrito.
+
+[2025-06-21T09:33:33.075Z] AI Agent: The Big Breakfast Burrito is a popular item. Let me check that for you. According to our menu, the Big Breakfast Burrito comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, and cheddar cheese, all wrapped in a flour tortilla. For the Big Breakfast Burrito, we have several options to customize it. What type of wrap would you like? We have flour or wheat.
+
+[2025-06-21T09:33:33.075Z] Customer: I'll go with the wheat.
+
+[2025-06-21T09:33:33.075Z] AI Agent: For the Big Breakfast Burrito with a wheat wrap, I'll note that down. Next, would you like to add any extra meat, such as extra bacon, sausage, or ham?
+
+[2025-06-21T09:33:33.094Z] Customer: I want two grilled chicken.
+
+[2025-06-21T09:33:33.094Z] AI Agent: The Big Breakfast Burrito with a wheat wrap and grilled chicken. That sounds great. Now, let's talk about the cheese. We have several options, including American, Swiss, Pepper Jack, and Cheddar. Which one would you like? Or would you like to add extra cheese?
+
+[2025-06-21T09:33:33.094Z] Customer: I want a Swiss.
+
+[2025-06-21T09:33:33.095Z] AI Agent: The Big Breakfast Burrito with a wheat wrap, grilled chicken, and Swiss cheese. I'll add that to your order. Before I finalize, would you like to add any special instructions or is everything good to go?
+
+[2025-06-21T09:33:33.095Z] Customer: Can I have more customization if you if you don't mind?
+
+[2025-06-21T09:33:33.095Z] AI Agent: I'd be happy to help with more 
+
+[2025-06-21T09:33:33.095Z] Customer: Oh, we have or we have covered all all the customization. Do can I?
+
+[2025-06-21T09:33:33.095Z] AI Agent: Let me just confirm. We've got the Big

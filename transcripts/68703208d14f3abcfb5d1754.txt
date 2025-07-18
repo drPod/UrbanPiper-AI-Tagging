@@ -1,0 +1,60 @@
+Call ID: 68703208d14f3abcfb5d1754
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-10T21:35:04.462Z
+End Time: 2025-07-10T21:38:55.100Z
+Duration: 228 seconds
+From: +17706338185
+To: +16204558091
+Summary: The customer ordered a Sausage and Egg on a Blueberry bagel and a Medium Vanilla Hazelnut coffee with customizations, to be picked up from the store.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-10T21:38:54.670Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-10T21:38:54.670Z] Customer: Can I order a sausage, egg, and cheese?
+
+[2025-07-10T21:38:54.670Z] AI Agent: For the Sausage Egg and Cheese, you'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, and English Muffin. Would you like one of these, or should I list more options?
+
+[2025-07-10T21:38:54.671Z] Customer: Do you have blue do you have blueberry?
+
+[2025-07-10T21:38:54.671Z] AI Agent: We do have Blueberry bagels. So, that's a Blueberry bagel for your Sausage Egg and Cheese. Now, you'll need to pick just one cheese for your sandwich. We have American, Swiss, Pepper Jack, Cheddar, Muenster, and Provolone. Which would you prefer?
+
+[2025-07-10T21:38:54.671Z] Customer: I don't like cheese, but what other things can I add to my table? Can I add a can I add a tomato?
+
+[2025-07-10T21:38:54.671Z] AI Agent: You can skip the cheese. For the Sausage Egg and Cheese, since you're skipping the cheese, it's more like a Sausage and Egg. Now, about adding a tomato, yes, you can add a tomato. We also have other vegetables like lettuce, red onions, spinach, cucumber, green peppers, capers, roasted red peppers, grilled onions, and jalapeño peppers. You can add any of these for one dollar each, or avocado for one ninety-nine. Which ones sound good to you?
+
+[2025-07-10T21:38:54.672Z] Customer: You know what? I'm all set. Thank you so much.
+
+[2025-07-10T21:38:54.672Z] AI Agent: You're all set with your Blueberry bagel, Sausage and Egg, and you've decided to add a
+
+[2025-07-10T21:38:54.672Z] Customer: Or, actually, can I order a copy?
+
+[2025-07-10T21:38:54.673Z] AI Agent: Let's get that coffee for you. You'll need to pick just one size for your coffee. We have Small twelve ounces for one ninety-nine, Medium sixteen ounces for two forty-nine, Large twenty ounces for two ninety-nine, and Extra Large twenty-four ounces for three forty-nine. Which size would you prefer?
+
+[2025-07-10T21:38:54.673Z] Customer: The medium.
+
+[2025-07-10T21:38:54.673Z] AI Agent: Perfect, a Medium sixteen-ounce coffee. Now, you'll need to pick just one coffee type. We have House Blend, 
+
+[2025-07-10T21:38:54.673Z] Customer: Can I get a medium French vanilla coffee with two sugars and four creamers? And can I get that extra, extra, extra hot?
+
+[2025-07-10T21:38:54.674Z] AI Agent: We have a Vanilla Hazelnut Blend, but not specifically French Vanilla. For the coffee, I can offer you the Vanilla Hazelnut Blend. You'd like two sugars and four creamers, which is no problem. As for the temperature, I can definitely ask for it to be made extra hot for you. So, to confirm, you'd like a Medium sixteen-ounce Vanilla Hazelnut coffee with two sugars and four creamers, made extra hot. Is that correct?
+
+[2025-07-10T21:38:54.674Z] Customer: Yes. And let me know how I can pay for it.
+
+[2025-07-10T21:38:55.100Z] Unknown: [2025-07-10T21:38:54.674Z] assistant: We accept cash payments. You can pay when you pick up your order. Your total comes out to be the cost of the Blueberry bagel with Sausage and Egg, and the Medium Vanilla Hazelnut coffee with the specified customizations. I'll calculate that for you. 
+
+For the Sausage Egg and Cheese on a Blueberry bagel, the price is around seven forty-nine, but since you skipped the cheese, let's adjust that accordingly. And for the coffee, the Medium Vanilla Hazelnut is two forty-nine. With the sugars and creamers, that's still two forty-nine. So, your total is around ten ninety-eight. 
+
+We'll have your order ready for pickup in about fifteen minutes. Please come by and pay with cash then. Sound good?
+
+[2025-07-10T21:38:54.675Z] Customer: Can you guys deliver it?
+
+[2025-07-10T21:38:54.675Z] AI Agent: Sorry, we don't offer delivery services. Our store is pickup only. You can pick up your order at
+
+[2025-07-10T21:38:54.675Z] Customer: Okay. No worries.
+
+[2025-07-10T21:38:54.675Z] AI Agent: No problem at all. We'll have your order ready for you to pick up. If you need any further assistance or have any other questions, feel free to ask. Otherwise, we'll see you soon for pickup. Have a great day!
+
+[2025-07-10T21:38:54.676Z] Customer: Oh, thank you. Bye.

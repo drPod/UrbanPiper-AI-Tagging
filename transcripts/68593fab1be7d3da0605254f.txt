@@ -1,0 +1,16 @@
+Call ID: 68593fab1be7d3da0605254f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:51:07.411Z
+End Time: 2025-06-23T11:51:39.994Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a single bagel and a hot latte from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:51:38.713Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T11:51:38.713Z] Customer: I'd like to order, single bagel and hot latte.

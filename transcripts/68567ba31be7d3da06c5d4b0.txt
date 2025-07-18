@@ -1,0 +1,26 @@
+Call ID: 68567ba31be7d3da06c5d4b0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T09:30:11.657Z
+End Time: 2025-06-21T09:30:47.757Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T09:30:47.586Z] Customer: 
+
+[2025-06-21T09:30:47.586Z] Customer: 
+
+[2025-06-21T09:30:47.586Z] AI Agent: I hope you are still with me!
+
+[2025-06-21T09:30:47.586Z] Customer: Hello?
+
+[2025-06-21T09:30:47.586Z] Customer: Hello?
+
+[2025-06-21T09:30:47.586Z] Customer: Hello?
+
+[2025-06-21T09:30:47.586Z] AI Agent: I apologize, but we're approaching our time limit. Do you want me to transfer this call to a human agent?

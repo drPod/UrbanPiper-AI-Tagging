@@ -1,0 +1,18 @@
+Call ID: 687a5d0ea1698f75072dfbd9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T14:41:18.619Z
+End Time: 2025-07-18T14:41:49.778Z
+Duration: 29 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha attempted to order a Hash Brown but was informed it was out of stock and offered alternative side options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T14:41:49.603Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T14:41:49.603Z] Customer: I like to order hatch mail.
+
+[2025-07-18T14:41:49.603Z] AI Agent: I'm sorry, but our Hash Brown is currently out of stock today. Instead, I can offer you our Home Fries, Bacon, or Sausage as a side. Which would you prefer?

@@ -1,0 +1,38 @@
+Call ID: 685910e91be7d3da06ff61c1
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T08:31:37.040Z
+End Time: 2025-06-23T08:32:59.135Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle from Manhattan Bagel and began customizing the thirteen bagels included in the bundle.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T08:32:58.897Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T08:32:58.897Z] Customer: Breakfast bundle.
+
+[2025-06-23T08:32:58.897Z] AI Agent: The Breakfast Bundle, great choice. Let me get all the customization options for you...
+
+[2025-06-23T08:32:58.897Z] Customer: Okay.
+
+[2025-06-23T08:32:58.898Z] AI Agent: Let me see what we have for your bagel choices...
+
+[2025-06-23T08:32:58.898Z] Customer: Hello?
+
+[2025-06-23T08:32:58.898Z] AI Agent: First, for the thirteen bagels in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those?
+
+[2025-06-23T08:32:58.898Z] Customer: Tell me how many datas I can select.
+
+[2025-06-23T08:32:58.898Z] AI Agent: You can choose up to thirteen bagels, and you can mix and match different types.
+
+[2025-06-23T08:32:58.898Z] Customer: Okay.
+
+[2025-06-23T08:32:58.898Z] AI Agent: Let's start with the bagels. You can choose from Plain, Everything, Sesame, and more. Which ones would you like?
+
+[2025-06-23T08:32:58.898Z] Customer: One second.
+
+[2025-06-23T08:32:58.898Z] AI Agent: I'll wait.

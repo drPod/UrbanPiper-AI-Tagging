@@ -1,0 +1,20 @@
+Call ID: 687a3e4fdef8059841a357bc
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T12:30:07.258Z
+End Time: 2025-07-18T12:30:47.267Z
+Duration: 35 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer ordered a pastry and hash brown from Manhattan Bagel but didn't finalize their selection before the call ended.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T12:30:47.073Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T12:30:47.073Z] Customer: Hey. Hi. BagelBot. Can I get, pastry and hash brown?
+
+[2025-07-18T12:30:47.074Z] AI Agent: That would be our Pastry and Hash Brown. I'll add that for you. Now, for your pastry, we have a variety of options. I have Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, and Cranberry Orange. Which type of pastry would you like?
+
+[2025-07-18T12:30:47.074Z] Customer: Damn.

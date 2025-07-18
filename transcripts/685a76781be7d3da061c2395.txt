@@ -1,0 +1,58 @@
+Call ID: 685a76781be7d3da061c2395
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T09:57:12.296Z
+End Time: 2025-06-24T10:05:26.976Z
+Duration: 540 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a small Decaf hot coffee with Half & Half and Raw Sugar from Manhattan Bagel for pickup at the Union, NJ location.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T10:05:26.715Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-24T10:05:26.715Z] Customer: I'm looking to order a hot coffee. Hello?
+
+[2025-06-24T10:05:26.715Z] AI Agent: I can help you with the hot coffee. Let me get the options for your coffee.
+
+[2025-06-24T10:05:26.715Z] AI Agent: Let's start with the Size for your hot coffee. We have Small 12oz for $1.99, Medium 16oz for $2.49, Large 20oz for $2.99, and X Large 24oz for $3.49. Which size would you like?
+
+[2025-06-24T10:05:26.716Z] Customer: I'm looking for a small size.
+
+[2025-06-24T10:05:26.716Z] AI Agent: For
+
+[2025-06-24T10:05:26.716Z] Customer: Small size, please. Hello?
+
+[2025-06-24T10:05:26.716Z] AI Agent: I've got that
+
+[2025-06-24T10:05:26.716Z] AI Agent: Let's move on to the Roast for your small hot coffee. You have options like House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, or Tea. Which one would you like? Or would you like to skip this option?
+
+[2025-06-24T10:05:26.716Z] Customer: Decaf. Hello? I said decaf. Hello? Hello?
+
+[2025-06-24T10:05:26.716Z] AI Agent: I've got that. You'd like the Decaf roast for your small hot coffee. Next, let's talk about the Milk Choice. You can choose from Regular Milk, Half & Half, Skim, Almond, Oat Milk, or Soy. Which one would you like? Or would you like to skip this option?
+
+[2025-06-24T10:05:26.716Z] Customer: No. I I want to have, half and half milk.
+
+[2025-06-24T10:05:26.716Z] AI Agent: You'd like to add Half & Half to your small Decaf hot coffee. Now, let's consider the Sweetener & Syrups. We have options like Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, and various syrups such as Pumpkin, Caramel, Hazelnut, and Vanilla, as
+
+[2025-06-24T10:05:26.717Z] Customer: Okay. So I want, raw sugar. Raw sugar, please. Hello? Hello? Hello?
+
+[2025-06-24T10:05:26.717Z] AI Agent: I've added Raw Sugar to your small Decaf hot coffee with Half & Half. Next, I just need to check about Tea Choice, but since you've already chosen coffee, we can skip that option. Your order is almost complete. Would you like to order anything else, or is that all for today?
+
+[2025-06-24T10:05:26.717Z] Customer: That's all for for now.
+
+[2025-06-24T10:05:26.717Z] AI Agent: Alright, so to confirm, you'd like to order a small Decaf hot coffee with Half & Half and Raw Sugar, correct? Before I place the order, I just need to confirm a few details. Your name is Jitin, and you'd like to pick up your order at our Union, NJ location, right? Also, do you have any special 
+
+[2025-06-24T10:05:26.717Z] Customer: Yeah. No. I don't have any instruction. Thank you so much. Or or maybe maybe you can you can ask the kitchen to make and, you know, the packaging should be good enough so that it should not spill over. Just this much restriction you can add.
+
+[2025-06-24T10:05:26.717Z] AI Agent: I've added a special instruction to ensure the packaging is secure and won't spill over. Now, let me just confirm your order one more time. You've ordered a small Decaf hot coffee with Half & Half and Raw Sugar, and we've added the special instruction for secure packaging. Is that all correct?
+
+[2025-06-24T10:05:26.717Z] Customer: Yeah. That's all correct. Yeah. Correct. Please go ahead. Hello? Are you there? Hello? Are you there? Hello? Hello? Can you hear me? Hello? Hello?
+
+[2025-06-24T10:05:26.717Z] AI Agent: I'm here and I've got everything. To place your order, I just need to confirm a few final details. Your name is Jitin, and you'd like to pick up your order at our Union, NJ location. I've added the special instruction for secure packaging. Now, let me go ahead and place your order. Alright, let me get this order placed for you...Please hold for a moment
+
+[2025-06-24T10:05:26.717Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 1750759488638. That's 1, 7, 5, 0, 7, 5, 9, 4, 8, 8, 6, 3, 8.", 'order_id': '1750759488638', 'call_id': 'bce367f2-1ede-439a-be24-13a7b3c60f3b', 'responseType': 'tool-response', 'api_response': {'status': 'success', 'workflow_run_id': 'id: "40a21569701f4244ab2dfbcec69c72a4"\n', 'call_id': 'bce367f2-1ede-439a-be24-13a7b3c60f3b', 'message': 'Menu content refresh workflow started.'}}
+
+[2025-06-24T10:05:26.717Z] AI Agent: Your order number is 1, 7, 5, 0, 7, 5, 9, 4, 8, 8, 6, 3, 8. We'll have that ready for you shortly here at Manhattan Bagel. The total for your order comes out to be $2.99, and with tax, it's $3.28. Please have a great day, and we'll see you soon.

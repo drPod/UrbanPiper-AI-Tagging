@@ -1,0 +1,26 @@
+Call ID: 686e82f2d14f3abcfb38d5f2
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T14:55:46.107Z
+End Time: 2025-07-09T14:56:50.478Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer attempted to order a Breakfast Bundle but faced issues with unavailable bagel options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T14:56:50.158Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T14:56:50.158Z] Customer: I'm going to order breakfast bundles.
+
+[2025-07-09T14:56:50.159Z] AI Agent: Got it. You'll need to pick exactly thirteen bagels for your Breakfast Bundle. Let's start with some popular options: Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?
+
+[2025-07-09T14:56:50.159Z] Customer: I need, five sesame, five garlic, and two vanilla, one, asiago Vega.
+
+[2025-07-09T14:56:50.159Z] AI Agent: I don't see Vanilla bagel on our menu. However, we do have Plain, Everything, Sesame, Cinnamon Raisin, Egg, Garlic,
+
+[2025-07-09T14:56:50.159Z] Customer: But can you add, two apple flavored bagel?
+
+[2025-07-09T14:56:50.159Z] AI Agent: I don't see Apple flavored bagel on our menu. However, we do have Plain, Everything, Sesame, Cinnamon Raisin, Egg, Garlic, French Toast BAGEL, 

@@ -1,0 +1,28 @@
+Call ID: 6852b29dcb9e39794cf5f41b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T12:35:41.991Z
+End Time: 2025-06-18T12:36:17.659Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rohan inquired about ordering a wrap but did not proceed with the order
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T12:36:17.455Z] AI Agent: Hello Tom, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T12:36:17.455Z] Customer: Hello. My name is Rohan, and I want to order
+
+[2025-06-18T12:36:17.455Z] AI Agent: May I have
+
+[2025-06-18T12:36:17.455Z] Customer: Some wrap in my dinner.
+
+[2025-06-18T12:36:17.455Z] Customer: 
+
+[2025-06-18T12:36:17.455Z] Customer: 
+
+[2025-06-18T12:36:17.455Z] Customer: 
+
+[2025-06-18T12:36:17.455Z] AI Agent: OK

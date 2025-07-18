@@ -1,0 +1,77 @@
+Call ID: 68725eab5560c851d634a3c0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T13:10:03.942Z
+End Time: 2025-07-12T13:15:19.436Z
+Duration: 311 seconds
+From: 918949862707
+To: 918035740152
+Summary: Jutin ordered a Breakfast Bundle from Manhattan Bagel, customizing it with 13 bagels, 2 tubs of cream cheese, and 4 muffins.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T13:15:18.061Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T13:15:18.061Z] Customer: I'm looking to order breakfast bundle.
+
+[2025-07-12T13:15:18.061Z] AI Agent: The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a few other goodies. Anything else you'd like to add to that?
+
+[2025-07-12T13:15:18.061Z] Customer: No. No. That's it.
+
+[2025-07-12T13:15:18.061Z] AI Agent: Perfect. I have one Breakfast Bundle for you. Now let me help you customize it exactly how you like it. 
+
+[2025-07-12T13:15:18.061Z] AI Agent: Moving to item customization stage...
+
+[2025-07-12T13:15:18.062Z] AI Agent: Let's customize your Breakfast Bundle. You need to pick 13 bagels. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, and many more. Which 13 would you like?
+
+[2025-07-12T13:15:18.062Z] Customer: I will go with the three, everything five, blueberry and, one, vanilla and one multigrain bagel, one onion, and two salt.
+
+[2025-07-12T13:15:18.062Z] AI Agent: I don't see vanilla bagel available for bagel choice. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion,
+
+[2025-07-12T13:15:18.062Z] Customer: Okay. So how many bagels we have done so far?
+
+[2025-07-12T13:15:18.062Z] AI Agent: Let me recap. You've chosen 3 Everything bagels, 5 Blueberry bagels, 1 Multigrain bagel, 1 Onion bagel, and 2 Salt bagels. That's a total of 12 bagels so far. You still need to choose 1 more bagel to complete your 13-bagel selection. Which one would you
+
+[2025-07-12T13:15:18.062Z] Customer: Then make it make it like, I'll return you. Okay?
+
+[2025-07-12T13:15:19.435Z] Unknown: [2025-07-12T13:15:18.062Z] assistant: Perfect! Everything bagel. So, to recap, you now have 4 Everything bagels, 5 Blueberry bagels, 1 Multigrain bagel, 1 Onion bagel, and 2 Salt bagels. That completes your 13-bagel selection.
+
+Next, you need to choose 2 tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), Storemade Maple Raisin (Chunky), Storemade Bacon Scallion (Chunky), Strawberry, Honey Almond, Jalapeño Cream Cheese, and Butter 8 ounce Whipped. Which two would you like?
+
+[2025-07-12T13:15:18.062Z] Customer: I will choose one plain, one blueberry, cream cheese.
+
+[2025-07-12T13:15:18.062Z] AI Agent: I don't see blueberry cream cheese available. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), Storemade Maple Raisin (Chunky), Storemade Bacon Scallion (Chunky), Strawberry, Honey Almond, Jalapeño Cream Cheese, and Butter 8 ounce Whipped. Which two would you like?
+
+[2025-07-12T13:15:18.062Z] Customer: Plain and vegetable oil.
+
+[2025-07-12T13:15:19.435Z] Unknown: [2025-07-12T13:15:18.062Z] assistant: Perfect! Plain Cream Cheese and Vegetable Cream Cheese.
+
+Next, you need to choose 4 muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which 4 would you like?
+
+[2025-07-12T13:15:18.062Z] Customer: I want, all of four could be chocolate chip.
+
+[2025-07-12T13:15:18.062Z] AI Agent: I don't see a "Tocolate" muffin option. We have Blueberry
+
+[2025-07-12T13:15:18.062Z] Customer: With chocolate chip. I said chocolate chip.
+
+[2025-07-12T13:15:19.436Z] Unknown: [2025-07-12T13:15:18.062Z] assistant: Perfect! Chocolate Chip. You'd like all 4 muffins to be Chocolate Chip. 
+
+That completes your Breakfast Bundle customization. You now have: 
+- 13 bagels (4 Everything, 5 Blueberry, 1 Multigrain, 1 Onion, and 2 Salt)
+- 2 tubs of cream cheese (Plain and Vegetable)
+- 4 Chocolate Chip muffins
+
+I'll get your order ready. 
+
+[2025-07-12T13:15:18.062Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-12T13:15:18.062Z] AI Agent: Your Breakfast Bundle is ready for pickup. The total comes out to be $29.99. I will now place the order. 
+
+[2025-07-12T13:15:18.062Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 676958. That's 6, 7, 6, 9, 5, 8.", 'order_id': '676958', 'call_id': 'c190a01f-ecdb-493e-9d9c-60a584d8cdd1', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fec6-0a01-08a5-93c8-863d399731b6'}
+
+[2025-07-12T13:15:18.062Z] AI Agent: Your order is placed! Order number is 6, 7, 6, 9, 5, 8. Total with tax is thirty-two dollars and ninety-seven cents. You'll get an SMS with payment link. Anything else I can help with?
+
+[2025-07-12T13:15:18.062Z] Customer: No.
+
+[2025-07-12T13:15:18.062Z] AI Agent: You're all set then. Have a great day, and we'll see you at pickup!

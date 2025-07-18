@@ -1,0 +1,74 @@
+Call ID: 6857b16d1be7d3da06dd4037
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T07:31:57.875Z
+End Time: 2025-06-22T07:36:27.604Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jatin placed an order for a decaf coffee with regular milk and sugar, and an avocado toast on a multigrain bagel with green peppers, totaling $11.53.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T07:36:26.177Z] AI Agent: Hello Jatin, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T07:36:26.177Z] Customer: I want coffee and avocado toast.
+
+[2025-06-22T07:36:26.177Z] AI Agent: Sure thing, I can help you with the coffee and the avocado toast. Let's begin with the coffee. We have a variety of coffee options, but I'll start by getting the options for your coffee. Let me get the options for your coffee...
+
+[2025-06-22T07:36:26.177Z] AI Agent: For your coffee, we have several options to choose from. What size would you like? We have small 12oz, medium 16oz, large 20oz, or x-large 24oz. Which one of these sizes sounds good to you?
+
+[2025-06-22T07:36:26.177Z] Customer: I want mediums.
+
+[2025-06-22T07:36:26.177Z] AI Agent: A medium 16oz coffee sounds great. Now, let's talk about the roast. We have House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, or Tea.
+
+[2025-06-22T07:36:26.177Z] Customer: Just make a decaf.
+
+[2025-06-22T07:36:26.178Z] AI Agent: Decaf it is. Now, would you like any milk in your coffee? We have regular milk, half and half, skim
+
+[2025-06-22T07:36:26.178Z] Customer: Just add regular mail.
+
+[2025-06-22T07:36:26.178Z] AI Agent: I'll add regular milk to your decaf coffee. Now, would you like any sweetener or syrup? We have sugar,
+
+[2025-06-22T07:36:26.178Z] Customer: No. I don't want any sugar. Make it, okay. You can add, some little sugar. Okay. Not too much, but, yeah, medium.
+
+[2025-06-22T07:36:26.178Z] AI Agent: I'll add a medium amount of sugar to your decaf coffee with regular milk. Alright, I have all your choices for the coffee! Perfect, let me add that to your order...
+
+[2025-06-22T07:36:26.178Z] AI Agent: Added 1 item(s) to your cart. Total: $2.49
+
+[2025-06-22T07:36:26.178Z] AI Agent: Your coffee has been added to the order. Now, about that avocado toast you wanted... Let me see what we have for the avocado toast. 
+
+[2025-06-22T07:36:26.178Z] AI Agent: For your avocado toast, we have several options to choose from. What kind of bagel would you like? We have plain, everything, asiago, blueberry, California, cheesy jalepeño bacon roll, cheesy hashbrown roll, chocolate chip, cinnamon raisin, croissant, egg, egg everything, English muffin, garlic, French toast bagel, French toast roll, gluten-free, jalepeño cheddar, multigrain bagel, onion, poppy, pumpernickel, rainbow bagel, rye, roll, salt, sesame, honey whole wheat, honey whole wheat everything, multigrain bread, marble rye bread, wheat
+
+[2025-06-22T07:36:26.178Z] Customer: Okay. Can I have the multigrain bagels?
+
+[2025-06-22T07:36:26.178Z] AI Agent: A multigrain bagel sounds great. Now, would you like to add any condiments to your avocado toast? We have salt, pepper,
+
+[2025-06-22T07:36:26.178Z] Customer: No. I don't want that. No. No funding.
+
+[2025-06-22T07:36:26.178Z] AI Agent: No condiments, got it. Now, would you like to add any vegetables to your avocado toast? We have lettuce, tomato, red onions, avocado, spinach, cucumber, green peppers, capers, roasted red peppers, grilled onions, or jalapeño peppers.
+
+[2025-06-22T07:36:26.178Z] Customer: Green RP
+
+[2025-06-22T07:36:26.178Z] AI Agent: I'll add green peppers to your avocado toast on a multigrain bagel. Alright, I have all your choices for the avocado toast! Perfect, let me add that to your order...
+
+[2025-06-22T07:36:26.178Z] AI Agent: Added 1 item(s) to your cart. Total: $10.48
+
+[2025-06-22T07:36:26.178Z] AI Agent: Your avocado toast has been added to the order. Your total comes out to be $10.48. May I have your name for the order?
+
+[2025-06-22T07:36:26.178Z] Customer: 
+
+[2025-06-22T07:36:26.178Z] AI Agent: Alright Jatin, I have your complete order. You have a decaf coffee with regular milk and a medium amount of sugar, and an avocado toast on a multigrain bagel with green peppers. Your total comes out to be $10.48. Do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-22T07:36:26.178Z] Customer: No. I don't have any. Just thank you so much.
+
+[2025-06-22T07:36:26.178Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-22T07:36:26.178Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 644872. That's 6, 4, 4, 8, 7, 2. Total: $11.53 (subtotal 10.48 dollars plus 1.05 dollars tax). Thank you for your order!
+
+[2025-06-22T07:36:26.178Z] AI Agent: Order placed successfully. Your order number is 6, 4, 4, 8, 7, 2. Your total comes out to be $10.48, plus $1.05 in tax, making it a total of $11.53. We'll have your order ready for pickup shortly. Thank you for your order, Jatin. Have a great day.
+
+[2025-06-22T07:36:26.178Z] Customer: Thank you so much.
+
+[2025-06-22T07:36:26.178Z] AI Agent: You're welcome, Jatin. It was a pleasure helping you with your order. If you need anything else, feel free to reach out. Have a great day and enjoy your coffee and avocado toast. Bye for now.

@@ -1,0 +1,42 @@
+Call ID: 6872721c5560c851d6378fe0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T14:33:00.421Z
+End Time: 2025-07-12T14:35:25.378Z
+Duration: 143 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jutin ordered a Chelsea Grilled Chicken on a Bialy with Chips and no toast from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T14:35:25.132Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T14:35:25.132Z] Customer: Chelsea grilled chicken.
+
+[2025-07-12T14:35:25.132Z] AI Agent: The Chelsea Grilled Chicken is a great choice You'll need to pick just one lunch side for your Chelsea Grilled Chicken We have Chips, Cole Slaw, or Lays Chips for one dollar extra Which would you prefer?
+
+[2025-07-12T14:35:25.132Z] Customer: I want, chips.
+
+[2025-07-12T14:35:25.132Z] AI Agent: Perfect, so you'd like the Chelsea Grilled Chicken with Chips. Now, you'll need to pick just one bread choice for your Chelsea Grilled Chicken. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, and many more. Which one sounds good to you?
+
+[2025-07-12T14:35:25.132Z] Customer: I think
+
+[2025-07-12T14:35:25.132Z] AI Agent: Let me help you with
+
+[2025-07-12T14:35:25.132Z] Customer: 
+
+[2025-07-12T14:35:25.132Z] AI Agent: The Chelsea Grilled Chicken comes on a bagel, but I can definitely offer you the Bialy as a bread choice. Now, would you like your Bialy toasted, lightly toasted, toasted dark, or no toast?
+
+[2025-07-12T14:35:25.132Z] Customer: No toasted.
+
+[2025-07-12T14:35:25.132Z] AI Agent: Perfect, so you'd like your Chelsea Grilled Chicken on a Bialy with no toast. Now, would you like to add any extra cheese or double the lunch protein? We have options like Extra Cheese for $1.49 or Double Lunch Protein for $4.99. Or would you like to stick with the standard?
+
+[2025-07-12T14:35:25.132Z] Customer: Standard.
+
+[2025-07-12T14:35:25.132Z] AI Agent: You'd like to stick with the standard Chelsea Grilled Chicken on a Bialy with Chips and no toast. Is there anything else you'd like to order today?
+
+[2025-07-12T14:35:25.132Z] Customer: No. That's it.
+
+[2025-07-12T14:35:25.132Z] AI Agent: I'll get that ready for you. Just to confirm, I have you down for a Chelsea Grilled Chicken on a Bialy with Chips and no toast. I'll go ahead and put that order in for you. We'll have it ready for pickup at our Union, NJ location. If you need any further assistance or have any other questions, feel free to ask. Otherwise, we'll see you soon.

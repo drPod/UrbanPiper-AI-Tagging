@@ -1,0 +1,38 @@
+Call ID: 68721d4a5560c851d62c4bde
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T08:31:06.160Z
+End Time: 2025-07-12T08:34:39.654Z
+Duration: 209 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jutin ordered an Avocado BLT Sandwich on a French Toast Bagel with a toasted dark preference.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T08:34:38.266Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T08:34:38.266Z] Customer: I'm looking to order, avocado BLT sandwich.
+
+[2025-07-12T08:34:38.266Z] AI Agent: I
+
+[2025-07-12T08:34:38.266Z] Customer: BLT sandwich.
+
+[2025-07-12T08:34:38.266Z] AI Agent: For the Avocado BLT Sandwich, you'll need to pick just one bread choice. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California Protein Bar, Chocolate Chip Bagel, Cinnamon Raisin Bagel, Egg Bagel, Egg Everything, French Toast Bagel, Garlic Bagel, Honey Whole Wheat Everything Bagel, Honey Whole Wheat Bagel, Multigrain Bagel, Jalapeno Cheddar Bagel, Marble Rye Bread, Multi Grain Bread, Onion Bagel, Poppy Bagel, Pumpernickel Bagel, Rainbow Bagel, Round Roll, Hero Roll, Rye Bagel, Salt Bagel, Sesame Bagel, Wheat Tortilla, Flour Tortilla. Which would you prefer?
+
+[2025-07-12T08:34:38.266Z] Customer: Okay. So I I need, how many bagel choice I can I can have? I I because I want, French toast bagel or also looking to add a garlic bagel. Is that possible?
+
+[2025-07-12T08:34:38.266Z] AI Agent: I don't see French Toast Bagel as an available choice for the Avocado BLT Sandwich. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California Protein Bar, Chocolate Chip Bagel, Cinnamon Raisin Bagel, Egg Bagel, Egg Everything, Garlic Bagel, Honey Whole Wheat Everything Bagel, Honey Whole Wheat Bagel, Multigrain Bagel, Jalapeno Cheddar Bagel, Marble Rye Bread, Multi Grain Bread, Onion Bagel, Poppy Bagel, Pumpernickel Bagel, Rainbow Bagel, Round Roll, Hero Roll, Rye Bagel, Salt Bagel, Sesame Bagel, Wheat Tortilla, Flour Tortilla. You can choose one of these. Also, you can only choose one bread for the Avocado BLT Sandwich. Would you like to choose the Garlic Bagel?
+
+[2025-07-12T08:34:38.266Z] Customer: I want to choose French toast mango.
+
+[2025-07-12T08:34:38.266Z] AI Agent: I don't see French Toast Bagel as an available choice for the Avocado BLT Sandwich. We have Plain Bagel, Everything Bagel, Asiago Bagel,
+
+[2025-07-12T08:34:38.267Z] Customer: Can you check the can you wait. Wait. Wait. Can you check the, option name, which is before the garlic bagel?
+
+[2025-07-12T08:34:38.267Z] AI Agent: Let me check again. Before the Garlic Bagel, I see the option "French Toast Bagel". I apologize for the earlier mistake. You can indeed choose the French Toast Bagel for your Avocado BLT Sandwich. Now, would you like your French Toast Bagel toasted, lightly toasted, toasted dark, or no toast?
+
+[2025-07-12T08:34:38.267Z] Customer: So, I want toasted dog.
+
+[2025-07-12T08:34:38.267Z] AI Agent: For the Avocado BLT Sandwich on a French Toast Bagel, you've chosen to have it toasted dark. Now, you can add some extra items if you'd like. Would you like to add cheese, bacon, or any other items from our menu?

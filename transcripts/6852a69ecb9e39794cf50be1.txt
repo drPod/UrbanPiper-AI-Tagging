@@ -1,0 +1,22 @@
+Call ID: 6852a69ecb9e39794cf50be1
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T11:44:30.684Z
+End Time: 2025-06-18T11:45:16.248Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer inquired about breakfast sandwiches and the agent provided options and prices for popular items.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T11:45:16.039Z] AI Agent: Hello Tom, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T11:45:16.039Z] Customer: Uh-huh. Push here.
+
+[2025-06-18T11:45:16.039Z] AI Agent: Let me see what we have for breakfast sandwiches.
+
+[2025-06-18T11:45:16.040Z] Customer: 
+
+[2025-06-18T11:45:16.040Z] AI Agent: I found several greatoptions for breakfast sandwiches. Our popular ones are the Original Classic for seven dollars and forty-nine cents, the Egg & Cheese for four dollars and

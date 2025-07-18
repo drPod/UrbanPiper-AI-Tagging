@@ -1,0 +1,14 @@
+Call ID: 68714e8a5560c851d6234b7f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T17:48:58.695Z
+End Time: 2025-07-11T17:49:16.475Z
+Duration: 15 seconds
+From: +13174137857
+To: +16204558091
+Summary: The call ended without any order being placed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T17:49:16.362Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?

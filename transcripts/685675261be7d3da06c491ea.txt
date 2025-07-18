@@ -1,0 +1,14 @@
+Call ID: 685675261be7d3da06c491ea
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T09:02:30.563Z
+End Time: 2025-06-21T09:02:46.509Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer called Manhattan Bagel and was greeted by Emily, an AI assistant, who offered to assist them with their order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T09:02:46.353Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm Emily an AI Assistant, and How can I assist you today?

@@ -1,0 +1,54 @@
+Call ID: 68567de61be7d3da06c6368e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T09:39:50.725Z
+End Time: 2025-06-21T09:42:41.846Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer placed an order for a medium hot latte with half and half, a 16oz Mint Oreo Chillerz, and a 12oz can of Diet Coke.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T09:42:41.514Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm Emily an AI Assistant, and How can I assist you today?
+
+[2025-06-21T09:42:41.514Z] Customer: Hello, Emily. I want to make an order of hot latte.
+
+[2025-06-21T09:42:41.514Z] AI Agent: I can help you with that. For the hot latte, what kind of milk would you like? We have regular milk, half and half, skim milk, almond milk, oat milk, or soy milk.
+
+[2025-06-21T09:42:41.514Z] Customer: I want, half and half.
+
+[2025-06-21T09:42:41.514Z] AI Agent: Half and half it is. Now, would you like your hot latte in a small 12oz, medium 16oz, or large 20oz size?
+
+[2025-06-21T09:42:41.514Z] Customer: Medium.
+
+[2025-06-21T09:42:41.514Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-21T09:42:41.514Z] AI Agent: Your medium hot latte with half and half is added to your order. Your total comes out to be $4.99. Would you like to add anything else to your order, or is that all for today?
+
+[2025-06-21T09:42:41.514Z] Customer: I also want to have, mint order chillers and one Diet Coke.
+
+[2025-06-21T09:42:41.514Z] AI Agent: Let's start with the Mint Oreo Chillerz. We have a 16oz and a 24oz size. Which one would you like?
+
+[2025-06-21T09:42:41.514Z] Customer: 16.
+
+[2025-06-21T09:42:41.514Z] AI Agent: So, you'd like a 16oz Mint Oreo Chillerz. That's $5.99. Now, let's move on to the Diet Coke. We have a 12oz can. Would you like that?
+
+[2025-06-21T09:42:41.514Z] Customer: 
+
+[2025-06-21T09:42:41.514Z] AI Agent: Perfect, let me add those to your order... 
+
+[2025-06-21T09:42:41.515Z] AI Agent: Your 16oz Mint Oreo Chillerz and a 12oz can of Diet Coke are added to your order. Your new total comes out to be $12.97. Before I place your order, would you like me to repeat it back to you to make sure everything is correct?
+
+[2025-06-21T09:42:41.515Z] Customer: No.
+
+[2025-06-21T09:42:41.515Z] AI Agent: Alright, let me place this order for you... 
+
+[2025-06-21T09:42:41.515Z] AI Agent: Your order number is one, eight, zero, five, zero, five. Your subtotal is zero dollars. The tax is twelve dollars and ninety-seven cents. The final total with tax is twelve dollars and ninety-seven cents. Is there anything else I can help you with?
+
+[2025-06-21T09:42:41.515Z] Customer: No. Thank you so much.
+
+[2025-06-21T09:42:41.515Z] AI Agent: You're welcome. Have a great day and we'll see you soon for your pickup.
+
+[2025-06-21T09:42:41.515Z] Customer: 

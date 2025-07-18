@@ -1,0 +1,36 @@
+Call ID: 6855a49f1be7d3da06ba2fb9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T18:12:47.292Z
+End Time: 2025-06-20T18:13:51.238Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: The call ended due to technical difficulties as the agent was unable to find the customer's requested item, a hot latte, through the search tool.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T18:13:51.029Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T18:13:51.029Z] Customer: 
+
+[2025-06-20T18:13:51.029Z] AI Agent: Yes, I can hear you just fine, Gaurav. How can I assist you with your order today?
+
+[2025-06-20T18:13:51.029Z] Customer: What is, what is the can you can you get me hot latte?
+
+[2025-06-20T18:13:51.030Z] AI Agent: I can definitely help you with that, Gaurav. Let me check on the hot latte for you. 
+
+[2025-06-20T18:13:51.030Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-20T18:13:51.030Z] AI Agent: I couldn't find the hot latte. Let me try searching for just "latte" to see what options we have. 
+
+[2025-06-20T18:13:51.030Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-20T18:13:51.030Z] AI Agent: I'm having a bit of trouble finding the latte. Let me try one more time with a broader search. 
+
+[2025-06-20T18:13:51.031Z] AI Agent: ERROR: Tool timed out
+
+[2025-06-20T18:13:51.031Z] AI Agent: I apologize for the inconvenience, Gaurav. I'm still having trouble finding the latte. Can you please give me a moment? 
+
+[2025-06-20T18:13:51.031Z] AI Agent: OK

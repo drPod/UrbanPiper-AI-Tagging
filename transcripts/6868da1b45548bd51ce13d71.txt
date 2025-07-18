@@ -1,0 +1,24 @@
+Call ID: 6868da1b45548bd51ce13d71
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T07:54:03.778Z
+End Time: 2025-07-05T07:55:11.650Z
+Duration: 63 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel, selecting 4 Everything bagels and proceeding with the customization process.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T07:55:11.490Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T07:55:11.490Z] Customer: Can I, order a breakfast bundle?
+
+[2025-07-05T07:55:11.650Z] Unknown: [2025-07-05T07:55:11.490Z] assistant: One Breakfast Bundle coming right up. A Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and you also have the option to add 4oz of premium Acme smoked nova for just $9.99. 
+
+First, let's get started with the bagels. Which 13 bagels would you like to choose? You can pick from our variety, such as Plain, Everything, Asiago, Blueberry, and many more.
+
+[2025-07-05T07:55:11.490Z] Customer: Can I get four sesame?
+
+[2025-07-05T07:55:11.490Z] AI Agent: For the Breakfast Bundle, you've chosen 4 Everything bagels. I'll make sure to add those to your order. Next, let's move on to the cream cheese. You get to choose 2 tubs of cream cheese. We have a variety of flavors such as Plain, 

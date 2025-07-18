@@ -1,0 +1,60 @@
+Call ID: 6858bc691be7d3da06f8f6e3
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T02:31:05.940Z
+End Time: 2025-06-23T02:34:28.106Z
+Duration: 240 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jiten ordered an Avocado Toast with a Multigrain Bagel, plain cream cheese, and added tomato and cucumber, which was successfully placed for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T02:34:27.741Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T02:34:27.741Z] Customer: Hey. Hi. I'd like to order some vegetarian bagel, with avocado and, little dark toasted as well as, with some plain green cheese.
+
+[2025-06-23T02:34:27.741Z] AI Agent: The Avocado Toast on a bagel, great choice. I'll get the options for your bagel and spread. Let me see what we have for your bagel choices...
+
+[2025-06-23T02:34:27.742Z] AI Agent: For your Avocado Toast, let's start with the bagel. We have a variety of options such as Plain, Everything, Asiago, and more. Which type of bagel would you like?
+
+[2025-06-23T02:34:27.742Z] Customer: I want, multigrain bagel.
+
+[2025-06-23T02:34:27.742Z] AI Agent: The Multigrain Bagel is a
+
+[2025-06-23T02:34:27.742Z] Customer: With the avocado, but plain cheese, plain cream cheese, and, little toasted.
+
+[2025-06-23T02:34:27.742Z] AI Agent: So, to confirm,
+
+[2025-06-23T02:34:27.742Z] Customer: With, tomato and onion modif I mean, as in vegetable.
+
+[2025-06-23T02:34:27.742Z] AI Agent: Let me get the options for your vegetables... You've already chosen the Multigrain Bagel, avocado, and plain cream cheese, lightly toasted. For the vegetables, you'd like to add tomato and onion. Anything else? Maybe some spinach, cucumber, or capers? 
+
+[2025-06-23T02:34:27.743Z] AI Agent: You've
+
+[2025-06-23T02:34:27.743Z] Customer: No. I think I tomato and cucumber is what I wanted.
+
+[2025-06-23T02:34:27.743Z] AI Agent: So, to confirm, you'd like the Multigrain Bagel with avocado, plain cream cheese, lightly toasted, and you'd like to add tomato and cucumber as your vegetables. Perfect, let me add that to your order... 
+
+[2025-06-23T02:34:27.743Z] AI Agent: Added 1 item(s) to your cart. Total: $21.48
+
+[2025-06-23T02:34:27.743Z] AI Agent: I've added the Avocado Toast to your order. Your total comes out to be $10.99. Would you like to place your order or add anything else?
+
+[2025-06-23T02:34:27.743Z] Customer: No. Thank you so much.
+
+[2025-06-23T02:34:27.743Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-23T02:34:27.744Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 308018. That's 3, 0, 8, 0, 1, 8. Total: $23.62 (subtotal 21.48 dollars plus 2.14 dollars tax). Thank you for your order!
+
+[2025-06-23T02:34:27.744Z] AI Agent: Your order number is 3, 0, 8, 0, 1, 8. Your total comes out to be 21 dollars and 48 cents, plus 2 dollars and 14 cents tax. So, your final total is 23 dollars and 62 cents. We'll have that ready for you shortly. Thank you for your order! Is there anything else I can help you with?
+
+[2025-06-23T02:34:27.744Z] Customer: I want to know what all you have added to my order, like, what I'm having.
+
+[2025-06-23T02:34:27.744Z] AI Agent: Let me read your order back to you. You have ordered the Avocado Toast, which includes a Multigrain Bagel, avocado, plain cream cheese, lightly toasted, with tomato and cucumber as your added vegetables. That's the current order. Would you like to make any changes or add anything else?
+
+[2025-06-23T02:34:27.744Z] Customer: No. Thank you so much. That's it.
+
+[2025-06-23T02:34:27.744Z] AI Agent: You're welcome. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, we'll get your Avocado Toast ready for you. Have a great day and enjoy your meal!
+
+[2025-06-23T02:34:27.744Z] AI Agent: I hope you are still with me!

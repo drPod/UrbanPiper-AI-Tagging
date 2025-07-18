@@ -1,0 +1,86 @@
+Call ID: 6877cd5d73d0cf0f7e83e7d2
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T16:03:41.238Z
+End Time: 2025-07-16T16:08:19.266Z
+Duration: 273 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a Breakfast Bundle from Manhattan Bagel with specific bagel and cream cheese choices, which was successfully submitted after confirmation and payment details were discussed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T16:08:18.651Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T16:08:18.651Z] Customer: Okay. I want to order Big Fo's bundle, please.
+
+[2025-07-16T16:08:18.651Z] AI Agent: The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Would you like to choose the types of bagels and cream cheese, or would you like me to suggest some popular options?
+
+[2025-07-16T16:08:18.651Z] Customer: Okay. Give me some popular options then.
+
+[2025-07-16T16:08:18.652Z] AI Agent: For the bagels, our most popular ones are Plain, Everything, Sesame, and Blueberry. And for the cream cheese, we have Plain, Strawberry, and Scallion. Would you like to go with these options, or would you like me to list more choices?
+
+[2025-07-16T16:08:18.652Z] Customer: Can I have one for sure, please?
+
+[2025-07-16T16:08:18.652Z] AI Agent: For the bagels, I have more options like Cinnamon Raisin, Whole Wheat, Poppy, and Onion. And for the cream cheese, I also have Jalapeño, Honey Almond, and Vegetable. Would you like to hear more, or is there something specific you're looking for?
+
+[2025-07-16T16:08:18.652Z] Customer: Okay. So, and the bagels, I'll go with the five, sesame, five cinnamon, two vanilla, and one onion.
+
+[2025-07-16T16:08:18.652Z] AI Agent: Let me just check those bagel options for you. 
+
+[2025-07-16T16:08:18.652Z] AI Agent: It seems that Vanilla bagels are not available. We do have other flavors like Plain, Everything, Blueberry, and Chocolate Chip. Would you like to replace the Vanilla bagel with one of these options?
+
+[2025-07-16T16:08:18.652Z] Customer: Okay.
+
+[2025-07-16T16:08:18.652Z] AI Agent: I'll replace the Vanilla bagel with a Blueberry one. So, to confirm, you'd like 5 Sesame, 5 Cinnamon Raisin, 2 Blueberry, and 1 Onion bagel. Is that correct?
+
+[2025-07-16T16:08:18.652Z] Customer: Okay.
+
+[2025-07-16T16:08:18.653Z] AI Agent: Now, let's move on to the cream cheese. You had mentioned earlier that you wanted to choose the cream cheese flavors. We have Plain, Strawberry, Scallion, Jalapeño, Honey Almond, and Vegetable. Which two flavors would you like to include in your Breakfast Bundle?
+
+[2025-07-16T16:08:18.653Z] Customer: I need, plain and, blueberry green cheese.
+
+[2025-07-16T16:08:18.653Z] AI Agent: Let me just check those cream cheese options for you. 
+
+[2025-07-16T16:08:18.653Z] AI Agent: It seems that Blueberry cream cheese is not available, and we also can't use "Plain" as it's not a specific flavor. We do have a Plain Cream Cheese option, though. Would you like to go with the Plain Cream Cheese and another flavor, like Strawberry or Scallion?
+
+[2025-07-16T16:08:18.653Z] Customer: Yeah. Plain cream cheese is the good, and, strawberry, is also good.
+
+[2025-07-16T16:08:18.653Z] AI Agent: So, to confirm, you'd like the Plain Cream Cheese and the Strawberry Cream Cheese for your Breakfast Bundle. Is that correct? Also, would you like to add a
+
+[2025-07-16T16:08:18.654Z] Customer: Yeah.
+
+[2025-07-16T16:08:18.654Z] AI Agent: Now, let's calculate the total price for your Breakfast Bundle. 
+
+[2025-07-16T16:08:18.654Z] Customer: Hello?
+
+[2025-07-16T16:08:18.654Z] AI Agent: Let me just calculate the total price for your Breakfast Bundle. 
+
+[2025-07-16T16:08:18.654Z] AI Agent: Your Breakfast Bundle total comes out to be 32 dollars and 98 cents. I'm going to go ahead and put your order together. 
+
+[2025-07-16T16:08:18.654Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-16T16:08:18.654Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-16T16:08:18.654Z] Customer: No. I don't have any, but I just want to know, this.
+
+[2025-07-16T16:08:18.654Z] AI Agent: Alright Jitin. Would you like me to read back your order with all the details?
+
+[2025-07-16T16:08:18.655Z] Customer: No. I don't want that. Thank you so much.
+
+[2025-07-16T16:08:18.655Z] AI Agent: Great. Placing that for you now, please hold on... 
+
+[2025-07-16T16:08:18.655Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 217916. That's 2, 1, 7, 9, 1, 6.", 'order_id': '217916', 'call_id': '5b7334b7-4f9d-4297-9eb1-8a5e82582f14', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '019813fd-8dde-bb3b-b6ff-92edbdebf221'}
+
+[2025-07-16T16:08:18.655Z] AI Agent: Your order number is 2, 1, 7, 9, 1, 6. Your total is 32 dollars and 98 cents, including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-16T16:08:18.655Z] Customer: No. Thank you so much.
+
+[2025-07-16T16:08:18.655Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and enjoy your Breakfast Bundle from Manhattan Bagel!
+
+[2025-07-16T16:08:18.655Z] Customer: Yeah. Thank you so much.
+
+[2025-07-16T16:08:18.655Z] AI Agent: You're welcome again, Jitin. If you need anything else or have any other questions, feel free to ask. Otherwise, have a fantastic day and we'll see you next time at Manhattan Bagel!
+
+[2025-07-16T16:08:18.655Z] Customer: Yeah. Thank you. Bye.

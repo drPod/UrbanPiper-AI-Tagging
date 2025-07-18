@@ -1,0 +1,42 @@
+Call ID: 68701aefd14f3abcfb5c9da7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-10T19:56:31.503Z
+End Time: 2025-07-10T20:00:09.927Z
+Duration: 215 seconds
+From: +19546004910
+To: +16204558091
+Summary: The customer ordered a Broadway Box for their office, which includes a variety of bagels, muffins, and pastries, and the total cost was calculated.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-10T20:00:09.383Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-10T20:00:09.383Z] Customer: Eu quero fazer 1 ordem pro meu escritório hoje, você pode me ajudar?
+
+[2025-07-10T20:00:09.383Z] AI Agent: Claro, posso ajudar com isso. Qual é o seu pedido hoje? Você gostaria de fazer um pedido para entrega ou para retirada? E qual é o endereço do seu escritório?
+
+[2025-07-10T20:00:09.383Z] Customer: Eu quero fazer pedido de entrega e é pra parte 20 pessoas e eu quero a sua recomendação do que eu poderia pedir pra café da manhã pra 20 pessoas.
+
+[2025-07-10T20:00:09.927Z] Unknown: [2025-07-10T20:00:09.383Z] assistant: Entendi! Para um café da manhã para vinte pessoas, eu recomendaria o "Breakfast Bundle" que inclui 13 bagels frescos, 2 tubs de cream cheese, 4 muffins e 1/4 lb de manteiga. Além disso, você pode adicionar alguns itens adicionais, como ovos mexidos, bacon, salsichas ou hash browns.
+
+Outra opção seria o "Broadway Box" que inclui 12 bagels, 6 muffins e pastéis, 2 tubs de cream cheese, 1/4 lb de manteiga e papeladas. Essa opção é um pouco mais completa e oferece uma variedade de itens para satisfazer diferentes gostos.
+
+Se você quiser algo mais simples, podemos fazer um pedido de bagels e cream cheese, ou até mesmo um lote de muffins e pastéis.
+
+Qual é a sua preferência? Você gostaria de saber mais sobre alguma dessas opções ou tem alguma outra ideia em mente?
+
+[2025-07-10T20:00:09.383Z] Customer: A caixa do Broadway eu acho que está bom para gente até mais completa.
+
+[2025-07-10T20:00:09.384Z] AI Agent: O "Broadway Box" é uma ótima escolha! É uma opção completa e variada que inclui uma boa quantidade de itens para satisfazer diferentes gostos. Agora, vamos personalizar o seu "Broadway Box"! Você precisará escolher os 12 bagels que deseja incluir. Nós temos uma variedade de opções, incluindo bagels 
+
+[2025-07-10T20:00:09.384Z] Customer: Pode colocar 1 variedade que você escolha, tá bom?
+
+[2025-07-10T20:00:09.384Z] AI Agent: Vou escolher uma variedade de bagels para você. Vou incluir 4 bagels de centeio, 4 bagels de tudo, 2 bagels de cebola e 2 bagels de sementes de gergelim. Essa combinação oferece uma boa variedade de sabores e texturas. Agora, vamos falar sobre os muffins e pastéis. Você gostaria de incluir 6 muffins e pastéis no seu "Broadway Box"? Posso escolher uma variedade de sabores para você, incluindo morango, chocolate, mirtilo e outros. E,
+
+[2025-07-10T20:00:09.384Z] Customer: Tá certo, pode você pode escolher para mim também só me dá o valor por favor.
+
+[2025-07-10T20:00:09.384Z] AI Agent: O "Broadway Box" com a variedade de bagels, muffins e pastéis que eu escolhi para você custa $59.99. Além disso, você precisará pagar $24.99 pelo café, que é uma opção adicional. Então, o total seria de $59.99 + $24.99 = $84.98. Você gostaria
+
+[2025-07-10T20:00:09.384Z] Customer: Oh, he can't see the numbers. He can't see the numbers. He can't do the totals. No. Yeah. When he's doing the totals, he's like it it it it's sounding, like, super messed up. He's like Brilliant. So that's so what you should do is just send an, an email to Sarapana to put me on there.

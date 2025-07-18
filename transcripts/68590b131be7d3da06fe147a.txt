@@ -1,0 +1,32 @@
+Call ID: 68590b131be7d3da06fe147a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T08:06:43.865Z
+End Time: 2025-06-23T08:09:20.103Z
+Duration: 180 seconds
+From: +919686500112
+To: +16204558091
+Summary: The customer, Vansh, initiated an order for a Breakfast Bundle at Manhattan Bagel but decided to start over before finalizing any customization options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T08:09:18.889Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T08:09:18.889Z] Customer: Breakfast bundle?
+
+[2025-06-23T08:09:20.103Z] Unknown: [2025-06-23T08:09:18.889Z] assistant: The Breakfast Bundle is a great choice. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you. 
+
+First, for the thirteen bagels in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.
+
+[2025-06-23T08:09:20.103Z] Unknown: [2025-06-23T08:09:18.889Z] assistant: Let's start with the bagels. For the thirteen bagels in your Bagel Dozen, you have a variety of options. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, and Bagel Stick. Which ones would you like? You can choose a mix if you prefer.
+
+After you decide on the bagels, we can move on to the cream cheese. For the two tubs of spread, you can choose from Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Lox Spread, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, Philadelphia, or Butter. Which two would you like?
+
+Next, for the four muffins, you can pick from Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, or Cranberry Orange. Which four muffins would you like?
+
+Lastly, for the box of coffee, you can choose between House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Which coffee would you prefer?
+
+[2025-06-23T08:09:18.889Z] Customer: Yeah. Can we start from the beginning?
+
+[2025-06-23T08:09:18.889Z] AI Agent: Let's start fresh with your Breakfast Bundle order. To begin, the Breakfast Bundle includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you. First, for the thirteen bagels in your Bagel Dozen, you have a variety of options. We have Plain, Everything, Asiago, Blueberry, California,

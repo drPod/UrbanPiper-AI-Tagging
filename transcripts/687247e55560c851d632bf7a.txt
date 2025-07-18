@@ -1,0 +1,36 @@
+Call ID: 687247e55560c851d632bf7a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T11:32:53.083Z
+End Time: 2025-07-12T11:35:30.539Z
+Duration: 154 seconds
+From: 918949862707
+To: 918035740152
+Summary: Jutin ordered an Avocado BLT sandwich, a Breakfast Bundle, and a hot black coffee from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T11:35:29.416Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T11:35:29.416Z] Customer: I'm looking to order, avocado BLT sandwich and breakfast bundle. Also like to have, hot coffee black hot coffee.
+
+[2025-07-12T11:35:30.539Z] Unknown: [2025-07-12T11:35:29.419Z] assistant: I want to make sure I get this right. We have an Avocado BLT sandwich, and for the breakfast bundle, we have a few options. Could you please confirm if you would like the Breakfast Bundle that includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins? 
+
+Also, just to confirm, you would like a hot black coffee, which is our House Blend coffee, correct?
+
+[2025-07-12T11:35:29.419Z] Customer: Yeah.
+
+[2025-07-12T11:35:29.420Z] AI Agent: Let me confirm your order. You would like an Avocado BLT sandwich, a Breakfast Bundle that includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins, and a hot black coffee, which is our House Blend coffee. Is that correct?
+
+[2025-07-12T11:35:29.420Z] Customer: Yeah. Right.
+
+[2025-07-12T11:35:29.420Z] AI Agent: Perfect. I have one Avocado BLT sandwich, one Breakfast Bundle with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins, and one hot black House Blend coffee. Now let me help you customize each one exactly how you like it. 
+
+[2025-07-12T11:35:29.421Z] AI Agent: Moving to item customization stage...
+
+[2025-07-12T11:35:29.422Z] AI Agent: Let's start with your Avocado BLT sandwich. You'll need to pick just one bread for your sandwich. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California Protein Bar, Chocolate Chip Bagel, Cinnamon Raisin Bagel, Egg Bagel, Egg Everything, French Toast Bagel, Garlic Bagel, Honey Whole Wheat Everything Bagel, Honey Whole Wheat Bagel, Multigrain Bagel, Jalapeno Cheddar Bagel, Marble Rye Bread, Multi Grain Bread, Onion Bagel, Poppy Bagel, 
+
+[2025-07-12T11:35:29.423Z] Customer: Okay. So okay. Okay. So, I want five chocolate chip bagel, two honey whole wheat bagel, one vanilla bagel, and the rest could be multi grain bagel.
+
+[2025-07-12T11:35:29.424Z] AI Agent: For your Breakfast Bundle, you've chosen 5 Chocolate Chip Bagels, 2 Honey Whole Wheat Bagels, 1 Vanilla Bagel, and the rest will be Multigrain Bagels. That's a total of 13 bagels. Now, let's move on to the cream cheese. You'll need to choose 2

@@ -1,0 +1,16 @@
+Call ID: 686e9fafd14f3abcfb3ceebc
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T16:58:23.932Z
+End Time: 2025-07-09T16:58:43.460Z
+Duration: 17 seconds
+From: 919780032269
+To: 918035740152
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T16:58:43.286Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T16:58:43.286Z] Customer: Can you hear me? Hello?

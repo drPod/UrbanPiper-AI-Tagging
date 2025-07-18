@@ -1,0 +1,18 @@
+Call ID: 686d22cbd14f3abcfb1a06bd
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T13:53:15.307Z
+End Time: 2025-07-08T13:53:54.600Z
+Duration: 37 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a breakfast bundle at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T13:53:54.393Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T13:53:54.393Z] Customer: That was bundled.
+
+[2025-07-08T13:53:54.393Z] AI Agent: Alright, one breakfast bundle. To get started, I need to know which bagels you'd like in the dozen. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast Bagel, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, and Honey Whole Wheat, Honey Whole Wheat Everything.

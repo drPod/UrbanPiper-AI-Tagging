@@ -1,0 +1,88 @@
+Call ID: 68592e7b1be7d3da0603bf84
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T10:37:47.133Z
+End Time: 2025-06-23T10:46:23.377Z
+Duration: 540 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer ordered a Breakfast Bundle with specific customizations, including thirteen bagels, two tubs of spread, and four muffins, and then the order was updated.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T10:46:21.406Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T10:46:21.406Z] Customer: Breakfast bundle?
+
+[2025-06-23T10:46:21.407Z] AI Agent: The Breakfast Bundle, great choice. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T10:46:21.408Z] AI Agent: Let's start with the bagels. For the thirteen bagels, you can choose from options like Plain, Everything, Asiago, and more. Which ones would you like?
+
+[2025-06-23T10:46:21.409Z] Customer: All 13, should be, scallion bagel.
+
+[2025-06-23T10:46:21.409Z] AI Agent: Scallion Bagel is not an option in the Bagel Dozen group. You can choose from Plain, Everything, Asiago, Blueberry, and many more. Which ones would you like for your thirteen bagels?
+
+[2025-06-23T10:46:21.410Z] Customer: Buttermilk.
+
+[2025-06-23T10:46:21.410Z] AI Agent: Butter is not an option in the Bagel Dozen group. You can choose from Plain, Everything, Asiago, Blueberry, and many more. Which ones would you like for your thirteen bagels?
+
+[2025-06-23T10:46:21.410Z] Customer: I I will go with the, 13 as garlic bagel.
+
+[2025-06-23T10:46:21.411Z] AI Agent: Garlic is an option in the Bagel Dozen group. You've chosen thirteen Garlic bagels. Next, let's move on to the
+
+[2025-06-23T10:46:21.414Z] Customer: Okay. Can you can you can you update, like, five garlic wiggle, five everything?
+
+[2025-06-23T10:46:21.414Z] AI Agent: I can update that for you. So, you'd like five Garlic bagels and five Everything bagels. That's a total of ten bagels so far. You still need to choose three more bagels to reach the total of thirteen. Which ones would you like for the remaining three?
+
+[2025-06-23T10:46:21.414Z] Customer: Can I word with the three edge plain bagel?
+
+[2025-06-23T10:46:21.414Z] AI Agent: You've chosen five Garlic bagels, five Everything bagels, and now three Plain bagels. That completes your thirteen bagels. Next, let's move on to the spreads. You need to choose two tubs of spread. Options include Plain Cream Cheese, Vegetable Cream Cheese, and more. Which two would you like?
+
+[2025-06-23T10:46:21.414Z] Customer: 
+
+[2025-06-23T10:46:21.414Z] AI Agent: Vanilla is not an option in the Choose 2 Tubs of Spread group. You can choose from Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. You've already chosen Vegetable 
+
+[2025-06-23T10:46:21.414Z] Customer: 
+
+[2025-06-23T10:46:21.414Z] Customer: 1
+
+[2025-06-23T10:46:21.414Z] Customer: Yeah. So vegetable is good, and, let's move to the plain.
+
+[2025-06-23T10:46:21.414Z] AI Agent: You've chosen Vegetable Cream Cheese as one of your spreads. For the second spread, you've chosen Plain Cream Cheese. That completes your spreads. Next, let's move on to the muffins. You can choose up to four muffins from options like Blueberry, Corn, Double Chocolate, and more. Which ones would you like?
+
+[2025-06-23T10:46:21.415Z] Customer: 
+
+[2025-06-23T10:46:21.415Z] AI Agent: Let's start with the
+
+[2025-06-23T10:46:21.416Z] Customer: 
+
+[2025-06-23T10:46:21.418Z] AI Agent: You've chosen
+
+[2025-06-23T10:46:21.418Z] Customer: Two two two two chocolate chip, two blueberry.
+
+[2025-06-23T10:46:21.418Z] AI Agent: You've chosen two Double Chocolate muffins and two Blueberry muffins. That's a total of four muffins, which completes your muffin selection. Next, let's move on to the Box of Coffee. You can choose one option, such as House Blend, Decaf, or Vanilla Hazelnut. Which one would you like?
+
+[2025-06-23T10:46:21.419Z] Customer: I don't need any any any any of these. No coffee, please.
+
+[2025-06-23T10:46:21.419Z] AI Agent: You've decided not to add a Box of Coffee to your order. Perfect, let me add that to your order...
+
+[2025-06-23T10:46:21.419Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T10:46:21.419Z] Customer: Yeah. I'm still there. Go ahead, please. Hello? Hello?
+
+[2025-06-23T10:46:21.420Z] Customer: What happened? Hello?
+
+[2025-06-23T10:46:21.420Z] Customer: Hello? Hello? Hello?
+
+[2025-06-23T10:46:21.422Z] Customer: Can you please call update order on tool? Hello?
+
+[2025-06-23T10:46:21.422Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T10:46:21.423Z] Customer: Yes. There. Can you please update order?
+
+[2025-06-23T10:46:21.423Z] AI Agent: {"name": "update_order", "parameters": {"action": "add", "items": "[{\"item_name\": \"Breakfast Bundle\", \"quantity\": 1, \"price\": 29.99, \"modifiers\": [{\"group_id\": \"mg1409622\", \"group_title\": \"Bagel Dozen\", \"option_id\": \"5709587\", \"option_title\": \"Garlic\", \"price\": 0, \"quantity\": 5}, {\"group_id\": \"mg1409622\", \"group_title\": \"Bagel Dozen\", \"option_id\": \"5709579\", \"option_title\": \"Everything\", \"price\": 0, \"quantity\": 5}, {\"group_id\": \"mg1409622\", \"group_title\": \"Bagel Dozen\", \"option_id\": \"5709578\", \"option_title\": \"Plain\", \"price\": 0, \"quantity\": 3}, {\"group_id\": \"mg1409626\", \"group_title\": \"Choose 2 Tubs of Spread\", \"option_id\": \"5709608\", \"option_title\": \"Vegetable Cream Cheese\", \"price\": 0, \"quantity\": 1}, {\"group_id\": \"mg1409626\", \"group_title\": \"Choose 2 Tubs of Spread\", \"option_id\": \"5709607\", \"option_title\": \"Plain Cream Cheese\", \"price\": 0, \"quantity\": 1}, {\"group_id\": \"mg1409623\", \"group_title\": \"Choose 4 Muffins\", \"option_id\": \"5709623\", \"option_title\": \"Chocolate Chip\", \"price\": 0, \"quantity\": 2}, {\"group_id\": \"mg1409623\", \"group_title\": \"Choose 4 Muffins\", \"option_id\": \"5709620\", \"option_title\": \"Blueberry\", \"price\": 0, \"quantity\": 2}]}]}}
+
+[2025-06-23T10:46:21.423Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T10:46:21.423Z] AI Agent: Thank you for calling. Have a great day. Goodbye.

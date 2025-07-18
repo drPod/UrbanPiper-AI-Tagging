@@ -1,0 +1,80 @@
+Call ID: 687a7f56a1698f750734da54
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T17:07:34.545Z
+End Time: 2025-07-18T17:11:20.867Z
+Duration: 222 seconds
+From: +17208120207
+To: +16204558091
+Summary: The customer ordered an Omelet Wrap with pastrami, extra bacon, and no cheese, totaling $12.08 including tax.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T17:11:19.676Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-18T17:11:19.676Z] Customer: Place an order.
+
+[2025-07-18T17:11:19.676Z] AI Agent: To place an order, I'll need to know what you'd like to order. What can I get for you today?
+
+[2025-07-18T17:11:19.676Z] Customer: What's on the menu?
+
+[2025-07-18T17:11:19.676Z] AI Agent: We have a variety of delicious items on our menu. We have breakfast sandwiches, bagels, coffee, and more. Some popular items include our Original Classic breakfast sandwich, bagels with cream cheese or butter, and our coffee drinks. We also have a selection of muffins, pastries, and other baked goods. What sounds good to you?
+
+[2025-07-18T17:11:19.676Z] Customer: What kind of breakfast sandwiches do you have?
+
+[2025-07-18T17:11:19.677Z] AI Agent: We have a variety of breakfast sandwiches to choose from. Some of our popular items include the Original Classic, which comes with egg, cheese, and your choice of meat on a bagel, the Spinach Bacon Croissant, the Farmhouse Egg Sandwich, the Big Breakfast Burrito, and the Santa Fe Egg White. We also have the French Toast Egg Sandwich, the Omelet Wrap, and the Egg & Cheese. Which one of these sounds good to you?
+
+[2025-07-18T17:11:19.677Z] Customer: The omelette wrap.
+
+[2025-07-18T17:11:20.867Z] Unknown: [2025-07-18T17:11:19.677Z] assistant: The Omelet Wrap is a great choice. It comes with 3 eggs, cheese, and your choice of meat, all wrapped in a tortilla. 
+
+Let me just check if that's available for you. 
+
+That will be our Omelet Wrap on the menu, now let me check the availability. 
+
+For the Omelet Wrap, you'll need to choose a meat. We have bacon, pork roll, sausage, ham, steak, deli turkey, turkey bacon, turkey sausage, and pastрами. Which meat would you like?
+
+[2025-07-18T17:11:19.677Z] Customer: Bacon, steak, and pastrami.
+
+[2025-07-18T17:11:20.867Z] Unknown: [2025-07-18T17:11:19.678Z] assistant: For the Omelet Wrap, you've chosen bacon, steak, and pastrami. Just to clarify, you can only choose one meat for the Omelet Wrap. Would you like to go with the bacon, the steak, or the pastrami? 
+
+Also, please note that steak and pastrami are additional costs. The steak is $1.99 extra and the pastrami is $1.99 extra as well. 
+
+Which one would you like to go with?
+
+[2025-07-18T17:11:19.678Z] Customer: I want pastrami and bacon.
+
+[2025-07-18T17:11:20.867Z] Unknown: [2025-07-18T17:11:19.678Z] assistant: For the Omelet Wrap, you've chosen pastrami and bacon. I need to let you know that you can only choose one meat for the Omelet Wrap. 
+
+If you'd like to add both pastrami and bacon, I can offer you the option to add an extra meat, which would be the bacon in this case, since you've already chosen the pastrami. The extra bacon would be $2.99. 
+
+Would you like to add the extra bacon to your Omelet Wrap with pastrami?
+
+[2025-07-18T17:11:19.678Z] Customer: Yes.
+
+[2025-07-18T17:11:20.867Z] Unknown: [2025-07-18T17:11:19.678Z] assistant: For the Omelet Wrap, you've chosen pastrami as your meat and you'd like to add extra bacon, which is $2.99. 
+
+Next, you'll need to choose a cheese. We have American, Swiss, Pepper Jack, Cheddar, Muenster, Provolone, and no cheese. Which cheese would you like?
+
+[2025-07-18T17:11:19.678Z] Customer: No cheese and
+
+[2025-07-18T17:11:20.867Z] Unknown: [2025-07-18T17:11:19.678Z] assistant: For the Omelet Wrap, you've chosen pastrami as your meat, added extra bacon, and no cheese.
+
+Next, you'll need to choose a wrap. We have flour or wheat. Which wrap would you like?
+
+Also, would you like to add any condiments or vegetables to your Omelet Wrap? We have a variety of options such as lettuce, tomato, onions, and more.
+
+[2025-07-18T17:11:19.679Z] Customer: No.
+
+[2025-07-18T17:11:20.867Z] Unknown: [2025-07-18T17:11:19.679Z] assistant: For the Omelet Wrap, you've chosen pastrami as your meat, added extra bacon, no cheese, and you don't want to add any condiments or vegetables.
+
+Just to confirm, I'll read back your order: You'd like an Omelet Wrap with pastrami, extra bacon, no cheese, and no condiments or vegetables.
+
+Now, I'll calculate the total for your order. Just a moment while I add that up... 
+
+
+
+[2025-07-18T17:11:20.867Z] Unknown: [2025-07-18T17:11:19.679Z] assistant: Your Omelet Wrap with pastrami, extra bacon, and no cheese comes out to be $12.08, including tax.
+
+Would you like to place another order or is that all for today?

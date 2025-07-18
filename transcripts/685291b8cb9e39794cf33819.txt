@@ -1,0 +1,26 @@
+Call ID: 685291b8cb9e39794cf33819
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T10:15:20.378Z
+End Time: 2025-06-18T10:16:20.178Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer inquired about breakfast sandwich options at Manhattan Bagel and was presented with various choices, but did not place an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T10:16:19.857Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T10:16:19.857Z] Customer: I want to order, something from breakfast, sandwich. Can can I know, like, what you have in breakfast?
+
+[2025-06-18T10:16:19.858Z] AI Agent: Let me check our breakfast options for you.
+
+[2025-06-18T10:16:19.858Z] AI Agent: We have a Box of Sweets available for breakfast. It includes muffins, pastries, and crumb cake. Would you like to go with the breakfast sweets option or the lunch sweets option?
+
+[2025-06-18T10:16:19.859Z] Customer: No. I want to know, something in, sandwich breakfast sandwich.
+
+[2025-06-18T10:16:19.860Z] AI Agent: Let me check our breakfast sandwich options for you.
+
+[2025-06-18T10:16:19.861Z] AI Agent: We have a variety of breakfast sandwiches available. Some options include the Original Classic, Spinach Bacon Croissant,

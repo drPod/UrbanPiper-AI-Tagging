@@ -1,0 +1,42 @@
+Call ID: 686d8a19d14f3abcfb260954
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T21:14:01.657Z
+End Time: 2025-07-08T21:15:50.224Z
+Duration: 107 seconds
+From: +31207930027
+To: +16204558091
+Summary: The customer inquired about bagel options, pricing, and deals, but ultimately did not place an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T21:15:49.913Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T21:15:49.913Z] Customer: Hi. What bagels do you have?
+
+[2025-07-08T21:15:49.913Z] AI Agent: Sure thing! We have a variety of bagels to choose from. Here are some of our popular options: Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Garlic, French
+
+[2025-07-08T21:15:49.914Z] Customer: What does the cinnamon raisin have?
+
+[2025-07-08T21:15:49.914Z] AI Agent: The Cinnamon Raisin bagel is a sweet and spiced option, made with cinnamon and raisins for a warm, delicious flavor. It’s perfect for those who enjoy a touch of sweetness in their bagel.
+
+[2025-07-08T21:15:49.914Z] Customer: Okay. How much is, the one with the cinnamon?
+
+[2025-07-08T21:15:49.915Z] AI Agent: The Cinnamon Raisin bagel is priced at $1.49. Would you like to order one of those?
+
+[2025-07-08T21:15:49.915Z] Customer: Wait. How much?
+
+[2025-07-08T21:15:49.915Z] AI Agent: The Cinnamon Raisin bagel is $1.49. Let me know if you'd like to proceed with that!
+
+[2025-07-08T21:15:49.915Z] Customer: Do you have any deals?
+
+[2025-07-08T21:15:49.915Z] AI Agent: We do have some great options! For example, our Half Dozen Bagels are $8.94, and our Dozen Bagels are $16.99. These are perfect if you're looking to get a bit more. Would you like to hear more about these
+
+[2025-07-08T21:15:49.915Z] Customer: What do you think of, Trump?
+
+[2025-07-08T21:15:49.916Z] AI Agent: I'm here to help you with your order and any questions about our menu. If you have any specific items you're interested in or need help with, feel free to let me know!
+
+[2025-07-08T21:15:49.916Z] Customer: How long does the delivery take?
+
+[2025-07-08T21:15:49.916Z] AI Agent: We’re a pickup-only store, so there’s no delivery. Once your order is ready, you can stop by to pick it up. Let me know if you’d

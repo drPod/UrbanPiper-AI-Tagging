@@ -1,0 +1,56 @@
+Call ID: 685a7a1e1be7d3da061c8841
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T10:12:46.472Z
+End Time: 2025-06-24T10:15:47.040Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a medium hot coffee with Vanilla Hazelnut Blend, Oat Milk, and Vanilla Syrup from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T10:15:46.332Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-24T10:15:46.332Z] Customer: 1
+
+[2025-06-24T10:15:46.332Z] Customer: I'm looking to order hard copy.
+
+[2025-06-24T10:15:46.333Z] AI Agent: The hot coffee, excellent choice. Let me get the options for your coffee. 
+
+[2025-06-24T10:15:46.333Z] AI Agent: Let's start with the Size for your hot coffee. You can choose from Small 12oz, Medium 16oz, Large 20oz, or X Large 24oz. Which one would you like?
+
+[2025-06-24T10:15:46.333Z] Customer: Medium.
+
+[2025-06-24T10:15:46.333Z] AI Agent: For the Roast, you have options like House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, or Tea. Since this
+
+[2025-06-24T10:15:46.333Z] Customer: Okay. I choose the, vanilla hazelnut.
+
+[2025-06-24T10:15:46.333Z] AI Agent: The Vanilla Hazelnut Blend is a great choice. Now, let's move on to the Milk Choice. You can choose from Regular Milk, Half & Half, Skim, Almond, Oat Milk, or Soy. Which one would you like?
+
+[2025-06-24T10:15:46.333Z] Customer: 
+
+[2025-06-24T10:15:46.333Z] AI Agent: Oat milk is a popular choice. Now, let's talk about Sweetener & Syrups. You have a variety of options like Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, Pumpkin Syrup, Caramel Syrup, Hazelnut Syrup, Vanilla Syrup, Sugar Free Vanilla Syrup, Pistachio
+
+[2025-06-24T10:15:46.334Z] Customer: Okay. So you can add one of the setup.
+
+[2025-06-24T10:15:46.334Z] AI Agent: I'll add Vanilla Syrup to your hot coffee. Now, let's move on to the Tea Choice. You have options like Lipton Black Tea, Lipton Decaf Tea, Chamomile Tea, Earl Grey, English Breakfast, Lemon Ginger, or Green Tea. Since you've already chosen a coffee, I'll assume you don't want to switch to tea. Is that correct?
+
+[2025-06-24T10:15:46.334Z] Customer: You're right.
+
+[2025-06-24T10:15:46.334Z] AI Agent: So, to confirm, you'd like a Medium 16oz hot coffee with Vanilla Hazelnut Blend, Oat Milk, and Vanilla Syrup. Is there anything else I can get for you?
+
+[2025-06-24T10:15:46.334Z] Customer: No. That's it, I think, for now.
+
+[2025-06-24T10:15:46.334Z] AI Agent: Alright, let me get this order placed for you...Please hold for a moment 
+
+[2025-06-24T10:15:46.335Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 1750760099423. That's 1, 7, 5, 0, 7, 6, 0, 0, 9, 9, 4, 2, 3.", 'order_id': '1750760099423', 'call_id': '832fe2f1-8fab-4e72-a26e-2e1e97526a5d', 'responseType': 'tool-response', 'api_response': {'status': 'success', 'workflow_run_id': 'id: "b8b5e606c8234497bf41228bfbb828d0"\n', 'call_id': '832fe2f1-8fab-4e72-a26e-2e1e97526a5d', 'message': 'Menu content refresh workflow started.'}}
+
+[2025-06-24T10:15:46.335Z] AI Agent: Your order number is 1, 7, 5, 0, 7, 6, 0, 0, 9, 9, 4, 2, 3. We'll have that ready for you shortly here at Manhattan Bagel. The total comes out to be 3 dollars and 74 cents. Thank you for ordering with us. Have a great day.
+
+[2025-06-24T10:15:46.335Z] AI Agent: I hope you are still with me!
+
+[2025-06-24T10:15:46.335Z] Customer: Yeah. I'm still there.
+
+[2025-06-24T10:15:46.335Z] AI Agent: If you need any further assistance or have any other questions, feel free to ask. Otherwise, it was a pleasure helping you with your order. Have a great day and enjoy your coffee

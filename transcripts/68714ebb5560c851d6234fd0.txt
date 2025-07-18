@@ -1,0 +1,38 @@
+Call ID: 68714ebb5560c851d6234fd0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T17:49:47.942Z
+End Time: 2025-07-11T17:51:01.274Z
+Duration: 71 seconds
+From: +13174137857
+To: +16204558091
+Summary: The customer ordered a Cinnamon Raisin bagel with strawberry cream cheese for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T17:51:00.922Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-11T17:51:00.922Z] Customer: Hey. I just wanted to order a bagel for pickup.
+
+[2025-07-11T17:51:00.923Z] AI Agent: Sure thing! What kind of bagel would you like for that?
+
+[2025-07-11T17:51:00.923Z] Customer: Can I get a cinnamon raisin bagel?
+
+[2025-07-11T17:51:00.923Z] AI Agent: Perfect! Cinnamon Raisin bagel it is. Would you like that toasted, lightly toasted, toasted dark, or not toasted at all?
+
+[2025-07-11T17:51:00.923Z] Customer: Toasted, please.
+
+[2025-07-11T17:51:00.924Z] AI Agent: Got it! That's a toasted Cinnamon Raisin bagel. Now, would you like to add any cream cheese or other spreads to your bagel? We have Plain,
+
+[2025-07-11T17:51:00.924Z] Customer: 
+
+[2025-07-11T17:51:00.924Z] AI Agent: I don't see Yak on our menu. We have Plain, Vegetable, Scallion, Strawberry, and several other options. Which would you prefer?
+
+[2025-07-11T17:51:00.924Z] Customer: Can I do strawberry, please?
+
+[2025-07-11T17:51:00.925Z] AI Agent: Perfect! Strawberry cream cheese it is. Is there anything else I can get for you today?
+
+[2025-07-11T17:51:00.925Z] Customer: Croissance
+
+[2025-07-11T17:51:00.925Z] AI Agent: Okay, so I have a Cinnamon Raisin bagel with toasted and strawberry cream cheese. Let me get that all put together for you.

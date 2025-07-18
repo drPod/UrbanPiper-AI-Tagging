@@ -1,0 +1,26 @@
+Call ID: 686a4f2f45548bd51c043cc9
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-06T10:25:51.264Z
+End Time: 2025-07-06T10:26:47.158Z
+Duration: 54 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for a Big Breakfast Burrito at Manhattan Bagel, but the call ended before completing the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-06T10:26:46.937Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-06T10:26:46.937Z] Customer: Hey. Hi. I'd like to order, Big Mixes burrito.
+
+[2025-07-06T10:26:46.938Z] AI Agent: One Big Breakfast Burrito. To get that started, what kind of wrap would you like? We have flour or wheat.
+
+[2025-07-06T10:26:46.938Z] Customer: Sorry? Pardon?
+
+[2025-07-06T10:26:46.938Z] AI Agent: No problem at all. So, you'd like to order a Big Breakfast Burrito. To get that started, what kind of wrap would you like? We have flour or wheat.
+
+[2025-07-06T10:26:46.938Z] Customer: What options I'm having more?
+
+[2025-07-06T10:26:46.941Z] AI Agent: For the Big Breakfast Burrito, you can choose from flour or wheat for the

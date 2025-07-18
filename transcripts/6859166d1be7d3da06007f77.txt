@@ -1,0 +1,40 @@
+Call ID: 6859166d1be7d3da06007f77
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T08:55:09.382Z
+End Time: 2025-06-23T08:56:57.120Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer attempted to order a Breakfast Bundle but the call ended abruptly due to an invalid cream cheese option being selected.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T08:56:56.929Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T08:56:56.930Z] Customer: 
+
+[2025-06-23T08:56:56.930Z] AI Agent: The Breakfast Bundle, great choice. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T08:56:56.930Z] AI Agent: Do you want to proceed with the customization now?
+
+[2025-06-23T08:56:56.930Z] Customer: Yes.
+
+[2025-06-23T08:56:56.930Z] AI Agent: Let's start with the Bagel Dozen. We have 19 types of bagels to choose from, including Plain, Everything, Asiago, and more. You need to choose exactly 13 bagels. Which ones would you like?
+
+[2025-06-23T08:56:56.930Z] Customer: I want all of 13 as garlic bagel.
+
+[2025-06-23T08:56:57.120Z] Unknown: [2025-06-23T08:56:56.930Z] assistant: You'd like all 13 bagels to be Garlic. That's a great choice. 
+
+Next, for the Choose 2 Tubs of Spread, we have options like Plain Cream Cheese, Vegetable Cream Cheese, and more. You need to choose exactly 2 tubs of spread. Which two would you like?
+
+[2025-06-23T08:56:56.930Z] Customer: Vanilla and, vegetable.
+
+[2025-06-23T08:56:56.930Z] AI Agent: You've chosen Vanilla and Vegetable Cream Cheese as your two tubs of spread. Moving on to the Choose 4 Muffins, we have options like Blueberry, Corn, Double Chocolate, and more. You can choose
+
+[2025-06-23T08:56:56.931Z] Customer: 
+
+[2025-06-23T08:56:56.931Z] AI Agent: Vanilla is not a valid option for the cream cheese spreads. You had chosen Vanilla and Vegetable earlier, but since Vanilla is not available, let's replace it with a different option. How about Plain Cream Cheese or Scallion/Onion Chive instead?
+
+[2025-06-23T08:56:56.931Z] Customer: Then why are you proceeding?

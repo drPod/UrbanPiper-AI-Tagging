@@ -1,0 +1,72 @@
+Call ID: 6868ed6245548bd51ce588de
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T09:16:18.832Z
+End Time: 2025-07-05T09:18:18.018Z
+Duration: 115 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin placed an order for a 12oz fresh-squeezed orange juice at Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T09:18:16.768Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T09:18:16.769Z] Customer: Hey. Hi. How are you?
+
+[2025-07-05T09:18:16.769Z] AI Agent: I
+
+[2025-07-05T09:18:16.769Z] Customer: 
+
+[2025-07-05T09:18:16.769Z] AI Agent: Let's start fresh then. What can I get for you today?
+
+[2025-07-05T09:18:16.769Z] Customer: Yeah. I'm looking to order hard copies.
+
+[2025-07-05T09:18:16.769Z] AI Agent: I don't see hard copy on our menu. Let me share some options: we have a variety of bagels, sandwiches, and drinks. Would you like to hear more about those or is there something specific you're looking for?
+
+[2025-07-05T09:18:16.769Z] Customer: 
+
+[2025-07-05T09:18:16.769Z] AI Agent: We have fresh-squeezed orange juice. Would you like that in a 12oz or 32oz size?
+
+[2025-07-05T09:18:16.769Z] Customer: 12.
+
+[2025-07-05T09:18:16.769Z] AI Agent: I think you meant to say "small". So, you'd like a small 12oz fresh-squeezed orange juice. Is that correct?
+
+[2025-07-05T09:18:16.770Z] Customer: Yep.
+
+[2025-07-05T09:18:16.770Z] AI Agent: Alright, so I have a 12oz fresh-squeezed orange juice for you. Anything else I can get for you today?
+
+[2025-07-05T09:18:16.770Z] Customer: No. That's it.
+
+[2025-07-05T09:18:16.770Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-05T09:18:16.770Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-05T09:18:16.770Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-05T09:18:16.770Z] Customer: No. I don't have it.
+
+[2025-07-05T09:18:16.770Z] AI Agent: Alright Jitin. I
+
+[2025-07-05T09:18:16.770Z] Customer: Thank you.
+
+[2025-07-05T09:18:16.770Z] AI Agent: Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-05T09:18:16.770Z] Customer: Yep. Please go ahead.
+
+[2025-07-05T09:18:16.771Z] AI Agent: You've ordered a 12oz fresh-squeezed orange juice. Does that all sound correct?
+
+[2025-07-05T09:18:16.771Z] Customer: Yes.
+
+[2025-07-05T09:18:16.771Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-05T09:18:16.771Z] Customer: 
+
+[2025-07-05T09:18:16.771Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-05T09:18:16.771Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 507333. That's 5, 0, 7, 3, 3, 3.", 'order_id': '507333', 'call_id': '21a6ab27-aa65-4e53-918b-a4154510a8b9', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197d9e0-ddff-f8ec-2c4f-e55beb46b47d'}
+
+[2025-07-05T09:18:16.771Z] AI Agent: Your order is all set. The order number is 5, 0, 7, 3, 3, 3, and the total comes to $4.99. We'll have that ready for you shortly. Thanks for calling Manhattan Bagel. 
+
+[2025-07-05T09:18:16.771Z] AI Agent: OK

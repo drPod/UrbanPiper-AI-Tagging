@@ -1,0 +1,200 @@
+Call ID: 6858fbaf1be7d3da06fac9ee
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T07:01:03.625Z
+End Time: 2025-06-23T07:12:58.985Z
+Duration: 720 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer placed an order for various items including the Original Classic, Empire State Turkey Club, Swiss Cheese, Fruity Rice Crispy Treat, Pastry, Just Pancakes with Blueberries and Chocolate Chips, and a Breakfast Bundle with nova.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T07:12:58.125Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm Emily an AI Assistant, and How can I assist you today?
+
+[2025-06-23T07:12:58.125Z] Customer: Hi. I want to order.
+
+[2025-06-23T07:12:58.125Z] AI Agent: To place your order, could you please tell me what you would like to order today?
+
+[2025-06-23T07:12:58.125Z] Customer: I'd like to have something filling.
+
+[2025-06-23T07:12:58.125Z] AI Agent: Let me get
+
+[2025-06-23T07:12:58.125Z] Customer: Could you tell me what options do I have?
+
+[2025-06-23T07:12:58.125Z] AI Agent: We have a variety of options that can be quite filling. Let me see what we have for you... We have breakfast sandwiches, omelets, bagels with cream cheese or butter, and even some of our lunch items like sandwiches and wraps. Which one of these sounds interesting to you?
+
+[2025-06-23T07:12:58.125Z] Customer: 
+
+[2025-06-23T07:12:58.125Z] AI Agent: The Original Classic is one of our popular items. It comes with egg, cheese, and your choice of meat on a bagel, roll, or croissant. Let me get the options for your meat choices...
+
+[2025-06-23T07:12:58.126Z] AI Agent: Let's start with your
+
+[2025-06-23T07:12:58.126Z] Customer: 
+
+[2025-06-23T07:12:58.126Z] AI Agent: For the Original Classic, we have several bagel options. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, and many more. Which one of these sounds good to you?
+
+[2025-06-23T07:12:58.126Z] Customer: 
+
+[2025-06-23T07:12:58.126Z] AI Agent: The
+
+[2025-06-23T07:12:58.126Z] Customer: I don't wanna have that. Can you suggest me some beverages to choose from?
+
+[2025-06-23T07:12:58.126Z] AI Agent: Let me get the options for your beverage choices... We have hot coffee or tea, iced coffee or tea, hot chocolate, cold brew iced coffee, espresso shot, hot latte, iced latte, hot caramel macchiato, iced caramel macchiato, americano, hot cappuccino, manhattan chillerz, frozen lemonade, fruit smoothie, small lemonade, medium lemonade, large lemonade, nesquick, tropicana oj, soda, gatorade, milk, snapple, water, and fresh squeezed orange juice. Which one of these sounds refreshing to you?
+
+[2025-06-23T07:12:58.126Z] Customer: Alright. Add a hot chocolate to my order.
+
+[2025-06-23T07:12:58.126Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.126Z] AI Agent: Added 1 item(s) to your cart. Total: $0.00
+
+[2025-06-23T07:12:58.126Z] AI Agent: I've added a hot chocolate to your order. Your total is now zero dollars and zero cents. Anything else?
+
+[2025-06-23T07:12:58.126Z] Customer: What other lunch options do you have?
+
+[2025-06-23T07:12:58.126Z] AI Agent: Let me get the options for your lunch choices... We have a variety of sandwiches, wraps, and other items. Some popular options include the Greenwich Grilled Cheese, Chelsea Grilled Chicken, Spicy Avocado
+
+[2025-06-23T07:12:58.126Z] Customer: 
+
+[2025-06-23T07:12:58.126Z] AI Agent: For the lunch options,
+
+[2025-06-23T07:12:58.126Z] Customer: Yeah. You can see what are the bunch options you have.
+
+[2025-06-23T07:12:58.126Z] AI Agent: Let me get the options for your lunch choices... We have the Greenwich Grilled Cheese, Chelsea Grilled Chicken, Spicy Avocado Grilled Chicken, Ellis Island Hot Pastrami Sandwich, Manhattan Cheesesteak Sandwich, Balsamic Grilled Chicken Wrap, Big City BLT, Buffalo Grilled Chicken Wrap, Avocado BLT Sandwich, Chicken Cheesesteak, Chicken Cuban, Grilled Chicken Caesar Wrap, Pastrami Rueben, Italian Sub, Chicken Salad Sandwich, East Side Egg Salad 
+
+[2025-06-23T07:12:58.126Z] Customer: Yeah. Yeah. Go on.
+
+[2025-06-23T07:12:58.127Z] AI Agent: Let me get the options for your lunch choices... We have the Greenwich Grilled Cheese, Chelsea Grilled Chicken, Spicy
+
+[2025-06-23T07:12:58.127Z] Customer: A
+
+[2025-06-23T07:12:58.127Z] Customer: Do you know, hey. I'd like to have Empire State Turkey Club sandwich. How much is it for?
+
+[2025-06-23T07:12:58.127Z] AI Agent: The Empire State Turkey Club sandwich is a great choice. It's priced at $10.99. Let me get the options for your Empire State Turkey Club sandwich... 
+
+[2025-06-23T07:12:58.985Z] Unknown: [2025-06-23T07:12:58.127Z] assistant: For the Empire State Turkey Club sandwich, we have several options to customize it to your taste. 
+
+First, let's choose a side. We have chips, coleslaw, or Lays chips. Which one would you like?
+
+[2025-06-23T07:12:58.127Z] Customer: I'll just have the plain, sandwich. Nothing else on the side.
+
+[2025-06-23T07:12:58.127Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.127Z] AI Agent: Added 1 item(s) to your cart. Total: $10.99
+
+[2025-06-23T07:12:58.127Z] AI Agent: I've added the Empire State Turkey Club sandwich to your order. Your total is now $10.99. Anything else?
+
+[2025-06-23T07:12:58.127Z] Customer: What are the detail options you have?
+
+[2025-06-23T07:12:58.127Z] AI Agent: Let me get the options for your details... We have a variety of options such as name, contact number, customer email, payment method preference, preferred time for delivery or pickup, and full address. Which one of these would you like to provide?
+
+[2025-06-23T07:12:58.127Z] Customer: Do you do catering?
+
+[2025-06-23T07:12:58.127Z] AI Agent: Let me get the options for your catering choices... We have several catering options available, including Bagels & Spreads, Broadway Box, Catering Coffee Service, Box of Sweets, Hot Breakfast Sandwich Platter, Salad Platter, Group Salads, Lunch Sandwich Platter, Group Fruit Bowl, Group Yogurt Parfait Bowl, Group Meals, Catering Orange Juice, Brunch Box, Nova Lox Platter, Meat & Cheese Platter, Breakfast Buffet, Individual Cream Cheese Bagel Boxed Meal, and Individual Lunch Box. Which one of these sounds good to you?
+
+[2025-06-23T07:12:58.127Z] Customer: Add a individual lunchbox to my order. How much would that cost?
+
+[2025-06-23T07:12:58.127Z] AI Agent: The Individual Lunch Box is a great choice. It's priced at $12.99. Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.127Z] AI Agent: Added 1 item(s) to your cart. Total: $23.98
+
+[2025-06-23T07:12:58.127Z] AI Agent: I've added the Individual Lunch Box to your order. Your total is now $23.98. Anything else?
+
+[2025-06-23T07:12:58.127Z] Customer: What are daily items?
+
+[2025-06-23T07:12:58.127Z] AI Agent: Let me get the options for your deli items... We have Chicken Salad, Egg Salad, Boars Head Turkey, Boars Head Pastrami, Swiss Cheese, Pepper Jack, Tuna Salad, Whitefish Salad, Boars Head Ham, American Cheese, and Muenster. Which one of these sounds good to you?
+
+[2025-06-23T07:12:58.127Z] Customer: Add Swiss Swiss cheese to order, and what would that cost?
+
+[2025-06-23T07:12:58.127Z] AI Agent: The Swiss Cheese is a great choice. It's priced at $4.99. Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.127Z] AI Agent: Added 1 item(s) to your cart. Total: $28.97
+
+[2025-06-23T07:12:58.127Z] AI Agent: I've added the Swiss Cheese to your order. Your total is now $28.97. Anything else?
+
+[2025-06-23T07:12:58.127Z] Customer: Give me options from LTO spring beverages and sweet.
+
+[2025-06-23T07:12:58.127Z] AI Agent: Let me get the options for your LTO Spring Beverages & Sweet Treats... We have Mint Pistachio Chillerz, Mint Oreo Chillerz, Iced Lavender Blackberry Oat Milk Latte, and Fruity Rice Crispy Treat. Which one of these sounds refreshing to you?
+
+[2025-06-23T07:12:58.127Z] Customer: I'll have a two tries to speak with. And what would that be for?
+
+[2025-06-23T07:12:58.127Z] AI Agent: The Fruity Rice Crispy Treat is a great choice. It's priced at $3.49. Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.128Z] AI Agent: Added 1 item(s) to your cart. Total: $32.46
+
+[2025-06-23T07:12:58.128Z] AI Agent: I've added the Fruity Rice Crispy Treat to your order. Your total is now $32.46. Anything else?
+
+[2025-06-23T07:12:58.128Z] Customer: What are options in vehicles and suits do you have?
+
+[2025-06-23T07:12:58.128Z] AI Agent: Let me get the options for your Bagels & Sweets... We have The Classic Nova Lox Sandwich, Single Bagel, Half Dozen Bagels, Dozen Bagels, Bakers Dozen Value Pack, Bagel With Spread, mini bagel with spread, Mini Bagels, tub of manhattan bagel plain cream cheese, cookies, fruit cup, Tub of manhattan flavored cream cheese, tub of whipped butter, 1/4 lb Fresh Nova Lox, Whitefish Salad Tub, yogurt parfait, muffins, pastry, Cheese Bagel, and more. Which one of these sounds good to
+
+[2025-06-23T07:12:58.128Z] Customer: What okay. Let's add a pastry to my order. What would that be for?
+
+[2025-06-23T07:12:58.128Z] AI Agent: The Pastry is a great choice. It's priced at $2.99. Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.128Z] AI Agent: For the Pastry, we have several options to choose from. We have Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. Which one of these sounds good to you?
+
+[2025-06-23T07:12:58.128Z] Customer: Fruity rice crispy bar.
+
+[2025-06-23T07:12:58.128Z] AI Agent: The Fruity Rice Crispy Bar is a great choice. Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.128Z] AI Agent: Added 1 item(s) to your cart. Total: $35.45
+
+[2025-06-23T07:12:58.128Z] AI Agent: I've added the Fruity Rice Crispy Bar to your order. Your total is now $35.45. Anything else?
+
+[2025-06-23T07:12:58.128Z] Customer: Let's do breakfast one. No. No. No. No. One second. Let's do breakfast platters now. Tell me the options you have.
+
+[2025-06-23T07:12:58.128Z] AI Agent: Let me get the options for your Breakfast Platters... We have Eggs and Omelettes, Sweet & Savory French Toast Platter, Sweet & Savory Pancake Platter, Just French Toast, Just Pancakes. Which one of these sounds good to you?
+
+[2025-06-23T07:12:58.128Z] Customer: Add pancakes. What would that be for?
+
+[2025-06-23T07:12:58.128Z] AI Agent: The Just Pancakes is a great choice. It's priced at $7.99. Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.128Z] AI Agent: For the Just Pancakes, we have several options to customize it to your taste. We have Blueberries and Chocolate Chips as add-ins. Which one of these sounds good to you?
+
+[2025-06-23T07:12:58.128Z] Customer: 
+
+[2025-06-23T07:12:58.128Z] AI Agent: For the Just Pancakes, we have two options to customize it to your taste. We have Blueberries for an additional $2 and Chocolate Chips for an additional $2. Which one of these sounds good to you?
+
+[2025-06-23T07:12:58.128Z] Customer: Can I get both of them, blueberry and chocolate chip?
+
+[2025-06-23T07:12:58.128Z] AI Agent: You can definitely get both Blueberries and Chocolate Chips on your pancakes. That would be an additional $4. Perfect, let me add
+
+[2025-06-23T07:12:58.128Z] Customer: Add that.
+
+[2025-06-23T07:12:58.128Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.129Z] AI Agent: Added 1 item(s) to your cart. Total: $47.44
+
+[2025-06-23T07:12:58.129Z] AI Agent: I've added the Just Pancakes with Blueberries and Chocolate Chips to your order. Your total is now $47.44. Anything else?
+
+[2025-06-23T07:12:58.129Z] Customer: Oh, what a what's the breakfast bundle?
+
+[2025-06-23T07:12:58.129Z] AI Agent: The Breakfast Bundle is a great option. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can also add 4oz of premium Acme smoked nova for $9.99. The total price for the Breakfast Bundle is $29.99. Would you like to add the nova or keep it as is?
+
+[2025-06-23T07:12:58.129Z] Customer: I'd like to let him know.
+
+[2025-06-23T07:12:58.129Z] AI Agent: The Breakfast Bundle with the added nova is a great choice. Perfect, let me add that to your order... 
+
+[2025-06-23T07:12:58.129Z] AI Agent: Added 1 item(s) to your cart. Total: $87.42
+
+[2025-06-23T07:12:58.129Z] AI Agent: I've added the Breakfast Bundle with the added nova to your order. Your total is now $87.42. Anything else?
+
+[2025-06-23T07:12:58.129Z] Customer: No. That'd be it.
+
+[2025-06-23T07:12:58.129Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-23T07:12:58.129Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 363657. That's 3, 6, 3, 6, 5, 7. Total: $96.16 (subtotal 87.42 dollars plus 8.74 dollars tax). Thank you for your order!
+
+[2025-06-23T07:12:58.129Z] AI Agent: Order placed successfully! Your order number is 3, 6, 3, 6, 5, 7. Total: $96.16 (subtotal $87.42 plus $8.74 tax). Thank you for your order!
+
+[2025-06-23T07:12:58.129Z] Customer: Thank you.
+
+[2025-06-23T07:12:58.129Z] AI Agent: You're welcome. It was a pleasure helping you with your order. Have a great day and enjoy your food!
+
+[2025-06-23T07:12:58.129Z] Customer: 移動
+
+[2025-06-23T07:12:58.129Z] AI Agent: You're welcome. It was a pleasure helping you with your order. Have a great day and enjoy your food!
+
+[2025-06-23T07:12:58.129Z] AI Agent: OK

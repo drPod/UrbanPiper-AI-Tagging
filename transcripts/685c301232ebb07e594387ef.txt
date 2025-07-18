@@ -1,0 +1,121 @@
+Call ID: 685c301232ebb07e594387ef
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-25T17:21:22.161Z
+End Time: 2025-06-25T17:27:01.127Z
+Duration: 360 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh placed a customized Breakfast Bundle order at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-25T17:27:00.446Z] AI Agent: Hello Vansh, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-25T17:27:00.446Z] Customer: Hi. I'll like to order the breakfast bundle.
+
+[2025-06-25T17:27:00.446Z] AI Agent: Got it. The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). Would you like to add 4oz of premium Acme smoked nova for an additional $9.99 to make it extra special?
+
+[2025-06-25T17:27:01.127Z] Unknown: [2025-06-25T17:27:00.446Z] assistant: Alright, let's start with the **Bagel Dozen**. For this, you need to select exactly 13 bagels. Here are the options available:
+
+- Plain
+- Everything
+- Asiago (extra $0.50)
+- Blueberry
+- California (extra $0.50)
+- Cheesy Jalapeño Bacon Roll (extra $1.00)
+- Cheesy Hashbrown Roll (extra $0.50)
+- Chocolate Chip
+- Cinnamon Raisin
+- Egg
+- Egg Everything
+- Garlic
+- French Toast Bagel
+- Gluten Free (extra $1.49)
+- Jalapeño Cheddar
+- Multigrain Bagel
+- Onion
+- Poppy
+- Pumpernickel
+- Rainbow Bagel
+- Rye
+- Roll
+- Salt
+- Sesame
+- Super Cinnamon
+- Honey Whole Wheat
+- Honey Whole Wheat Everything
+- Bialy (extra $0.50)
+- Bagel Stick (extra $0.50)
+
+What would you like to choose for your bagels?
+
+[2025-06-25T17:27:00.446Z] Customer: Can I get four everything? Four Sesame.
+
+[2025-06-25T17:27:00.446Z] AI Agent: Sure
+
+[2025-06-25T17:27:00.447Z] Customer: Four Asiago and, one, tube light.
+
+[2025-06-25T17:27:00.450Z] AI Agent: Alright, let's see. You want four Everything, four Asiago, and one Tubelight. That's nine bagels so far. You need four more to make it 13. What would you like for the remaining four?
+
+[2025-06-25T17:27:00.454Z] Customer: Can you tell me what all I have chosen till now?
+
+[2025-06-25T17:27:01.127Z] Unknown: [2025-06-25T17:27:00.454Z] assistant: Sure thing. So far, you've chosen:
+
+- Four Everything Bagels
+- Four Asiago Bagels
+- One Tubelight Bagel
+
+That's a total of nine bagels. You need four more to reach 13. What would you like to add?
+
+[2025-06-25T17:27:00.454Z] Customer: Give me four Sesame.
+
+[2025-06-25T17:27:00.454Z] AI Agent: Alright, that’s four Sesame Bagels added. Now you have: - Four Everything Bagels - Four Asiago Bagels - One Tubelight Bagel - Four Sesame Bagels That totals 13 bagels for your dozen. Great selection! Now, moving on to the **Choose 2 Tubs of Spread**. You can pick exactly two spreads from the list. Here are the options: - Plain Cream Cheese - Vegetable Cream Cheese - Store Made Vegetable (Chunky) - Scallion/Onion Chive - Storemade
+
+[2025-06-25T17:27:00.454Z] Customer: Give me vanilla vanilla cream cheese and plain cream cheese.
+
+[2025-06-25T17:27:00.454Z] AI Agent: Got it. You've selected: - Vanilla Cream Cheese - Plain Cream Cheese for your two tubs of spread. Perfect choice! Now, let's move on to the **Choose 4 Muffins**. You can select between 1 and 4 muffins from the following options: -
+
+[2025-06-25T17:27:00.455Z] Customer: Give me give me one computer muffin, one mouse muffin, one keyboard muffin, and one desktop muffin.
+
+[2025-06-25T17:27:00.455Z] AI Agent: I'm sorry, but those options aren't available for the muffins. The available muffin choices are: - Blueberry - Corn - Double Chocolate - Chocolate Chip - Cinnamon
+
+[2025-06-25T17:27:00.455Z] Customer: Give me one blueberry, one computer, one chocolate chip, and one corn.
+
+[2025-06-25T17:27:00.455Z] AI Agent: I'm sorry, but "computer" isn't an available muffin option. The available choices are: - Blueberry - Corn - Double Chocolate - Chocolate Chip - Cinnamon Chip - Cranberry Orange You've already chosen one Blueberry, one Chocolate Chip, and one Corn. What would you like for the fourth muffin?
+
+[2025-06-25T17:27:00.455Z] Customer: Give me one chocolate chip.
+
+[2025-06-25T17:27:00.455Z] AI Agent: Alright, that’s one Double Chocolate muffin added. So your muffin selection is: - Blueberry - Chocolate Chip - Corn - Double Chocolate That makes four muffins. Perfect! Now, for the **Box of Coffee**—this is optional, and you can choose up to one option. Here are the available choices: - House Blend - Decaf - Vanilla Hazelnut - Dark Roast - Autumn Roast Would you like to add a box of coffee to your order?
+
+[2025-06-25T17:27:00.455Z] AI Agent: I hope you are still with me!
+
+[2025-06-25T17:27:00.455Z] Customer: Yeah. Give me house blend.
+
+[2025-06-25T17:27:01.127Z] Unknown: [2025-06-25T17:27:00.456Z] assistant: Got it! You've selected the **House Blend** for your box of coffee. 
+
+Let me recap your entire order to make sure everything is perfect:
+
+- **Bagel Dozen**: 4 Everything, 4 Asiago, 1 Tubelight, 4 Sesame
+- **Choose 2 Tubs of Spread**: Vanilla Cream Cheese, Plain Cream Cheese
+- **Choose 4 Muffins**: Blueberry, Chocolate Chip, Corn, Double Chocolate
+- **Box of Coffee**: House Blend
+
+Is there anything else I can get for you?
+
+[2025-06-25T17:27:00.456Z] Customer: No. That's it.
+
+[2025-06-25T17:27:00.456Z] AI Agent: Alright Vansh, I have your complete order. Would you like me to read it back to make sure everything is perfect?
+
+[2025-06-25T17:27:00.456Z] Customer: No. I think I got it.
+
+[2025-06-25T17:27:00.456Z] AI Agent: Alright, do you have any special requests or allergies I need to note for the kitchen?
+
+[2025-06-25T17:27:00.456Z] Customer: Not really.
+
+[2025-06-25T17:27:00.456Z] AI Agent: Alright Vansh, ready to place this order for pickup?
+
+[2025-06-25T17:27:00.456Z] AI Agent: I hope you are still with me!
+
+[2025-06-25T17:27:00.456Z] AI Agent: Thank you for calling. Have a great day. Goodbye.

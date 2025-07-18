@@ -1,0 +1,14 @@
+Call ID: 687a6d70a1698f75073186a8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T15:51:12.947Z
+End Time: 2025-07-18T15:51:25.575Z
+Duration: 11 seconds
+From: 919780032269
+To: 918035740152
+Summary: The call was a greeting and introduction to Manhattan Bagel, with the agent welcoming the customer and preparing to take their order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T15:51:25.339Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see

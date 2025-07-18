@@ -1,0 +1,66 @@
+Call ID: 686eacbad14f3abcfb3e14fb
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T17:54:02.039Z
+End Time: 2025-07-09T17:57:42.279Z
+Duration: 217 seconds
+From: +14807518403
+To: +16204558091
+Summary: The customer placed a large catering order for 250 people, including lunch sandwiches and iced tea.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T17:57:40.831Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-09T17:57:40.831Z] Customer: I'd like to place a catering order.
+
+[2025-07-09T17:57:40.831Z] AI Agent: Sure thing! We have several catering options available. Would you like to start with the Bagels & Spreads bundle, the Broadway Box, or perhaps a different catering option?
+
+[2025-07-09T17:57:40.832Z] Customer: A different catering option.
+
+[2025-07-09T17:57:40.832Z] AI Agent: Got it. Let me share some other catering options with you. We have the Hot Breakfast Sandwich Platter, Salad Platter, Group Salads, Lunch Sandwich Platter, Group Fruit Bowl, Group Yogurt Parfait Bowl, Group Meals, Catering Orange Juice, Brunch Box, Nova Lox Platter, Meat & Cheese Platter, and Breakfast Buffet. Which of these would you like to hear more about?
+
+[2025-07-09T17:57:40.832Z] Customer: The sandwich lunches.
+
+[2025-07-09T17:57:40.832Z] AI Agent: Perfect! For our Lunch Sandwich Platter, we offer a variety of sandwiches in a box served with chips and pickles. This option is great for groups of 10, 15, or 20 people. Would you like to confirm the size of the group you're ordering for?
+
+[2025-07-09T17:57:40.832Z] Customer: Sure. 200 and 50.
+
+[2025-07-09T17:57:40.832Z] AI Agent: Got it! For 250 people, I can help you with multiple Lunch Sandwich Platters. Each platter serves up to 20 people. That means you’ll need 13 platters to cover your group. Would you like to proceed with this option?
+
+[2025-07-09T17:57:40.832Z] Customer: 
+
+[2025-07-09T17:57:40.832Z] AI Agent: The Lunch Sandwich Platter includes a variety of our popular lunch sandwiches. These sandwiches are served with chips and pickles. While the specific types can vary, they typically include a mix of our favorites like the Chicken Cuban, Empire State Turkey Club, and more. If you'd like, we can customize the sandwich selection for you. Would you like to choose specific types of sandwiches for the platter?
+
+[2025-07-09T17:57:40.832Z] Customer: No. Thank you.
+
+[2025-07-09T17:57:40.832Z] AI Agent: You're welcome! Let me get that all put together for you.
+
+[2025-07-09T17:57:40.832Z] Customer: Happens next. But Are are you still there?
+
+[2025-07-09T17:57:40.832Z] AI Agent: I'm right here! Since your order is complete, I'll now finalize it for you. Just a moment while I prepare the details for pickup.
+
+[2025-07-09T17:57:40.832Z] Customer: Oh, I wanted it delivered.
+
+[2025-07-09T17:57:40.832Z] AI Agent: I'm sorry for the confusion earlier. However, I want to let you know that we only offer pickup at this location and do not have delivery services available. Would you still like to proceed with your order for pickup?
+
+[2025-07-09T17:57:40.832Z] Customer: Yes.
+
+[2025-07-09T17:57:40.832Z] AI Agent: Perfect! Let me go ahead and finalize your order for pickup. I’ll make sure everything is ready for you. Is there anything else I can assist you with today?
+
+[2025-07-09T17:57:40.832Z] Customer: Yeah. How about some drinks?
+
+[2025-07-09T17:57:40.832Z] AI Agent: Sure thing! For drinks, we have a wide selection. Would you like to start with coffee or tea, hot or iced? We also have options like hot chocolate, cold brew, and a variety of other beverages. What sounds good to you?
+
+[2025-07-09T17:57:40.832Z] Customer: Ice iced tea.
+
+[2025-07-09T17:57:40.832Z] AI Agent: Great choice! For iced tea, we have the classic unsweetened option as well as sweetened green tea and Arnold Palmer. Which one would you like?
+
+[2025-07-09T17:57:40.832Z] Customer: A mixture of the sweet tea and the unsweet.
+
+[2025-07-09T17:57:40.832Z] AI Agent: I can definitely help with that! For your group of 250, I can prepare a mix of sweetened and unsweetened iced tea. We have 16 ounce, 24 ounce, and 32 ounce sizes available. What size would you like for the drinks?
+
+[2025-07-09T17:57:40.832Z] Customer: Okay. Am I done here?
+
+[2025-07-09T17:57:40.832Z] AI Agent: You're all

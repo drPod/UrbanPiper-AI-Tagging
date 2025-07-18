@@ -1,0 +1,32 @@
+Call ID: 6855b7f81be7d3da06bb807f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T19:35:20.212Z
+End Time: 2025-06-20T19:36:19.311Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav inquired about a hot latte at Manhattan Bagel and was informed about the availability of hot coffee
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T19:36:19.129Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T19:36:19.130Z] Customer: Can I get, hot? Okay?
+
+[2025-06-20T19:36:19.130Z] AI Agent: Let me see what I can find for you. 
+
+[2025-06-20T19:36:19.130Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:36:19.130Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:36:19.131Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:36:19.131Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:36:19.131Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:36:19.132Z] AI Agent: I'm searching for "hot coffee" in our menu. Give me just a moment...
+
+[2025-06-20T19:36:19.132Z] AI Agent: I found hot coffee for one dollar and ninety-nine cents. Would you like to add that to your order?

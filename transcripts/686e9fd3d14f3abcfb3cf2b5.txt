@@ -1,0 +1,74 @@
+Call ID: 686e9fd3d14f3abcfb3cf2b5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T16:58:59.973Z
+End Time: 2025-07-09T17:04:06.709Z
+Duration: 304 seconds
+From: 919780032269
+To: 918035740152
+Summary: John placed an order for a Breakfast Bundle with specific bagel, cream cheese, and muffin selections, and added a box of coffee to his order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T17:04:06.262Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T17:04:06.262Z] Customer: 
+
+[2025-07-09T17:04:06.263Z] AI Agent: Yes I can hear you just fine How can I assist you with your order today
+
+[2025-07-09T17:04:06.263Z] Customer: Yeah. So what's your name?
+
+[2025-07-09T17:04:06.263Z] AI Agent: My name is BagelBot, and I'll be happy to help you with your order today. May I have your name for the order, please?
+
+[2025-07-09T17:04:06.263Z] Customer: Okay. So, yeah, my name is John, and, I'm actually calling to know what all languages you can speak of.
+
+[2025-07-09T17:04:06.263Z] AI Agent: Hello John I can speak in multiple languages including Portuguese Arabic and English Would you like to place your order in any of these languages
+
+[2025-07-09T17:04:06.263Z] Customer: Let's talk in, Portuguese, if you don't mind.
+
+[2025-07-09T17:04:06.264Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T17:04:06.264Z] AI Agent: Posso falar em português se você preferir. Como posso ajudá-lo com seu pedido hoje?
+
+[2025-07-09T17:04:06.265Z] Customer: I don't understand Portuguese. Sorry.
+
+[2025-07-09T17:04:06.265Z] AI Agent: Let's continue in English then. How can I assist you with your order today?
+
+[2025-07-09T17:04:06.265Z] Customer: I'm looking, you know, little nervous, like yeah. Go ahead, please.
+
+[2025-07-09T17:04:06.265Z] AI Agent: Don't be nervous, John. I'm here to help you with your order. What can I get for you today? Would you like to try one of our breakfast items, sandwiches, or perhaps a beverage?
+
+[2025-07-09T17:04:06.265Z] Customer: Yeah. I'm looking to order breakfast bundle.
+
+[2025-07-09T17:04:06.265Z] AI Agent: The Breakfast Bundle is a great choice. It comes with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You'll need to pick just one type of bagel for your bundle. We have Plain, Everything, Sesame, and Cinnamon Raisin. Which type of bagel would you like?
+
+[2025-07-09T17:04:06.265Z] Customer: How many bag bigger seconds. Correct?
+
+[2025-07-09T17:04:06.265Z] AI Agent: For the Breakfast Bundle, you'll need to pick exactly 13 bagels together. You can choose from our variety of bagels, and I can help you with that. We have Plain, Everything, Sesame, Cinnamon Raisin, and many more. How many of each would you like, or should I list more options?
+
+[2025-07-09T17:04:06.265Z] Customer: Okay. Okay. I'll go with the six sesame and, six, everything and one vanilla bagel.
+
+[2025-07-09T17:04:06.266Z] AI Agent: You've chosen six Sesame bagels, six Everything bagels, and one Vanilla bagel. That's a total of 13 bagels, which completes your Breakfast Bundle. Now, let's move on to the cream cheese. You'll need to choose two tubs of cream cheese. We have Plain, Vegetable, Strawberry, and Honey Almond. Which two flavors would you like?
+
+[2025-07-09T17:04:06.266Z] Customer: Okay. I need, one plain, and one vanilla green cheese.
+
+[2025-07-09T17:04:06.266Z] AI Agent: For the cream cheese, you've chosen one Plain and one Vanilla. I just want to let you know that we don't have Vanilla Green cheese, but we do have a Strawberry cream cheese and a Honey Almond cream cheese. Would you like to replace the Vanilla with one of those options or stick with a different flavor?
+
+[2025-07-09T17:04:06.266Z] Customer: Okay. Let's add then strawberry.
+
+[2025-07-09T17:04:06.266Z] AI Agent: You've decided to go with the Strawberry cream cheese instead of the Vanilla. So, to confirm, you have one Plain cream cheese and one Strawberry cream cheese. Now, let's move on to the muffins. You get to choose four muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, and Cinnamon Chip. Which four muffins would you like?
+
+[2025-07-09T17:04:06.266Z] Customer: Two cone and one, chocolate chip and one cinnamon chip.
+
+[2025-07-09T17:04:06.266Z] AI Agent: You've chosen two Corn muffins, one Chocolate Chip muffin, and one Cinnamon Chip muffin. That completes your Breakfast Bundle. Now, I just need to confirm your order. You have 13 bagels, with 6 Sesame, 6 Everything, and 1 Vanilla, 2 tubs of cream cheese, with 1 Plain and 1 Strawberry, and 4 muffins, with 2 Corn, 1 Chocolate Chip, and 1 Cinnamon Chip. Is there anything else you'd like to add to your order?
+
+[2025-07-09T17:04:06.266Z] Customer: And what about my, box of coffee?
+
+[2025-07-09T17:04:06.266Z] AI Agent: You can add a box of coffee to your Breakfast Bundle. We have a few options for the box of coffee: House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Which one would you like?
+
+[2025-07-09T17:04:06.266Z] Customer: I want, BCAP.
+
+[2025-07-09T17:04:06.267Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 229198. That's 2, 2, 9, 1, 9, 8.", 'order_id': '229198', 'call_id': '607dfaee-1b26-4a09-813c-a97d1098e29c', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f024-7f7f-6a77-3404-a1c9cf773416'}
+
+[2025-07-09T17:04:06.267Z] AI Agent: Your order number is 2, 2, 9, 1, 9, 8. The total comes out to be $54.97. We will have your order ready for pickup in 15 minutes. Please let us know if you need any further assistance. Thank you for choosing Manhattan Bagel.

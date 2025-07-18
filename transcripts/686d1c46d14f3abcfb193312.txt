@@ -1,0 +1,14 @@
+Call ID: 686d1c46d14f3abcfb193312
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T13:25:26.625Z
+End Time: 2025-07-08T13:25:33.684Z
+Duration: 6 seconds
+From: +919686500112
+To: +16204558091
+Summary: The call ended without any order being placed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T13:25:33.492Z] AI Agent: Hello M G Welcome to manhattan bagel It is great to see

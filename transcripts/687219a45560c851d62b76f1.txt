@@ -1,0 +1,120 @@
+Call ID: 687219a45560c851d62b76f1
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T08:15:32.675Z
+End Time: 2025-07-12T08:22:52.687Z
+Duration: 437 seconds
+From: 918949862707
+To: 918035740152
+Summary: The customer placed two orders for a Breakfast Bundle and a Hot Coffee at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T08:22:51.931Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T08:22:51.931Z] Customer: I want to order breakfast bundle.
+
+[2025-07-12T08:22:51.931Z] AI Agent: Got it! The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). Let's start with the bagels. You'll need to pick exactly thirteen bagels together. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast Bagel, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, and Honey Whole Wheat Everything. Would you like one of these, or should I list more options?
+
+[2025-07-12T08:22:51.931Z] Customer: Okay. Can you get me five, plain? Two vanilla, three everything, two garlic, one blueberry, and one more blueberry.
+
+[2025-07-12T08:22:51.931Z] AI Agent: I don’t see Vanilla as an available choice for Bagel Dozen. Here are the options we have: Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast Bagel, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, and Honey 
+
+[2025-07-12T08:22:51.931Z] Customer: Okay. Then then then have me, then make the honey flare bagel. Okay?
+
+[2025-07-12T08:22:51.931Z] AI Agent: I don’t see Honey Flair Bagel as an available choice for Bagel Dozen. Here are the
+
+[2025-07-12T08:22:51.931Z] Customer: I said I'm I said honey flavor, whatever whatever it is, but I want to honey honey flavor baker instead of, like, vanilla baker.
+
+[2025-07-12T08:22:51.931Z] AI Agent: I understand
+
+[2025-07-12T08:22:51.931Z] Customer: 
+
+[2025-07-12T08:22:51.931Z] AI Agent: I don’t see a Honey Flavored Bagel as an available choice for Bagel Dozen. Here are the options we have: Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast Bagel,
+
+[2025-07-12T08:22:51.931Z] Customer: Okay. Then make then make, chocolate chip instead of, like, vanilla.
+
+[2025-07-12T08:22:51.931Z] AI Agent: Got it! Chocolate Chip is a valid choice. So far, we have five Plain, two Chocolate Chip, three Everything, two Garlic, and one Blueberry. That’s thirteen bagels total. Perfect! Now, you’ll need to pick just one flavor for your two tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive,
+
+[2025-07-12T08:22:51.931Z] Customer: Okay. Then explain.
+
+[2025-07-12T08:22:51.931Z] AI Agent: Perfect! Plain Cream Cheese is a great choice for one of your tubs. Now, you’ll need to pick just one more flavor for the second tub of cream cheese. We have Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion 
+
+[2025-07-12T08:22:51.931Z] Customer: Another another one, I I'll go with the, strawberry.
+
+[2025-07-12T08:22:51.931Z] AI Agent: Got it! Strawberry is a valid choice for your second tub of cream cheese. Now, you’ll need to pick four muffins for your Breakfast Bundle. We have Blueberry, 
+
+[2025-07-12T08:22:51.932Z] Customer: All four is chocolate chip.
+
+[2025-07-12T08:22:51.933Z] AI Agent: Perfect! Chocolate Chip is a valid choice for your muffins. So far, you have one Chocolate Chip muffin. You’ll need to pick three more muffins to complete the set of four. We also have
+
+[2025-07-12T08:22:51.940Z] Customer: All four chocolate chip. I don't mind.
+
+[2025-07-12T08:22:51.940Z] AI Agent: Got it! Four Chocolate Chip muffins it is. Your Breakfast Bundle is all set with five Plain, two Chocolate Chip, three Everything, two Garlic, and one Blueberry bagels, two tubs of Plain and Strawberry cream cheese, and four Chocolate Chip muffins. Is there anything else I can get for you today?
+
+[2025-07-12T08:22:51.940Z] Customer: No. Thank you. That's it.
+
+[2025-07-12T08:22:51.940Z] AI Agent: Okay, so I have the Breakfast Bundle and that's all for you today. Let me get that all put together for you.
+
+[2025-07-12T08:22:51.940Z] Customer: Okay.
+
+[2025-07-12T08:22:51.940Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-12T08:22:51.940Z] AI Agent: Alright, Jutin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-12T08:22:51.940Z] Customer: No.
+
+[2025-07-12T08:22:51.940Z] AI Agent: Great. Placing that for you now, please hold on.
+
+[2025-07-12T08:22:51.941Z] Customer: Okay.
+
+[2025-07-12T08:22:51.941Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 268166. That's 2, 6, 8, 1, 6, 6.", 'order_id': '268166', 'call_id': 'bdbd3317-be38-4d09-ac9c-d1b300adf454', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fdb8-094c-e5e0-f73e-41ffe95ca8db'}
+
+[2025-07-12T08:22:51.941Z] AI Agent: Your order is created successfully now! The order number is 2, 6, 8, 1, 6, 6, and the total including taxes comes to $32.98. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist
+
+[2025-07-12T08:22:51.941Z] Customer: Can you can you tell me what is the price of my order?
+
+[2025-07-12T08:22:51.941Z] AI Agent: The total price of your order, including taxes, is $32.98. Let me know if you need further assistance!
+
+[2025-07-12T08:22:51.941Z] Customer: Okay. Can I get another order as well?
+
+[2025-07-12T08:22:51.941Z] AI Agent: Sure! What would you like to order next?
+
+[2025-07-12T08:22:51.941Z] Customer: Okay. I'll I'll I want to order, hot coffee.
+
+[2025-07-12T08:22:51.941Z] AI Agent: Got it! For your Hot Coffee, you'll need to choose a size. We have Small 12 ounce, Medium 16 ounce, Large 20 ounce, and X Large 24 ounce. What size would you like?
+
+[2025-07-12T08:22:51.942Z] Customer: Small lounge.
+
+[2025-07-12T08:22:51.942Z] AI Agent: Got it! You've selected a Small 12-ounce Hot Coffee. Now, would you like to choose a roast? We have House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, and Tea. What would you
+
+[2025-07-12T08:22:51.942Z] Customer: That's true.
+
+[2025-07-12T08:22:51.942Z] AI Agent: Great choice
+
+[2025-07-12T08:22:51.942Z] Customer: I want to actually, can can you can I get black coffee?
+
+[2025-07-12T08:22:51.942Z] AI Agent: Got it! You've selected a black coffee with no milk or sweeteners. Your Hot Coffee order is all set. Is there anything else I can get for you today?
+
+[2025-07-12T08:22:51.942Z] Customer: What is the price of the hot coffee? Black hot coffee?
+
+[2025-07-12T08:22:51.942Z] AI Agent: The price for a Small 12-ounce Hot Coffee is $1.99, and since you're having it black (no milk or sweeteners), there are no additional charges. The total including tax is $2.19. Let me know if you'd like to proceed with this or need anything else!
+
+[2025-07-12T08:22:51.942Z] Customer: Okay. So are you, you know, putting this as a special inspection in this case or or just just a thing, like, it will be taken care by the in a store, like, while they are making the coffee.
+
+[2025-07-12T08:22:51.942Z] AI Agent: The store will take care of preparing your black hot coffee as requested. There are no special instructions needed for this, since it’s a straightforward order — just a Small 12-ounce Hot Coffee, black, with no milk or sweeteners. I’ve already included this in your order. Would you like me to place this now?
+
+[2025-07-12T08:22:51.943Z] Customer: Yeah. Please do that.
+
+[2025-07-12T08:22:51.943Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 545916. That's 5, 4, 5, 9, 1, 6.", 'order_id': '545916', 'call_id': 'bdbd3317-be38-4d09-ac9c-d1b300adf454', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fdba-43d8-c592-db54-4e02b803d2ed'}
+
+[2025-07-12T08:22:51.949Z] AI Agent: Your order is created successfully now! The order number is 5, 4, 5, 9, 1, 6, and the total including taxes comes to $2.19. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist you with?
+
+[2025-07-12T08:22:51.949Z] Customer: No. I think I'm good.
+
+[2025-07-12T08:22:51.949Z] AI Agent: Great! Have a wonderful day, and feel free to reach out if you need anything else. See you soon!
+
+[2025-07-12T08:22:51.949Z] Customer: Yeah. Bye.
+
+[2025-07-12T08:22:51.949Z] AI Agent: Goodbye! Have a great day! 😊

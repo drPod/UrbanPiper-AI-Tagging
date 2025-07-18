@@ -1,0 +1,20 @@
+Call ID: 6868ce9245548bd51cde92f4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T07:04:50.554Z
+End Time: 2025-07-05T07:06:46.832Z
+Duration: 120 seconds
+From: +919686500112
+To: +16204558091
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T07:06:46.505Z] AI Agent: Hello Vansh Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T07:06:46.505Z] Customer: Can I order the breakfast bundle?
+
+[2025-07-05T07:06:46.505Z] Customer: Hello? You there?
+
+[2025-07-05T07:06:46.505Z] AI Agent: I apologize, but we're approaching our time limit. Do you want me to transfer this call to a

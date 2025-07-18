@@ -1,0 +1,34 @@
+Call ID: 68721c265560c851d62c0d76
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T08:26:14.612Z
+End Time: 2025-07-12T08:27:57.346Z
+Duration: 99 seconds
+From: 918949862707
+To: 918035740152
+Summary: The customer attempted to order an Avocado BLT sandwich but had to be corrected as it was not available on the menu.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T08:27:56.196Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T08:27:56.196Z] Customer: I want to order a, like, order BLT sandwich.
+
+[2025-07-12T08:27:56.196Z] AI Agent: Got it! You'll need to pick just one bagel for your Egg and Cheese sandwich. We have Plain, Everything, Sesame, and English Muffin. Would you like one of 
+
+[2025-07-12T08:27:56.196Z] Customer: No. I said I no. I said avocado BLT sandwich.
+
+[2025-07-12T08:27:56.196Z] AI Agent: I don't see an Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?
+
+[2025-07-12T08:27:56.196Z] Customer: One second, please.
+
+[2025-07-12T08:27:56.196Z] AI Agent: Of course, take your time! Let me know when you're ready.
+
+[2025-07-12T08:27:56.196Z] Customer: You'd I'm saying avocado BLT sandwich.
+
+[2025-07-12T08:27:56.196Z] AI Agent: I understand now! For the Avocado BLT, you'll need to pick just one bread choice. We have Plain Bagel, Everything Bagel, Multigrain Bread, and Asiago Bagel. Which would you prefer?
+
+[2025-07-12T08:27:56.196Z] Customer: Can I have, egg bagel?
+
+[2025-07-12T08:27:56.196Z] AI Agent: I don’t see Egg Bagel as an available choice for the Avocado BLT. Here are the options we have: Plain Bagel, Everything Bagel, Multigrain Bread, and Asiago Bagel. Which would you like?

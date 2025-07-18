@@ -1,0 +1,22 @@
+Call ID: 686d2349d14f3abcfb1a1cbf
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T13:55:21.233Z
+End Time: 2025-07-08T13:56:15.465Z
+Duration: 52 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel with a customized selection of bagels and discussed the cream cheese options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T13:56:15.282Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T13:56:15.282Z] Customer: Looking to order breakfast bundle.
+
+[2025-07-08T13:56:15.282Z] AI Agent: The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and some extras. Would you like to customize your bagel selection or go with our assorted mix?
+
+[2025-07-08T13:56:15.282Z] Customer: Yeah. I want to, go with five sesame, five garlic, one vanilla, and, two, everything they do.
+
+[2025-07-08T13:56:15.283Z] AI Agent: For the Breakfast Bundle, you'd like 5 Sesame, 5 Garlic, 1 Vanilla, and 2 Everything bagels. That's a total of 13 bagels. Now, let's move on to the cream cheese. We have a variety of 

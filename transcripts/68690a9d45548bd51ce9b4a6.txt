@@ -1,0 +1,78 @@
+Call ID: 68690a9d45548bd51ce9b4a6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T11:21:01.162Z
+End Time: 2025-07-05T11:24:51.403Z
+Duration: 227 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin placed a breakfast bundle order with Manhattan Bagel, including 13 everything bagels, cream cheese, corn muffins, coffee, and nova lox, totaling $59.98.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T11:24:51.103Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T11:24:51.103Z] Customer: Breakhouse Bandi.
+
+[2025-07-05T11:24:51.103Z] AI Agent: For the breakfast bundle, I'll need to get a few things. First things first, I'll need to get the bagel dozen. It comes with exactly 13 bagels, and you can choose from a variety of flavors. Would you like
+
+[2025-07-05T11:24:51.103Z] Customer: All everything.
+
+[2025-07-05T11:24:51.103Z] AI Agent: One everything bagel. Now, for the rest of the
+
+[2025-07-05T11:24:51.103Z] Customer: All everything. All all vehicles, everything.
+
+[2025-07-05T11:24:51.103Z] AI Agent: Alright, so for the breakfast bundle, you'd like all 13 bagels to be everything bagels.
+
+[2025-07-05T11:24:51.104Z] Customer: Yeah.
+
+[2025-07-05T11:24:51.104Z] AI Agent: Next, I'll need to get 2 tubs of cream cheese for you. We have a 
+
+[2025-07-05T11:24:51.104Z] Customer: Two both both plain plain cream cheese and all muffins, corn muffin.
+
+[2025-07-05T11:24:51.104Z] AI Agent: For the 2 tubs of cream cheese, you'd like both to be plain cream cheese. And for the 4 muffins, you'd like all of them to be corn muffins. I just need to confirm if you'd like to add anything else to your breakfast bundle, such as a box of coffee or the special 4oz premium Acme smoked nova lox for $9.99?
+
+[2025-07-05T11:24:51.104Z] Customer: Give me coffee. Is coffee big?
+
+[2025-07-05T11:24:51.104Z] AI Agent: I can add a box of coffee to your breakfast bundle. We have a few options for the coffee: House Blend, Decaf, Vanilla Hazelnut, Dark Roast
+
+[2025-07-05T11:24:51.104Z] Customer: Give me house plan. Give me house plan.
+
+[2025-07-05T11:24:51.104Z] AI Agent: I'll add a box of our House Blend coffee to your breakfast bundle. Just to confirm, your order is: 13 everything bagels, 2 tubs of plain cream cheese, 4 corn muffins, and a box of House Blend coffee. Is there anything else I can get for you today?
+
+[2025-07-05T11:24:51.104Z] Customer: No. Is there an additional option to add, no one?
+
+[2025-07-05T11:24:51.104Z] AI Agent: You're interested in adding some nova lox to your order. We do have an option to add a 4oz container of premium Acme smoked nova lox for $9.99. Would you like to add that to your breakfast bundle?
+
+[2025-07-05T11:24:51.104Z] Customer: Listo.
+
+[2025-07-05T11:24:51.105Z] AI Agent: I'll add the 4oz container of premium Acme smoked nova lox to your order. So, to recap, your breakfast bundle includes: 13 everything bagels, 2 tubs of plain cream cheese, 4 corn muffins, a box of House Blend coffee, and a 4oz container of premium Acme smoked nova lox. Perfect, let me get that all put together for you. 
+
+[2025-07-05T11:24:51.105Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-05T11:24:51.105Z] Customer: 
+
+[2025-07-05T11:24:51.105Z] AI Agent: Let me calculate the total price for you. The breakfast bundle with 13 everything bagels, 2 tubs of plain cream cheese, and 4 corn muffins is $49.99. Adding the
+
+[2025-07-05T11:24:51.105Z] Customer: 
+
+[2025-07-05T11:24:51.105Z] AI Agent: The breakfast bundle with 13 everything bagels, 2 tubs of plain cream cheese, and 4 corn muffins
+
+[2025-07-05T11:24:51.105Z] Customer: Just hold. Give me the total price.
+
+[2025-07-05T11:24:51.105Z] AI Agent: Let me calculate the total price for you. The breakfast bundle with 13 everything bagels, 2 tubs of plain cream 
+
+[2025-07-05T11:24:51.105Z] Customer: Don't need to don't don't repeat the order. Don't repeat the order. Just give me totally.
+
+[2025-07-05T11:24:51.105Z] AI Agent: The total price is $59.98. 
+
+[2025-07-05T11:24:51.105Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 437583. That's 4, 3, 7, 5, 8, 3.", 'order_id': '437583', 'call_id': '273da825-2fa1-4a41-8c04-b989c27b0415', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197da54-8659-b146-541e-a23038c2ad1d'}
+
+[2025-07-05T11:24:51.105Z] AI Agent: Your order number is 4, 3,
+
+[2025-07-05T11:24:51.105Z] Customer: This $59.98 including coffee and no Alux?
+
+[2025-07-05T11:24:51.105Z] AI Agent: Your order is created successfully now! The order number is 4, 3, 7, 5, 8, 3, and the total, including taxes, comes to $59.98. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. 
+
+[2025-07-05T11:24:51.105Z] AI Agent: OK

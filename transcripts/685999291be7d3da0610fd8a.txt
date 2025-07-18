@@ -1,0 +1,103 @@
+Call ID: 685999291be7d3da0610fd8a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T18:12:57.055Z
+End Time: 2025-06-23T18:20:10.676Z
+Duration: 480 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a Breakfast Bundle and a hot cappuccino, but the order could not be processed due to technical issues.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T18:20:09.900Z] AI Agent: Hello Jitin, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T18:20:09.900Z] Customer: I'm looking to order, breakfast bundle and hot cappuccino.
+
+[2025-06-23T18:20:09.901Z] AI Agent: The Breakfast Bundle, excellent choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. And you'd also like a hot cappuccino. Let me get all the customization options for you. For the Breakfast Bundle, I need to get the options for the bagels, cream cheese, muffins, and coffee. Let me see what we have for those.
+
+[2025-06-23T18:20:09.901Z] Customer: Okay.
+
+[2025-06-23T18:20:09.901Z] AI Agent: Let me get the options for the bagels in your Breakfast Bundle. I'll need to check on the types of bagels we have available. Let me see what we have for that. 
+
+[2025-06-23T18:20:09.901Z] AI Agent: For the Breakfast Bundle, let's start with the Bagel Dozen. We have 24 different types of bagels to choose from, including Plain, Everything, Asiago, Blueberry, and many more. You need to select exactly 13 bagels. Which ones would you like? Please go ahead and choose your 13 bagels.
+
+[2025-06-23T18:20:09.901Z] Customer: Love to have can you please suggest let give me the options?
+
+[2025-06-23T18:20:10.676Z] Unknown: [2025-06-23T18:20:09.901Z] assistant: Let me give you some options for the Bagel Dozen. We have a variety of bagels to choose from. Here are some popular ones: Plain, Everything, Asiago, Blueberry, California, and Cinnamon Raisin. We also have some specialty bagels like Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, and French Toast BAGEL. And if you're looking for something a little different, we have Gluten Free, Jalepeño Cheddar, and Multigrain Bagel. 
+
+Would you like me to read out all 24 options for you, or would you like me to suggest a combination of 13 bagels that our customers usually like?
+
+[2025-06-23T18:20:09.901Z] Customer: I'll go with the, two blueberry, two California, two chocolate chip, one garlic, one gluten free, and two onion.
+
+[2025-06-23T18:20:09.901Z] AI Agent: You've selected 2 Blueberry, 2 California, 2 Chocolate Chip, 1 Garlic, 1 Gluten Free, and 2 Onion bagels. That's a total of 10 bagels so far. You still need to choose 3 more bagels to complete your dozen. Would you like to add some more of the
+
+[2025-06-23T18:20:09.901Z] Customer: The three three edge SMA.
+
+[2025-06-23T18:20:10.676Z] Unknown: [2025-06-23T18:20:09.902Z] assistant: You've added 3 Sesame bagels to your selection. That completes your Bagel Dozen. 
+
+So, to recap, your Bagel Dozen consists of: 
+2 Blueberry
+2 California
+2 Chocolate Chip
+1 Garlic
+1 Gluten Free
+2 Onion
+3 Sesame
+
+Next, let's move on to the Choose 2 Tubs of Spread. You need to select exactly 2 tubs of spread from our options. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, and many more. Which two spreads would you like?
+
+[2025-06-23T18:20:09.902Z] Customer: One as plain. Chicken could be vegetable.
+
+[2025-06-23T18:20:10.676Z] Unknown: [2025-06-23T18:20:09.902Z] assistant: You've selected 1 Plain Cream Cheese and 1 Vegetable Cream Cheese as your two tubs of spread.
+
+Next, let's move on to the Choose 4 Muffins. You can select between 1 and 4 muffins from our options. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which muffins would you like?
+
+[2025-06-23T18:20:09.902Z] Customer: All four could be cinnamon chip.
+
+[2025-06-23T18:20:10.676Z] Unknown: [2025-06-23T18:20:09.902Z] assistant: You've selected all 4 muffins to be Cinnamon Chip. 
+
+Next, let's move on to the Box of Coffee. This is an optional selection, and you can choose up to 1 box of coffee. We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Would you like to add a box of coffee to your order, or would you like to skip this option?
+
+[2025-06-23T18:20:09.902Z] Customer: You can add the last option.
+
+[2025-06-23T18:20:10.676Z] Unknown: [2025-06-23T18:20:09.902Z] assistant: You've selected the Autumn Roast as your box of coffee.
+
+Now that we have all the customization options for your Breakfast Bundle, let's move on to your hot cappuccino. Would you like whole milk, skim milk, or a non-dairy milk alternative in your cappuccino? And would you like any flavor shots or whipped cream added to it?
+
+[2025-06-23T18:20:09.903Z] AI Agent: For your hot cappuccino, let's start with the size. We have three options: Small (12 ounces) for $4.49, Medium (16 ounces) for $4.99, and Large (20 ounces) for $5.49. Which size would you like?
+
+[2025-06-23T18:20:09.903Z] Customer: I need, medium size, half and half milk and, raw sugar. Like, sorry, equal sugar.
+
+[2025-06-23T18:20:09.903Z] AI Agent: You've selected a Medium size, Half & Half milk, and Equal sugar for your hot cappuccino. Just to confirm, I have your entire order as follows: - Breakfast Bundle with 2 Blueberry,
+
+[2025-06-23T18:20:09.903Z] Customer: Okay. One more thing. Can can you please check, can you please check, like, the cappuccino again? Because I might be giving the wrong, option name. So you can proceed with your protocol. Okay? So, medium cappuccino, okay, and half and half milk. That's it.
+
+[2025-06-23T18:20:09.903Z] Customer: No no need to add sugar.
+
+[2025-06-23T18:20:10.676Z] Unknown: [2025-06-23T18:20:09.904Z] assistant: For your hot cappuccino, you've selected a Medium size and Half & Half milk. I'll make sure to get that just right.
+
+Now, let me confirm your entire order. You have a Breakfast Bundle with 2 Blueberry, 2 California, 2 Chocolate Chip, 1 Garlic, 1 Gluten Free, 2 Onion, and 3 Sesame bagels. You've also chosen 1 Plain Cream Cheese and 1 Vegetable Cream Cheese as your two tubs of spread. For the muffins, you've selected all 4 to be Cinnamon Chip. And you've added a box of Autumn Roast coffee. For your hot cappuccino, you've chosen a Medium size and Half & Half milk, with no sugar added.
+
+Is there anything else I can get for you?
+
+[2025-06-23T18:20:09.904Z] Customer: No. All good.
+
+[2025-06-23T18:20:09.904Z] AI Agent: Alright, let me get this order placed for you. 
+
+[2025-06-23T18:20:09.904Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T18:20:09.904Z] AI Agent: I'm sorry, but I'm having trouble placing your order. Let me try again. 
+
+[2025-06-23T18:20:09.904Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T18:20:09.904Z] AI Agent: I'm sorry, but I'm having trouble placing your order. Let me try again. 
+
+[2025-06-23T18:20:09.905Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T18:20:09.905Z] AI Agent: I'm sorry, but I'm having trouble placing your order. Let me try again. 
+
+[2025-06-23T18:20:09.905Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T18:20:09.905Z] AI Agent: I'm sorry,

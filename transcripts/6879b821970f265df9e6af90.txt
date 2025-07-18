@@ -1,0 +1,22 @@
+Call ID: 6879b821970f265df9e6af90
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T02:57:37.568Z
+End Time: 2025-07-18T02:58:41.707Z
+Duration: 61 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer attempted to order a Big Breakfast Burrito but was informed it was out of stock and offered alternative breakfast options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T02:58:41.446Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T02:58:41.447Z] Customer: Hey. Hi. Can I get big breakfast burrito?
+
+[2025-07-18T02:58:41.447Z] AI Agent: That would be our Big Breakfast Burrito on the menu. I'll add the Big Breakfast Burrito for you. Now, let's customize it. The Big Breakfast Burrito comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. Would you like to make any changes or add anything to it?
+
+[2025-07-18T02:58:41.447Z] Customer: Can you, check the menu? Because whether it's stock in or stock out, I don't know.
+
+[2025-07-18T02:58:41.447Z] AI Agent: Let me check that for you. According to our menu, the Big Breakfast Burrito is currently out of stock. I apologize for the inconvenience. We have other breakfast options available, such as the Original Classic, Spinach Bacon Croissant, or the Farmhouse Egg Sandwich. Which one of 

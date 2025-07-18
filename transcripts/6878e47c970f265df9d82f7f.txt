@@ -1,0 +1,24 @@
+Call ID: 6878e47c970f265df9d82f7f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T11:54:36.484Z
+End Time: 2025-07-17T11:55:34.551Z
+Duration: 57 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Hash Brown but it was out of stock, so the order was not completed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T11:55:34.303Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T11:55:34.303Z] Customer: Hi, Bengalbot. Can I get the hash brown, please?
+
+[2025-07-17T11:55:34.303Z] AI Agent: That would be our Hash Brown on the menu. I'll add the Hash Brown for you. Would you like to add anything else, such as a bagel or a drink, or is that all for now?
+
+[2025-07-17T11:55:34.303Z] Customer: Okay. So is it still in stock or out of stock?
+
+[2025-07-17T11:55:34.304Z] AI Agent: Let me check that for you. According to our current inventory, the Hash Brown is actually out of stock. I apologize for the inconvenience. Would you like to consider an alternative, such as a bagel or another side item?
+
+[2025-07-17T11:55:34.304Z] Customer: No. That's it.

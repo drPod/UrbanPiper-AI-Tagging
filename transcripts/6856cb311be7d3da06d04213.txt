@@ -1,0 +1,40 @@
+Call ID: 6856cb311be7d3da06d04213
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T15:09:37.730Z
+End Time: 2025-06-21T15:11:50.643Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered a medium hot latte with half and half milk and whipped cream from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T15:11:50.415Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T15:11:50.415Z] Customer: Hot latte, medium size, and, with with whipped cream, half an half milk.
+
+[2025-06-21T15:11:50.415Z] AI Agent: Let me tell you about the options for that. A medium hot latte with whipped cream and half and half milk sounds delicious. I'll pull up all the customization options for you.
+
+[2025-06-21T15:11:50.416Z] AI Agent: I hope you are
+
+[2025-06-21T15:11:50.416Z] Customer: Okay.
+
+[2025-06-21T15:11:50.417Z] AI Agent: For your medium hot latte, I see we have options for milk choice. We have regular milk, half and half for an extra dollar, skim milk, almond milk for an extra dollar, oat milk for an extra dollar, and soy milk. You mentioned half and half milk, so I'll go with that. Would you like any flavor shots or sweeteners in your latte? We have a variety of syrups like pumpkin, caramel, hazelnut, and vanilla for seventy-five cents each, or sugar, sweet and low, equal, splenda, and raw sugar at no extra cost. Or perhaps some whipped cream for seventy-five cents?
+
+[2025-06-21T15:11:50.417Z] Customer: No. I don't want anything. Just medium, half and half and with with whipped cream. That's it. Hot saute.
+
+[2025-06-21T15:11:50.417Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-21T15:11:50.418Z] AI Agent: Added 1 item(s) to your cart. Total: $6.24
+
+[2025-06-21T15:11:50.418Z] AI Agent: Your medium hot latte with half and half milk and whipped cream is added to your order. Your total comes out to be $6.24. What else can I get for you?
+
+[2025-06-21T15:11:50.418Z] Customer: Nothing for now. That's all.
+
+[2025-06-21T15:11:50.418Z] AI Agent: Alright, let me place this order for you... 
+
+[2025-06-21T15:11:50.418Z] AI Agent: Your order has been placed successfully! Your order number is 507588. Total: $6.86 (subtotal $6.24 + tax $0.62). . Thank you for your order!
+
+[2025-06-21T15:11:50.418Z] Customer: 

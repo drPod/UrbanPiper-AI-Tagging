@@ -1,0 +1,42 @@
+Call ID: 68791462970f265df9dee19f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T15:18:58.813Z
+End Time: 2025-07-17T15:20:35.746Z
+Duration: 94 seconds
+From: +353872628050
+To: +441313810000
+Summary: The customer inquired about the store's hours and menu, and expressed interest in ordering for the next day.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T15:20:35.292Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T15:20:35.293Z] Customer: Hi. Where did you say you were from?
+
+[2025-07-17T15:20:35.293Z] AI Agent: We are from the Manhattan Bagel store located at 1350 Galloping Hill Rd, Union, NJ 07083, USA.
+
+[2025-07-17T15:20:35.293Z] Customer: Okay. And what time do you open at today?
+
+[2025-07-17T15:20:35.293Z] AI Agent: We are open today from 6:00 AM to 3:00 PM.
+
+[2025-07-17T15:20:35.293Z] Customer: And your feet, Bob?
+
+[2025-07-17T15:20:35.293Z] AI Agent: We're open today from 6:00 AM to 3:00 PM.
+
+[2025-07-17T15:20:35.293Z] Customer: I don't understand. When do you close?
+
+[2025-07-17T15:20:35.294Z] AI Agent: We close at 3:00 PM today.
+
+[2025-07-17T15:20:35.294Z] Customer: Okay. Thank you. And what about tomorrow?
+
+[2025-07-17T15:20:35.294Z] AI Agent: We are open 7 days a week, so tomorrow we will also be open from 6:00 AM to 3:00 PM.
+
+[2025-07-17T15:20:35.294Z] Customer: Okay. Great. Can I order for 01:00 tomorrow?
+
+[2025-07-17T15:20:35.294Z] AI Agent: For orders, we typically have a cut-off time of 2:45 PM, which is 15 minutes before closing. However, since you're asking about ordering for tomorrow, I can help you with that. What would you like to order for 1:00 PM tomorrow?
+
+[2025-07-17T15:20:35.294Z] Customer: Well, what do you have on the menu? I don't have anything in front of me.
+
+[2025-07-17T15:20:35.294Z] AI Agent: We have a variety of items on our menu, including breakfast sandwiches, bagels, coffee, and more. What type of food are you in the mood for? Would you like something for breakfast, or perhaps a

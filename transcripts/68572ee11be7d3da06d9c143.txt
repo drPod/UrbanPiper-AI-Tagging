@@ -1,0 +1,58 @@
+Call ID: 68572ee11be7d3da06d9c143
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T22:14:57.105Z
+End Time: 2025-06-21T22:18:13.375Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul placed an order for Avocado Toast and a medium House Blend coffee through Manhattan Bagel's phone service.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T22:18:12.727Z] AI Agent: Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T22:18:12.727Z] Customer: I think I'll try something different this time. How about an avocado toast with a side of coffee?
+
+[2025-06-21T22:18:12.727Z] AI Agent: The Avocado Toast, excellent choice. That's toasted multigrain bread topped with fresh avocado and a sprinkle of everything bagel seasoning. And you'd like to pair that with a side of coffee. Let me get the options for your coffee...
+
+[2025-06-21T22:18:12.727Z] Customer: Sounds great. I usually like my coffee black, so I'll just keep it simple. Let me know what options you have.
+
+[2025-06-21T22:18:12.727Z] AI Agent: For your coffee, we have a variety of roast levels. Let me see what we have... 
+
+[2025-06-21T22:18:12.727Z] AI Agent: For your
+
+[2025-06-21T22:18:12.727Z] Customer: Sure. That sounds good. I'm open to whatever roast you recommend. Light, medium, or dark, whichever you think pairs best with the avocado toast.
+
+[2025-06-21T22:18:12.728Z] AI Agent: Our House Blend is a popular choice, but since you're getting the Avocado Toast, I think a lighter roast would complement it nicely. Let's go with the House Blend, which is a medium roast. Now, for the size, we have Small, which is 12 ounces, Medium, which is 16 ounces, Large, which is 20 ounces, and X-Large, which is 24 ounces. Which size sounds good to you?
+
+[2025-06-21T22:18:12.728Z] Customer: I think medium size 16 ounces sounds perfect. That should be just the right amount to go with the toast.
+
+[2025-06-21T22:18:12.728Z] AI Agent: A medium size, 16 ounces, is a great choice to pair with your Avocado Toast. Now, let me just add that to your order... 
+
+[2025-06-21T22:18:12.728Z] AI Agent: Added 2 item(s) to your cart. Total: $11.47
+
+[2025-06-21T22:18:12.728Z] AI Agent: Alright, I've added the Avocado Toast and a medium House Blend coffee to your order. Your total comes out to be $11.47. Would you like to make any changes or add anything else to your order?
+
+[2025-06-21T22:18:12.728Z] Customer: Nope. That sounds perfect. I'm all set with that order. Thank you so much.
+
+[2025-06-21T22:18:12.728Z] AI Agent: I'm glad you're all set with your order. Before I place it, I just need to confirm a few details. Your name is Mehul, and I'll make sure to get that on the order. We'll have your Avocado Toast and medium House Blend coffee ready for pickup. Do you have any special requests or allergies I should note for the kitchen? 
+
+[2025-06-21T22:18:12.728Z] AI Agent: I've added your special instructions to the order.
+
+[2025-06-21T22:18:12.728Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-21T22:18:12.729Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 387869. That's 3, 8, 7, 8, 6, 9. Total: $12.62 (subtotal 11.47 dollars plus 1.15 dollars tax). Special instructions noted: none. Thank you for your order!
+
+[2025-06-21T22:18:12.729Z] Customer: 
+
+[2025-06-21T22:18:12.745Z] Customer: 
+
+[2025-06-21T22:18:12.746Z] AI Agent: Alright Mehul, your order is placed. Your order number is 3, 8, 7, 8, 6, 9. Your total comes out to be $11.47 subtotal plus $1.15 tax, making it $12.62. We'll have your Avocado Toast and medium House Blend coffee ready for pickup. Thank you for your order!
+
+[2025-06-21T22:18:12.746Z] Customer: You're welcome. That all sounds perfect. I really appreciate it, and I'll see you soon to pick up my order.
+
+[2025-06-21T22:18:12.746Z] AI Agent: You're welcome, Mehul. It was my pleasure to help you with your order. I'll see you soon when you come to pick it up. Have a great day and we'll get your Avocado Toast and coffee ready for you. Bye for now. 
+
+[2025-06-21T22:18:12.746Z] AI Agent: OK

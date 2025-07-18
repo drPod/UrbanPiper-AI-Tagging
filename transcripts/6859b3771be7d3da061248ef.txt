@@ -1,0 +1,46 @@
+Call ID: 6859b3771be7d3da061248ef
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T20:05:11.324Z
+End Time: 2025-06-23T20:09:32.219Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered a Breakfast Bundle with customizations and added a Hot Latte to their order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T20:09:31.697Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T20:09:31.697Z] Customer: Yeah. Hi. I'd love to have, breakfast bundle.
+
+[2025-06-23T20:09:31.697Z] AI Agent: The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get all the customization options for you.
+
+[2025-06-23T20:09:31.697Z] AI Agent: Let me get the options for your bagel choices. Okay, for the Breakfast Bundle, we have a few customization options. First, for the Bagel Dozen, you can choose from Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, and Bagel Stick. We need to select exactly 13 bagels. Which ones would you like?
+
+[2025-06-23T20:09:31.698Z] Customer: Yeah. I'd love to have, 12 as, and one as sesame.
+
+[2025-06-23T20:09:31.698Z] AI Agent: For the Bagel Dozen, you'd like to have 12 Bialys and 1 Sesame. Let me see what we have for the next option. Now, for the Choose 2 Tubs of Spread, you can choose from Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), Storemade Lox Spread (Chunky), Storemade Maple Raisin (Chunky), Storemade Bacon Scallion (Chunky), Strawberry, Honey Almond, Jalapeño Cream Cheese, Philadelphia 8oz, and Butter 8oz Whipped. We need to select exactly 2 tubs of
+
+[2025-06-23T20:09:31.698Z] Customer: Okay. So, I I'm I think one plain cream cheese and, one strawberry. Cream cheese is good.
+
+[2025-06-23T20:09:31.698Z] AI Agent: One Plain Cream Cheese and one Strawberry Cream Cheese, sounds good. Now, let's move on to the Choose 4 Muffins. You can choose from Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. We need to select
+
+[2025-06-23T20:09:31.698Z] Customer: I think all all four could be cinnamon chips is good for me.
+
+[2025-06-23T20:09:31.698Z] AI Agent: All four muffins as Cinnamon Chips, got it. Now, let's see about the Box of Coffee. You can choose from House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. This is an optional selection, so you can choose one or none. Which one would you like?
+
+[2025-06-23T20:09:31.698Z] Customer: I will go with the hazelnut.
+
+[2025-06-23T20:09:31.698Z] AI Agent: You'd like to go with the Vanilla Hazelnut coffee. Alright, let me get this order placed for you...
+
+[2025-06-23T20:09:31.698Z] Customer: No. One one more thing. I want to add the hot latte as well.
+
+[2025-06-23T20:09:31.698Z] AI Agent: The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get all the customization options for you.
+
+[2025-06-23T20:09:31.698Z] AI Agent: For the Hot Latte, let's start with the size. You can choose from Small 12oz, Medium 16oz, or Large 20oz. Which size would you like?
+
+[2025-06-23T20:09:31.698Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T20:09:31.698Z] AI Agent: Thank you for calling. Have a great day. Goodbye.

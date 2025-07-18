@@ -1,0 +1,70 @@
+Call ID: 687a62c4a1698f75072f30a4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T15:05:40.690Z
+End Time: 2025-07-18T15:08:20.739Z
+Duration: 154 seconds
+From: +12169566636
+To: +16204558091
+Summary: The customer, Edward Richards, placed an order for a dozen bagels with cream cheese through Manhattan Bagel's ordering system.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T15:08:20.277Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-18T15:08:20.277Z] Customer: I'm looking to place an order.
+
+[2025-07-18T15:08:20.277Z] AI Agent: I'd be happy to help you with that. What would you like to order today?
+
+[2025-07-18T15:08:20.277Z] Customer: I'm ordering a dozen bagels, six blueberries, six cinnamon.
+
+[2025-07-18T15:08:20.277Z] AI Agent: That will be our Dozen Bagels on the menu, just confirming it's available. For your dozen bagels, I have you down for six Blueberry and six Cinnamon Raisin. Would you like them sliced?
+
+[2025-07-18T15:08:20.277Z] Customer: Yes, please.
+
+[2025-07-18T15:08:20.738Z] Unknown: [2025-07-18T15:08:20.277Z] assistant: I've added the slicing option to your order. So, to confirm, you'd like a dozen bagels, six Blueberry and six Cinnamon Raisin, all sliced. I'll go ahead and calculate the total for you. Just a moment... 
+
+
+
+[2025-07-18T15:08:20.277Z] AI Agent: Your total for the dozen bagels, six Blueberry and six Cinnamon Raisin, all sliced, comes to 20 dollars and 34 cents including tax. Would you like to make any changes or add anything else to your order?
+
+[2025-07-18T15:08:20.277Z] Customer: Can you please add some cream cheese?
+
+[2025-07-18T15:08:20.277Z] AI Agent: I can add some cream cheese to your order. We have a variety of cream cheese flavors. For your dozen bagels, I recommend our Tub of Manhattan Bagel Plain Cream Cheese. It's 6 ounces and costs $5.99. Would you like to add that to your order?
+
+[2025-07-18T15:08:20.277Z] Customer: 也 随
+
+[2025-07-18T15:08:20.738Z] Unknown: [2025-07-18T15:08:20.277Z] assistant: I've added the Tub of Manhattan Bagel Plain Cream Cheese to your order. Let me recalculate the total for you. Just a moment...
+
+
+
+[2025-07-18T15:08:20.277Z] AI Agent: Your updated total comes to 26 dollars and 92 cents including tax. Is there anything else you'd like to add to your order, or would you like to proceed with the payment?
+
+[2025-07-18T15:08:20.277Z] Customer: Proceed with payment.
+
+[2025-07-18T15:08:20.278Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-18T15:08:20.278Z] AI Agent: May I have your name for the order?
+
+[2025-07-18T15:08:20.278Z] Customer: Edward Richard.
+
+[2025-07-18T15:08:20.278Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-18T15:08:20.278Z] Customer: No. Thank you.
+
+[2025-07-18T15:08:20.278Z] AI Agent: Alright Edward. Would you like me to read back your order with all the details?
+
+[2025-07-18T15:08:20.278Z] Customer: No. I trust you.
+
+[2025-07-18T15:08:20.278Z] AI Agent: Great. Placing that for you now, please hold on... 
+
+[2025-07-18T15:08:20.278Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 569163. That's 5, 6, 9, 1, 6, 3.", 'order_id': '569163', 'call_id': '8c884184-c3a4-4ca5-a147-f9470f4c614c', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981e13-b2cf-80ec-d478-95eabfd3503d'}
+
+[2025-07-18T15:08:20.278Z] AI Agent: Your order number is 5, 6, 9, 1, 6, 3. Your total is 26 dollars and 92 cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-18T15:08:20.278Z] Customer: No. Thank you.
+
+[2025-07-18T15:08:20.279Z] AI Agent: You're welcome, Edward. It was a pleasure assisting you with your order. Have a great day and enjoy your bagels!
+
+[2025-07-18T15:08:20.279Z] Customer: Thank you.

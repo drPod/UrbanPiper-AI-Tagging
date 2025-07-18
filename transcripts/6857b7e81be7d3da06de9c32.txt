@@ -1,0 +1,66 @@
+Call ID: 6857b7e81be7d3da06de9c32
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T07:59:36.947Z
+End Time: 2025-06-22T08:03:45.122Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jatin placed an order for a Mint Oreo Chillerz and a Chicken Cuban sandwich with specific customizations at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T08:03:44.767Z] AI Agent: Hello Jatin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T08:03:44.767Z] Customer: I'd like to order, mint oreotillas.
+
+[2025-06-22T08:03:44.767Z] AI Agent: The Mint Oreo Chillerz, excellent choice. That's one of our refreshing treats with creamy ice cream blended with mint Oreo cookies for the perfect crunch-meets-cool combo, finished with whipped cream and festive green sprinkles. Let me get the options for your Mint Oreo Chillerz.
+
+[2025-06-22T08:03:44.775Z] AI Agent: Let me get the options for your Mint Oreo Chillerz size. We have a 16oz and a 24oz option. The 24oz is just a little more, for $1.49 extra. Which size sounds good to you?
+
+[2025-06-22T08:03:44.775Z] Customer: Small size.
+
+[2025-06-22T08:03:44.775Z] AI Agent: I think you mean the 16oz size, right? That's our standard size for the Mint Oreo Chillerz. Perfect, let me add that to your order. 
+
+[2025-06-22T08:03:44.775Z] AI Agent: Added 1 item(s) to your cart. Total: $5.99
+
+[2025-06-22T08:03:44.776Z] AI Agent: Alright, I've added the Mint Oreo Chillerz in the 16oz size to your order. Your total comes out to be $5.99. Would you like to order anything else?
+
+[2025-06-22T08:03:44.776Z] Customer: Thinking to add chicken Cuban.
+
+[2025-06-22T08:03:44.776Z] AI Agent: The Chicken Cuban, great choice. That's a delicious sandwich with grilled chicken, ham, Swiss cheese, pickle mustard, and mayo on a roll. Let me get the options for your Chicken Cuban. 
+
+[2025-06-22T08:03:44.776Z] AI Agent: For your Chicken Cuban, would you like to choose a side? We have chips or coleslaw, both are included, or you can upgrade to Lays Chips for $1. Also, would you like your roll toasted, lightly toasted, or toasted dark? And do you want to add some extra cheese for $1.49? Additionally, you can double your lunch protein for $4.99 or add some veggies like avocado for $1.99, spinach, cucumber, green peppers, roasted red peppers, grilled yellow onions, jalapeno peppers, or capers for $1 each. Lettuce, tomato, and onion are included. Which options sound good to you?
+
+[2025-06-22T08:03:44.777Z] Customer: Okay. First, I'll choose the light toasted, and, I want chips.
+
+[2025-06-22T08:03:44.777Z] AI Agent: For your
+
+[2025-06-22T08:03:44.777Z] Customer: And, and I also would love to have cucumber in lunch, very that's it.
+
+[2025-06-22T08:03:44.777Z] AI Agent: So, to recap, you'd like your Chicken Cuban roll to be lightly toasted, and you'd like to have chips as your side. You'd also like to add cucumber as one of your veggies. Anything else you'd like to add or change? Maybe some extra cheese or double the protein?
+
+[2025-06-22T08:03:44.777Z] Customer: No.
+
+[2025-06-22T08:03:44.777Z] AI Agent: Alright, I've got all your choices for the Chicken Cuban. Let me add that to your order. 
+
+[2025-06-22T08:03:44.780Z] AI Agent: Added 1 item(s) to your cart. Total: $17.98
+
+[2025-06-22T08:03:44.780Z] AI Agent: Alright, I've added the Chicken Cuban with lightly toasted roll, chips as the side, and cucumber as an extra veggie to your order. Your new total comes out to be $17.98. Would you like to order anything else or would you like me to summarize your order?
+
+[2025-06-22T08:03:44.780Z] Customer: No. I don't want anything to order. Yeah. That's it for me.
+
+[2025-06-22T08:03:44.780Z] AI Agent: I'll summarize your order. You've got a Mint Oreo Chillerz in the 16oz size, and a Chicken Cuban sandwich with a lightly toasted roll, chips as the side, and cucumber as an extra veggie. Your total comes out to be $17.98. Before I place your order, do you have any special requests or allergies I should let the kitchen know about?
+
+[2025-06-22T08:03:44.780Z] Customer: No. I don't have any. Thank you so much for asking.
+
+[2025-06-22T08:03:44.780Z] AI Agent: I'll make sure the kitchen knows. Alright, let me get this order
+
+[2025-06-22T08:03:44.780Z] Customer: Hello?
+
+[2025-06-22T08:03:44.780Z] AI Agent: Let me get this order placed for you. 
+
+[2025-06-22T08:03:44.780Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 993245. That's 9, 9, 3, 2, 4, 5. Total: $19.78 (subtotal 17.98 dollars plus 1.80 dollars tax). Thank you for your order!
+
+[2025-06-22T08:03:44.780Z] AI Agent: Alright Jatin, your order is placed! Your order number is 9, 9, 3, 2, 4, 5. Your total comes out to be $17.98 for the subtotal and $1.80 for the tax, making it $19.78 in total. We'll have that ready for you shortly! Thank you for your order! Is there anything else I can help you with?

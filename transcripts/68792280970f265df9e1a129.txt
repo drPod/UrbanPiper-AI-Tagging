@@ -1,0 +1,14 @@
+Call ID: 68792280970f265df9e1a129
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T16:19:12.301Z
+End Time: 2025-07-17T16:19:25.730Z
+Duration: 10 seconds
+From: +16043188111
+To: +16204558091
+Summary: The customer initiated a call with Manhattan Bagel but did not place an order as the conversation just started.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T16:19:25.451Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?

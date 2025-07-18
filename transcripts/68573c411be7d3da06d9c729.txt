@@ -1,0 +1,32 @@
+Call ID: 68573c411be7d3da06d9c729
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T23:12:01.906Z
+End Time: 2025-06-21T23:13:01.448Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer ordered a medium-sized iced tea with no milk and did not specify a sweetener or syrup, but the call ended before the order could be finalized.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T23:13:01.156Z] AI Agent: Hello Alex, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T23:13:01.156Z] Customer: 
+
+[2025-06-21T23:13:01.156Z] AI Agent: I'll just wait
+
+[2025-06-21T23:13:01.156Z] Customer: I want to order iced tea.
+
+[2025-06-21T23:13:01.157Z] AI Agent: The ice tea, great choice. Let me get the options for your ice tea...
+
+[2025-06-21T23:13:01.157Z] AI Agent: For your ice tea, what size would you like? We
+
+[2025-06-21T23:13:01.157Z] Customer: Medium size.
+
+[2025-06-21T23:13:01.157Z] AI Agent: The medium size, that's 24oz. Now, let's talk about the milk choice. We have regular milk, half and half, skim, almond, oat milk, or soy. Which one would you like?
+
+[2025-06-21T23:13:01.157Z] Customer: Nome
+
+[2025-06-21T23:13:01.158Z] AI Agent: No milk, got it. Now, let's move on to the sweetener and syrups. We have a variety of options like sugar, sweet and low, equal, splenda, raw sugar, and some flavored syrups like pumpkin, caramel, hazelnut, and vanilla.

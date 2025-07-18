@@ -1,0 +1,14 @@
+Call ID: 686e4310d14f3abcfb3151fc
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T10:23:12.422Z
+End Time: 2025-07-09T10:23:25.225Z
+Duration: 11 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin called Manhattan Bagel to place an order but did not proceed with any specific items.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T10:23:24.971Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?

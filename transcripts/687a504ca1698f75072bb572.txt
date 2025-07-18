@@ -1,0 +1,26 @@
+Call ID: 687a504ca1698f75072bb572
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T13:46:52.498Z
+End Time: 2025-07-18T13:48:06.464Z
+Duration: 69 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer attempted to order a Breakfast Bundle and an Omelet Wrap, but the Omelet Wrap was out of stock, so alternatives were offered.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T13:48:06.162Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T13:48:06.162Z] Customer: Okay. Give me breakfast bundle.
+
+[2025-07-18T13:48:06.162Z] AI Agent: That would be our Breakfast Bundle on the menu. I'll add the Breakfast Bundle for you. Now, I'll help you customize it. For the Breakfast Bundle, you get 13 fresh-baked Manhattan bagels and 2 tubs of cream cheese. What kind of bagels would you like? I have Plain, Everything
+
+[2025-07-18T13:48:06.162Z] Customer: Okay. Okay. So so, don't don't add that. Can I get omelette wrap now?
+
+[2025-07-18T13:48:06.162Z] AI Agent: Let me help you with that. For the omelet wrap, we have a few options. We have a standard omelet wrap with 3 eggs, cheese, and your choice of meat, all wrapped in a tortilla. That would be our Omelet Wrap on the menu. I'll add the Omelet Wrap for you. Now, let's customize it. What kind of meat would you like in your omelet? We have bacon, sausage, ham,
+
+[2025-07-18T13:48:06.162Z] Customer: Yeah. Do is it in a stop right now?
+
+[2025-07-18T13:48:06.163Z] AI Agent: Let me check that for you. (pause) I'm sorry, but our Omelet Wrap is currently out of stock today. Instead, I can offer you our Breakfast Sandwich or our Egg & Cheese on a bagel. Which one would you prefer?

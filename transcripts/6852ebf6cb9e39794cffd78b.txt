@@ -1,0 +1,94 @@
+Call ID: 6852ebf6cb9e39794cffd78b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T16:40:22.380Z
+End Time: 2025-06-18T16:47:09.547Z
+Duration: 420 seconds
+From: +918949862707
+To: +16204558091
+Summary: Gaurav ordered a medium Hot Latte with oat milk and sugar, and a Manhattan Cheesesteak Sandwich with chips, lightly toasted, and extra cheese, totaling $17.47, and was informed of the order details and pickup information.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T16:47:08.723Z] AI Agent: Hello Rifat, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T16:47:08.724Z] Customer: Hey. My name is Gaurav, and, I'd like to order, hot latte. And, yeah. First, let's talk about the hot latte.
+
+[2025-06-18T16:47:08.724Z] AI Agent: Let me see what I can find for you. 
+
+[2025-06-18T16:47:08.724Z] AI Agent: I found a Hot Latte for you. What size would you like? We have a small 12 ounce for $3.99, a medium 16 ounce for $4.49, or a large 20 ounce for $4.99.
+
+[2025-06-18T16:47:08.724Z] Customer: Medium.
+
+[2025-06-18T16:47:08.724Z] AI Agent: A medium Hot Latte is $4.49. Now, what kind of milk would you like? We have regular milk, half and half for $1, skim milk, almond milk for $1, oat milk for $1, or soy milk. Which one sounds good to you?
+
+[2025-06-18T16:47:08.724Z] Customer: Oat milk.
+
+[2025-06-18T16:47:08.724Z] AI Agent: So, a medium Hot Latte with oat milk, that's a total of $5.49. Now, would you like to add any sweetener or syrup? We have sugar, sweet and low, equal, splenda, raw sugar, pumpkin syrup for 75 cents, caramel syrup for 75 cents, hazelnut syrup for 75 cents, vanilla syrup for 75 cents, sugar-free vanilla syrup for 75 cents, pistachio syrup for 75 cents, chocolate sauce for 75 cents, caramel sauce for 75 cents, white chocolate sauce for 75 cents, vanilla cold foam for $1, or whipped cream for 75 cents. What can I add for you?
+
+[2025-06-18T16:47:08.724Z] Customer: 
+
+[2025-06-18T16:47:08.725Z] AI Agent: So, a medium Hot Latte
+
+[2025-06-18T16:47:08.725Z] Customer: You you have you you you you have added so many, you know, you have so many options. I lost you in some in between. Can we take it slowly, like, three and then next three or four like that?
+
+[2025-06-18T16:47:08.725Z] AI Agent: Let's take it one step at a time. We have a medium Hot Latte with oat milk for $5.49. Now, let's talk about sweeteners and syrups. I'll give you three options to start. We have sugar, sweet and low, or equal. Which one of these sounds good to you?
+
+[2025-06-18T16:47:08.725Z] Customer: I I won't answer, like, normal sugar. Okay?
+
+[2025-06-18T16:47:08.725Z] AI Agent: So, you'd like to add normal sugar to your medium Hot Latte with oat milk. That's no extra charge. Now, let's move on to the next set of options. We have pumpkin syrup for 75 cents, caramel syrup for 75 cents, or hazelnut syrup for 75 cents. Which one of these sounds good to you?
+
+[2025-06-18T16:47:08.725Z] Customer: I don't want any setup.
+
+[2025-06-18T16:47:08.725Z] AI Agent: So, no syrup for you. Let's move on to the next option. Would you like whipped cream on top of your medium Hot Latte with oat milk and sugar? It's an extra 75 cents.
+
+[2025-06-18T16:47:08.725Z] Customer: No. I don't need that.
+
+[2025-06-18T16:47:08.726Z] AI Agent: So, no whipped cream. Let's review your order: a medium Hot Latte with oat milk and sugar, totaling $5.49. Before I add this to your order, I just need to check one more thing. Would you like your Hot Latte to be decaf?
+
+[2025-06-18T16:47:08.726Z] Customer: No.
+
+[2025-06-18T16:47:08.726Z] AI Agent: So, no decaf. Your medium Hot Latte with oat milk and sugar will be made with regular espresso. I'll go ahead and add this to your order. 
+
+[2025-06-18T16:47:08.726Z] AI Agent: Your medium Hot Latte with oat milk and sugar has been added to your order, totaling $5.49. Is there anything else you'd like to order today?
+
+[2025-06-18T16:47:08.726Z] Customer: Yeah. I also want to have, sandwich, grilled chicken man Manhattan grilled cheese steak sandwich.
+
+[2025-06-18T16:47:08.727Z] AI Agent: Let me see what I can find for you. 
+
+[2025-06-18T16:47:08.727Z] AI Agent: I found the Manhattan Cheesesteak Sandwich for you. It's a long roll with grilled steak, roasted peppers, grilled onions, and cheese, priced at $10.49. Would you like to add a side to that? You can choose from chips, coleslaw, or Lays chips for $1.
+
+[2025-06-18T16:47:08.727Z] Customer: Place 6.
+
+[2025-06-18T16:47:08.727Z] AI Agent: So, you'd like to add chips as your side. Now, would you like your sandwich to be toasted, lightly toasted, or toasted dark?
+
+[2025-06-18T16:47:08.727Z] Customer: Lightly toasted.
+
+[2025-06-18T16:47:08.728Z] AI Agent: So, lightly toasted it is. Now, would you like to add extra cheese to your Manhattan Cheesesteak Sandwich for $1.49?
+
+[2025-06-18T16:47:08.728Z] Customer: Yeah. You can add it. Also, Emily, I would like to, order orange juice as well.
+
+[2025-06-18T16:47:08.728Z] AI Agent: I'll add the extra cheese to your Manhattan Cheesesteak Sandwich. Now, let me check on the orange juice for you. 
+
+[2025-06-18T16:47:08.728Z] AI Agent: I found a few options for orange juice. We have Tropicana OJ, Fresh Squeezed Orange Juice, or Catering Orange Juice. Which one would you like?
+
+[2025-06-18T16:47:08.728Z] Customer: But what about the last customization? Have we dropped that, or have we called the update tool?
+
+[2025-06-18T16:47:08.728Z] AI Agent: Let me update your Manhattan Cheesesteak Sandwich with the modifications we discussed. 
+
+[2025-06-18T16:47:08.729Z] AI Agent: Your Manhattan Cheesesteak Sandwich has been updated with chips, lightly toasted, and extra cheese, totaling $11.98. Your current total is $17.47. Now, let's get back to the orange juice. Which one would you like? We have Tropicana OJ, Fresh Squeezed Orange Juice, or Catering Orange Juice.
+
+[2025-06-18T16:47:08.729Z] Customer: 
+
+[2025-06-18T16:47:08.729Z] AI Agent: I'll make sure to addthe orange
+
+[2025-06-18T16:47:08.729Z] Customer: 
+
+[2025-06-18T16:47:08.736Z] AI Agent: Let's just confirm your order then. You have a medium Hot Latte with oat milk and sugar for $5.49, and a Manhattan Cheesesteak Sandwich with chips, lightly toasted, and extra cheese for $11.98. Your total comes out to be $17.47. Would you like to pay with cash? And would you like to pick it up or have it delivered? 
+
+[2025-06-18T16:47:08.736Z] AI Agent: Your order number is 6-8-9-1-2-9. Your order total is $19.22, which includes a subtotal of $17.47 and $1.75 in tax. We will have your order ready for pickup. Is there anything else I can help you with?
+
+[2025-06-18T16:47:08.736Z] Customer: 
+
+[2025-06-18T16:47:08.736Z] AI Agent: OK

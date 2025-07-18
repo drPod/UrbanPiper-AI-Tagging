@@ -1,0 +1,28 @@
+Call ID: 685b41069ae6a419f3d75e8d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-25T00:21:26.909Z
+End Time: 2025-06-25T00:22:12.040Z
+Duration: 60 seconds
+From: +12149402918
+To: +16204558091
+Summary: The customer, Azaan, ordered an Everything Bagel and inquired about drinks, but the call ended before completing the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-25T00:22:11.822Z] AI Agent: Hello Azaan, Welcome to Manhattan Bagel. It is great to see you again. What would you like to order?
+
+[2025-06-25T00:22:11.822Z] Customer: Hi. I would like to order an Emeritus bagel.
+
+[2025-06-25T00:22:12.040Z] Unknown: [2025-06-25T00:22:11.822Z] assistant: The Everything Bagel, excellent choice. That's one of our classic options with a mix of poppy seeds, sesame seeds, dried garlic, salt, and dried onion on a toasted bagel. 
+
+Let me just check the options for you. 
+
+[2025-06-25T00:22:11.823Z] AI Agent: Alright, now for your
+
+[2025-06-25T00:22:11.823Z] Customer: What what drinks do you have?
+
+[2025-06-25T00:22:11.823Z] AI Agent: We have a variety of drinks to choose from. Let me check the options for you. 
+
+[2025-06-25T00:22:11.826Z] AI Agent: We have a variety of drinks to choose from. For hot coffee or tea, you can select from small, medium

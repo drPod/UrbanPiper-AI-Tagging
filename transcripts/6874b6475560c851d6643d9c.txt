@@ -1,0 +1,24 @@
+Call ID: 6874b6475560c851d6643d9c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-14T07:48:23.335Z
+End Time: 2025-07-14T07:49:57.934Z
+Duration: 92 seconds
+From: +918949862707
+To: +16204558091
+Summary: Mehl ordered a Breakfast Bundle from Manhattan Bagel, customizing it with 13 bagels and awaiting further customization for cream cheese and muffins.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-14T07:49:57.363Z] AI Agent: Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-14T07:49:57.363Z] Customer: Breakfast bundle?
+
+[2025-07-14T07:49:57.934Z] Unknown: [2025-07-14T07:49:57.363Z] assistant: Let's customize your Breakfast Bundle. The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. 
+
+You'll need to pick 13 bagels for your bundle. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Asiago, California, Cheesy Hashbrown Roll, Bialy, Bagel Stick, Cheesy Jalepeño Bacon Roll, Rainbow Bagel, or Gluten Free. Which 13 would you like?
+
+[2025-07-14T07:49:57.363Z] Customer: Okay. Got it. So I want five sesame, five everything, two vanilla, one blueberry.
+
+[2025-07-14T07:49:57.363Z] AI Agent: Perfect. You've chosen 5 Sesame, 5 Everything, 2 Vanilla, and 1 Blueberry bagels for your Breakfast Bundle. Next, you'll need to choose 2 tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, Butter 8 ounce Whipped, or Storemade Lox

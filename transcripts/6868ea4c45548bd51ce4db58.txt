@@ -1,0 +1,20 @@
+Call ID: 6868ea4c45548bd51ce4db58
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T09:03:08.961Z
+End Time: 2025-07-05T09:03:53.074Z
+Duration: 41 seconds
+From: +919686500112
+To: +16204558091
+Summary: The customer ordered a breakfast bundle from Manhattan Bagel, but the call ended before the order was completed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T09:03:52.806Z] AI Agent: Hello M G Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T09:03:52.806Z] Customer: Breakfast bundle.
+
+[2025-07-05T09:03:53.074Z] Unknown: [2025-07-05T09:03:52.806Z] assistant: For the breakfast bundle, I'll need to get a few things from you. The bundle comes with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. 
+
+First, let's start with the bagels. We have a variety of flavors to choose from, including Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like in your bundle?

@@ -1,0 +1,42 @@
+Call ID: 6856a6781be7d3da06ca701d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T12:32:56.882Z
+End Time: 2025-06-21T12:34:39.679Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a medium hot latte with half and half milk and whipped cream for pickup at the Union, NJ location.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T12:34:39.436Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T12:34:39.436Z] Customer: I want to order hot latte, medium size, half and half milk.
+
+[2025-06-21T12:34:39.436Z] AI Agent: A medium hot
+
+[2025-06-21T12:34:39.437Z] Customer: And, the screen. The screen as well. Yeah.
+
+[2025-06-21T12:34:39.437Z] AI Agent: So, to confirm, you'd like a medium hot latte with half and half milk and whipped cream, correct? Let me just add that to your order. 
+
+[2025-06-21T12:34:39.437Z] AI Agent: Added 1 item(s) to your cart. Total: $0.00
+
+[2025-06-21T12:34:39.437Z] AI Agent: Added 1 item(s) to your cart. Total: $0.00. What else can I get you?
+
+[2025-06-21T12:34:39.437Z] Customer: No. That's it for now.
+
+[2025-06-21T12:34:39.437Z] AI Agent: Alright, so I've got your medium hot latte with half and half milk and whipped cream. Before I place the order, I just want to confirm a few details. Your name is Jitin, right? And you'd like to pick up your order at our Union, NJ location? Also, do you have any special requests or allergies I should note? 
+
+[2025-06-21T12:34:39.437Z] AI Agent: I've added your special instructions to the order.
+
+[2025-06-21T12:34:39.437Z] Customer: No. I don't have any. Thank you so much for asking.
+
+[2025-06-21T12:34:39.437Z] AI Agent: I've added that to your order. Now, let me just place this order for you. 
+
+[2025-06-21T12:34:39.437Z] AI Agent: Your order has been placed successfully! Your order number is 674179. Total: $0.00. Special instructions: None. Thank you for your order!
+
+[2025-06-21T12:34:39.438Z] AI Agent: Your order has been placed successfully. Your order number is 674179. We'll have your medium hot latte with half and half milk and whipped cream ready for pickup at our Union, NJ location. If you need any further assistance, feel free to ask. Have a great day, Jitin! 
+
+[2025-06-21T12:34:39.438Z] AI Agent: OK

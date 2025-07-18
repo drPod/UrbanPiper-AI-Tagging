@@ -1,0 +1,48 @@
+Call ID: 685c072132ebb07e593c14e8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-25T14:26:41.597Z
+End Time: 2025-06-25T14:29:24.614Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: The user ordered a Breakfast Bundle and customized it with 13 plain bagels, two tubs of spread (Vanilla Cream Cheese and Strawberry), and four muffins.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-25T14:29:23.690Z] AI Agent: Hello Jitin, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-25T14:29:23.690Z] Customer: Breakfast bundle.
+
+[2025-06-25T14:29:24.614Z] Unknown: [2025-06-25T14:29:23.691Z] assistant: Got it. The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). 
+
+Would you like to add 4oz of premium Acme smoked nova to make it extra special for an additional $9.99?
+
+[2025-06-25T14:29:23.691Z] AI Agent: Alright, let's start with the
+
+[2025-06-25T14:29:23.691Z] Customer: No. I don't want it.
+
+[2025-06-25T14:29:24.614Z] Unknown: [2025-06-25T14:29:23.691Z] assistant: Okay, got it. We'll skip the smoked nova. Now, let's start customizing your Breakfast Bundle. First up, the Bagel Dozen. You need to select exactly 13 bagels. Here are your options: Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, and Bagel Stick. 
+
+What would you like to choose for your bagels?
+
+[2025-06-25T14:29:23.692Z] Customer: Okay. So wait. Wait. Okay. Yeah. I'll go with the, all 13 as apple bagels.
+
+[2025-06-25T14:29:23.692Z] AI Agent: I'm sorry, but we don't have an option called "apple bagels" in the Bagel Dozen selection. Here are the available options again: Plain,
+
+[2025-06-25T14:29:23.692Z] Customer: Okay. So then go with the 13 bagel, 13 plain bagel. Okay?
+
+[2025-06-25T14:29:23.692Z] AI Agent: Alright, got it. You'll have 13 Plain Bagels. Next, we need to choose 2 Tubs of Spread. The options are: Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), Storemade
+
+[2025-06-25T14:29:23.692Z] Customer: Okay. So one vanilla cream cheese and, strawberry.
+
+[2025-06-25T14:29:23.692Z] AI Agent: Okay, got it. You'll have one Vanilla Cream Cheese and one Strawberry. Next, we need to choose 4 Muffins.
+
+[2025-06-25T14:29:23.693Z] Customer: Hey. Do do you really have the vanilla green keys? Tell me.
+
+[2025-06-25T14:29:23.693Z] AI Agent: I'm sorry, but we don't have a "Guava Lime Cream Cheese" option. The available spreads are: Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion
+
+[2025-06-25T14:29:23.693Z] Customer: When so when when I when I mentioned the greens vanilla green teas, you said, okay. So you you did not validated my option. Why?
+
+[2025-06-25T14:29:23.693Z] AI Agent: You're absolutely right to clarify, and I appreciate your attention to detail. Let me double-check the options for the "Choose 2 Tubs of Spread" group. The available options are: Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion

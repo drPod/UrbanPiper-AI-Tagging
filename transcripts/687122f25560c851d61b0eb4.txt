@@ -1,0 +1,40 @@
+Call ID: 687122f25560c851d61b0eb4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T14:42:58.590Z
+End Time: 2025-07-11T14:45:54.176Z
+Duration: 172 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer, John, attempted to order a Breakfast Bundle from Manhattan Bagel but had issues with selecting cream cheese flavors due to unavailable options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T14:45:53.781Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-11T14:45:53.781Z] Customer: Who has, what's your name?
+
+[2025-07-11T14:45:53.781Z] AI Agent: I don't see fortchun on our menu. We have a variety of bagels, such as Plain, Everything, Sesame, and Cinnamon Raisin. Which one of these sounds good to you?
+
+[2025-07-11T14:45:53.781Z] Customer: Okay. I'd like to order Big First bundle.
+
+[2025-07-11T14:45:53.781Z] AI Agent: The Breakfast Bundle includes thirteen fresh-baked Manhattan Bagels, two tubs of cream cheese, and four muffins. You'll need to pick thirteen bagels for your bundle. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg Everything, French Toast Bagel, Garlic, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, and Honey Whole Wheat Everything. Which ones would you like?
+
+[2025-07-11T14:45:53.781Z] Customer: Okay. So I'm looking to order five certainly five, plane.
+
+[2025-07-11T14:45:53.782Z] AI Agent: You'd like five Sesame bagels and five Plain bagels. That's ten bagels so far. You still need to pick three more to complete the set of thirteen. We also have Blueberry, Chocolate Chip, Cinnamon Raisin, Egg Everything, French Toast Bagel, Garlic, Multigrain
+
+[2025-07-11T14:45:53.782Z] Customer: Okay. So then I I then I will go with the rest of the three as, garlic mango then.
+
+[2025-07-11T14:45:53.782Z] AI Agent: Perfect, so you've got five Sesame bagels, five Plain bagels, and three Garlic bagels. That completes your thirteen bagels for the Breakfast Bundle. Next, you'll need to choose two tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive,
+
+[2025-07-11T14:45:53.782Z] Customer: Okay. I'll I'll choose the clean, and another one could be blueberry pinches.
+
+[2025-07-11T14:45:53.782Z] AI Agent: I don't see Blueberry Peach cream cheese on our menu. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, and Butter. Which one would you like as your second cream cheese?
+
+[2025-07-11T14:45:53.782Z] Customer: Blueberry green cheese.
+
+[2025-07-11T14:45:53.782Z] AI Agent: I don't see Blueberry cream cheese on our menu. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, 
+
+[2025-07-11T14:45:53.782Z] Customer: Okay.

@@ -1,0 +1,38 @@
+Call ID: 6879b791970f265df9e6aea2
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T02:55:13.761Z
+End Time: 2025-07-18T02:56:57.757Z
+Duration: 99 seconds
+From: 918008546111
+To: 918035740152
+Summary: Karishma Jain, a Jain customer, inquired about Indian options and customization at Manhattan Bagel, but ultimately did not place an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T02:56:57.536Z] AI Agent: Hello Anchul Gandhi Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T02:56:57.536Z] Customer: I'm not Anshul Gandhi, by the way. I'm Karishma Jain. Get your facts right.
+
+[2025-07-18T02:56:57.536Z] AI Agent: I apologize for the mistake, Karishma Jain. I'll make sure to get your name right from now on. Welcome to Manhattan Bagel! What can I get for you today?
+
+[2025-07-18T02:56:57.537Z] Customer: Yeah. Yeah. Give me the options what all you have besides legal.
+
+[2025-07-18T02:56:57.537Z] AI Agent: We have a variety of items besides bagels. Let me tell you about our breakfast sandwiches, we have the Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich, and many more. We also have omelets,
+
+[2025-07-18T02:56:57.537Z] Customer: I want something Indian.
+
+[2025-07-18T02:56:57.538Z] AI Agent: I'm happy to help you with that. However, I want to let you know that our menu is primarily focused on bagels and American-style breakfast and lunch items. We don't have traditional Indian dishes on our menu.
+
+[2025-07-18T02:56:57.538Z] Customer: But I'm Indian, so customize something according to me. And I'm Jane also, so I want no onions.
+
+[2025-07-18T02:56:57.757Z] Unknown: [2025-07-18T02:56:57.538Z] assistant: I'd be happy to help you customize something to your taste. As a Jain, I'll make sure to avoid onions and any other ingredients that may not be suitable for your dietary preferences.
+
+Let me suggest a few options. We have a variety of bagels that can be toasted or not, and we can add avocado, hummus, or other spreads that are onion-free. We also have a fruit cup or a yogurt parfait that could be a good option.
+
+Could you tell me if you have a preference for something sweet or savory? And would you like something to drink with your order?
+
+[2025-07-18T02:56:57.538Z] Customer: 
+
+[2025-07-18T02:56:57.538Z] AI Agent: I'd be happy to help you place your order. Before we proceed, I just want to confirm that you'd like to customize something to your taste, avoiding onions

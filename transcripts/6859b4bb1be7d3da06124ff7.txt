@@ -1,0 +1,100 @@
+Call ID: 6859b4bb1be7d3da06124ff7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T20:10:35.849Z
+End Time: 2025-06-23T20:17:38.694Z
+Duration: 480 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for a Breakfast Bundle and a Hot Latte at Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T20:17:37.187Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T20:17:37.187Z] Customer: I'd love to have, breakfast bundle and, hot latte.
+
+[2025-06-23T20:17:37.187Z] AI Agent: The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. And you'd also like a Hot Latte, excellent. Let me get the options for your bagel choices...
+
+[2025-06-23T20:17:37.188Z] AI Agent: For the Breakfast Bundle, let's start with the Bagel Dozen. You need to choose exactly 13 bagels. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like? Please tell me the names of the bagels you'd like, and I'll help you with the next step.
+
+[2025-06-23T20:17:37.188Z] Customer: Yeah. So I'm looking to order, all, four, sesame, four, garlic, and rest could be, like, everything.
+
+[2025-06-23T20:17:38.694Z] Unknown: [2025-06-23T20:17:37.188Z] assistant: You'd like 4 Sesame bagels, 4 Garlic bagels, and the rest, which is 5, to be Everything bagels. That sounds like a great combination. 
+
+Next, let's move on to the Choose 2 Tubs of Spread. You need to select exactly 2 tubs of spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which two tubs of spread would you like?
+
+[2025-06-23T20:17:37.188Z] Customer: Strawberry and play.
+
+[2025-06-23T20:17:38.694Z] Unknown: [2025-06-23T20:17:37.188Z] assistant: You'd like two tubs of Plain Cream Cheese. 
+
+Moving on to the Choose 4 Muffins, you can select between 1 and 4 muffins. We have options like Blueberry, Corn, Double Chocolate, and more. Which muffins would you like? You can choose up to 4.
+
+[2025-06-23T20:17:37.188Z] Customer: Okay. So I want, one, chocolate chip and one, blueberry.
+
+[2025-06-23T20:17:37.189Z] AI Agent: You'd like 1 Chocolate Chip muffin and 1 Blueberry muffin. That's a great choice. Next, let's look at the Box of Coffee. This is an optional 
+
+[2025-06-23T20:17:37.189Z] Customer: Okay. Okay. Can you tell me, like, can I can I like, do I have strawberry muffin as well?
+
+[2025-06-23T20:17:37.189Z] AI Agent: Let me check on that for you. 
+
+[2025-06-23T20:17:37.189Z] AI Agent: I've checked on the muffin options for you. Unfortunately, we don't have a Strawberry muffin option available. However, you can choose from Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, or Cranberry Orange. You've already selected 1 Chocolate Chip and 1 Blueberry muffin. Would you like to add any of the other available muffin options to your selection?
+
+[2025-06-23T20:17:37.189Z] Customer: No. For now, I think whatever I selected, that is good enough.
+
+[2025-06-23T20:17:37.189Z] AI Agent: You're happy with your current muffin selection of 1 Chocolate Chip and 1 Blueberry. Now, let's move on to the Box of Coffee. This is an optional selection, so you can choose to add a box of coffee to your order or not. If you do want to add coffee,
+
+[2025-06-23T20:17:37.190Z] Customer: And how much I can how much box I can select?
+
+[2025-06-23T20:17:37.190Z] AI Agent: For the Box of Coffee, you can select up to 1 box. We have options like House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Each box is priced at $24.99. Would you like to add a box of coffee to your order, and if so, which type would you prefer?
+
+[2025-06-23T20:17:37.190Z] Customer: He's a lad.
+
+[2025-06-23T20:17:37.190Z] AI Agent: You'd like to add a box of House Blend coffee to your order. That's a great choice. Now, let's
+
+[2025-06-23T20:17:37.190Z] Customer: No. No. I said I said hazelnut hazelnut hazelnut. Okay? Not the house blend. I said hazelnut.
+
+[2025-06-23T20:17:38.694Z] Unknown: [2025-06-23T20:17:37.190Z] assistant: You'd like to add a box of Vanilla Hazelnut coffee to your order. I've got that noted.
+
+Now, let's move on to your Hot Latte. I'll get the options for your latte...
+
+[2025-06-23T20:17:37.191Z] AI Agent: For your Hot Latte, let's start with the size. You need to choose exactly 1 size. We have Small (12oz) for $3.99, Medium (16oz) for $4.49, and Large (20oz) for $4.99. Which size would you like?
+
+[2025-06-23T20:17:37.191Z] Customer: I'll go with a medium size and half and half milk. Also, love to have, whipped cream as well.
+
+[2025-06-23T20:17:38.694Z] Unknown: [2025-06-23T20:17:37.191Z] assistant: You'd like a Medium (16oz) Hot Latte with Half & Half milk, and you'd also like to add Whipped Cream on top. I've got that noted.
+
+Next, I just need to confirm a few things before I place your order. Would you like me to read back your entire order to make sure everything is correct?
+
+[2025-06-23T20:17:37.191Z] Customer: No. No. I don't want that. You can proceed with the next step.
+
+[2025-06-23T20:17:38.694Z] Unknown: [2025-06-23T20:17:37.191Z] assistant: I'll proceed with the next step then.
+
+Do you have any special requests or allergies I need to note for the kitchen?
+
+[2025-06-23T20:17:37.191Z] Customer: No. As of now, I don't have any ID. Just
+
+[2025-06-23T20:17:37.191Z] AI Agent: Alright Jitin, ready to place this
+
+[2025-06-23T20:17:37.191Z] Customer: Yeah.
+
+[2025-06-23T20:17:37.191Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-23T20:17:37.191Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T20:17:37.192Z] Customer: Yeah. I'm still there.
+
+[2025-06-23T20:17:37.192Z] Customer: What happened? Can you please can you please order?
+
+[2025-06-23T20:17:37.192Z] AI Agent: {'result': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 437359. That's 4, 3, 7, 3, 5, 9. Total: $67.33 (subtotal 61.22 dollars plus 6.11 dollars tax). Thank you for your order!", 'responseType': 'tool-response', 'success': True, 'orderNumber': '437359', 'orderTotal': 67.33, 'itemCount': 2, 'customer': '', 'orderSummary': {'orderNumber': '437359', 'callId': '7c2e3c2c-7cfb-419c-b845-980ad4db2ef7', 'tenantName': 'manhattan_bagel_864915', 'storeId': '1', 'customer': {'name': '', 'contact_number': '', 'country_code': '+1', 'customer_email': 'noemail@example.com', 'full_address': 'Pickup Order - No Address Required', 'locality': 'Restaurant Location', 'payment_method_preference': 'cash', 'preferred_time_for_delivery_pickup': 'pickup'}, 'items': [{'item_name': 'Breakfast Bundle', 'ref_id': 'itm_56909689-7fb1-4357-87d9-ccb288517f9e', 'quantity': 1, 'base_price': 29.99, 'modifier_groups': [{'group_title': 'Bagel Dozen', 'option_title': 'Sesame', 'price': 0, 'quantity': 4, 'group_ref_id': 'mg1409622', 'option_ref_id': '5709601'}, {'group_title': 'Bagel Dozen', 'option_title': 'Garlic', 'price': 0, 'quantity': 4, 'group_ref_id': 'mg1409622', 'option_ref_id': '5709589'}, {'group_title': 'Bagel Dozen', 'option_title': 'Everything', 'price': 0, 'quantity': 5, 'group_ref_id': 'mg1409622', 'option_ref_id': '5709579'}, {'group_title': 'Choose 2 Tubs of Spread', 'option_title': 'Plain Cream Cheese', 'price': 0, 'quantity': 2, 'group_ref_id': 'mg1409626', 'option_ref_id': '5709607'}, {'group_title': 'Choose 4 Muffins', 'option_title': 'Chocolate Chip', 'price': 0, 'quantity': 1, 'group_ref_id': 'mg1409623', 'option_ref_id': '5709623'}, {'group_title': 'Choose 4 Muffins', 'option_title': 'Blueberry', 'price': 0, 'quantity': 1, 'group_ref_id': 'mg1409623', 'option_ref_id': '5709620'}, {'group_title': 'Box of Coffee', 'option_title': 'Vanilla Hazelnut', 'price': 24.99, 'quantity': 1, 'group_ref_id': 'mg1409624', 'option_ref_id': '5709628'}], 'item_total_price': 54.98, 'category': 'Uncategorized', 'description': '', 'food_type': '1', 'taxes': []}, {'item_name': 'Hot Latte', 'ref_id': 'itm_b6bf6948-ff9f-462e-aeb1-647e795a4e31', 'quantity': 1, 'base_price': 0, 'modifier_groups': [{'group_title': 'Size', 'option_title': 'Medium 16oz', 'price': 4.49, 'quantity': 1, 'group_ref_id': 'mg1409647', 'option_ref_id': '5709699'}, {'group_title': 'Specialty Drink Milk Choice', 'option_title': 'Half & Half', 'price': 1, 'quantity': 1, 'group_ref_id': 'mg1409585', 'option_ref_id': '5709427'}, {'group_title': 'Sweetener & Syrups', 'option_title': 'Whipped Cream', 'price': 0.75, 'quantity': 1, 'group_ref_id': 'mg1409578', 'option_ref_id': '5709401'}], 'item_total_price': 6.24, 'category': 'Beverages', 'description': '', 'food_type': '1', 'taxes': []}], 'itemCount': 2, 'subtotal': 61.22, 'specialInstructions': '', 'placedAt': '2025-06-23T20:16:39.120Z'}, 'externalApiResponse': {'status': 'success', 'message': 'Order processed', 'order_request_id': '97197c40-168a-4626-9801-ea8f90b63adb', 'order_total_price': 67.33, 'total_tax_applied': 6.11}, 'externalApiSubmitted': True}
+
+[2025-06-23T20:17:37.192Z] AI Agent: Order placed successfully! Your order number is 4, 3, 7, 3, 5, 9. Your total comes out to be $61.22 plus $6.11 in tax, making it $67.33. We'll have that ready for you shortly here at Manhattan Bagel!
+
+[2025-06-23T20:17:37.192Z] Customer: Okay. Thank you so much.
+
+[2025-06-23T20:17:37.192Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, we'll see you soon to pick up your Breakfast Bundle and Hot Latte. Have a great day!
+
+[2025-06-23T20:17:37.192Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T20:17:37.192Z] Customer: No. Thank you so much. I'll see the order now. Bye bye. It's very good.

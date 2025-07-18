@@ -1,0 +1,97 @@
+Call ID: 6868edb545548bd51ce59ef3
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T09:17:41.713Z
+End Time: 2025-07-05T09:23:30.077Z
+Duration: 345 seconds
+From: +919686500112
+To: +16204558091
+Summary: M G ordered a breakfast bundle with a specific selection of bagels, cream cheese, and muffins
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T09:23:28.438Z] AI Agent: Hello M G Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T09:23:28.438Z] Customer: Can I get a breakfast bundle?
+
+[2025-07-05T09:23:28.438Z] AI Agent: A breakfast bundle sounds like a great choice. To confirm, a breakfast bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can also add 4oz of premium Acme smoked nova for an extra $9.99. Would you like to add the nova to your bundle?
+
+[2025-07-05T09:23:28.438Z] Customer: Not right now.
+
+[2025-07-05T09:23:28.439Z] AI Agent: For the bagels, you can choose from our variety of flavors. We have plain, everything, asiago, blueberry, and many more. Which 13 bagels would you like to include in your bundle?
+
+[2025-07-05T09:23:28.439Z] Customer: Give me four asiago, four plate, four blueberry.
+
+[2025-07-05T09:23:28.439Z] AI Agent: So, for your breakfast bundle, I have 4 Asiago bagels, 4 Plain bagels, and 4 Blueberry bagels. That's a total of 12 bagels. You still need to choose 1 more bagel to complete your bundle of 13. Which type would you like for
+
+[2025-07-05T09:23:28.440Z] Customer: Give me give me four assessment.
+
+[2025-07-05T09:23:28.440Z] AI Agent: So, for your breakfast bundle, I have 4 Asiago bagels, 4 Plain bagels, 4 Blueberry bagels, and 1 Sesame bagel. Now, let's move on to the cream cheese. You get to choose 2 tubs of cream cheese.
+
+[2025-07-05T09:23:28.441Z] Customer: Can you repeat can you repeat the bigger choices?
+
+[2025-07-05T09:23:28.442Z] AI Agent: For your breakfast bundle, you've chosen 4 Asiago bagels, 4 Plain bagels, 4 Blueberry bagels, and 1 Sesame bagel. Now, let's move on to the cream
+
+[2025-07-05T09:23:28.442Z] Customer: No. I said four sesame. Can you give me four sesame?
+
+[2025-07-05T09:23:28.443Z] AI Agent: So, for your breakfast bundle, I have 4 Asiago bagels, 4 Plain bagels, 4 Blueberry bagels, and 4 Sesame bagels, and 1 more bagel to choose. You still need to choose 1 more bagel to complete your bundle of 13. Which type would you like for the last one?
+
+[2025-07-05T09:23:28.444Z] Customer: How many do I have right now?
+
+[2025-07-05T09:23:28.444Z] AI Agent: Let me recap your bagel choices. You currently have 4 Asiago bagels, 4 Plain bagels, 4 Blueberry bagels, and 1 Sesame bagel was incorrect, you actually said 4 Sesame bagels. So, that's a total of 4 + 4 + 4 + 4 = 16 bagels. You have already exceeded the 13 bagels included in the bundle. Would you like to adjust your selection to fit the 13 bagel limit?
+
+[2025-07-05T09:23:28.444Z] Customer: Okay. Give me can can you just refresh me?
+
+[2025-07-05T09:23:28.446Z] AI Agent: Let's adjust your bagel selection to fit the 13 bagel limit. You had 4 Asiago, 4 Plain, 4 Blueberry, and 4 Sesame. To get to 13, I can reduce the Sesame bagels to 1. So, your new total would be: 4 Asiago, 4 Plain, 4 Blueberry, and 1 Sesame. This combination adds up to 13 bagels. How does that sound?
+
+[2025-07-05T09:23:28.447Z] Customer: Sounds okay.
+
+[2025-07-05T09:23:28.447Z] AI Agent: Now that we have your bagel selection finalized, let's move on to the cream cheese. You get to choose 2 tubs of cream cheese for your breakfast bundle. We have a variety of flavors to choose from, such as Plain, Strawberry, Scallion, and Honey Almond. Which two flavors would you like?
+
+[2025-07-05T09:23:28.447Z] Customer: Give me brown and black.
+
+[2025-07-05T09:23:28.447Z] AI Agent: I don't see Brown and Black as options for our cream cheese flavors. We have Plain, Strawberry, Scallion, and Honey Almond. Which two of these flavors would you like for your breakfast bundle?
+
+[2025-07-05T09:23:28.447Z] Customer: Okay. Give me honey almond and, blueberry.
+
+[2025-07-05T09:23:28.447Z] AI Agent: We don't have a Blueberry cream cheese option. We have Plain, Strawberry, Scallion, and Honey Almond. You've already chosen the Honey Almond,
+
+[2025-07-05T09:23:28.448Z] Customer: Okay. Scallion and give me scallion next.
+
+[2025-07-05T09:23:28.448Z] AI Agent: So, for your cream cheese, you'd like to have Honey Almond and Scallion. Now, let's move on to the muffins. You get to choose 4 muffins for your breakfast bundle. We have a variety of flavors such as Blueberry, Double Chocolate, Cinnamon Chip, and Cranberry Orange. Which 4 muffin flavors would you like?
+
+[2025-07-05T09:23:28.448Z] Customer: To Seniman
+
+[2025-07-05T09:23:28.448Z] AI Agent: I
+
+[2025-07-05T09:23:28.448Z] Customer: Six. Go on. And one.
+
+[2025-07-05T09:23:28.449Z] AI Agent: For your muffin selection, you've chosen 2 Corn muffins, and 1 Chocolate Chip muffin, and you still need to choose 1 more muffin to complete your selection of 4.
+
+[2025-07-05T09:23:28.449Z] Customer: No. No. I said I said two chocolate two corn, four chocolate chip, and one blueberry.
+
+[2025-07-05T09:23:28.449Z] AI Agent: So, to confirm, for your muffin selection, you would like 2 Chocolate Chip muffins, 2 Corn muffins, but you also mentioned 4 Chocolate Chip and 1 Blueberry, which exceeds the 4 muffin limit. Let me try to clarify: would you like 2 Chocolate Chip, 2 Corn, or do you want to adjust to something else within the 4 muffin limit?
+
+[2025-07-05T09:23:28.449Z] Customer: Okay. Give me two of my shift to Gong.
+
+[2025-07-05T09:23:30.077Z] Unknown: [2025-07-05T09:23:28.449Z] assistant: So, for your muffin selection, you'd like 2 Chocolate Chip muffins and 2 Corn muffins. I've got that updated.
+
+To recap, your breakfast bundle includes:
+
+* 4 Asiago bagels
+* 4 Plain bagels
+* 4 Blueberry bagels
+* 1 Sesame bagel
+* 2 tubs of cream cheese: Honey Almond and Scallion
+* 4 muffins: 2 Chocolate Chip and 2 Corn
+
+Is there anything else you'd like to add or change?
+
+[2025-07-05T09:23:28.450Z] Customer: No.
+
+[2025-07-05T09:23:28.450Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-05T09:23:28.450Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-05T09:23:28.451Z] AI Agent: And may I have the name for this order?

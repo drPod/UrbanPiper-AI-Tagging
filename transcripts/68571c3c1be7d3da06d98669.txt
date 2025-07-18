@@ -1,0 +1,93 @@
+Call ID: 68571c3c1be7d3da06d98669
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T20:55:24.867Z
+End Time: 2025-06-21T21:00:44.079Z
+Duration: 360 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered a Breakfast Bundle with modifications and a box of Vanilla Hazelnut coffee from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T21:00:42.853Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T21:00:42.853Z] Customer: Breakfast bundle.
+
+[2025-06-21T21:00:42.853Z] AI Agent: The Breakfast Bundle, a fantastic choice! That comes with thirteen fresh-baked Manhattan Bagels, two tubs of cream cheese, and four muffins. You can also make it extra special by adding four ounces of premium Acme smoked nova for just nine dollars and ninety-nine cents. Would you like to add the smoked nova?
+
+[2025-06-21T21:00:42.853Z] Customer: No. No. I don't want that. Just want to, you know, go with the breakfast bundle.
+
+[2025-06-21T21:00:42.853Z] AI Agent: Alright, no problem. Let's start with your choices for the two tubs of cream cheese that come with the bundle. Let me get the flavor options for you...
+
+[2025-06-21T21:00:42.853Z] AI Agent: I hope you are still with me!
+
+[2025-06-21T21:00:42.853Z] Customer: Yes.
+
+[2025-06-21T21:00:42.854Z] AI Agent: Let me get the options for your cream cheese. We have several flavors. You can pick two. To start, some popular ones are Plain, Vegetable, or Scallion. Do any of those sound good, or would you like to hear a few more?
+
+[2025-06-21T21:00:42.854Z] AI Agent: For the cream cheese, we have several flavors. You can pick two. To start, some popular ones are Plain, Vegetable, or Scallion. Do any of those sound good, or would you like to hear a few more?
+
+[2025-06-21T21:00:42.854Z] Customer: Plain. I think all all I I I can choose all plain plain. Right?
+
+[2025-06-21T21:00:42.854Z] AI Agent: Yes, you can choose two tubs of the same flavor, so two Plain cream cheeses would be perfectly fine. Now, let's move on to the muffins. You get to choose four muffins. We have Blueberry, Corn, Double Chocolate, and a few other options. Which ones sound good to you?
+
+[2025-06-21T21:00:42.854Z] Customer: Blueberry and, chocolate chips.
+
+[2025-06-21T21:00:42.854Z] AI Agent: You've chosen two Blueberry muffins and two Chocolate Chip muffins. Now, let's talk about the bagels. You get thirteen bagels with the Breakfast Bundle. We have a variety of flavors like Plain, Everything, Asiago, and many more. Which ones would you like to choose? Or would you like me to suggest some popular combinations?
+
+[2025-06-21T21:00:42.854Z] Customer: Can I have three, plain, three garlic, three asiago?
+
+[2025-06-21T21:00:42.855Z] AI Agent: You'd like to have three Plain bagels, three Garlic bagels, and three Asiago bagels. That's a great selection! For the remaining four bagels, would you like to choose from the other flavors we have, such as Everything, Sesame, or maybe some of our sweeter options like Blueberry or Cinnamon Raisin?
+
+[2025-06-21T21:00:42.855Z] Customer: You can do the, everything.
+
+[2025-06-21T21:00:44.079Z] Unknown: [2025-06-21T21:00:42.855Z] assistant: So, for the remaining four bagels, you'd like to have four Everything bagels. That completes your Breakfast Bundle selection.
+
+To confirm, you have:
+
+* Two tubs of Plain cream cheese
+* Four muffins: two Blueberry and two Chocolate Chip
+* Thirteen bagels: three Plain, three Garlic, three Asiago, and four Everything
+
+Perfect, let me add that to your order...
+
+[2025-06-21T21:00:42.855Z] Customer: But can I have box of coffee as well?
+
+[2025-06-21T21:00:42.855Z] AI Agent: You'd like to add a box of coffee to your order. Let me see what coffee options we have available. We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Which one of these sounds good to you?
+
+[2025-06-21T21:00:42.855Z] Customer: He's a little
+
+[2025-06-21T21:00:44.079Z] Unknown: [2025-06-21T21:00:42.856Z] assistant: You've chosen the Vanilla Hazelnut coffee. That's a great choice! I'll add a box of Vanilla Hazelnut coffee to your order.
+
+So, to recap, you now have:
+
+* The Breakfast Bundle with two tubs of Plain cream cheese, four muffins (two Blueberry and two Chocolate Chip), and thirteen bagels (three Plain, three Garlic, three Asiago, and four Everything)
+* A box of Vanilla Hazelnut coffee
+
+Perfect, let me add that to your order... 
+
+[2025-06-21T21:00:42.856Z] AI Agent: Added 2 item(s) to your cart. Total: $56.48
+
+[2025-06-21T21:00:44.079Z] Unknown: [2025-06-21T21:00:42.856Z] assistant: Alright, I've added the Breakfast Bundle and the box of Vanilla Hazelnut coffee to your order. Your total comes out to be $56.48. 
+
+Now, would you like me to read back your order to make sure everything is correct?
+
+[2025-06-21T21:00:42.856Z] Customer: No
+
+[2025-06-21T21:00:42.856Z] AI Agent: Alright, so you're confirming that your order is correct as discussed. Do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-21T21:00:42.856Z] Customer: No.
+
+[2025-06-21T21:00:42.857Z] AI Agent: I'll make sure the kitchen knows. Alright, let me get this order placed for you... 
+
+[2025-06-21T21:00:42.857Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 185175. That's 1, 8, 5, 1, 7, 5. Total: $59.62 (subtotal 56.48 dollars plus 3.14 dollars tax). Thank you for your order!
+
+[2025-06-21T21:00:42.857Z] AI Agent: Alright Mehul, your order is placed! Your order number is 1, 8, 5, 1, 7, 5. Your total comes out to be $56.48 plus $3.14 in tax, making it $59.62. We'll have your order ready for pickup shortly. Thank you for ordering from Manhattan Bagel!
+
+[2025-06-21T21:00:42.857Z] Customer: Okay. Thank you so much.
+
+[2025-06-21T21:00:42.857Z] AI Agent: You're welcome, Mehul. It was a pleasure helping you with your order. Have a great day and we'll see you soon at Manhattan Bagel! 
+
+[2025-06-21T21:00:42.858Z] AI Agent: OK

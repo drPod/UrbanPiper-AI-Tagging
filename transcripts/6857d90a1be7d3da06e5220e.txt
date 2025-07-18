@@ -1,0 +1,24 @@
+Call ID: 6857d90a1be7d3da06e5220e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T10:20:58.248Z
+End Time: 2025-06-22T10:22:04.080Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered an Avocado Toast with a Plain bagel and the call ended before completing the full customization and ordering process.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T10:22:02.856Z] AI Agent: Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T10:22:02.856Z] Customer: I'll work on the Toast.
+
+[2025-06-22T10:22:02.856Z] AI Agent: The Avocado Toast, excellent choice. That's toasted multigrain bread or any bagel with avocado and everything bagel seasoning. Let me get the options for your bagel choices...
+
+[2025-06-22T10:22:02.856Z] AI Agent: For the Avocado Toast, you can choose from a variety of bagels. We have Plain, Everything, Asiago, Blueberry, and many more. Which type of bagel would you like?
+
+[2025-06-22T10:22:02.856Z] Customer: I'd like to have, clean bakers.
+
+[2025-06-22T10:22:02.856Z] AI Agent: For the Avocado Toast, you've chosen a Plain bagel. Now, let's move on to the condiments. We have options like Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, Tomato Spread, Butter, Cream Cheese, and Jelly. Which condiment would you like to add?

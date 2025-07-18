@@ -1,0 +1,54 @@
+Call ID: 685a8b96f664fde5010e4369
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T11:27:18.310Z
+End Time: 2025-06-24T11:30:58.678Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a Crumb Cake and a Fruity Rice Crispy Bar from Manhattan Bagel for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T11:30:58.101Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-24T11:30:58.101Z] Customer: I'm looking to order, some pastry. Do you have pastries?
+
+[2025-06-24T11:30:58.101Z] AI Agent: We have a variety of pastries available. Let me get the options for you.
+
+[2025-06-24T11:30:58.101Z] AI Agent: Let me get the options for your pastry. We have a variety of pastries to choose from. For the Pastry Choice, you can select one option from Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, or Fruity Rice Crispy Bar. Which one would you like?
+
+[2025-06-24T11:30:58.101Z] Customer: Can you please repeat the options again?
+
+[2025-06-24T11:30:58.101Z] AI Agent: For the Pastry Choice, you have the following options: Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, or Fruity Rice Crispy Bar. Which one sounds good to you?
+
+[2025-06-24T11:30:58.101Z] Customer: Last two. I I I need last two pastries.
+
+[2025-06-24T11:30:58.678Z] Unknown: [2025-06-24T11:30:58.101Z] assistant: You'd like to order the last two pastries, which are the Crumb Cake and the Fruity Rice Crispy Bar. I'll go ahead and add those to your order. 
+
+Is there anything else I can get for you?
+
+[2025-06-24T11:30:58.101Z] Customer: Can I know, the taxes, on these two item? What the total price and how much tax, is there?
+
+[2025-06-24T11:30:58.101Z] AI Agent: The Crumb Cake is $3.49 and the Fruity Rice Crispy Bar is $3.49. The total price for these two items is $6.98. As for the tax, we have a tax rate of 9.98%. So, the tax on the Crumb Cake would be $0.35, and the tax on the Fruity Rice Crispy Bar would also be $0.35. The total tax for both items would be $0.70. The total price you'd pay, including tax, would be $6.98 for the items plus $0.70 in tax, which comes out to be $7.68. Now, let me confirm your order. You've ordered the Crumb Cake and the Fruity Rice Crispy Bar, correct? And you'd like to pick it up, right? Before I place the
+
+[2025-06-24T11:30:58.101Z] Customer: Yes. You're right.
+
+[2025-06-24T11:30:58.102Z] AI Agent: I just need to confirm a few more details. Your name is Jitin, and you'd like to pick up your order, correct? Also, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-24T11:30:58.102Z] Customer: No. I don't have any allergies. Just, have the, you know, good packing so that I can carry, from two different city as well. That's it.
+
+[2025-06-24T11:30:58.678Z] Unknown: [2025-06-24T11:30:58.102Z] assistant: I've noted that you don't have any allergies, and you'd like us to pack your order nicely so it's easy to carry, especially since you'll be traveling between cities. I'll make sure to let the team know.
+
+Now, I just need to confirm one last time: you're ordering the Crumb Cake and the Fruity Rice Crispy Bar, and you'd like to pick them up. The total comes out to be $7.68, including tax. Is that all correct?
+
+[2025-06-24T11:30:58.102Z] Customer: Yeah. True.
+
+[2025-06-24T11:30:58.102Z] AI Agent: Alright, let me get this order placed for you...Please hold for a moment
+
+[2025-06-24T11:30:58.102Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 1750764621664. That's 1, 7, 5, 0, 7, 6, 4, 6, 2, 1, 6, 6, 4.", 'order_id': '1750764621664', 'call_id': '76a3f867-62c1-46b0-a750-3d5999f382f2', 'responseType': 'tool-response', 'api_response': {'status': 'success', 'workflow_run_id': 'id: "55b3cc3357dc4a9fa4d248f5b9bd4381"\n', 'call_id': '76a3f867-62c1-46b0-a750-3d5999f382f2', 'message': 'Menu content refresh workflow started.'}}
+
+[2025-06-24T11:30:58.102Z] AI Agent: Your order number is 1, 7, 5, 0, 7, 6, 4, 6, 2, 1, 6, 6, 4. The total for your order comes out to be $7.68. We will have your Crumb Cake and Fruity Rice Crispy Bar ready for pickup. Thank you for choosing Manhattan Bagel, and we look forward to serving you. Have a great day.
+
+[2025-06-24T11:30:58.102Z] AI Agent: I hope you are still with me!

@@ -1,0 +1,66 @@
+Call ID: 68792d96970f265df9e35d4a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T17:06:30.487Z
+End Time: 2025-07-17T17:09:18.127Z
+Duration: 158 seconds
+From: +13377393629
+To: +16204558091
+Summary: Jude placed an order for a Classic Nova Lox Sandwich on a lightly toasted blueberry bagel with butter and notified the kitchen of a penicillin allergy.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T17:09:17.792Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T17:09:17.792Z] Customer: Thank you. Big O with locks, please.
+
+[2025-07-17T17:09:17.792Z] AI Agent: That would be our Classic Nova Lox Sandwich on the menu. I'll add that for you. Now, let's customize it. You mentioned you'd like it on a bagel. I have Plain, Everything, Asiago, Blueberry, and more. What type of bagel would you like?
+
+[2025-07-17T17:09:17.792Z] Customer: Blueberry.
+
+[2025-07-17T17:09:17.792Z] AI Agent: For your Classic Nova Lox Sandwich, I've got the blueberry bagel. Now, would you like it toasted, lightly toasted, toasted dark, or no toasting?
+
+[2025-07-17T17:09:17.792Z] Customer: Lightly toasted with butter.
+
+[2025-07-17T17:09:17.792Z] AI Agent: So, lightly toasted with butter on your blueberry bagel for the Classic Nova Lox Sandwich. Anything else you'd like to add, such as capers or extra lox?
+
+[2025-07-17T17:09:17.792Z] Customer: No. That's it.
+
+[2025-07-17T17:09:17.793Z] AI Agent: Just a moment while I add that up... Your total for the Classic Nova Lox Sandwich on a lightly toasted blueberry bagel with butter comes out to be $14.98. Would you like to place any other orders or is that all for today?
+
+[2025-07-17T17:09:17.793Z] Customer: No. I like the pay.
+
+[2025-07-17T17:09:17.793Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-17T17:09:17.793Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T17:09:17.793Z] AI Agent: May I have your name for the order?
+
+[2025-07-17T17:09:17.793Z] Customer: Your name on the order is Jude?
+
+[2025-07-17T17:09:17.793Z] AI Agent: Thank you, Jude. And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T17:09:17.793Z] Customer: I'm allergic to, penicillin.
+
+[2025-07-17T17:09:17.793Z] AI Agent: I've noted that you have a penicillin allergy. I'll make sure to let the kitchen know. Alright, Jude. Would you like me to
+
+[2025-07-17T17:09:17.794Z] Customer: K. I'm also I'm also I'm also allergic to dirty feet.
+
+[2025-07-17T17:09:17.794Z] AI Agent: I think there might be some confusion, Jude. As a kitchen, we take food allergies very seriously, but "dirty feet" isn't a typical food allergy. Could you please clarify or provide more context about what you mean by "dirty feet"? This will help me better 
+
+[2025-07-17T17:09:17.794Z] Customer: All good. Thank you. That's good. Let's go ahead and pay.
+
+[2025-07-17T17:09:17.794Z] AI Agent: I cannot assist with that request as it is not within my programming or ethical guidelines. Is there something else I can help you with?
+
+[2025-07-17T17:09:17.794Z] Customer: I'd like to pay.
+
+[2025-07-17T17:09:17.794Z] AI Agent: Great. Placing that for you now, please hold on... 
+
+[2025-07-17T17:09:17.794Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 833123. That's 8, 3, 3, 1, 2, 3.", 'order_id': '833123', 'call_id': '65354ca8-e7dc-4c2f-91db-4dd54065a5b0', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0198195b-fa69-9b84-3f3f-e9aedb6ae472'}
+
+[2025-07-17T17:09:17.794Z] AI Agent: Your order number is 8, 3, 3, 1, 2, 3. Your total is fourteen dollars and ninety-eight cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-17T17:09:17.794Z] Customer: No. Thank you. Goodbye.
+
+[2025-07-17T17:09:17.794Z] AI Agent: You're welcome, Jude. It was a pleasure assisting you. Have a great day and enjoy your Classic Nova Lox Sandwich! Goodbye!

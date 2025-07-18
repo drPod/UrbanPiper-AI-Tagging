@@ -1,0 +1,30 @@
+Call ID: 686e7ffdd14f3abcfb385229
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T14:43:09.713Z
+End Time: 2025-07-09T14:44:03.251Z
+Duration: 49 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer briefly inquired about available beverages and then ended the call.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T14:44:02.919Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T14:44:02.920Z] Customer: I like to order, Diet Coke.
+
+[2025-07-09T14:44:02.922Z] AI Agent: Okay we have Diet Coke available Would you like to choose a size for your Diet Coke? We have twelve ounce cans.
+
+[2025-07-09T14:44:02.922Z] Customer: Hello?
+
+[2025-07-09T14:44:02.923Z] AI Agent: Hello again! How can I assist you today?
+
+[2025-07-09T14:44:02.924Z] Customer: Do we have apple juice?
+
+[2025-07-09T14:44:02.924Z] AI Agent: We do have apple juice available Would you like to choose a size? We have eleven ounce options.
+
+[2025-07-09T14:44:02.924Z] Customer: Give me one second.
+
+[2025-07-09T14:44:02.924Z] AI Agent: Sure thing take your time.

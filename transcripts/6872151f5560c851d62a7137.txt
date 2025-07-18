@@ -1,0 +1,92 @@
+Call ID: 6872151f5560c851d62a7137
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T07:56:15.046Z
+End Time: 2025-07-12T08:01:50.263Z
+Duration: 332 seconds
+From: +918949862707
+To: +16516156214
+Summary: The customer, Jutin, placed an order for a Breakfast Bundle from Manhattan Bagel, which included a selection of bagels, cream cheese, muffins, and hash browns.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T08:01:49.741Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T08:01:49.741Z] Customer: I'd like to order breakfast bundle.
+
+[2025-07-12T08:01:49.742Z] AI Agent: The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and 4 hash browns. You'll need to pick just one type of bagel for your bundle. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, and more. Which type of bagel would you like?
+
+[2025-07-12T08:01:49.742Z] Customer: Okay. Get me, three, plain, four everything, two vanilla, three, garlic. The rest of the three can be blueberry bagel.
+
+[2025-07-12T08:01:50.263Z] Unknown: [2025-07-12T08:01:49.742Z] assistant: For the Breakfast Bundle, you've selected 3 Plain, 4 Everything, 2 Vanilla, and 3 Garlic bagels. That's 12 bagels so far. You still need to pick 1 more bagel to complete the set of 13. You mentioned Blueberry for the rest, so I'll add 1 Blueberry bagel to complete your bundle.
+
+Now, let's move on to the cream cheese. You'll need to choose 2 types of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, and more. Which 2 types of cream cheese would you like?
+
+[2025-07-12T08:01:49.742Z] Customer: I want, one plain, and one vanilla cream cheese.
+
+[2025-07-12T08:01:50.263Z] Unknown: [2025-07-12T08:01:49.742Z] assistant: You've chosen 1 Plain Cream Cheese and 1 Vanilla Cream Cheese for your Breakfast Bundle.
+
+Next, let's select the 4 muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which 4 muffins would you like? You can choose any combination of these flavors.
+
+[2025-07-12T08:01:49.742Z] Customer: I want, two of them as chocolate chip, and one as, what was what are the other options? Can you please repeat?
+
+[2025-07-12T08:01:49.742Z] AI Agent: For the muffins, you've chosen 2 Chocolate Chip and you'd like to know the other options for the remaining 2 muffins. We have Blueberry, Corn, Double Chocolate, Cinnamon Chip, and Cranberry
+
+[2025-07-12T08:01:49.742Z] Customer: Okay. One corn and one corn and 10 berry.
+
+[2025-07-12T08:01:50.263Z] Unknown: [2025-07-12T08:01:49.743Z] assistant: For the muffins, you've selected 2 Chocolate Chip, 1 Corn, and 1 Cranberry Orange. That completes the muffin selection for your Breakfast Bundle.
+
+Now, let's review your order: 3 Plain bagels, 4 Everything bagels, 2 Vanilla bagels, 3 Garlic bagels, and 1 Blueberry bagel, 1 Plain Cream Cheese, 1 Vanilla Cream Cheese, 2 Chocolate Chip muffins, 1 Corn muffin, and 1 Cranberry Orange muffin, and 4 hash browns.
+
+Is there anything else you'd like to add or change in your order?
+
+[2025-07-12T08:01:49.743Z] Customer: What's the total price?
+
+[2025-07-12T08:01:50.263Z] Unknown: [2025-07-12T08:01:49.743Z] assistant: Let me calculate the total price for your Breakfast Bundle.
+
+The Breakfast Bundle itself is $29.99. 
+
+For the bagels, you've chosen a mix of types, but since it's a bundle, the price is fixed at $29.99 regardless of the bagel types.
+
+For the cream cheese, you've chosen 1 Plain and 1 Vanilla, which is included in the bundle price.
+
+For the muffins, you've chosen 2 Chocolate Chip, 1 Corn, and 1 Cranberry Orange, which is also included in the bundle price.
+
+The total price for your Breakfast Bundle is $29.99.
+
+Would you like to proceed with the payment or make any changes to your order?
+
+[2025-07-12T08:01:49.743Z] Customer: No. I'm good with that. We can proceed.
+
+[2025-07-12T08:01:50.263Z] Unknown: [2025-07-12T08:01:49.743Z] assistant: I'll go ahead and finalize your order. Your total comes out to be $29.99. We'll get your Breakfast Bundle ready for you. 
+
+Let me just confirm your order one last time: 3 Plain bagels, 4 Everything bagels, 2 Vanilla bagels, 3 Garlic bagels, and 1 Blueberry bagel, 1 Plain Cream Cheese, 1 Vanilla Cream Cheese, 2 Chocolate Chip muffins, 1 Corn muffin, and 1 Cranberry Orange muffin, and 4 hash browns.
+
+I'm going to go ahead and put this order in for you. We'll have it ready for pickup at your convenience. 
+
+
+
+[2025-07-12T08:01:49.744Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-12T08:01:49.746Z] Customer: Okay.
+
+[2025-07-12T08:01:49.746Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 619083. That's 6, 1, 9, 0, 8, 3.", 'order_id': '619083', 'call_id': 'a4ad9a40-12f9-4fa1-afe1-cbe99a6af478', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fda6-7d5e-8cee-86db-0b6773aa0859'}
+
+[2025-07-12T08:01:49.746Z] AI Agent: Your order is created successfully now! The order number is 6, 1, 9, 0, 8, 3, and the total including taxes comes to $32.88. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-12T08:01:49.746Z] Customer: Can you repeat the price again? Like, what is the total price?
+
+[2025-07-12T08:01:49.746Z] AI Agent: The total price for your order, including taxes, is $32.88.
+
+[2025-07-12T08:01:49.754Z] Customer: How much? 32?
+
+[2025-07-12T08:01:49.754Z] AI Agent: The total price is thirty-two dollars and eighty-eight cents.
+
+[2025-07-12T08:01:49.755Z] Customer: Okay.
+
+[2025-07-12T08:01:49.755Z] AI Agent: You're all set then. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, have a great day and enjoy your Breakfast Bundle from Manhattan Bagel!
+
+[2025-07-12T08:01:49.755Z] Customer: Okay. Bye.
+
+[2025-07-12T08:01:49.755Z] AI Agent: OK

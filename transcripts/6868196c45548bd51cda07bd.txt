@@ -1,0 +1,38 @@
+Call ID: 6868196c45548bd51cda07bd
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-04T18:11:56.362Z
+End Time: 2025-07-04T18:13:53.436Z
+Duration: 120 seconds
+From: +918949862707
+To: +16516156214
+Summary: The customer wanted to order a Manhattan Cheesesteak Sandwich and hot coffee but had questions about the menu options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-04T18:13:52.983Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-04T18:13:52.983Z] Customer: I'm looking to order, manatee and cheese steak sandwich and hot coffee.
+
+[2025-07-04T18:13:52.984Z] AI Agent: Let me get that started for you. The Manhattan Cheesesteak Sandwich is on a long roll with grilled steak, roasted peppers, grilled onions, and cheese. Would you like to hear the available customizations for your sandwich?
+
+[2025-07-04T18:13:52.984Z] Customer: 
+
+[2025-07-04T18:13:52.984Z] AI Agent: Alright now for your Bagel Choice you can select 1. Let's start with popular choices: Plain, Everything, Asiago, Blueberry, and California. Would you like one of these or more options?
+
+[2025-07-04T18:13:52.984Z] Customer: I think you are mistaken because can we please check the menu again?
+
+[2025-07-04T18:13:52.984Z] AI Agent: You're absolutely right let me fix that. The Manhattan Cheesesteak Sandwich actually doesn't have a bagel choice—it's served on a long roll. Would you like to hear the other customizations available for your sandwich?
+
+[2025-07-04T18:13:52.984Z] Customer: Yeah.
+
+[2025-07-04T18:13:53.028Z] AI Agent: Alright now for your Cheese you can select 1. Let's start with popular choices: American, Swiss, Cheddar, and Provolone. Would you like one of these or more options?
+
+[2025-07-04T18:13:53.029Z] Customer: I still think you need to check Manhattan Cheesesteak.
+
+[2025-07-04T18:13:53.029Z] AI Agent: You're absolutely right let me fix that. The Manhattan Cheesesteak Sandwich actually doesn't include cheese as a separate modifier—it comes with cheese included. Would you like to hear the other customizations available for your sandwich?
+
+[2025-07-04T18:13:53.029Z] Customer: Yep. We'll do that.
+
+[2025-07-04T18:13:53.029Z] AI Agent: Alright now for your Add Vegetables you can select up to 1. Let's start with popular choices: Lettuce, Tomato, and Red Onions. Would you like one of these or more options?

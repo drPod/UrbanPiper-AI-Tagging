@@ -1,0 +1,26 @@
+Call ID: 6879be59970f265df9e6b1a5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T03:24:09.080Z
+End Time: 2025-07-18T03:25:20.390Z
+Duration: 60 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha ordered a hash brown after being informed that the Big Breakfast Burrito was out of stock.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T03:25:20.135Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T03:25:20.135Z] Customer: Hey. Hi, how are you doing?
+
+[2025-07-18T03:25:20.135Z] AI Agent: I'm doing well, thank you for asking. It's great to have you back at Manhattan Bagel. What can I get for you today?
+
+[2025-07-18T03:25:20.135Z] Customer: Yeah. Can you give me big breakfast burrito?
+
+[2025-07-18T03:25:20.136Z] AI Agent: I'm sorry, but our Big Breakfast Burrito is currently out of stock today. We have other breakfast options like the Original Classic, Spinach Bacon Croissant, or the Farmhouse Egg Sandwich. Which one of these sounds good to you?
+
+[2025-07-18T03:25:20.136Z] Customer: And how about hash brown? Can you give me hash brown, please?
+
+[2025-07-18T03:25:20.136Z] AI Agent: We have hash browns available. I'll add that for you. Would you like it as a side, or would you like it included in one of our breakfast sandwiches, like the Original Classic or the Farmhouse Egg Sandwich?

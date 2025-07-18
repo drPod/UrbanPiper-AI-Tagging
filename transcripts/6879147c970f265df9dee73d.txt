@@ -1,0 +1,102 @@
+Call ID: 6879147c970f265df9dee73d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T15:19:24.986Z
+End Time: 2025-07-17T15:23:50.592Z
+Duration: 263 seconds
+From: +447518793881
+To: +441313810000
+Summary: The customer placed an order for a Chicken Cheese Steak with Swiss cheese and a side of chips from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T15:23:50.131Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T15:23:50.132Z] Customer: Moi ton domaine
+
+[2025-07-17T15:23:50.592Z] Unknown: [2025-07-17T15:23:50.132Z] assistant: We have a variety of items on our menu. For breakfast, we have sandwiches like the Original Classic, which comes with egg, cheese, and your choice of meat on a bagel. We also have omelets, pancakes, and French toast. 
+
+If you're looking for something lighter, we have bagels with cream cheese or butter, and a selection of muffins, pastries, and cookies. 
+
+For lunch, we offer a range of sandwiches, including grilled chicken, turkey, and ham, as well as vegetarian options. We also have soups, salads, and wraps. 
+
+And of course, no meal is complete without a drink. We have coffee, tea, hot chocolate, and a variety of juices and sodas. 
+
+What sounds good to you?
+
+[2025-07-17T15:23:50.132Z] Customer: Let's go with a chicken sandwich.
+
+[2025-07-17T15:23:50.592Z] Unknown: [2025-07-17T15:23:50.132Z] assistant: For a chicken sandwich, I have a few options. We have the Grilled Chicken Club, which comes with grilled chicken, bacon, lettuce, tomato, and mayo on a bagel. We also have the Chicken Cheese Steak, which features grilled chicken, roasted peppers, grilled onions, and cheese on a hero roll. And if you're looking for something a bit different, we have the Spicy Avocado Grilled Chicken, which includes grilled chicken, avocado, pepper jack cheese, and jalapeno cream cheese on a jalapeno bacon roll.
+
+Which of these chicken sandwiches sounds appealing to you?
+
+[2025-07-17T15:23:50.133Z] Customer: For the second one.
+
+[2025-07-17T15:23:50.592Z] Unknown: [2025-07-17T15:23:50.133Z] assistant: The Chicken Cheese Steak is a popular choice. It comes with grilled chicken, roasted peppers, grilled onions, and cheese on a hero roll. 
+
+Now, let's customize it for you. What kind of cheese would you like? I have American, Swiss, Pepper Jack, or Provolone. And would you like it toasted or not toasted?
+
+[2025-07-17T15:23:50.133Z] Customer: Swiss and Notters.
+
+[2025-07-17T15:23:50.133Z] AI Agent: So, you'd like the Chicken Cheese Steak with Swiss cheese and not toasted. Next, would you like to add any vegetables to your sandwich? I have options like lettuce, tomato, spinach, cucumber, and more.
+
+[2025-07-17T15:23:50.134Z] Customer: No. No. Really. No.
+
+[2025-07-17T15:23:50.134Z] AI Agent: So, no additional vegetables for you. Now, let's talk about the side. Would you like to choose a side to go with your Chicken Cheese Steak? I have chips, coleslaw, or you can upgrade to Lays chips for a little extra.
+
+[2025-07-17T15:23:50.134Z] Customer: No.
+
+[2025-07-17T15:23:50.592Z] Unknown: [2025-07-17T15:23:50.134Z] assistant: So, you'd like the Chicken Cheese Steak with Swiss cheese, not toasted, and no additional vegetables, with a side of chips. 
+
+Now, I just need to calculate the total for you. Just a moment... 
+
+Your Chicken Cheese Steak with Swiss cheese, not toasted, and a side of chips comes out to be $10.49. 
+
+Would you like to place your order or make any changes?
+
+[2025-07-17T15:23:50.134Z] Customer: How much is that in British pounds?
+
+[2025-07-17T15:23:50.592Z] Unknown: [2025-07-17T15:23:50.135Z] assistant: I'm happy to help you with the conversion. However, please note that exchange rates can fluctuate, and I might not have the most up-to-date rate. That being said, as of my knowledge cutoff, 1 USD is approximately equal to 0.82 GBP. 
+
+So, if your order is $10.49, that would be roughly £8.61. Keep in mind that this is an estimate and might not reflect the current exchange rate. 
+
+Would you like to proceed with your order or make any changes?
+
+[2025-07-17T15:23:50.135Z] Customer: Proceed.
+
+[2025-07-17T15:23:50.592Z] Unknown: [2025-07-17T15:23:50.135Z] assistant: I'll go ahead and place your order for the Chicken Cheese Steak with Swiss cheese, not toasted, and a side of chips. 
+
+Just to confirm, your total comes out to be $10.49. I'll get that ready for you. 
+
+Now, I'll transition you to the next stage to complete your order. Perfect, let me get that all put together for you. 
+
+
+
+[2025-07-17T15:23:50.135Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T15:23:50.136Z] AI Agent: May I have your name for the order?
+
+[2025-07-17T15:23:50.136Z] Customer: David.
+
+[2025-07-17T15:23:50.136Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T15:23:50.136Z] Customer: The long way for collections, will be ten to twelve hours.
+
+[2025-07-17T15:23:50.592Z] Unknown: [2025-07-17T15:23:50.136Z] assistant: I've made a note that you'll be picking up your order in 10 to 12 hours. 
+
+Alright, Dave. Would you like me to read back your order with all the details?
+
+[2025-07-17T15:23:50.137Z] Customer: 
+
+[2025-07-17T15:23:50.592Z] Unknown: [2025-07-17T15:23:50.137Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-17T15:23:50.137Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 466651. That's 4, 6, 6, 6, 5, 1.", 'order_id': '466651', 'call_id': 'a37fc1c9-de52-47d5-97c3-9f470a199064', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '019818fb-8a30-a20f-3d10-16959276356e'}
+
+[2025-07-17T15:23:50.137Z] AI Agent: Your order number is 4, 6, 6, 6, 5, 1. Your total is $10.49 including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-17T15:23:50.138Z] Customer: 
+
+[2025-07-17T15:23:50.138Z] AI Agent: You're all set then. It was a pleasure helping you with your order. If you have any other questions or need assistance in the future, don't hesitate to reach out. Have a great day, and enjoy your Chicken Cheese Steak from Manhattan Bagel!

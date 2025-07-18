@@ -1,0 +1,34 @@
+Call ID: 687a6b54a1698f75073111ec
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T15:42:12.825Z
+End Time: 2025-07-18T15:43:18.062Z
+Duration: 53 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha ordered two Blueberry Pastries from manhattan_bagel_864915, with a total of $7.68 including tax.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T15:43:15.626Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T15:43:15.626Z] Customer: Okay. Give me pastry, two brownie pastry.
+
+[2025-07-18T15:43:15.626Z] AI Agent: That will be our Pastry on the menu, just confirming it's available. For your Pastry, I have Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, or Cranberry Orange. You've chosen Blueberry, and you'd like two of those, correct?
+
+[2025-07-18T15:43:15.626Z] Customer: Yes.
+
+[2025-07-18T15:43:15.626Z] AI Agent: I'll add the two Blueberry Pastries for you. Would you like anything else today?
+
+[2025-07-18T15:43:15.627Z] Customer: No.
+
+[2025-07-18T15:43:18.062Z] Unknown: [2025-07-18T15:43:15.627Z] assistant: Just a moment while I add that up... 
+
+
+
+[2025-07-18T15:43:18.062Z] Unknown: [2025-07-18T15:43:15.627Z] assistant: Your total for the two Blueberry Pastries comes to 7 dollars and 68 cents including tax. Perfect, let me get that all put together for you.
+
+
+
+[2025-07-18T15:43:15.628Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes

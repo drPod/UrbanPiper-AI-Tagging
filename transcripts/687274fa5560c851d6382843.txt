@@ -1,0 +1,60 @@
+Call ID: 687274fa5560c851d6382843
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T14:45:14.267Z
+End Time: 2025-07-12T14:48:06.032Z
+Duration: 170 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer, Jutin, placed an order for a Chicken Cuban with modifications and Lays Chips, which was successfully submitted and confirmed with an order number and total price.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T14:48:05.674Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T14:48:05.674Z] Customer: Can you get me, chicken Cuban?
+
+[2025-07-12T14:48:05.674Z] AI Agent: The Chicken Cuban comes on a roll with grilled chicken, ham, Swiss cheese, pickle mustard, and mayo. You'll need to pick just one lunch side for your Chicken Cuban. We have Chips, Cole Slaw, or Lays
+
+[2025-07-12T14:48:05.674Z] Customer: I will choose, late ships.
+
+[2025-07-12T14:48:05.674Z] AI Agent: Perfect, so that's Lays Chips for your side. Now, would you like your Chicken Cuban roll to be toasted, lightly toasted, toasted dark, or no toast?
+
+[2025-07-12T14:48:05.674Z] Customer: Toasted duck.
+
+[2025-07-12T14:48:05.674Z] AI Agent: The Chicken Cuban roll will be toasted dark. You can also add some extra items if you'd like. For lunch veggies, you can add up to eleven different ones if you'd like, or skip this step entirely. We have lettuce, tomato, onion, spinach, cucumber, green
+
+[2025-07-12T14:48:05.674Z] Customer: Okay. You can you can add lettuce only. Lettuce, onion, and cucumber. That's it.
+
+[2025-07-12T14:48:05.674Z] AI Agent: So, I'll add lettuce, onion, and cucumber to your Chicken Cuban. Anything else I can get for you today?
+
+[2025-07-12T14:48:05.674Z] Customer: What all things I'm having? Like, can you tell me?
+
+[2025-07-12T14:48:05.674Z] AI Agent: Let me summarize your order. You have the Chicken Cuban, which comes with grilled chicken, ham, Swiss cheese, pickle mustard, and mayo on a roll, toasted dark. You've also added lettuce, onion, and cucumber. And for your side, you've chosen Lays Chips. Is there anything else I can get for you today?
+
+[2025-07-12T14:48:05.674Z] Customer: No. That's it.
+
+[2025-07-12T14:48:05.674Z] AI Agent: I'll get that ready for you. Let me just confirm: one Chicken Cuban with lettuce, onion, cucumber, toasted dark, and Lays Chips on the side. I'll put that order in for you. Is there anything else I can assist you with today?
+
+[2025-07-12T14:48:05.674Z] Customer: No.
+
+[2025-07-12T14:48:05.674Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-12T14:48:05.674Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-12T14:48:05.675Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 508880. That's 5, 0, 8, 8, 8, 0.", 'order_id': '508880', 'call_id': '026f8975-ce7b-4133-8551-18625fafc309', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197ff1a-bdd7-4554-ff8f-67c4d9b0b246'}
+
+[2025-07-12T14:48:05.675Z] AI Agent: Your order is created successfully now! The order number is 5, 0, 8, 8, 8, 0, and the total including taxes comes to $15.18. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?
+
+[2025-07-12T14:48:05.675Z] Customer: I think, all done. I don't have anything. Okay. One one thing I want to know hello?
+
+[2025-07-12T14:48:05.675Z] AI Agent: I'm still here. What's the one thing you'd like to know?
+
+[2025-07-12T14:48:05.675Z] Customer: Yeah. So, what is the total price?
+
+[2025-07-12T14:48:05.675Z] AI Agent: The total price for your order, including taxes, is $15.18.
+
+[2025-07-12T14:48:05.675Z] Customer: 15.
+
+[2025-07-12T14:48:05.675Z] AI Agent: OK

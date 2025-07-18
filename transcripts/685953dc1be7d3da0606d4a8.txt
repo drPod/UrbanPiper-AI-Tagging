@@ -1,0 +1,100 @@
+Call ID: 685953dc1be7d3da0606d4a8
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T13:17:16.964Z
+End Time: 2025-06-23T13:22:56.177Z
+Duration: 360 seconds
+From: +918949862707
+To: +16204558091
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T13:22:55.680Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T13:22:55.680Z] Customer: 
+
+[2025-06-23T13:22:55.680Z] AI Agent: The Breakfast Bundle, great choice. That's one of our popular items, which includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get all the customization options for you.
+
+[2025-06-23T13:22:55.681Z] AI Agent: I have all the options for your Breakfast Bundle right here. Ready to customize now? Let's start with the Bagel Dozen. We need
+
+[2025-06-23T13:22:55.681Z] Customer: 
+
+[2025-06-23T13:22:55.681Z] AI Agent: For the Bagel Dozen, we need to choose
+
+[2025-06-23T13:22:55.681Z] Customer: Sorry?
+
+[2025-06-23T13:22:55.681Z] AI Agent: For the Bagel Dozen, we need to choose exactly 13 bagels. We have a variety of flavors such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like? You can choose from our list of options.
+
+[2025-06-23T13:22:55.681Z] Customer: Okay. I want, like, two of garlic, two of everything, and, 10 of, blueberry, and one of, plain.
+
+[2025-06-23T13:22:55.681Z] AI Agent: Let me confirm your bagel selection. You'd like 2 Garlic bagels, 2 Everything bagels, 10 Blueberry bagels, and 1 Plain bagel. That's a total of 15 bagels, but we need exactly 13 for the Breakfast Bundle. Would you like to adjust your selection to fit the 13 bagel requirement?
+
+[2025-06-23T13:22:55.682Z] Customer: Okay. So I will reduce this, some three three from, like, blueberry, I think.
+
+[2025-06-23T13:22:56.177Z] Unknown: [2025-06-23T13:22:55.682Z] assistant: So you'd like to reduce the number of Blueberry bagels by 3. That would bring it down to 7 Blueberry bagels. 
+
+To confirm, your new selection is: 
+2 Garlic bagels, 
+2 Everything bagels, 
+7 Blueberry bagels, and 
+1 Plain bagel, 
+and 1 more bagel to reach the total of 13. Which type of bagel would you like for the last one?
+
+[2025-06-23T13:22:55.682Z] Customer: Could be plain. You can add one more plain.
+
+[2025-06-23T13:22:56.177Z] Unknown: [2025-06-23T13:22:55.682Z] assistant: I'll add one more Plain bagel to your selection.
+
+So, to confirm, your final bagel selection is:
+2 Garlic bagels,
+2 Everything bagels,
+7 Blueberry bagels, and
+2 Plain bagels.
+
+That's a total of 13 bagels. I'll move on to the next customization option. 
+
+Next, let's choose 2 tubs of spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, and more. Which two spreads would you like?
+
+[2025-06-23T13:22:55.682Z] Customer: Thinking of, vanilla and vegetable cream cheese.
+
+[2025-06-23T13:22:56.177Z] Unknown: [2025-06-23T13:22:55.682Z] assistant: For the 2 tubs of spread, you'd like to choose Vanilla and Vegetable Cream Cheese. I'll make a note of that.
+
+Next, let's move on to the muffin selection. We need to choose 4 muffins, and you can select from options like Blueberry, Corn, Double Chocolate, and more. Which 4 muffins would you like?
+
+[2025-06-23T13:22:55.682Z] Customer: All of vanilla.
+
+[2025-06-23T13:22:56.177Z] Unknown: [2025-06-23T13:22:55.682Z] assistant: You'd like all 4 muffins to be Vanilla. That's a great choice.
+
+Finally, let's consider the Box of Coffee. It's an optional item, and you can choose one type of coffee or none at all. We have options like House Blend, Decaf, Vanilla Hazelnut, and more. Would you like to add a Box of Coffee to your Breakfast Bundle, or would you like to skip it?
+
+[2025-06-23T13:22:55.682Z] Customer: You can add decaf.
+
+[2025-06-23T13:22:56.177Z] Unknown: [2025-06-23T13:22:55.730Z] assistant: I'll add the Decaf coffee to your Breakfast Bundle.
+
+Now that we've customized your Breakfast Bundle, I'll review your order to ensure everything is correct. You've chosen 2 Garlic bagels, 2 Everything bagels, 7 Blueberry bagels, and 2 Plain bagels. For the spreads, you've selected Vanilla and Vegetable Cream Cheese. You've also chosen 4 Vanilla muffins and added a Box of Decaf coffee.
+
+Before I place your order, is there anything else you'd like to add or change?
+
+[2025-06-23T13:22:55.730Z] Customer: No. I don't want to change anything. Thank you.
+
+[2025-06-23T13:22:55.730Z] AI Agent: I'm going to place your order now. 
+
+[2025-06-23T13:22:55.730Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T13:22:55.731Z] Customer: Yes. I'm still there.
+
+[2025-06-23T13:22:55.731Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-23T13:22:55.731Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.
+
+[2025-06-23T13:22:55.731Z] Customer: You are not able to place the order because, there's a mistake in the update order. Right?
+
+[2025-06-23T13:22:56.177Z] Unknown: [2025-06-23T13:22:55.731Z] assistant: I didn't update the order correctly before trying to place it. Let me fix that.
+
+To update your order, I'll need to add the Breakfast Bundle with all the customizations we discussed. Here's the update: 
+
+
+[2025-06-23T13:22:55.731Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T13:22:55.732Z] Customer: 

@@ -1,0 +1,26 @@
+Call ID: 685b10aa9ae6a419f3d732c7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T20:55:06.923Z
+End Time: 2025-06-24T20:56:02.089Z
+Duration: 60 seconds
+From: +13215054148
+To: +16204558091
+Summary: Ace Jack inquired about the status of his existing order with order number 5 8 2 9 3 2 at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T20:56:01.747Z] AI Agent: Hello Ace Jack, Welcome to Manhattan Bagel. It is great to see you again. What would you like to order?
+
+[2025-06-24T20:56:01.748Z] Customer: Yeah. I'd like to ask you I just placed an order. The order ID was 582932. Can you tell me how long it's still gonna take to be ready?
+
+[2025-06-24T20:56:01.748Z] AI Agent: Hello Welcome to Manhattan Bagel I am BagelBot an AI Assistant and What would you like to order?
+
+[2025-06-24T20:56:01.748Z] Customer: No. I've already placed an order. Ace Jack's already placed an order.
+
+[2025-06-24T20:56:01.748Z] AI Agent: Let me check on the status of your order. Can you please confirm your order number is 5 8 2 9 3 2?
+
+[2025-06-24T20:56:01.748Z] Customer: Yes.
+
+[2025-06-24T20:56:01.748Z] AI Agent: OK

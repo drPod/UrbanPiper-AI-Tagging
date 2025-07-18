@@ -1,0 +1,20 @@
+Call ID: 6859ab6a1be7d3da0611f754
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T19:30:50.546Z
+End Time: 2025-06-23T19:31:39.312Z
+Duration: 60 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with the help of the assistant.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T19:31:39.108Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T19:31:39.108Z] Customer: Hi. I'd like to order the breakfast bundle.
+
+[2025-06-23T19:31:39.108Z] AI Agent: The Breakfast Bundle, great choice. That's one of our popular options, including 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get the options for your bagel choices... 
+
+[2025-06-23T19:31:39.108Z] AI Agent: Let me get the options for your bagel choices. The available customization groups are: Bagel Dozen, Choose 2 Tubs of Spread, Choose 4 Muffins, Box of Coffee. First, for the Bagel Dozen, you need to select exactly

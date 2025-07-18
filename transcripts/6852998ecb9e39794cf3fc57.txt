@@ -1,0 +1,139 @@
+Call ID: 6852998ecb9e39794cf3fc57
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T10:48:46.180Z
+End Time: 2025-06-18T10:55:38.619Z
+Duration: 420 seconds
+From: +919686500112
+To: +16204558091
+Summary: The customer, Vansh, ordered a Breakfast Bundle from Manhattan Bagel, but the order was not successfully placed due to technical issues.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T10:55:36.866Z] AI Agent: Hello Vansh, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T10:55:36.866Z] Customer: Can you tell me more about your breakfast bundle?
+
+[2025-06-18T10:55:36.866Z] AI Agent: Let me see what we have for breakfast. 
+
+[2025-06-18T10:55:36.866Z] AI Agent: Our Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can choose from a variety of bagel flavors, cream cheese flavors, and muffin types. The bundle costs $29.99. Would you like to add 4oz of premium Acme smoked nova for $9.99? Also, which bagel flavors would you like to choose? We have plain, everything, asiago, blueberry,
+
+[2025-06-18T10:55:36.866Z] Customer: I I I have the okay. I know the bagel choices. Give me
+
+[2025-06-18T10:55:36.867Z] AI Agent: Let
+
+[2025-06-18T10:55:36.867Z] Customer: Two plain.
+
+[2025-06-18T10:55:36.867Z] AI Agent: You've chosen 2
+
+[2025-06-18T10:55:36.867Z] Customer: 
+
+[2025-06-18T10:55:36.867Z] AI Agent: For the
+
+[2025-06-18T10:55:36.867Z] Customer: Two.
+
+[2025-06-18T10:55:36.867Z] AI Agent: You've chosen 2 Asiago bagels. Now, let's move on to the
+
+[2025-06-18T10:55:36.867Z] Customer: To to California.
+
+[2025-06-18T10:55:36.867Z] AI Agent: You've chosen 2 California bagels. Now, let's move on to the cream cheese selection. We have plain cream cheese,
+
+[2025-06-18T10:55:36.867Z] Customer: No. No. I we are not done with all the bagels. Right? How many bagels do I need to choose?
+
+[2025-06-18T10:55:36.867Z] AI Agent: You need to choose 13 bagels for the Breakfast Bundle. You've already chosen
+
+[2025-06-18T10:55:36.868Z] Customer: How many yeah. How many have you chosen?
+
+[2025-06-18T10:55:36.868Z] AI Agent: You've chosen 6 bagels so far: 2 Plain, 2 Asiago, and 2 California. You still need to choose 7 more bagels. Which ones would you like?
+
+[2025-06-18T10:55:36.868Z] Customer: Yeah. Give me three gluten free.
+
+[2025-06-18T10:55:36.868Z] AI Agent: You've chosen 3 Gluten-Free bagels. That brings the total to 9 bagels so far: 2 Plain,
+
+[2025-06-18T10:55:36.868Z] Customer: And remaining remaining jalapeno cheddar.
+
+[2025-06-18T10:55:38.619Z] Unknown: [2025-06-18T10:55:36.869Z] assistant: You've chosen the remaining 4 bagels to be Jalapeño Cheddar. So, to recap, your 13 bagels are: 2 Plain, 2 Asiago, 2 California, 3 Gluten-Free, and 4 Jalapeño Cheddar.
+
+Next, let's move on to the cream cheese selection. You need to choose 2 tubs of cream cheese. We have plain cream cheese, vegetable cream cheese, scallion cream cheese, and more. Which two would you like?
+
+[2025-06-18T10:55:36.869Z] Customer: I'll I want, one tub of store made locks spread chunky.
+
+[2025-06-18T10:55:36.869Z] AI Agent: You've chosen one tubof Store-Made Lox Spread (Chunky) for $1.5 extra. You still need to choose one more tub of cream cheese.
+
+[2025-06-18T10:55:36.869Z] Customer: Yeah. Give me give me one strawberry.
+
+[2025-06-18T10:55:38.619Z] Unknown: [2025-06-18T10:55:36.870Z] assistant: You've chosen one tub of Strawberry cream cheese.
+
+Next, let's move on to the muffin selection. You need to choose 4 muffins. We have blueberry, corn, double chocolate, chocolate chip, cinnamon chip, and cranberry orange. Which four would you like?
+
+[2025-06-18T10:55:36.870Z] Customer: Give me one cranberry orange, one cinnamon chip, one chocolate chip, and one corn.
+
+[2025-06-18T10:55:38.619Z] Unknown: [2025-06-18T10:55:36.870Z] assistant: You've chosen one Cranberry Orange, one Cinnamon Chip, one Chocolate Chip, and one Corn muffin.
+
+Now, let's recap your Breakfast Bundle:
+
+* 13 bagels: 2 Plain, 2 Asiago, 2 California, 3 Gluten-Free, and 4 Jalapeño Cheddar
+* 2 tubs of cream cheese: 1 Store-Made Lox Spread (Chunky) and 1 Strawberry
+* 4 muffins: 1 Cranberry Orange, 1 Cinnamon Chip, 1 Chocolate Chip, and 1 Corn
+
+The total cost of your Breakfast Bundle is $29.99, plus $1.5 for the Store-Made Lox Spread (Chunky), for a total of $31.49.
+
+Would you like to add anything else to your order, or would you like to proceed with the payment?
+
+[2025-06-18T10:55:36.870Z] Customer: That that breakfast bundle comes with coffee or no?
+
+[2025-06-18T10:55:36.870Z] AI Agent: The Breakfast Bundle does come with a box of coffee. You have a choice of flavors: House Blend,
+
+[2025-06-18T10:55:36.870Z] Customer: So you have not asked me for the coffee choice.
+
+[2025-06-18T10:55:38.619Z] Unknown: [2025-06-18T10:55:36.870Z] assistant: You are correct, I haven't asked you for your coffee choice yet. Let me correct that.
+
+For the coffee selection, you have a choice of flavors: House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Which one would you like?
+
+[2025-06-18T10:55:36.870Z] Customer: Dark rose.
+
+[2025-06-18T10:55:38.619Z] Unknown: [2025-06-18T10:55:36.870Z] assistant: You've chosen the Dark Roast coffee.
+
+Now, let's recap your Breakfast Bundle:
+
+* 13 bagels: 2 Plain, 2 Asiago, 2 California, 3 Gluten-Free, and 4 Jalapeño Cheddar
+* 2 tubs of cream cheese: 1 Store-Made Lox Spread (Chunky) and 1 Strawberry
+* 4 muffins: 1 Cranberry Orange, 1 Cinnamon Chip, 1 Chocolate Chip, and 1 Corn
+* 1 box of Dark Roast coffee
+
+The total cost of your Breakfast Bundle is $29.99, plus $1.5 for the Store-Made Lox Spread (Chunky), for a total of $31.49.
+
+Next, I'll need to confirm your order and ask if you have any special requests or allergies. Would you like to proceed with the order? 
+
+[2025-06-18T10:55:36.871Z] AI Agent: ERROR: 400 - {"success":false,"error":"Missing or invalid instructions. Must be a non-empty string."}
+
+[2025-06-18T10:55:36.871Z] Customer: No. No special request. I know the order. Just place it.
+
+[2025-06-18T10:55:36.871Z] AI Agent: Your total comes out to be $31.49. I just need to confirm, are you ready to place this order for pickup? 
+
+[2025-06-18T10:55:36.871Z] AI Agent: ERROR: 400 - {"success":false,"error":"No items found in cart. Please add items using update_order before placing order."}
+
+[2025-06-18T10:55:36.871Z] Customer: Please pick place the order for pickup.
+
+[2025-06-18T10:55:36.871Z] Customer: Hallo?
+
+[2025-06-18T10:55:38.619Z] Unknown: [2025-06-18T10:55:36.871Z] assistant: I apologize for the delay. It seems like there was an issue with placing your order. Let me try again. 
+
+First, I need to add the items to your cart. 
+
+[2025-06-18T10:55:36.872Z] Customer: Oh, I thought you already did.
+
+[2025-06-18T10:55:38.619Z] Unknown: [2025-06-18T10:55:36.872Z] assistant: I apologize for the confusion earlier. Let me start again from the beginning to ensure your order is placed correctly. 
+
+You had chosen the Breakfast Bundle, which includes 13 bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Your bagel selections were 2 Plain, 2 Asiago, 2 California, 3 Gluten-Free, and 4 Jalapeño Cheddar. For cream cheese, you chose 1 tub of Store-Made Lox Spread (Chunky) and 1 tub of Strawberry. Your muffin selections were 1 Cranberry Orange, 1 Cinnamon Chip, 1 Chocolate Chip, and 1 Corn. Finally, you chose Dark Roast coffee.
+
+To proceed with your order, I will first update your cart with these items. 
+
+[2025-06-18T10:55:36.872Z] AI Agent: I hope you are still with me!
+
+[2025-06-18T10:55:36.881Z] Customer: Waiting for you.
+
+[2025-06-18T10:55:36.881Z] Customer: Halo
+
+[2025-06-18T10:55:36.881Z] AI Agent: Let me update your order with the items 

@@ -1,0 +1,14 @@
+Call ID: 687356d75560c851d643d7cb
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-13T06:48:55.395Z
+End Time: 2025-07-13T06:49:11.094Z
+Duration: 10 seconds
+From: 918949862707
+To: 918035740152
+Summary: Mehl greeted and was welcomed back to Manhattan Bagel but did not place an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-13T06:49:10.716Z] AI Agent: Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?

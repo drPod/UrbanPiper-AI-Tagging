@@ -1,0 +1,54 @@
+Call ID: 685b0f9b9ae6a419f3d72f44
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T20:50:35.431Z
+End Time: 2025-06-24T20:52:39.170Z
+Duration: 180 seconds
+From: +13215054148
+To: +16204558091
+Summary: Ace Jack ordered a Baker's Dozen with 13 plain bagels, all sliced, and two tubs of plain cream cheese from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T20:52:38.808Z] AI Agent: Hello Ace Jack, Welcome to Manhattan Bagel. It is great to see you again. What would you like to order?
+
+[2025-06-24T20:52:38.808Z] Customer: I'd like a a a a baker's dozen.
+
+[2025-06-24T20:52:38.809Z] AI Agent: The Baker's Dozen, excellent choice. That's 13 fresh-baked Manhattan Bagels. Let me check the options for you. 
+
+[2025-06-24T20:52:38.809Z] AI Agent: Alright, now for your Bagel Dozen. For the Bagel Dozen, you can select between 1 and 13. You have options like Plain, Everything,
+
+[2025-06-24T20:52:38.809Z] Customer: I only want plain, and I want them all sliced, please.
+
+[2025-06-24T20:52:38.809Z] AI Agent: You'd like all 13 bagels to be Plain and you'd like them all sliced. That's a total of 1.5 dollars extra for slicing.
+
+[2025-06-24T20:52:38.809Z] Customer: Ok, let's go.
+
+[2025-06-24T20:52:38.810Z] AI Agent: Now,
+
+[2025-06-24T20:52:38.810Z] Customer: That's cool.
+
+[2025-06-24T20:52:38.810Z] AI Agent: Now, let's move on tothe Choose 2 Tubs of Spread. For the Choose
+
+[2025-06-24T20:52:38.810Z] Customer: I want just plain cheese, please.
+
+[2025-06-24T20:52:38.810Z] AI Agent: For the Choose 2 Tubsof Spread, you can select exactly 2. You've chosen
+
+[2025-06-24T20:52:38.810Z] Customer: I just want fucking plane, man.
+
+[2025-06-24T20:52:38.810Z] AI Agent: I apologize for the misunderstanding earlier. For the Choose 2 Tubs of Spread, you can select exactly 2, but it seems like you only want one Plain Cream Cheese. Let me see what I can do. 
+
+[2025-06-24T20:52:38.811Z] AI Agent: I understand that youwant only one Plain Cream Cheese. However, the selection rule for the Choose 2 Tubs of Spread is to select exactly 2. Would you like to choose another
+
+[2025-06-24T20:52:38.811Z] Customer: Indemnitude, Dimitri, Dimitri.
+
+[2025-06-24T20:52:38.811Z] AI Agent: I'll give you two Plain Cream Cheese. So, to confirm, you'd like 13 Plain bagels, all sliced, and two tubs of Plain Cream Cheese. Is there anything else I can get for you?
+
+[2025-06-24T20:52:38.812Z] Customer: I want me to get my order number, please.
+
+[2025-06-24T20:52:38.812Z] AI Agent: Let me get this order placed for you...Please hold for a moment. 
+
+[2025-06-24T20:52:38.812Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 582932. That's 5, 8, 2, 9, 3, 2.", 'order_id': '582932', 'call_id': '510abfef-e402-40a6-b47d-e100f5907aba', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': {'status': 'success', 'workflow_run_id': 'id: "a04eaf36932e477ca09421a8b0033d09"\n', 'call_id': '510abfef-e402-40a6-b47d-e100f5907aba', 'message': 'Menu content refresh workflow started.'}}
+
+[2025-06-24T20:52:38.812Z] AI Agent: Order placed successfully. Your order number is 5, 8, 2, 9, 3, 2. I have placed your order for 13 plain bagels, all sliced, and two tubs of plain cream cheese. We will have it ready for pickup. Have a great day.

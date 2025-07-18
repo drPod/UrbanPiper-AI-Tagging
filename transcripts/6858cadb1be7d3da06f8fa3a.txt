@@ -1,0 +1,34 @@
+Call ID: 6858cadb1be7d3da06f8fa3a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T03:32:43.340Z
+End Time: 2025-06-23T03:34:45.776Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jiten attempted to order a customized Multigrain Bagel but the order was not successfully placed due to an empty cart error.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T03:34:45.527Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T03:34:45.528Z] Customer: I like to order multigrain bagel with plain cream cheese, having tomato, onion, as in vegetable. Also, like to have American cheese cheese American cheese as extra cheese. Can I get this?
+
+[2025-06-23T03:34:45.528Z] AI Agent: The Multigrain Bagel with plain cream cheese, tomato, onion, and American cheese. Let me get the options for your bagel choices...
+
+[2025-06-23T03:34:45.528Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T03:34:45.528Z] Customer: Yeah. I'm still there. Tell me.
+
+[2025-06-23T03:34:45.528Z] AI Agent: Let me get the options for your bagel choices... So, for the Multigrain Bagel, I can confirm that we have plain cream cheese, and we can definitely add tomato and onion as vegetables. For the extra cheese, American cheese is a great choice. Let me just confirm the details... Perfect, let me add that to your order... 
+
+[2025-06-23T03:34:45.528Z] Customer: Okay.
+
+[2025-06-23T03:34:45.528Z] AI Agent: I'll just update your order with the Multigrain Bagel, plain cream cheese, tomato, onion, and American cheese. Alright, let me get this order placed for you... 
+
+[2025-06-23T03:34:45.528Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.
+
+[2025-06-23T03:34:45.528Z] AI Agent: Let me add the Multigrain Bagel with plain cream cheese, tomato, onion, and American cheese to your order. 
+
+[2025-06-23T03:34:45.528Z] Customer: Hold on. Hold on.

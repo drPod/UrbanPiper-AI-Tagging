@@ -1,0 +1,66 @@
+Call ID: 6856852e1be7d3da06c74da5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T10:10:54.067Z
+End Time: 2025-06-21T10:13:45.216Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered a medium hot latte made with oat milk from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T10:13:43.886Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T10:13:43.886Z] Customer: I'd like to order, hot latte.
+
+[2025-06-21T10:13:43.886Z] AI Agent: For a hot latte, we have a few options. We can do a small 12oz, medium 16oz, or large 20oz. Which size sounds good to you?
+
+[2025-06-21T10:13:43.886Z] Customer: I want to order medium size.
+
+[2025-06-21T10:13:43.886Z] AI Agent: A medium hot latte is 4 dollars and 49 cents. Now, let's talk about the type of milk you'd like. We have regular milk, half and half for an extra dollar, skim milk, almond milk for an extra dollar, oat milk for an extra dollar, or soy milk. Which milk would you prefer?
+
+[2025-06-21T10:13:43.901Z] Customer: Oat milk.
+
+[2025-06-21T10:13:43.901Z] AI Agent: So that's a medium hot latte with oat milk. The oat milk adds an extra 0.8 dollars, so the total comes out to be 5 dollars and 29 cents. Now, would you like any flavor shots or sweeteners? We have options like vanilla syrup, hazelnut syrup, or whipped cream for an extra 0.75 dollars.
+
+[2025-06-21T10:13:43.902Z] Customer: I don't need any whipped cream. You can go ahead and, you know, that's it from my side.
+
+[2025-06-21T10:13:45.216Z] Unknown: [2025-06-21T10:13:43.902Z] assistant: Perfect, let me add that to your order. I'm going to go ahead and update your order with a medium hot latte made with oat milk. 
+
+{
+  "action": "add",
+  "items": [
+    {
+      "item_name": "Hot Latte",
+      "quantity": 1,
+      "modifiers": [
+        {
+          "group_title": "Size",
+          "option_title": "Medium 16oz",
+          "price": 4.49,
+          "quantity": 1
+        },
+        {
+          "group_title": "Specialty Drink Milk Choice",
+          "option_title": "Oat Milk",
+          "price": 0.8,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "tenantName": "manhattan_bagel_864915",
+  "storeId": "1"
+}
+
+Your total comes out to be 5 dollars and 29 cents. What else can I get for you?
+
+[2025-06-21T10:13:43.902Z] Customer: Okay
+
+[2025-06-21T10:13:43.902Z] AI Agent: I think there might have been a slight misunderstanding. It seems like you were about to ask something, but it got cut off. Could you please repeat or complete your question? I'm here to help with any inquiries you might have.
+
+[2025-06-21T10:13:43.902Z] Customer: Okay. One second. One second.
+
+[2025-06-21T10:13:43.902Z] AI Agent: Take your time, Mehul. I'm here when you're ready to continue.

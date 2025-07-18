@@ -1,0 +1,48 @@
+Call ID: 6878033873d0cf0f7e88df07
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T19:53:28.419Z
+End Time: 2025-07-16T19:55:40.725Z
+Duration: 129 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel with specific customizations, but the call ended before completion.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T19:55:40.441Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T19:55:40.441Z] Customer: Okey, gemi büyük paybonlar akıyor.
+
+[2025-07-16T19:55:40.441Z] AI Agent: That would be our Breakfast Bundle on the menu. I'll add that for you. Now I'll help you customize it. You'll need to pick exactly 13 bagels for your bundle. I have Plain, Everything, Sesame, or Blueberry. Want more options?
+
+[2025-07-16T19:55:40.441Z] Customer: Can you I can I have, five sesame, see everything?
+
+[2025-07-16T19:55:40.441Z] AI Agent: You'd
+
+[2025-07-16T19:55:40.441Z] Customer: And, five more as blueberry and two vanilla.
+
+[2025-07-16T19:55:40.725Z] Unknown: [2025-07-16T19:55:40.441Z] assistant: Just a moment... 
+
+For your bagel selection, I have 5 Sesame, 3 Everything, and you'd like 5 more as Blueberry, and 2 Vanilla. Let me validate that for you. 
+
+
+
+[2025-07-16T19:55:40.442Z] AI Agent: I've got the Sesame, Everything, and Blueberry. I don't see Vanilla as an option, but we have Cinnamon Raisin, Chocolate Chip, or Garlic. What would you like for those 2?
+
+[2025-07-16T19:55:40.442Z] Customer: I'll go with the Cinnamon then.
+
+[2025-07-16T19:55:40.442Z] AI Agent: So that's 5 Sesame, 3 Everything, 5 Blueberry, and 2 Cinnamon Raisin. That's 15 total, but you only need 13 for the bundle. Would you like to adjust the quantities or remove some?
+
+[2025-07-16T19:55:40.442Z] Customer: Okay. Then, remove the garlic one.
+
+[2025-07-16T19:55:40.725Z] Unknown: [2025-07-16T19:55:40.442Z] assistant: So I'll remove 2 Cinnamon Raisin to get to 13 bagels. That leaves us with 5 Sesame, 3 Everything, and 5 Blueberry. 
+
+Next, you need to pick exactly 2 cream cheese tubs for your bundle. Popular choices are Plain, Vegetable, Scallion, or Strawberry. What would you like?
+
+[2025-07-16T19:55:40.442Z] Customer: Strawberry.
+
+[2025-07-16T19:55:40.442Z] AI Agent: For your cream cheese selection, you've chosen Strawberry. You still need to pick one more tub. We have Plain, Vegetable, Scallion, or Bacon Scallion. What would you like for your second tub?
+
+[2025-07-16T19:55:40.442Z] Customer: One second, please.

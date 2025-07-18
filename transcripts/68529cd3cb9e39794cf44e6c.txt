@@ -1,0 +1,20 @@
+Call ID: 68529cd3cb9e39794cf44e6c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T11:02:43.803Z
+End Time: 2025-06-18T11:03:22.070Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer, Punit, inquired about the first bundle and the agent provided information on the breakfast bundle, which includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T11:03:21.812Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T11:03:21.812Z] Customer: Hey. Hi. Can I get, breakfast bundle?
+
+[2025-06-18T11:03:21.812Z] AI Agent: Let me see what's in the first bundle for you, Punit. 
+
+[2025-06-18T11:03:21.812Z] AI Agent: The breakfast bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can

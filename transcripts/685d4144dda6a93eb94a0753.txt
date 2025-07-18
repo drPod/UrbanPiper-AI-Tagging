@@ -1,0 +1,50 @@
+Call ID: 685d4144dda6a93eb94a0753
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-26T12:47:00.614Z
+End Time: 2025-06-26T12:49:50.224Z
+Duration: 180 seconds
+From: +19737602050
+To: +16204558091
+Summary: The customer called Manhattan Bagel to place a custom breakfast sandwich order, selecting an everything bagel with an organic farm egg, turkey bacon, American cheese, lettuce, and tomato, all dark toasted.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-26T12:49:49.799Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-06-26T12:49:49.799Z] Customer: I need to have a breakfast. Can you tell me what options do you do I have?
+
+[2025-06-26T12:49:49.799Z] AI Agent: We have a variety of breakfast options. You can choose from our breakfast sandwiches, like the Original Classic, which comes with egg, cheese, and your choice of meat on a bagel. Or if you're looking for something a bit different, we have the Spinach Bacon Croissant, the Farmhouse Egg Sandwich, or the French Toast Egg Sandwich. We also have omelets, breakfast burritos, and even avocado toast. And if you're in the mood for something sweet, you could try our muffins or pastries. Which of these options sounds good to you,
+
+[2025-06-26T12:49:49.799Z] Customer: Can I make my own can I make my own sandwich?
+
+[2025-06-26T12:49:49.799Z] AI Agent: You want to create your own breakfast sandwich. Absolutely, you can choose your own bagel, meat, cheese, and any additional items you'd like. We have a variety of bagels to choose from, such as plain, everything, sesame, and more. For meat, you can pick from bacon, sausage, ham, or turkey
+
+[2025-06-26T12:49:49.799Z] Customer: Okay. I want everything bagel.
+
+[2025-06-26T12:49:49.799Z] AI Agent: The
+
+[2025-06-26T12:49:49.799Z] Customer: Everything bagel with, organic farm egg.
+
+[2025-06-26T12:49:49.799Z] AI Agent: Alright, so you've got an everything bagel with an organic farm egg. Now, what kind of meat would you like on that? We've got bacon, sausage, ham, turkey bacon, or turkey sausage. Which one sounds good to you?
+
+[2025-06-26T12:49:49.799Z] Customer: The let's do turkey bacon and the American cheese.
+
+[2025-06-26T12:49:49.799Z] AI Agent: So, to recap, you've got an everything bagel with an organic farm egg, turkey bacon, and American cheese. Now, would you like your bagel toasted, lightly toasted, or toasted dark? And would you like any condiments on that, such as
+
+[2025-06-26T12:49:49.799Z] Customer: Dot dot dot posted.
+
+[2025-06-26T12:49:49.799Z] AI Agent: So, you'd like your everything bagel dark toasted. And how about some condiments? We've got mayo, mustard, hot sauce, or maybe some butter or cream cheese? Or would you like to add some veggies like lettuce, tomato, or spinach?
+
+[2025-06-26T12:49:49.800Z] Customer: Let's add some veggies.
+
+[2025-06-26T12:49:49.800Z] AI Agent: Let's
+
+[2025-06-26T12:49:49.800Z] Customer: Like lettuce and tomato.
+
+[2025-06-26T12:49:49.800Z] AI Agent: So, to recap, you've got an everything bagel, dark toasted, with an organic farm egg, turkey bacon, American cheese, lettuce, and tomato. Anything else you'd like to add, like avocado or red onions?
+
+[2025-06-26T12:49:49.800Z] AI Agent: I hope you are still with me!
+
+[2025-06-26T12:49:49.800Z] AI Agent: Thank you for calling. Have a great day. Goodbye.

@@ -1,0 +1,28 @@
+Call ID: 6858e4781be7d3da06f90c9e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T05:22:00.365Z
+End Time: 2025-06-23T05:23:37.510Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jiten ordered an Avocado Toast with an Avocado Bagel and extra grilled chicken from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T05:23:37.164Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T05:23:37.165Z] Customer: Actually, I want to order, plain cream cheese with avocado, bagel, and some extra grilled chicken. Can you please suggest me or you can take the order?
+
+[2025-06-23T05:23:37.165Z] AI Agent: For the avocado bagel with plain cream cheese and some extra grilled chicken, I think our "Avocado Toast" would be a great fit. It comes with avocado, everything bagel seasoning on multigrain toast or any bagel, and we can definitely add grilled chicken to that. We also have a variety of bagel options if you'd prefer something other than multigrain. Let me get the options for your bagel choices...
+
+[2025-06-23T05:23:37.165Z] AI Agent: Let's start with your bagel choices for the Avocado Toast. We have a variety of options such as Plain, Everything, Asiago, and more. Which type of bagel would you like?
+
+[2025-06-23T05:23:37.165Z] Customer: 
+
+[2025-06-23T05:23:37.166Z] AI Agent: For the
+
+[2025-06-23T05:23:37.166Z] Customer: Avocado major.
+
+[2025-06-23T05:23:37.166Z] AI Agent: Let's get back to customizing your Avocado Toast. You've chosen the Avocado Bagel. Now, let's move on to the condiments. We have options like Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, Tomato Spread, Butter, Cream Cheese, Flavor CC, and Jelly. Which condiment would you like to add?

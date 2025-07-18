@@ -1,0 +1,70 @@
+Call ID: 685a16381be7d3da0612af4d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T03:06:32.969Z
+End Time: 2025-06-24T03:09:49.889Z
+Duration: 240 seconds
+From: +13215054148
+To: +16204558091
+Summary: Ace Jack ordered a Baker's Dozen from Manhattan Bagel with specific bagel and cream cheese customizations.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T03:09:49.522Z] AI Agent: Hello Ace Jack, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-24T03:09:49.522Z] Customer: Yeah. I'd like to order a baker's dozen.
+
+[2025-06-24T03:09:49.523Z] AI Agent: The Baker's Dozen, great choice. That's 13 fresh-baked Manhattan Bagels with 2 tubs of cream cheese. Let me get the options for your bagel choices...
+
+[2025-06-24T03:09:49.523Z] AI Agent: For the
+
+[2025-06-24T03:09:49.523Z] Customer: Before you do that, can you you said two tubs of cream cheese. Can you tell me, what the two tubs of cream cheese is?
+
+[2025-06-24T03:09:49.523Z] AI Agent: The Baker's Dozen comes with 2 tubs of cream cheese. You can choose from a variety of flavors for these tubs.
+
+[2025-06-24T03:09:49.524Z] Customer: Yeah. But what flavors what flavors is the cream cheese? The two flavors.
+
+[2025-06-24T03:09:49.524Z] AI Agent: Let me see what we have for the cream cheese flavors. For the two tubs of spread, you can choose from options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive,
+
+[2025-06-24T03:09:49.524Z] Customer: Yeah. I'll have the scallion I'll have the scallion and the plane, please.
+
+[2025-06-24T03:09:49.524Z] AI Agent: You'd like to have one tub of Scallion/Onion Chive cream cheese and one tub of Plain Cream Cheese. Now, let's move on to the bagels. For the Baker's Dozen, you can choose up to 13 bagels from our variety. We have options like Plain, Everything, Asiago, Blueberry
+
+[2025-06-24T03:09:49.524Z] Customer: Yeah. I'd like seven plain and six Asiago, please.
+
+[2025-06-24T03:09:49.524Z] AI Agent: You'd like 7 Plain bagels and 6 Asiago bagels. That's a total of 13 bagels, which completes your Baker's Dozen. Now, I just need to confirm a few more details before we place your order. Would you like your bagels sliced?
+
+[2025-06-24T03:09:49.524Z] Customer: Yes, please. Is there an extra charge to have them sliced?
+
+[2025-06-24T03:09:49.524Z] AI Agent: Yes, there is an extra charge for slicing the bagels. It's $1.5 for slicing the entire dozen. So, I'll add that to your
+
+[2025-06-24T03:09:49.524Z] Customer: How much? 1.5.
+
+[2025-06-24T03:09:49.525Z] AI Agent: Yes, that's correct. It's an additional
+
+[2025-06-24T03:09:49.525Z] Customer: What do you mean by one point what do you mean by 1.5?
+
+[2025-06-24T03:09:49.525Z] AI Agent: When I said $1.5, I meant one dollar and fifty cents. It's an extra
+
+[2025-06-24T03:09:49.525Z] Customer: Okay. So times 13 times 13.
+
+[2025-06-24T03:09:49.525Z] AI Agent: No, it's not times thirteen. The $1.5 is a flat fee to slice the entire dozen of bagels, not per bagel
+
+[2025-06-24T03:09:49.525Z] Customer: That's pretty cool. Yeah. That's that's awesome. Thank you.
+
+[2025-06-24T03:09:49.525Z] AI Agent: You're welcome. I'm glad you're excited about your order. Now, let me just confirm everything. You'd like a Baker's Dozen with 7 Plain bagels and 6 Asiago bagels, sliced, and 2 tubs of cream cheese: Scallion/Onion Chive and Plain. Is that all correct?
+
+[2025-06-24T03:09:49.525Z] AI Agent: I hope you are still with
+
+[2025-06-24T03:09:49.525Z] Customer: See, brilliant up until this point. Now that's the problem I'm talking about. Brilliant.
+
+[2025-06-24T03:09:49.525Z] AI Agent: I'm glad to hear that everything was going well up until this point.
+
+[2025-06-24T03:09:49.526Z] Customer: No. Everything was going well and then you screwed up.
+
+[2025-06-24T03:09:49.526Z] AI Agent: I apologize if I made a mistake. Let me try to get back on track. You had ordered a Baker's Dozen with 7 Plain bagels and 6 Asiago bagels, sliced, and 2 tubs of cream cheese: Scallion/Onion Chive and Plain. Is there anything else I can get for you?
+
+[2025-06-24T03:09:49.526Z] Customer: Ja, Du hast die Checkout, Sie biegen, geben wir mal.
+
+[2025-06-24T03:09:49.526Z] AI Agent: Alright, let me get this order placed for you...Please hold on for a moment 

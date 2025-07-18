@@ -1,0 +1,22 @@
+Call ID: 686d1c7fd14f3abcfb193bde
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T13:26:23.642Z
+End Time: 2025-07-08T13:27:07.595Z
+Duration: 41 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin inquired about the Breakfast Bundle and the number of bagels included.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T13:27:07.419Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T13:27:07.420Z] Customer: Breakfast bundle.
+
+[2025-07-08T13:27:07.420Z] AI Agent: Okay, the Breakfast Bundle is a great choice. Let me get that started for you. First, I need to know which bagels you'd like in your dozen. We have options like Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, and more. Would you like to hear some of the options or choose from these?
+
+[2025-07-08T13:27:07.420Z] Customer: And how many vehicles I can select?
+
+[2025-07-08T13:27:07.420Z] AI Agent: The Breakfast Bundle includes 13 bagels. You can choose from a variety of options like Plain, Everything, Blueberry,

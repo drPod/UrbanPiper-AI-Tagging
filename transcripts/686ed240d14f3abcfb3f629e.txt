@@ -1,0 +1,58 @@
+Call ID: 686ed240d14f3abcfb3f629e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T20:34:08.101Z
+End Time: 2025-07-09T20:37:17.479Z
+Duration: 186 seconds
+From: +13477522434
+To: +16204558091
+Summary: Michael inquired about vegan options, beverages, and store policies before deciding to place an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T20:37:16.014Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-09T20:37:16.014Z] Customer: I wanna place an order.
+
+[2025-07-09T20:37:16.014Z] AI Agent: Sure thing! May I have your name for the order?
+
+[2025-07-09T20:37:16.015Z] Customer: 
+
+[2025-07-09T20:37:16.015Z] AI Agent: Perfect, Michael. What would you like to order today?
+
+[2025-07-09T20:37:16.015Z] Customer: What can I order today?
+
+[2025-07-09T20:37:16.016Z] AI Agent: Let me share some of our popular options with you, Michael. We have breakfast sandwiches like the Original Classic with egg, cheese, and your choice of meat on a bagel, or the Spinach Bacon Croissant for a flaky, savory bite. For
+
+[2025-07-09T20:37:16.017Z] Customer: What vegan what vegan sandwiches do you have?
+
+[2025-07-09T20:37:16.017Z] AI Agent: We have a few great vegan options for you, Michael. The Avocado Veg Out is a fantastic choice—it features avocado, spinach, tomato, onions, lettuce, cucumber, and vegan cream cheese on a sesame bagel. You'll need to pick just one bagel for your sandwich. We have Plain, 
+
+[2025-07-09T20:37:16.017Z] Customer: Do you have a chicken smoked salmon?
+
+[2025-07-09T20:37:16.018Z] AI Agent: I don't see a vegan smoked salmon option on our menu, Michael. However, we do have the Avocado Veg Out, which is a vegan sandwich with avocado, spinach, tomato, onions, lettuce, cucumber, and vegan cream cheese on a sesame bagel. Would you like to try that, or should I suggest another option?
+
+[2025-07-09T20:37:16.018Z] Customer: Can I get can I get a sandwich? Can I get a sandwich on something other than a bagel?
+
+[2025-07-09T20:37:16.018Z] AI Agent: Absolutely, Michael! We have several options beyond bagels. For example, you can choose a sandwich on a Flour Tortilla, a Wheat Wrap, or even a Hero Roll. The Avocado Veg Out, for instance, is available on a sesame bagel, but you can also request it on a wrap or tortilla if you'd prefer. Would you like to pick one of those
+
+[2025-07-09T20:37:16.018Z] Customer: What type what types of beverages do you have?
+
+[2025-07-09T20:37:16.019Z] AI Agent: We have a variety of beverages to choose from, Michael. For hot drinks, you can enjoy coffee or tea in sizes ranging from twelve ounce to twenty-four ounce. We also offer hot chocolate, espresso shots, lattes, and cappuccinos. If you prefer something cold, we have iced coffee, iced tea, Arnold Palmer, cold brew, and even some delicious frozen drinks like our Manhattan Chillerz, which come in coffee or ice cream bases. We also have lemonades,
+
+[2025-07-09T20:37:16.019Z] Customer: Do you deliver to Manhattan?
+
+[2025-07-09T20:37:16.019Z] AI Agent: We're currently set up for pickup only, Michael. We don’t offer delivery at this time. Would you like to place a pickup order, or is there something else I can help you with?
+
+[2025-07-09T20:37:16.020Z] Customer: How late can I place orders still?
+
+[2025-07-09T20:37:16.020Z] AI Agent: Our cutoff time for placing orders is 2:45 PM, which is fifteen minutes before we close at 3:00 PM. That gives us enough time to prepare your order for pickup. Would you like to place an
+
+[2025-07-09T20:37:16.020Z] Customer: And where and where am I picking up from?
+
+[2025-07-09T20:37:16.021Z] AI Agent: You're picking up from our Union, New Jersey location at 1350 Galloping Hill Road. We’re open from 6:00 AM to 3:00 PM, and your order should be ready in about 15 minutes after you place it. Would you like to get started with your order, Michael?
+
+[2025-07-09T20:37:16.021Z] Customer: And what company manages the AI?
+
+[2025-07-09T20:37:16.021Z] AI Agent: The AI for this service is managed by the Manhattan Bagel team to help assist customers like you with your orders. If you have any

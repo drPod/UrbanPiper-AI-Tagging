@@ -1,0 +1,22 @@
+Call ID: 685c34a832ebb07e59440902
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-25T17:40:56.282Z
+End Time: 2025-06-25T17:41:43.735Z
+Duration: 60 seconds
+From: +918949862707
+To: +16204558091
+Summary: The customer inquired about a 'Tube Light Bagel' but decided not to proceed further.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-25T17:41:43.386Z] AI Agent: Hello Jitin, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-25T17:41:43.386Z] Customer: Okay. Tell me, do you have tube light bigger?
+
+[2025-06-25T17:41:43.386Z] AI Agent: I'm sorry, but I don't see a "Tube Light Bagel" on our menu. We have a variety of bagels like Egg Everything, Jalapeño Cheddar, and Cinnamon Raisin, to name a few. Would you like to hear more about our available bagel options?
+
+[2025-06-25T17:41:43.386Z] Customer: No. I think that's thanks so much.
+
+[2025-06-25T17:41:43.386Z] AI Agent: You're welcome! If you need help with anything else or want to place an order, feel free to ask. Have a great day!

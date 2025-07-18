@@ -1,0 +1,54 @@
+Call ID: 686d0e5dd14f3abcfb17ec8b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T12:26:05.605Z
+End Time: 2025-07-08T12:29:37.349Z
+Duration: 208 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer inquired about the Breakfast Bundle and its customization options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T12:29:36.207Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T12:29:36.207Z] Customer: Breakfast bundle.
+
+[2025-07-08T12:29:36.207Z] AI Agent: Alright, a Breakfast Bundle. Would you like to hear the available customizations for this item?
+
+[2025-07-08T12:29:36.207Z] Customer: Yes, please.
+
+[2025-07-08T12:29:36.214Z] AI Agent: The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). First, let's choose the bagels. We have a variety of options like Plain, Everything, Blueberry, and more. Would you like to hear some of the bagel choices?
+
+[2025-07-08T12:29:36.214Z] Customer: Yeah. Can you please tell me all the bagel types, are there?
+
+[2025-07-08T12:29:36.214Z] AI Agent: Sure thing! We have a wide range of bagels including Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast Bagel, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, and French Toast Roll. There are also premium options like Asiago, California, Cheesy Hashbrown Roll, Bialy, Bagel Stick, Cheesy Jalapeño Bacon Roll, Rainbow Bagel, and Gluten Free. Would you like to hear more about any of these?
+
+[2025-07-08T12:29:36.214Z] Customer: Okay. Does it has bagel sticks?
+
+[2025-07-08T12:29:36.214Z] AI Agent: Yes, we do have Bagel Sticks as an option. They’re a fun and crispy choice! Would you like to include some Bagel Sticks in your dozen?
+
+[2025-07-08T12:29:36.214Z] Customer: Okay. And, how many data types are there?
+
+[2025-07-08T12:29:36.214Z] AI Agent: We have 13 bagel
+
+[2025-07-08T12:29:36.214Z] Customer: Google.
+
+[2025-07-08T12:29:36.214Z] AI Agent: Okay,
+
+[2025-07-08T12:29:36.214Z] Customer: No. I didn't look good.
+
+[2025-07-08T12:29:36.215Z] AI Agent: Alright, let's get started on your Breakfast Bundle. First, we need to choose 13 bagels. You mentioned you want Bagel Sticks. Would you like to include those in your selection?
+
+[2025-07-08T12:29:36.215Z] Customer: Okay. How you are getting this data, options name?
+
+[2025-07-08T12:29:36.215Z] AI Agent: We have a variety of bagel options to choose from. The standard ones include Plain, Everything, Blueberry, Cinnamon
+
+[2025-07-08T12:29:36.215Z] Customer: Can you tell me that can you tell me the options and, tabs of spread?
+
+[2025-07-08T12:29:36.215Z] AI Agent: Sure thing! For the 2 tubs of spread in your Breakfast Bundle, you can choose from options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion, Strawberry, Jalapeño, Honey Almond, Maple Raisin, Bacon Scallion, Olive Pimento, Low-Fat Vegetable, Hummus, Nutella, Avocado, Peanut Butter, and Lox Cream Cheese. Would you like to hear more about any of these?
+
+[2025-07-08T12:29:36.215Z] Customer: Certainly, please repeat. Slowly, again.
+
+[2025-07-08T12:29:36.215Z] AI Agent: Of course! For the 2 tubs of spread in your Breakfast Bundle, the options are: Plain Cream Cheese, Vegetable Cream Cheese, Scallion, Strawberry, Jalapeño, Honey Almond, Maple Raisin, Bacon Scallion, Olive Pimento, Low-Fat Vegetable, Hummus,

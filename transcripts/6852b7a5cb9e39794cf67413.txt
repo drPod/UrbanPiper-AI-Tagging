@@ -1,0 +1,50 @@
+Call ID: 6852b7a5cb9e39794cf67413
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T12:57:09.425Z
+End Time: 2025-06-18T12:58:55.891Z
+Duration: 120 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rahul placed an order for a brownie pastry at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T12:58:55.593Z] AI Agent: Hello Rahul, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T12:58:55.593Z] Customer: 
+
+[2025-06-18T12:58:55.594Z] AI Agent: I'm happy to help youwith your order. What
+
+[2025-06-18T12:58:55.594Z] Customer: I want to order food.
+
+[2025-06-18T12:58:55.594Z] AI Agent: Let me see what we have on the menu. 
+
+[2025-06-18T12:58:55.595Z] AI Agent: I found a few options for you. We have muffins for three dollars and forty-nine cents, cookies, and pastry for two dollars and ninety-nine cents. Which one of these sounds good to you?
+
+[2025-06-18T12:58:55.595Z] Customer: Order? Pastry.
+
+[2025-06-18T12:58:55.595Z] AI Agent: For your pastry, we have several options. You can choose from Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, or Fruity Rice Crispy Bar. Which one would you like?
+
+[2025-06-18T12:58:55.596Z] Customer: The brownie one.
+
+[2025-06-18T12:58:55.596Z] AI Agent: The Brownie pastry is a great choice. I'll add that to your order. 
+
+[2025-06-18T12:58:55.597Z] AI Agent: Your total comes out to be 3 dollars and 49 cents. Is that correct?
+
+[2025-06-18T12:58:55.597Z] Customer: Okay.
+
+[2025-06-18T12:58:55.597Z] AI Agent: Any special requests or allergies I should know about?
+
+[2025-06-18T12:58:55.597Z] Customer: No.
+
+[2025-06-18T12:58:55.598Z] AI Agent: Are you ready to finalize this order for pickup? 
+
+[2025-06-18T12:58:55.598Z] Customer: Yeah.
+
+[2025-06-18T12:58:55.599Z] AI Agent: Your order number is 5 7 1 4 3 7. Your order total is 3 dollars and 84 cents, which includes a subtotal of 3 dollars and 49 cents and 35 cents in tax. Is there anything else I can help you with?
+
+[2025-06-18T12:58:55.599Z] Customer: No.
+
+[2025-06-18T12:58:55.599Z] AI Agent: OK

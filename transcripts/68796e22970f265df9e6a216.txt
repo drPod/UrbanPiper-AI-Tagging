@@ -1,0 +1,70 @@
+Call ID: 68796e22970f265df9e6a216
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T21:41:54.355Z
+End Time: 2025-07-17T21:44:09.606Z
+Duration: 129 seconds
+From: +15402441130
+To: +16204558091
+Summary: Darsh placed an order for a Big Breakfast Burrito at Manhattan Bagel store with store ID 1
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T21:44:09.153Z] AI Agent: Hello Darsh Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T21:44:09.153Z] Customer: Can I get a big breakfast burrito?
+
+[2025-07-17T21:44:09.153Z] AI Agent: That would be our Big Breakfast Burrito on the menu. I'll add the Big Breakfast Burrito for you. Now, let's customize it. The Big Breakfast Burrito comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. Would you like to make any changes or add anything to it?
+
+[2025-07-17T21:44:09.153Z] Customer: No. No. I would just like it how it is. Can you just order it?
+
+[2025-07-17T21:44:09.606Z] Unknown: [2025-07-17T21:44:09.153Z] assistant: The Big Breakfast Burrito comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. I'll go ahead and place the order for you. 
+
+Just a moment while I add that up... 
+
+Your total comes out to be $9.49. 
+
+Great! We're about to submit your order. Let me know if you want to make any changes or add anything. Otherwise, we'll proceed with placing your order. 
+
+Perfect, let me get that all put together for you. 
+
+
+
+[2025-07-17T21:44:09.153Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T21:44:09.153Z] AI Agent: I'm now finalizing your order. And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T21:44:09.153Z] Customer: No.
+
+[2025-07-17T21:44:09.154Z] AI Agent: Alright Darsh. Would you like me to read back your order with all the details?
+
+[2025-07-17T21:44:09.154Z] Customer: No.
+
+[2025-07-17T21:44:09.606Z] Unknown: [2025-07-17T21:44:09.154Z] assistant: Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-17T21:44:09.154Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 357099. That's 3, 5, 7, 0, 9, 9.", 'order_id': '357099', 'call_id': '11cf0aaa-5571-4e04-93f7-d58704d576d2', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981a57-877e-6135-6159-abadd4638262'}
+
+[2025-07-17T21:44:09.154Z] AI Agent: Your order number is 3, 5, 7, 0, 9, 9. Your total is eleven dollars and fifty-four cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete
+
+[2025-07-17T21:44:09.154Z] Customer: 
+
+[2025-07-17T21:44:09.154Z] AI Agent: Is there
+
+[2025-07-17T21:44:09.154Z] Customer: Which store is this for?
+
+[2025-07-17T21:44:09.154Z] AI Agent: This order is for the Manhattan Bagel store, specifically the one with the store ID 1.
+
+[2025-07-17T21:44:09.155Z] Customer: Is it in Union or Westfield?
+
+[2025-07-17T21:44:09.155Z] AI Agent: The Manhattan Bagel store with the store ID 1 is located in Union.
+
+[2025-07-17T21:44:09.155Z] Customer: Okay.
+
+[2025-07-17T21:44:09.156Z] AI Agent: Is there anything
+
+[2025-07-17T21:44:09.156Z] Customer: Thank you.
+
+[2025-07-17T21:44:09.156Z] AI Agent: You're welcome, Darsh. It was a pleasure helping you with

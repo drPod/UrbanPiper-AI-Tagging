@@ -1,0 +1,63 @@
+Call ID: 685c057832ebb07e593bca30
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-25T14:19:36.721Z
+End Time: 2025-06-25T14:22:18.768Z
+Duration: 180 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed a Breakfast Bundle order with customizations at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-25T14:22:18.395Z] AI Agent: Hello Jitin, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-25T14:22:18.396Z] Customer: Yeah. I like to order breakfast bundle.
+
+[2025-06-25T14:22:18.396Z] AI Agent: Alright, the Breakfast Bundle is a great choice! It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice of flavors). Would you like to add 4oz of premium Acme smoked nova for an extra $9.99 to make it extra special?
+
+[2025-06-25T14:22:18.397Z] AI Agent: Alright, let's start with
+
+[2025-06-25T14:22:18.397Z] Customer: No. I just want to go ahead.
+
+[2025-06-25T14:22:18.397Z] AI Agent: Okay, got it! For the**Bagel Dozen**, you
+
+[2025-06-25T14:22:18.397Z] Customer: Okay. So I just want to have sorry. I want to order four Filipino, four plain and four everything, and one California bagel.
+
+[2025-06-25T14:22:18.397Z] AI Agent: Alright, let me get that for your Bagel Dozen. So you want four Jalapeño Cheddar, four Plain, four Everything, and one California bagel. That adds up to 13 bagels. Perfect! Now, let's move on to the next part—choosing your two tubs of spread. What would you like for that?
+
+[2025-06-25T14:22:18.398Z] Customer: Can you tell me the okay. So I just want to add vanilla cream cheese and strawberry cream cheese.
+
+[2025-06-25T14:22:18.398Z] AI Agent: Alright, got it! For your two tubs of spread, you've chosen Vanilla Cream Cheese and Strawberry Cream Cheese. Great combo! Now, let's move on to the muffins. You need to choose up to four types from the available options. What would you like for your muffins?
+
+[2025-06-25T14:22:18.398Z] Customer: Muffins.
+
+[2025-06-25T14:22:18.398Z] AI Agent: Sure
+
+[2025-06-25T14:22:18.399Z] Customer: 1
+
+[2025-06-25T14:22:18.399Z] Customer: Four chocolate chip.
+
+[2025-06-25T14:22:18.399Z] AI Agent: Alright, you've chosen
+
+[2025-06-25T14:22:18.399Z] Customer: Four chocolate chip.
+
+[2025-06-25T14:22:18.400Z] AI Agent: Alright, you've selected four Chocolate Chip muffins. Perfect! Now, would you like to add a box of coffee to your Breakfast Bundle? If so, we have options like House Blend, Decaf, Vanilla
+
+[2025-06-25T14:22:18.400Z] Customer: Yeah. Yeah. House plan. You can yeah. House plan. I I you can add house plan for me.
+
+[2025-06-25T14:22:18.400Z] AI Agent: Alright, I'll add a House Blend box of coffee to your order. Everything looks good! Is there anything else I can get for you?
+
+[2025-06-25T14:22:18.400Z] Customer: I think that's all. Yeah.
+
+[2025-06-25T14:22:18.401Z] AI Agent: Alright, let me recap your order
+
+[2025-06-25T14:22:18.413Z] Customer: Good to go.
+
+[2025-06-25T14:22:18.768Z] Unknown: [2025-06-25T14:22:18.422Z] assistant: Got it! Your order is all set. Let me go ahead and place it for you. Please hold for a moment.  
+
+
+[2025-06-25T14:22:18.422Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 328160. That's 3, 2, 8, 1, 6, 0.", 'order_id': '328160', 'call_id': '34468622-340a-440d-b06a-8917423dba88', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': {'status': 'success', 'workflow_run_id': 'id: "4556a95a3cad4e51a5834fd3d75f8409"\n', 'call_id': '34468622-340a-440d-b06a-8917423dba88', 'message': 'Menu content refresh workflow started.'}}
+
+[2025-06-25T14:22:18.422Z] AI Agent: Order placed successfully! Your order number is 3, 2, 8, 1, 6, 0. The total comes out to $29.99, and your order will be ready for pickup. Thank you for choosing Manhattan Bagel, Jitin! Have a great day!

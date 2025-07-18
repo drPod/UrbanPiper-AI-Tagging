@@ -1,0 +1,68 @@
+Call ID: 6852a0c7cb9e39794cf49b77
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T11:19:35.971Z
+End Time: 2025-06-18T11:24:00.517Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: Punit ordered a Breakfast Bundle with Plain bagels, Plain cream cheese, Chocolate Chip muffins, and Blueberry muffins for twenty-nine dollars and ninety-nine cents.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T11:23:59.956Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It's great to see you again. How can I help you today?
+
+[2025-06-18T11:23:59.956Z] Customer: 
+
+[2025-06-18T11:23:59.956Z] AI Agent: Let me see
+
+[2025-06-18T11:23:59.956Z] Customer: Can I have a record bundle?
+
+[2025-06-18T11:23:59.956Z] AI Agent: I found a few items for your search. We have Pickle for a dollar, Banana for a dollar and twenty-five cents, and Chips for a dollar and nineteen cents. Which one of these items would
+
+[2025-06-18T11:23:59.956Z] Customer: No. No. I I I like to order breakfast bundle.
+
+[2025-06-18T11:24:00.517Z] Unknown: [2025-06-18T11:23:59.957Z] assistant: I found the Breakfast Bundle for twenty-nine dollars and ninety-nine cents. It includes thirteen fresh-baked Manhattan Bagels, two tubs of cream cheese, and four muffins. You can also add four ounces of premium Acme smoked nova for nine dollars and ninety-nine cents. 
+
+Let's start with the bagels. We have several options, including Plain, Everything, Asiago, Blueberry, and many more. Which bagels would you like?
+
+[2025-06-18T11:23:59.957Z] Customer: I'd love to have plain bagel, all of 13, and, muffins, two, chocolate chips, one, two blueberry, and, yeah, And, tubs are, like, plain green tea is good enough for me.
+
+[2025-06-18T11:24:00.517Z] Unknown: [2025-06-18T11:23:59.958Z] assistant: Your current cart contains 1 Breakfast Bundle with Plain bagels, Plain cream cheese, Chocolate Chip muffins, and Blueberry muffins for a total of twenty-nine dollars and ninety-nine cents. 
+
+Would you like to add anything else or proceed with the order?
+
+[2025-06-18T11:23:59.958Z] Customer: Can I have a coffee as well? Can you check the can you check the modifiers?
+
+[2025-06-18T11:23:59.958Z] AI Agent: I found a few options for coffee. We have Ice Coffee or Tea, Hot Coffee or Tea, and Iced Latte. Which one would you like?
+
+[2025-06-18T11:23:59.958Z] Customer: 
+
+[2025-06-18T11:23:59.968Z] Customer: Hello?
+
+[2025-06-18T11:23:59.968Z] Customer: I I want, like, in the breakfast bundle, can I have the box of coffee?
+
+[2025-06-18T11:23:59.968Z] AI Agent: I found a few options that include a box of coffee. We have the Breakfast Bundle, Bagels & Spreads, Broadway Box, and Brunch Box. Which one would you like?
+
+[2025-06-18T11:23:59.969Z] Customer: BranchBox.
+
+[2025-06-18T11:24:00.517Z] Unknown: [2025-06-18T11:23:59.969Z] assistant: The Brunch Box includes 3 Bacon egg and Cheese bagel sandwiches, 6 bagels, 4 muffins, 1 tub of plain cream cheese, and 4 hash browns for forty-nine dollars and ninety-nine cents. 
+
+Would you like to add 4oz of Nova Lox for ten dollars and ninety-nine cents?
+
+[2025-06-18T11:23:59.969Z] Customer: No. I don't want I don't want to add that.
+
+[2025-06-18T11:24:00.517Z] Unknown: [2025-06-18T11:23:59.969Z] assistant: Your current cart contains 1 Breakfast Bundle with Plain bagels, Plain cream cheese, Chocolate Chip muffins, and Blueberry muffins for twenty-nine dollars and ninety-nine cents, and 1 Brunch Box for forty-nine dollars and ninety-nine cents. Your total is seventy-nine dollars and ninety-eight cents.
+
+Would you like to add anything else or proceed with the order?
+
+[2025-06-18T11:23:59.970Z] Customer: Can you please remove the brunch box? I don't want that. Only, want to order breakfast bundle. That's it.
+
+[2025-06-18T11:24:00.517Z] Unknown: [2025-06-18T11:23:59.970Z] assistant: Your current cart contains 1 Breakfast Bundle with Plain bagels, Plain cream cheese, Chocolate Chip muffins, and Blueberry muffins for twenty-nine dollars and ninety-nine cents. 
+
+Is your order correct?
+
+[2025-06-18T11:23:59.970Z] Customer: Yeah. Correct.
+
+[2025-06-18T11:23:59.970Z] AI Agent: OK

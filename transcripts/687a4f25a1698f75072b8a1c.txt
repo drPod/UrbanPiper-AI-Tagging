@@ -1,0 +1,26 @@
+Call ID: 687a4f25a1698f75072b8a1c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T13:41:57.824Z
+End Time: 2025-07-18T13:43:03.861Z
+Duration: 63 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin ordered an Omelet Wrap with a flour wrap, hash brown, and an unspecified meat and cheese choice.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T13:43:03.522Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T13:43:03.522Z] Customer: Give me on the draft, please.
+
+[2025-07-18T13:43:03.522Z] AI Agent: That would be our Omelet Wrap on the menu. I'll add the Omelet Wrap for you. Now, let's customize it. You'll need to pick a wrap choice. I have Flour or Wheat. Which would you like?
+
+[2025-07-18T13:43:03.522Z] Customer: 
+
+[2025-07-18T13:43:03.522Z] AI Agent: For your Omelet Wrap, you've chosen the Flour wrap. Now, you'll need to pick a meat. I have Bacon, Pork Roll, Sausage, Ham, Steak, Deli Turkey, Turkey Bacon, Turkey Sausage, or Pastrami. Which meat would you like?
+
+[2025-07-18T13:43:03.522Z] Customer: Okay. What about hash brown?
+
+[2025-07-18T13:43:03.522Z] AI Agent: For your Omelet Wrap, you've added Hash Brown. Now, let's talk about cheese. You'll need to pick a cheese. I have American, Swiss, Pepper Jack, Cheddar, Provolone, or Muenster. Which cheese would you like?

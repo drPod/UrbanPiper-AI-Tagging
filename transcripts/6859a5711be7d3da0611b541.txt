@@ -1,0 +1,74 @@
+Call ID: 6859a5711be7d3da0611b541
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T19:05:21.104Z
+End Time: 2025-06-23T19:12:08.575Z
+Duration: 420 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin placed an order for a Breakfast Bundle and a hot tea, but the order placement failed due to an error.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T19:12:06.801Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T19:12:06.801Z] Customer: I'm looking to order a breakfast bundle and, hot tea.
+
+[2025-06-23T19:12:06.801Z] AI Agent: The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. And you'd also like a hot tea, correct? Let me get the options for your bagel choices...
+
+[2025-06-23T19:12:06.802Z] AI Agent: For the Breakfast Bundle, let's start with the Bagel Dozen. You need to choose exactly 13 bagels from the options I have here. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, and Bagel Stick. Which 13 would you like?
+
+[2025-06-23T19:12:06.802Z] Customer: Okay. I I want, two sesame, five everything, and, rest of the vehicle could be, like garlic baker.
+
+[2025-06-23T19:12:06.802Z] AI Agent: You'd like 2 Sesame, 5 Everything, and the rest to be Garlic bagels. That's a total of 13 bagels. Now, let's move on to the Choose 2 Tubs of Spread. You need to select exactly 2 from the options I have here. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), Storemade Lox Spread (Chunky), Storemade Maple Raisin (Chunky), Storemade Bacon Scallion (Chunky), Strawberry, Honey Almond,
+
+[2025-06-23T19:12:06.803Z] Customer: Okay. So you can add one as strawberry, and another could be, like, your vegetable.
+
+[2025-06-23T19:12:06.803Z] AI Agent: You'd like one tub of Strawberry cream cheese and another tub of Vegetable cream cheese. Now, let's move on to the Choose 4 Muffins. You can select between 1 and 4 muffins from the options I have here. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which ones would you like?
+
+[2025-06-23T19:12:06.803Z] Customer: Four four of all can be, your chocolate chip.
+
+[2025-06-23T19:12:06.804Z] AI Agent: You'd like all 4 muffins to be Chocolate Chip. Now, let's move on to the Box of Coffee. This is an optional selection, so you can choose up to 1 box of coffee or none at all. We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Which one would you like, or would you like to skip this option?
+
+[2025-06-23T19:12:06.804Z] Customer: I'll I'll I'm good with the hazelnut one.
+
+[2025-06-23T19:12:06.804Z] AI Agent: You'd like the Vanilla Hazelnut coffee. Alright, I have all your choices for the Breakfast Bundle noted down. Now, about that hot tea you wanted... Let me get the options for your tea choices...
+
+[2025-06-23T19:12:06.804Z] AI Agent: For the hot tea, let's start with the Size. You need to choose exactly 1 size from the options I have here. We have Small 12oz, Medium 16oz, Large 20oz, and X Large 24oz. Which size would you like?
+
+[2025-06-23T19:12:06.804Z] Customer: I love to have medium one.
+
+[2025-06-23T19:12:06.804Z] AI Agent: You'd like a Medium 16oz hot tea. Now, let's move on to the Tea Choice. You can select up to 1 type of tea from the options I have here. We have Lipton Black Tea, Lipton Decaf Tea, Chamomile Tea, Earl Grey, English Breakfast, Lemon Ginger, and Green Tea.
+
+[2025-06-23T19:12:06.805Z] Customer: Lemon ginger.
+
+[2025-06-23T19:12:06.805Z] AI Agent: You'd like the Lemon Ginger tea. Now, let's move on to the Milk Choice. This is an optional selection, so you can choose up to 1 type of milk or none at all. We have Regular Milk, Half & Half, Skim, Almond, Oat Milk, and Soy. Which one would you like, or would you like to skip this option?
+
+[2025-06-23T19:12:06.805Z] Customer: I I I'm good with the regular milk.
+
+[2025-06-23T19:12:06.805Z] AI Agent: You'd like Regular Milk with your Lemon Ginger tea. Now, let's move on to the Sweetener & Syrups. This is also an optional selection, so you can choose up to 20 sweeteners or syrups or none at all.
+
+[2025-06-23T19:12:06.805Z] Customer: Hey. Hey. Hey. Can you can you please remove that milk? Because I have chosen the ginger tea. Right? So it's not good to have milk with the ginger lemon tea. So, you can remove the milk part. Okay?
+
+[2025-06-23T19:12:06.805Z] AI Agent: I've removed the milk from your Lemon Ginger tea. Now, would you like to add any sweeteners or syrups to your tea? We have options like Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, and various syrups. Or
+
+[2025-06-23T19:12:06.805Z] Customer: 
+
+[2025-06-23T19:12:06.805Z] AI Agent: I've added Equal as the sweetener for your Lemon Ginger tea. Alright, I have all your choices for the hot tea noted down. Now, let me confirm your entire order. You have a Breakfast Bundle with 2 Sesame bagels, 5 Everything bagels, and the rest are Garlic bagels, with 1 tub of Strawberry cream cheese and 1 tub of Vegetable cream cheese, 4 Chocolate Chip muffins, and a box of Vanilla Hazelnut coffee. And you also have a Medium 16oz Lemon Ginger tea with Equal. Is that all correct?
+
+[2025-06-23T19:12:06.805Z] Customer: That's all good.
+
+[2025-06-23T19:12:06.806Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-23T19:12:06.806Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T19:12:06.806Z] Customer: 
+
+[2025-06-23T19:12:06.806Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T19:12:06.806Z] AI Agent: I
+
+[2025-06-23T19:12:06.806Z] Customer: Tell me what happened.
+
+[2025-06-23T19:12:06.806Z] AI Agent: It seems like there was an error with the order placement. Let me try again. 

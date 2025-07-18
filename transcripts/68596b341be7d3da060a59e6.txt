@@ -1,0 +1,16 @@
+Call ID: 68596b341be7d3da060a59e6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T14:56:52.784Z
+End Time: 2025-06-23T14:57:17.176Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered apple juice from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T14:57:17.052Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T14:57:17.052Z] Customer: I want to order, apple juice.

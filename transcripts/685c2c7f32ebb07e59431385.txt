@@ -1,0 +1,32 @@
+Call ID: 685c2c7f32ebb07e59431385
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-25T17:06:07.226Z
+End Time: 2025-06-25T17:06:51.791Z
+Duration: 60 seconds
+From: +13215054148
+To: +16204558091
+Summary: The user expressed dissatisfaction and the conversation ended abruptly.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-25T17:06:51.506Z] AI Agent: Hello Ace Jack, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-25T17:06:51.507Z] AI Agent: I hope you are still with me!
+
+[2025-06-25T17:06:51.507Z] Customer: Ihr Erdlake Bike ist da sind.
+
+[2025-06-25T17:06:51.507Z] AI Agent: Got it. A Baker's Dozen, which is 13 bagels of your choice. Let me check the available options for you. Would you like to choose the type of bagels you'd
+
+[2025-06-25T17:06:51.507Z] Customer: Hello? I am. I'd like a baker's dozen.
+
+[2025-06-25T17:06:51.507Z] AI Agent: Sure thing! A Baker's Dozen
+
+[2025-06-25T17:06:51.507Z] Customer: I see that. That's very upsetting.
+
+[2025-06-25T17:06:51.507Z] AI Agent: I'm sorry to hear that. If you'd
+
+[2025-06-25T17:06:51.507Z] Customer: 
+
+[2025-06-25T17:06:51.508Z] AI Agent: Alright, let me get t

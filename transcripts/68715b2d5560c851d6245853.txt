@@ -1,0 +1,68 @@
+Call ID: 68715b2d5560c851d6245853
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T18:42:53.839Z
+End Time: 2025-07-11T18:45:30.484Z
+Duration: 155 seconds
+From: +13477352619
+To: +16204558091
+Summary: The customer ordered a Poppyseed bagel with plain cream cheese, lightly toasted.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T18:45:30.040Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-11T18:45:30.040Z] Customer: I'd like to order one poppy seed bagel.
+
+[2025-07-11T18:45:30.040Z] AI Agent: Got it! One Poppyseed bagel. Would you like to hear more options for your bagel or choose from these?
+
+[2025-07-11T18:45:30.040Z] Customer: Yeah. I'd like to hear more.
+
+[2025-07-11T18:45:30.041Z] AI Agent: Sure thing!
+
+[2025-07-11T18:45:30.041Z] Customer: I'd like to hear.
+
+[2025-07-11T18:45:30.041Z] AI Agent: Okay, here are some more bagel options: Garlic, French Toast Bagel, Multigrain Bagel, Onion, and Rye. Would you like one of these, or should I share more options?
+
+[2025-07-11T18:45:30.041Z] Customer: No. I'll just take a poppy seed bagel.
+
+[2025-07-11T18:45:30.041Z] AI Agent: Perfect! Poppyseed bagel it is. Now, would you like to hear more options for your spread or choose from these?
+
+[2025-07-11T18:45:30.041Z] Customer: Yeah. I'll hear some options for the spread.
+
+[2025-07-11T18:45:30.041Z] AI Agent: For your spread, you can choose from Butter, Plain Cream Cheese, Low-Fat Plain Cream Cheese, Grape Jelly, or Strawberry Jelly. Would you like one of these, or should I list more options?
+
+[2025-07-11T18:45:30.042Z] Customer: Plain cream cheese. Plain cream cheese.
+
+[2025-07-11T18:45:30.042Z] AI Agent: Perfect! Plain cream cheese it is. Now, would you like to hear more options for your toast level or choose from these?
+
+[2025-07-11T18:45:30.042Z] Customer: 
+
+[2025-07-11T18:45:30.042Z] AI Agent: For your toast level, you can choose Toasted, Lightly Toasted, Toasted Dark, or No Toast. Which would you prefer?
+
+[2025-07-11T18:45:30.042Z] Customer: Lightly toasted.
+
+[2025-07-11T18:45:30.042Z] AI Agent: Perfect! Lightly toasted. Now, would you like to hear more options for your add-ons or choose from these?
+
+[2025-07-11T18:45:30.042Z] Customer: No.
+
+[2025-07-11T18:45:30.042Z] AI Agent: Got it! Your Poppyseed bagel with plain cream cheese, lightly toasted. Is there anything else I can get for you today?
+
+[2025-07-11T18:45:30.042Z] Customer: Nope.
+
+[2025-07-11T18:45:30.042Z] AI Agent: Okay, so I have your Poppyseed bagel with plain cream cheese, lightly toasted. Let me get that all put together for you.
+
+[2025-07-11T18:45:30.042Z] AI Agent: I hope you are still with me!
+
+[2025-07-11T18:45:30.042Z] Customer: Yeah. I'm here.
+
+[2025-07-11T18:45:30.043Z] AI Agent: Great! Let me just confirm your order one more time. You've ordered a Poppyseed bagel with plain cream cheese, lightly toasted. Is that all for you today?
+
+[2025-07-11T18:45:30.043Z] Customer: 
+
+[2025-07-11T18:45:30.043Z] AI Agent: Got it! Your order is all set. Your Poppyseed bagel with plain cream cheese, lightly toasted, will be ready for pickup in about 15 minutes. See you soon!
+
+[2025-07-11T18:45:30.043Z] Customer: Thank you.
+
+[2025-07-11T18:45:30.043Z] AI Agent: You're welcome! See you at Manhattan

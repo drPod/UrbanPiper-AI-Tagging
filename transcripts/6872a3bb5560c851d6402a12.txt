@@ -1,0 +1,30 @@
+Call ID: 6872a3bb5560c851d6402a12
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T18:04:43.599Z
+End Time: 2025-07-12T18:06:54.964Z
+Duration: 129 seconds
+From: 918949862707
+To: 918035740152
+Summary: The customer ordered a Breakfast Bundle from Manhattan Bagel, selecting 13 bagels and two types of cream cheese.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T18:06:54.792Z] AI Agent: Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T18:06:54.792Z] Customer: Yeah. And get me, breakfast bundle.
+
+[2025-07-12T18:06:54.792Z] AI Agent: The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 1/4 lb butter, 1/4 lb jelly, serving utensils, and paper products. You'll need to pick just one type of bagel for your bundle. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Asiago, California, Cheesy Hashbrown Roll, Bialy, Bagel Stick,
+
+[2025-07-12T18:06:54.792Z] Customer: Okay. So okay. Okay. Hold on. Hold on. So I need, five everything. Five every five everything. Two plain. Two vanilla, three, egg, and one garlic dill.
+
+[2025-07-12T18:06:54.792Z] AI Agent: For your Breakfast Bundle, you've selected: 5 Everything bagels, 2 Plain bagels, 2 Vanilla bagels, 3 Egg bagels, and 1 Garlic bagel. That's a total of 13 bagels. Now, let's move on to the cream cheese. You'll need to pick 2 types of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, Butter, and Storemade Lox Spread. Which two would you like?
+
+[2025-07-12T18:06:54.792Z] Customer: Get me one plain and one blue.
+
+[2025-07-12T18:06:54.792Z] AI Agent: You've chosen one Plain Cream Cheese and one Vegetable Cream Cheese for your Breakfast Bundle.
+
+[2025-07-12T18:06:54.793Z] Customer: No. Blueberry blueberry games. Yes.
+
+[2025-07-12T18:06:54.793Z] AI Agent: You've chosen one Plain Cream Cheese and one Blueberry Cream Cheese for your Breakfast Bundle. Now, would you like to add 4oz of Fresh Nova Lox to your

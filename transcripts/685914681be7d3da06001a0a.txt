@@ -1,0 +1,36 @@
+Call ID: 685914681be7d3da06001a0a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T08:46:32.392Z
+End Time: 2025-06-23T08:48:20.386Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle with customization options including bagel types and spreads.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T08:48:19.868Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T08:48:19.869Z] Customer: Breakfast bundle.
+
+[2025-06-23T08:48:19.869Z] AI Agent: The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T08:48:19.869Z] AI Agent: Do you want to proceed with the customization, now ?
+
+[2025-06-23T08:48:19.869Z] Customer: Yeah.
+
+[2025-06-23T08:48:19.869Z] AI Agent: First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.
+
+[2025-06-23T08:48:19.869Z] Customer: I want five of sesame and, five of everything.
+
+[2025-06-23T08:48:19.869Z] AI Agent: You'd like five Sesame and five Everything bagels. That's ten bagels so far. For the remaining three bagels, would you like to add more Sesame, Everything, or try a different type, like Plain or Asiago?
+
+[2025-06-23T08:48:19.870Z] Customer: Yeah. You can add the, rest of the three as garlic.
+
+[2025-06-23T08:48:19.870Z] AI Agent: You'd like the last three bagels to be Garlic. So, to confirm, your Bagel Dozen will consist of five Sesame, five Everything, and three Garlic bagels. Next, for your **two tubs of spread**, we have options like Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive. Which two would you like?
+
+[2025-06-23T08:48:19.870Z] Customer: I want vanilla green tea and vegetable.
+
+[2025-06-23T08:48:19.870Z] AI Agent: For your **two tubs of spread**, you've chosen Vanilla Green Tea and Vegetable. Next, for your **four muffins**,

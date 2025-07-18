@@ -1,0 +1,82 @@
+Call ID: 686b8e550ba117a21b250777
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T09:07:33.887Z
+End Time: 2025-07-07T09:12:12.874Z
+Duration: 275 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for Eggs and Omelettes with extra ham, cucumber, avocado, lettuce, American cheese, scrambled eggs, hash browns, and mustard, and a Big City BLT on a plain bagel, lightly toasted, with mustard.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T09:12:12.608Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T09:12:12.608Z] Customer: I want to order, three, egg and omelets and a big city BLT.
+
+[2025-07-07T09:12:12.608Z] AI Agent: Alright, one Eggs and Omelettes and a Big City BLT. First things first, I'll need to get a size for the Eggs and Omelettes. We have a standard size. Would you like to add any extra breakfast meat, such as bacon, sausage, or ham, to your Eggs and Omelettes?
+
+[2025-07-07T09:12:12.609Z] Customer: Can I have, extra ham?
+
+[2025-07-07T09:12:12.609Z] AI Agent: You'd like to add extra ham to your Eggs and Omelettes. Now, would you like to add any vegetables, such as lettuce, tomato, or spinach, to your Eggs and Omelettes?
+
+[2025-07-07T09:12:12.609Z] Customer: Okay. So, I'm going with the cucumber and avocado and also lettuce.
+
+[2025-07-07T09:12:12.609Z] AI Agent: For your Eggs and Omelettes, you'd like to add cucumber, avocado, and lettuce. Now, let's move on to the Big City BLT. For the Big City BLT, would you like it on a plain bagel, everything bagel, or something else?
+
+[2025-07-07T09:12:12.609Z] Customer: Can I have more, modification in action on that?
+
+[2025-07-07T09:12:12.609Z] AI Agent: For the Big City BLT, you can choose from a variety of bread options. We have plain bagel, everything bagel, asiago bagel, and many more. Which one of these sounds good to
+
+[2025-07-07T09:12:12.609Z] Customer: No. I I'm I'm asking about the egg zen omelette, not the BLT one.
+
+[2025-07-07T09:12:12.609Z] AI Agent: For the Eggs and Omelettes, you've already added extra ham, cucumber, avocado, and lettuce. Would you like to add any cheese, such as American, Swiss, or cheddar, to your Eggs and Omelettes?
+
+[2025-07-07T09:12:12.609Z] Customer: Yeah. So love to have, extra, American cheese.
+
+[2025-07-07T09:12:12.609Z] AI Agent: You'd like to add
+
+[2025-07-07T09:12:12.609Z] Customer: And egg type, I'll go with the scrambled one. And, mustard, also love to have, bricks. Like, we have already added the ham, so we're gonna add the hedge brown as well. And, for the BLT
+
+[2025-07-07T09:12:12.609Z] Customer: I'll go with the plain bizot.
+
+[2025-07-07T09:12:12.874Z] Unknown: [2025-07-07T09:12:12.609Z] assistant: For the Eggs and Omelettes, you've added extra ham, cucumber, avocado, lettuce, American cheese, and you'd like the eggs scrambled. You'd also like to add hash browns to your Eggs and Omelettes. 
+
+For the Big City BLT, you'd like it on a plain bagel. Now, would you like your Big City BLT to be toasted, lightly toasted, or not toasted at all?
+
+[2025-07-07T09:12:12.609Z] Customer: Lightly toasted.
+
+[2025-07-07T09:12:12.609Z] AI Agent: Alright, so your Big City BLT will be on a plain bagel, lightly toasted. Now, would you like to add any condiments, such as mayonnaise, mustard, or hot sauce, to your Big City BLT?
+
+[2025-07-07T09:12:12.609Z] Customer: Master.
+
+[2025-07-07T09:12:12.609Z] AI Agent: You'd like to add mustard to your Big City BLT. Now, let's review your order. You have the Eggs and Omelettes with extra ham, cucumber, avocado, lettuce, American cheese, scrambled eggs, hash browns, and mustard. And you have the Big City BLT on a plain bagel, lightly toasted, with mustard. Is there anything else you'd like to add to your order?
+
+[2025-07-07T09:12:12.609Z] Customer: 
+
+[2025-07-07T09:12:12.609Z] AI Agent: Perfect, let me get that all put together for you. I have the Eggs and Omelettes and the Big City BLT. Is that all for you today?
+
+[2025-07-07T09:12:12.609Z] Customer: 
+
+[2025-07-07T09:12:12.610Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-07T09:12:12.610Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-07T09:12:12.610Z] Customer: No.
+
+[2025-07-07T09:12:12.610Z] AI Agent: Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-07T09:12:12.610Z] Customer: No.
+
+[2025-07-07T09:12:12.610Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-07T09:12:12.610Z] Customer: Yeah.
+
+[2025-07-07T09:12:12.610Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-07T09:12:12.610Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 093993. That's 0, 9, 3, 9, 9, 3.", 'order_id': '093993', 'call_id': 'b9267b3f-d941-4803-a1af-20602fba5227', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e427-eb50-63a6-037e-afb28d1388f7'}
+
+[2025-07-07T09:12:12.610Z] AI Agent: Your order is created successfully now! The order number is 0, 9, 3, 9, 9, 3, and the total including taxes comes to $23.99. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. 
+
+[2025-07-07T09:12:12.610Z] AI Agent: OK

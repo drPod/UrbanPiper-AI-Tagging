@@ -1,0 +1,54 @@
+Call ID: 68724ddc5560c851d6333d41
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T11:58:20.284Z
+End Time: 2025-07-12T12:01:17.727Z
+Duration: 170 seconds
+From: 918949862707
+To: 918035740152
+Summary: Jutin placed an order for Avocado Toast with plain cream cheese and a medium hot black coffee at manhattan_bagel_864915
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T12:01:16.570Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T12:01:16.570Z] Customer: Looking to order, avocado, French toast with plain green cheese and lightly toasted. Also like to have, hot coffee, medium size black coffee, basically. Hot black coffee.
+
+[2025-07-12T12:01:16.570Z] AI Agent: Great, the Avocado Toast with plain cream cheese and lightly toasted. I also have a medium hot black coffee. Anything else?
+
+[2025-07-12T12:01:16.570Z] Customer: No.
+
+[2025-07-12T12:01:16.570Z] AI Agent: I have the Avocado Toast with plain cream cheese and lightly toasted, and a medium hot black coffee. Is this correct?
+
+[2025-07-12T12:01:16.570Z] Customer: 
+
+[2025-07-12T12:01:16.571Z] AI Agent: Moving to item customization stage...
+
+[2025-07-12T12:01:16.571Z] AI Agent: Let's customize your Avocado Toast. Pick one bagel. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, English Muffin, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, 
+
+[2025-07-12T12:01:16.571Z] Customer: French toast.
+
+[2025-07-12T12:01:16.571Z] AI Agent: Perfect! French Toast BAGEL. I'll note lightly toasted for later. Pick one spread. We have Butter, Plain Cream Cheese, Low-Fat Plain Cream Cheese, Grape Jelly, Styrawberry Jelly, Vegetable, Scallion, Strawberry, Jalapeno, Honey Almond, Hummus, Nutella, Avocado, Peanut Butter Cream Cheese.
+
+[2025-07-12T12:01:16.571Z] Customer: What I said earlier, I don't know. I don't I don't remember. Can you tell me what I have said?
+
+[2025-07-12T12:01:16.571Z] AI Agent: You had ordered an Avocado Toast with plain cream cheese and lightly toasted, and a medium hot black coffee.
+
+[2025-07-12T12:01:16.571Z] Customer: So while asking this question, you can you you should have, you know, Zoom, like, playing games here. Right?
+
+[2025-07-12T12:01:16.571Z] AI Agent: I should have recalled that you mentioned plain cream cheese earlier. So, to confirm, you would like plain cream cheese on your Avocado Toast, correct?
+
+[2025-07-12T12:01:16.571Z] Customer: 
+
+[2025-07-12T12:01:17.727Z] Unknown: [2025-07-12T12:01:16.571Z] assistant: Perfect! Plain cream cheese. I'll also go ahead with the lightly toasted French Toast BAGEL as we previously discussed. Your Avocado Toast is now complete. 
+
+Let's move on to your hot black coffee. You had mentioned a medium size, and I'll go ahead with that. 
+
+Since we've completed customizing your items, I'll now transition to the ordering summarization stage. 
+
+[2025-07-12T12:01:16.571Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-12T12:01:16.572Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 370833. That's 3, 7, 0, 8, 3, 3.", 'order_id': '370833', 'call_id': '1eb4d550-a84e-49fc-8c42-d0ec6dfc9e37', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fe82-7f9e-4918-9f3e-2d410af75b29'}
+
+[2025-07-12T12:01:16.572Z] AI Agent: Your order number is 3, 7, 0, 8, 3, 3. Please pick up your order at manhattan_bagel_864915. We accept cash only.

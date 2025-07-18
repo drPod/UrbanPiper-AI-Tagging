@@ -1,0 +1,36 @@
+Call ID: 6856a3be1be7d3da06ca386b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T12:21:18.310Z
+End Time: 2025-06-21T12:23:05.681Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a medium decaf hot coffee with half and half milk for pickup at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T12:23:04.712Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T12:23:04.712Z] Customer: Hot coffee, medium size, decaf, half and half milk.
+
+[2025-06-21T12:23:04.712Z] AI Agent: One medium decaf hot coffee with half and half milk coming right up. I'll add that to your order. Your total is 2 dollars and 49 cents. What else can I get for you?
+
+[2025-06-21T12:23:04.712Z] Customer: Oh, nothing. Just just place this order. Hello?
+
+[2025-06-21T12:23:04.712Z] AI Agent: Let me place this order for you. I'll just need to confirm a few details. Your name is Jitin, and you'd like to pick up your order, correct? Also, do you
+
+[2025-06-21T12:23:04.712Z] Customer: Yes.
+
+[2025-06-21T12:23:04.712Z] AI Agent: Alright, let me place this order for you. 
+
+[2025-06-21T12:23:04.712Z] AI Agent: No items found in cart. Please add items before placing order.
+
+[2025-06-21T12:23:04.712Z] AI Agent: Added 1 item(s) to your cart. Total: $0.00
+
+[2025-06-21T12:23:04.712Z] AI Agent: Alright, let me place this order for you. 
+
+[2025-06-21T12:23:04.712Z] AI Agent: Your order has been placed successfully! Your order number is 431037. Total: $0.00. Thank you for your order!
+
+[2025-06-21T12:23:04.713Z] AI Agent: Your order has been placed successfully. Your order number is 431037. We'll have your medium decaf hot coffee with half and half milk ready for pickup. Thank you for choosing Manhattan Bagel, Jitin. Have a great day.

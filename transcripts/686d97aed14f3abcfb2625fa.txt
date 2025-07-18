@@ -1,0 +1,18 @@
+Call ID: 686d97aed14f3abcfb2625fa
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T22:11:58.799Z
+End Time: 2025-07-08T22:12:43.194Z
+Duration: 43 seconds
+From: +19725155417
+To: +16204558091
+Summary: Sonu placed an order for an Avocado BLT sandwich with customizations.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T22:12:42.983Z] AI Agent: Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T22:12:42.983Z] Customer: Yeah. Let me get my usual let's get an avocado BLT sandwich on an Asiago bagel. Let's make that toasted dark. Let's add jalapenos, spinach, provolone cheese, let's do mustard and hot sauce, and add Lace chips on the side, please.
+
+[2025-07-08T22:12:42.983Z] AI Agent: Alright, one Avocado BLT sandwich on an Asiago bagel. Would you like to hear the available customizations for that?

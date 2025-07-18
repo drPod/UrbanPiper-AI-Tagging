@@ -1,0 +1,42 @@
+Call ID: 686d09990245c817844458d0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T12:05:45.808Z
+End Time: 2025-07-08T12:08:14.376Z
+Duration: 142 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer initially wanted to order the Breakfast Bundle but later changed their mind and asked about apple juice.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T12:08:12.443Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T12:08:12.443Z] Customer: I'd like to order my, breakfast bundle.
+
+[2025-07-08T12:08:12.443Z] AI Agent: Okay, the Breakfast Bundle. Let me get that started for you. First, I need to know what kind of bagels you'd like in your dozen. We have a variety of options, including Plain, Everything, Blueberry, and more. Would you like to hear some of the options?
+
+[2025-07-08T12:08:12.444Z] Customer: K. I want to know how many vehicles I can select.
+
+[2025-07-08T12:08:12.444Z] AI Agent: The Breakfast Bundle includes 13 bagels. You can choose any 13 bagels from our selection. We have a wide range of options, including Plain, Everything, Blueberry, Chocolate Chip, and more. Would you like to hear some of the available bagel options?
+
+[2025-07-08T12:08:12.444Z] Customer: Yeah. I want to know I want I want to select, like, five, if I may five, plane and three vanilla.
+
+[2025-07-08T12:08:12.444Z] AI Agent: I don't see vanilla bagels on our menu. Let me share some options: Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, and more. Would you like to hear more options or choose from these?
+
+[2025-07-08T12:08:12.444Z] Customer: Then go with the everything data, three as everything data.
+
+[2025-07-08T12:08:12.445Z] AI Agent: Alright, five plain bagels and three everything bagels. Next, I'll need to know which two tubs of spread you'd like. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion, Strawberry, and more. Would you like to hear some of the options?
+
+[2025-07-08T12:08:12.445Z] Customer: Yeah. So options, as in?
+
+[2025-07-08T12:08:12.445Z] AI Agent: We have several spread options for you to choose from, including Plain Cream Cheese, Vegetable Cream Cheese, Scallion, Strawberry, Jalapeño, Honey
+
+[2025-07-08T12:08:12.446Z] Customer: Okay. Leave leave this breakfast bundle. I don't want to, you know, go with. Can I have, apple juice?
+
+[2025-07-08T12:08:12.446Z] AI Agent: Sure thing. Let me check our apple juice options. We have Tropicana Apple Juice available in 11oz and 46oz sizes. Would you like the 11oz or the 46oz?
+
+[2025-07-08T12:08:12.446Z] Customer: Sorry. What? What that old town?
+
+[2025-07-08T12:08:12.446Z] AI Agent: The Tropicana Apple Juice is available in two sizes: 11 ounces and 46 ounces. Which size would you like?

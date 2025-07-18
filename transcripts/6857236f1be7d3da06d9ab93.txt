@@ -1,0 +1,16 @@
+Call ID: 6857236f1be7d3da06d9ab93
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T21:26:07.927Z
+End Time: 2025-06-21T21:26:34.583Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered a Breakfast Bundle from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T21:26:34.428Z] AI Agent: Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T21:26:34.428Z] Customer: Breakfast bundle? Hello?

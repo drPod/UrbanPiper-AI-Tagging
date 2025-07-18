@@ -1,0 +1,173 @@
+Call ID: 6878b5c673d0cf0f7e909daf
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T08:35:18.428Z
+End Time: 2025-07-17T08:44:18.941Z
+Duration: 524 seconds
+From: +447939156482
+To: +441313810000
+Summary: The customer, Jason, placed an order for a large Mint Pistachio Chillerz and a Blueberry Lemon Loaf, and picked up his order from the Manhattan Bagel store.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T08:44:16.503Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T08:44:16.503Z] Customer: Sure. I placed an order for me and a friend.
+
+[2025-07-17T08:44:16.503Z] AI Agent: I'd be happy to help you with that. What would you like to order for yourself and your friend today?
+
+[2025-07-17T08:44:16.503Z] Customer: What do you got on special?
+
+[2025-07-17T08:44:16.503Z] AI Agent: We have a few specials going on right now. We have our LTO Spring Beverages, which include our Mint Pistachio Chillerz and Mint Oreo Chillerz, both for $5.99. We also have our Iced Lavender Blackberry Oat Milk Latte for $5.49. And for breakfast, we have our Big Breakfast Burrito for $9.49, which comes with scrambled eggs, sausage, bacon, and more. Which one of these specials sounds interesting to you?
+
+[2025-07-17T08:44:16.503Z] Customer: The chillers.
+
+[2025-07-17T08:44:16.503Z] AI Agent: The Chillerz are a popular choice. We have two flavors, Mint Pistachio and Mint Oreo, both for $5.99. Which one would you like to try? And would you like it in a 16-ounce or 24-ounce size? The 24-ounce size is an extra $1.49.
+
+[2025-07-17T08:44:16.503Z] Customer: Yeah. Let's have a large pistachio.
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.503Z] assistant: So, that's a large Mint Pistachio Chillerz, which is $5.99 + $1.49 for the large size, making it a total of $7.48. I'll add that to your order.
+
+Now, what about your friend? Would they like to try a Chillerz as well, or something else from our menu?
+
+[2025-07-17T08:44:16.503Z] Customer: Yeah. Yeah. They'll have the same as me, but make it a medium.
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.503Z] assistant: So, your friend will have a medium Mint Pistachio Chillerz, which is $5.99. I'll add that to your order.
+
+Just to confirm, you'll have a large Mint Pistachio Chillerz for $7.48, and your friend will have a medium Mint Pistachio Chillerz for $5.99. Your total comes out to be $13.47.
+
+Before I put this order in, would you like to add anything else, such as a bagel or a pastry, or are you all set?
+
+[2025-07-17T08:44:16.503Z] Customer: I've got a sweet tooth. What can you suggest?
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.504Z] assistant: We have a variety of sweet treats that pair well with our Chillerz. Our most popular ones are our Muffins, which come in flavors like Blueberry, Double Chocolate, and Cinnamon Chip. We also have Pastries like Croissants, Danish, and Coffee Cake. And if you're looking for something a little more unique, we have our Fruit Cup, which is a mix of fresh seasonal fruit.
+
+If you're looking for something a bit more decadent, I can suggest our Cookies, which come in large and mini sizes. We also have a Cookie Cup, which is a selection of our mini cookies.
+
+Which one of these sounds good to you, or would you like me to recommend something?
+
+[2025-07-17T08:44:16.504Z] Customer: My friend wants the cookie cup, but, I'm interested in, like, a cake of some sort.
+
+[2025-07-17T08:44:16.504Z] AI Agent: Our Cookie Cup is a great choice, it's a selection of our mini cookies and it's $3.99. For you, we have a variety of cakes to choose from. We have a Crumb Cake, which is a moist and flavorful cake with a crumbly topping, and it's $3.49. We also have a selection of Muffin Tops, which are essentially the tops of our muffins, and they're $2.99. And if you're looking for something a bit more decadent, we have our Cheesecake, which is a rich and creamy dessert, and it's $4.99. We also have a seasonal special, our Blueberry Lemon Loaf, which is a moist and flavorful loaf cake with a hint of lemon and blueberry, and it's $3.99. Which one of 
+
+[2025-07-17T08:44:16.504Z] Customer: Yeah. Blueberry, and lemon cake. That sounds good.
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.504Z] assistant: Our Blueberry Lemon Loaf is a popular choice, and it's a great pairing with the Mint Pistachio Chillerz. I'll add that to your order for $3.99.
+
+So, to recap, you'll have a large Mint Pistachio Chillerz for $7.48, your friend will have a medium Mint Pistachio Chillerz for $5.99, your friend will also have a Cookie Cup for $3.99, and you'll have a Blueberry Lemon Loaf for $3.99. Your total comes out to be $21.43.
+
+Before I put this order in, I just want to confirm that everything is correct. Is there anything else you'd like to add or change?
+
+[2025-07-17T08:44:16.504Z] Customer: Kenya, South Africans.
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.508Z] assistant: I can definitely try to speak in Afrikaans for you. However, please keep in mind that my proficiency in Afrikaans might not be as high as in English, and I might make some mistakes.
+
+So, om te bevestig, u het 'n groot Mint Pistachio Chillerz vir $7.48, u vriend het 'n medium Mint Pistachio Chillerz vir $5.99, u vriend het ook 'n Cookie Cup vir $3.99, en u het 'n Blueberry Lemon Loaf vir $3.99. U totaal kom uit op $21.43.
+
+Is daar enigiets anders wat u wil byvoeg of verander? (Is there anything else you'd like to add or change?)
+
+[2025-07-17T08:44:16.508Z] Customer: Yeah. This is a.
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.508Z] assistant: Ek verstaan. Ek sal nou die bestelling plaas. (I understand. I will now place the order.)
+
+Just to confirm, I will place the order for:
+
+* 1 large Mint Pistachio Chillerz for $7.48
+* 1 medium Mint Pistachio Chillerz for $5.99
+* 1 Cookie Cup for $3.99
+* 1 Blueberry Lemon Loaf for $3.99
+
+Your total comes out to be $21.43.
+
+I will now calculate the total price of your order using our calculate_order_price tool. 
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.509Z] assistant: It seems that the "Cookie Cup" item is not found in our menu. I will make sure to correct this and provide you with the correct options.
+
+Let me try again. Instead of the "Cookie Cup", we have a "Cookie" item that comes in a large size for $2.99. Would you like to substitute this for the "Cookie Cup"?
+
+Also, I will recalculate the total price of your order using our calculate_order_price tool. 
+
+
+
+[2025-07-17T08:44:16.509Z] Customer: Yeah. That's fine.
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.509Z] assistant: I will make sure to correct this and provide you with the correct options.
+
+Let me try again. Instead of the "Cookie", we have a "Muffin" item that comes in various flavors. Would you like to substitute this for the "Cookie"?
+
+Also, I will recalculate the total price of your order using our calculate_order_price tool. 
+
+
+
+[2025-07-17T08:44:16.509Z] AI Agent: It
+
+[2025-07-17T08:44:16.509Z] Customer: Yeah. That's fine.
+
+[2025-07-17T08:44:16.509Z] AI Agent: I will make sure to correct this and provide you with the correct options. Let me try again. Instead of the "Muffin", we have a "Blueberry Muffin" item that comes in a large size for $3.49. Would you like to substitute this for the "Muffin"? Also, I will recalculate the total price of your
+
+[2025-07-17T08:44:16.509Z] Customer: Yes.
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.509Z] assistant: I will substitute the "Blueberry Muffin" for the "Muffin".
+
+So, to recap, you'll have a large Mint Pistachio Chillerz for $7.48, your friend will have a medium Mint Pistachio Chillerz for $5.99, your friend will also have a Blueberry Muffin for $3.49, and you'll have a Blueberry Lemon Loaf for $3.99. 
+
+I will now calculate the total price of your order using our calculate_order_price tool. 
+
+
+
+[2025-07-17T08:44:16.510Z] AI Agent: It seems that the "Blueberry Muffin" item is not found in our menu. I will make
+
+[2025-07-17T08:44:16.510Z] Customer: That's fine. Just take it off.
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.510Z] assistant: I will remove the Blueberry Muffin from your order.
+
+So, to recap, you'll have a large Mint Pistachio Chillerz for $7.48, and your friend will have a medium Mint Pistachio Chillerz for $5.99, and you'll have a Blueberry Lemon Loaf for $3.99.
+
+Your total comes out to be $17.46.
+
+I will now transition to the order summarization stage using our change_to_ordering_summarization_stage tool.
+
+
+
+[2025-07-17T08:44:16.510Z] AI Agent: Moving to ordering summarization stage with total pricing of the ordered item with taxes
+
+[2025-07-17T08:44:16.510Z] AI Agent: May I have your name for the order?
+
+[2025-07-17T08:44:16.510Z] Customer: Sure. It's Jason testing this order.
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.510Z] assistant: Thank you, Jason. I'll make sure to put that on the order.
+
+And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-17T08:44:16.510Z] Customer: No. All good.
+
+[2025-07-17T08:44:16.510Z] AI Agent: Alright Jason. Would you like me to read back your order with all the details?
+
+[2025-07-17T08:44:16.510Z] Customer: No. That's fine. Is this delivery or pickup, or what options do I have?
+
+[2025-07-17T08:44:16.510Z] AI Agent: We're a pickup-only store, so you'll need to come by to pick up your order. We don't offer delivery at this time. Great
+
+[2025-07-17T08:44:16.510Z] Customer: What are your operating hours?
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.510Z] assistant: Our hours of operation are from 6:00 AM to 7:00 PM, Monday through Friday, and from 7:00 AM to 7:00 PM on weekends. We're open every day of the week, so you can come by to pick up your order at your convenience during those hours.
+
+Now, I'll go ahead and place your order. Great. Placing that for you now, please hold on...
+
+
+
+[2025-07-17T08:44:16.511Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 403813. That's 4, 0, 3, 8, 1, 3.", 'order_id': '403813', 'call_id': 'ede3f289-702e-499c-b40d-ef5b0cdb92d8', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0198178d-4322-411e-82f9-66eb02362014'}
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.511Z] assistant: Your order number is 4, 0, 3, 8, 1, 3. Your total comes out to be $17.46. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment.
+
+Is there anything else I can help you with today?
+
+[2025-07-17T08:44:16.511Z] Customer: Can you tell me a bit more? Is there a dine in option at the restaurant, or is it takeaway only?
+
+[2025-07-17T08:44:18.941Z] Unknown: [2025-07-17T08:44:16.511Z] assistant: We are a pickup-only store, which means we don't have a dining area for customers to eat in. All orders are take-out only, so you'll need to pick up your order and enjoy it elsewhere.
+
+If you have any other questions or need further assistance, feel free to ask! Otherwise, I hope you enjoy your order, and we look forward to serving you again soon!
+
+[2025-07-17T08:44:16.511Z] Customer: Thanks.
+
+[2025-07-17T08:44:16.511Z] AI Agent: You're

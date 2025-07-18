@@ -1,0 +1,26 @@
+Call ID: 686fe134d14f3abcfb55f38a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-10T15:50:12.755Z
+End Time: 2025-07-10T15:51:07.013Z
+Duration: 52 seconds
+From: +19493030106
+To: +16204558091
+Summary: The customer initiated an order for a Cinnamon Raisin bagel but didn't complete the customization process.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-10T15:51:06.684Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-10T15:51:06.685Z] Customer: Hi. Can I place an order for a bagel?
+
+[2025-07-10T15:51:06.685Z] AI Agent: We have a wide variety of bagels to choose from. You'll need to pick just one bagel for your order. We have Plain, Everything, Sesame, and Cinnamon Raisin. Would you like one of these, or should I list more options?
+
+[2025-07-10T15:51:06.685Z] Customer: Can I have cinnamon raisin?
+
+[2025-07-10T15:51:06.686Z] AI Agent: The Cinnamon Raisin bagel is a great choice. Now, you'll need to pick just
+
+[2025-07-10T15:51:06.686Z] Customer: It's just it's really sorry. Yeah. It's pretty much just like that. And it's just, like, super cool and, like, really, you can't even tell it's, like, a bot. Because we were, like, saying stuff like, I don't want that. And they're like, okay. We could take it off for you. Like, no big deal. And he's trying to get this for 85 or whatever.
+
+[2025-07-10T15:51:06.686Z] AI Agent: I think there

@@ -1,0 +1,54 @@
+Call ID: 6855a2891be7d3da06ba00b4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T18:03:53.156Z
+End Time: 2025-06-20T18:06:18.276Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav placed an order for a medium hot latte with half and half milk and no whipped cream for pickup at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T18:06:17.924Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T18:06:17.924Z] Customer: Actually, I I want to, order, hot latte, medium size, half and half milk, and no cream cheese no no skim like, no whipped cream. Sorry.
+
+[2025-06-20T18:06:17.924Z] AI Agent: Let me see what I can find for you. 
+
+[2025-06-20T18:06:17.924Z] AI Agent: Found 3 item(s) for your search: Hot Latte, Iced Latte, Hot Caramel Macchiato. See 'item_details' for more information.
+
+[2025-06-20T18:06:17.924Z] AI Agent: I found a hot latte for you. The hot latte is $2.75. For the hot latte, I can offer you a medium size. The medium size is $3.75. What type of milk would you like? We have whole milk, skim milk, or a non-dairy milk alternative. You mentioned half and half
+
+[2025-06-20T18:06:17.924Z] Customer: Half and half. Yeah.
+
+[2025-06-20T18:06:17.924Z] AI Agent: For the milk, you'd like half and half. That's a great choice. The half and half is an extra $0.75. So, your total for the medium hot latte with half and half milk is $4.50. Would you like whipped cream on top?
+
+[2025-06-20T18:06:17.924Z] Customer: No. No. I don't I don't want that.
+
+[2025-06-20T18:06:17.925Z] AI Agent: So, no whipped cream. I've got that noted. Your medium hot latte with half and half milk, no whipped cream, is $4.50. Would you like to add anything else to your order, or is that all for today?
+
+[2025-06-20T18:06:17.925Z] Customer: Yeah. That's all.
+
+[2025-06-20T18:06:17.925Z] AI Agent: Let me just confirm your order. You'd like a medium hot latte with half and half milk and no whipped cream, for a total of $4.50. Is that correct?
+
+[2025-06-20T18:06:17.925Z] Customer: Yeah. Correct.
+
+[2025-06-20T18:06:17.925Z] AI Agent: I just need to confirm a few more details. Your total comes out to be 450 cents. Is that okay with you? And would you like to place this order for pickup? Also, do you have any special requests or allergies I should note? 
+
+[2025-06-20T18:06:17.925Z] AI Agent: I've added your special instructions to the order.
+
+[2025-06-20T18:06:17.926Z] AI Agent: Before I place your
+
+[2025-06-20T18:06:17.926Z] Customer: No. All good.
+
+[2025-06-20T18:06:17.926Z] AI Agent: Before I place your order, I just need to confirm: you'd like to pick up your medium hot latte with half and half milk and no whipped cream, and your total is 450 cents. Is that all correct? 
+
+[2025-06-20T18:06:17.926Z] AI Agent: Perfect! I've submitted your order. Let me get your confirmation number, this will just take a moment...
+
+[2025-06-20T18:06:17.926Z] Customer: Yes.
+
+[2025-06-20T18:06:17.926Z] AI Agent: I've placed your order. Your order number is #1234. Your total came out to be 450 cents. We will have your medium hot latte with half and half milk and no whipped cream ready for pickup. Thank you for choosing Manhattan Bagel. Have a great day! 
+
+[2025-06-20T18:06:17.936Z] AI Agent: OK

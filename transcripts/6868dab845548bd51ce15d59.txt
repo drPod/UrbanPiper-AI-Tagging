@@ -1,0 +1,26 @@
+Call ID: 6868dab845548bd51ce15d59
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T07:56:40.645Z
+End Time: 2025-07-05T07:57:51.931Z
+Duration: 69 seconds
+From: +919686500112
+To: +16204558091
+Summary: The customer ordered a Breakfast Bundle from Manhattan Bagel without adding any smoked nova.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T07:57:51.699Z] AI Agent: Hello M G Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T07:57:51.699Z] Customer: Hi. Can I order a breakfast bundle?
+
+[2025-07-05T07:57:51.699Z] AI Agent: The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can also add 4oz of premium Acme smoked nova for an extra $9.99. Would you like to add the nova to your bundle?
+
+[2025-07-05T07:57:51.699Z] Customer: No.
+
+[2025-07-05T07:57:51.931Z] Unknown: [2025-07-05T07:57:51.700Z] assistant: For the 13 bagels, which ones would you like? We have a variety to choose from, such as Plain, Everything, Asiago, Blueberry, and many more. 
+
+Also, for the 2 tubs of cream cheese, would you like to choose from our options like Plain, Vegetable, or Scallion? 
+
+And for the 4 muffins, we have Blueberry, Corn, Double Chocolate, and Cinnamon Chip. Which ones would you like?

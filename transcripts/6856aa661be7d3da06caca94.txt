@@ -1,0 +1,16 @@
+Call ID: 6856aa661be7d3da06caca94
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T12:49:42.666Z
+End Time: 2025-06-21T12:50:27.958Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a hot latte with whipped cream, half and half, and medium size from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T12:50:27.794Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T12:50:27.794Z] Customer: Hi, Emily. I want to order hot latte, whipped cream, half an hour, and medium size.

@@ -1,0 +1,64 @@
+Call ID: 68715cbf5560c851d6247565
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T18:49:35.055Z
+End Time: 2025-07-11T18:51:44.454Z
+Duration: 127 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jutin placed an order for a Poppy bagel with Plain Cream Cheese at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T18:51:44.102Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-11T18:51:44.103Z] Customer: Yeah. I want to order poppy bagel with clean, clean cheese.
+
+[2025-07-11T18:51:44.103Z] AI Agent: I don't see "clean cream cheese" on our menu. We have Plain Cream Cheese, Vegetable Cream Cheese, Strawberry, and Honey Almond, among others. Which one of these sounds good to you?
+
+[2025-07-11T18:51:44.103Z] Customer: Plain cream cheese with poppy seed burger.
+
+[2025-07-11T18:51:44.103Z] AI Agent: Perfect. One Poppy bagel with Plain Cream Cheese. You'll need to pick just one size for your cream cheese. We have a regular size. Would you like that, or would you like to add any other items to your order?
+
+[2025-07-11T18:51:44.103Z] Customer: 
+
+[2025-07-11T18:51:44.103Z] AI Agent: For the Poppy
+
+[2025-07-11T18:51:44.103Z] Customer: No. Just
+
+[2025-07-11T18:51:44.103Z] AI Agent: One Poppy bagel with Plain Cream Cheese. Is there anything else I can get for you today?
+
+[2025-07-11T18:51:44.103Z] Customer: No. That's it.
+
+[2025-07-11T18:51:44.103Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-11T18:51:44.103Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-11T18:51:44.104Z] AI Agent: May I have your name for the order, please?
+
+[2025-07-11T18:51:44.104Z] Customer: Yeah. My name is Jiten.
+
+[2025-07-11T18:51:44.104Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-11T18:51:44.104Z] Customer: No. I don't have any. Thank you so much.
+
+[2025-07-11T18:51:44.104Z] AI Agent: Alright, Jutin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-11T18:51:44.104Z] Customer: No. All good.
+
+[2025-07-11T18:51:44.104Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-11T18:51:44.104Z] Customer: Yeah.
+
+[2025-07-11T18:51:44.104Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-11T18:51:44.104Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 569291. That's 5, 6, 9, 2, 9, 1.", 'order_id': '569291', 'call_id': '0c62a981-fdca-430a-ba3b-2d78539139ac', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fad3-c1ff-1776-5ff3-832551d07fe1'}
+
+[2025-07-11T18:51:44.104Z] AI Agent: Your order is created successfully now ! The order number is 5, 6, 9, 2, 9, 1, and the total including taxes comes to $4.29. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Do you need any further assistance?
+
+[2025-07-11T18:51:44.104Z] Customer: No.
+
+[2025-07-11T18:51:44.104Z] AI Agent: You're all set then. It was a pleasure helping you with your order, Jutin. Have a great day and enjoy your Poppy bagel with Plain Cream Cheese! 
+
+[2025-07-11T18:51:44.104Z] AI Agent: OK

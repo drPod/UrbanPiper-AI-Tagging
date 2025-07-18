@@ -1,0 +1,46 @@
+Call ID: 68593a541be7d3da0604be9a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:28:20.862Z
+End Time: 2025-06-23T11:30:48.231Z
+Duration: 180 seconds
+From: +919686500112
+To: +16204558091
+Summary: The customer inquired about the menu and services offered by Manhattan Bagel, including breakfast sandwiches, lunch options, beverages, and catering, but did not place an order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:30:48.059Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T11:30:48.059Z] Customer: Can you tell me what all you have in the breakfast sandwich section?
+
+[2025-06-23T11:30:48.059Z] AI Agent: Let me see what we have for breakfast sandwiches. We have the Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich, Big Breakfast Burrito, Santa Fe Egg White, Hash Brown, Egg on a Bagel, French Toast Egg Sandwich, Omelet Wrap, Protein Breakfast Wrap, Avocado Toast, Egg and Cheese, Garden Avocado Egg White Sandwich, Meat on Bagel, Philly Steak Egg and Cheese, Breakfast Cheesesteak, Smokey Brisket Sandwich, and Classic
+
+[2025-06-23T11:30:48.059Z] Customer: Okay. Move on to can you tell me what do you have for the lunch menu?
+
+[2025-06-23T11:30:48.059Z] AI Agent: For lunch, we have a variety of options. We have the Greenwich Grilled Cheese, Chelsea Grilled Chicken, Spicy Avocado Grilled Chicken, Ellis Island Hot Pastrami Sandwich, Manhattan Cheesesteak Sandwich, Balsamic Grilled Chicken Wrap, Big City BLT, Buffalo Grilled Chicken Wrap, Avocado BLT Sandwich, Chicken Cheesesteak,
+
+[2025-06-23T11:30:48.059Z] Customer: Can you tell me can you tell me more about your big city BLT?
+
+[2025-06-23T11:30:48.059Z] AI Agent: Our Big City BLT is a toasted multigrain bread with bacon, lettuce, tomato, and mayo, served with a choice of side.
+
+[2025-06-23T11:30:48.059Z] AI Agent: Let's start customizing your Big City BLT. For the
+
+[2025-06-23T11:30:48.059Z] Customer: No. I don't want to give it. Can you tell me what you have for beverages?
+
+[2025-06-23T11:30:48.059Z] AI Agent: For beverages, we have hot coffee or tea, iced coffee or tea, hot chocolate, cold brew iced coffee, espresso shot, hot latte, iced latte, hot caramel macchiato, iced caramel macchiato, americano, hot cappuccino,
+
+[2025-06-23T11:30:48.059Z] Customer: Okay. What is your talk talk talk to me more about your breakfast bundle.
+
+[2025-06-23T11:30:48.059Z] AI Agent: Our Breakfast Bundle is a great option. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get the options for your bundle... 
+
+[2025-06-23T11:30:48.059Z] AI Agent: Let's start
+
+[2025-06-23T11:30:48.059Z] Customer: 
+
+[2025-06-23T11:30:48.059Z] AI Agent: Our catering menu includes a variety of options such as Bagels and Spreads, Broadway Box, Catering Coffee Service, Box of Sweets, Hot Breakfast Sandwich Platter, Salad Platter, Group Salads, Lunch Sandwich Platter, Group Fruit Bowl, Group Yogurt Parfait Bowl, Group Meals, Catering Orange
+
+[2025-06-23T11:30:48.060Z] Customer: No. I think that that's it. That's it. Thank you very much. Okay.
+
+[2025-06-23T11:30:48.060Z] AI Agent: You're welcome. It was a pleasure helping you. Have a great day. 

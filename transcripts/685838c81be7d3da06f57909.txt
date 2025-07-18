@@ -1,0 +1,78 @@
+Call ID: 685838c81be7d3da06f57909
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T17:09:28.791Z
+End Time: 2025-06-22T17:12:53.080Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer inquired about ordering a Manhattan Cheesesteak Sandwich and later changed their mind to an Original Classic, but the call ended before finalizing the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T17:12:52.094Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T17:12:52.094Z] Customer: Hey. Hi. How are you?
+
+[2025-06-22T17:12:52.094Z] AI Agent: I'm doing well, thanks for asking. It's great to have you here at Manhattan Bagel. How about you, how's your day going so far? What can I get for you today?
+
+[2025-06-22T17:12:52.094Z] Customer: Yeah. So, actually,
+
+[2025-06-22T17:12:52.095Z] AI Agent: Let me get the options for your
+
+[2025-06-22T17:12:52.095Z] Customer: I'm here to
+
+[2025-06-22T17:12:52.095Z] AI Agent: Let's start
+
+[2025-06-22T17:12:52.095Z] Customer: I'm actually
+
+[2025-06-22T17:12:52.095Z] AI Agent: I'll just wait for a moment, please go ahead and
+
+[2025-06-22T17:12:52.095Z] Customer: Wait. Wait. Wait. I'm looking for
+
+[2025-06-22T17:12:52.095Z] AI Agent: Take your time, Jiten.
+
+[2025-06-22T17:12:52.095Z] Customer: Yeah.
+
+[2025-06-22T17:12:52.095Z] AI Agent: I'm here when you're ready to order.
+
+[2025-06-22T17:12:52.095Z] Customer: Okay. Yeah. So I'm just saying, I would like to order, Manhattan cheese stick sandwich.
+
+[2025-06-22T17:12:52.095Z] AI Agent: The Manhattan Cheesesteak Sandwich, excellent choice. That's a popular item with grilled steak, roasted peppers, grilled onions, and cheese on a long roll. Let me get the options for your Manhattan Cheesesteak Sandwich...
+
+[2025-06-22T17:12:52.096Z] AI Agent: Let's start with your Manhattan Cheesesteak Sandwich. For the lunch side, we have chips, coleslaw, or Lays chips for a dollar extra. Which one would you like?
+
+[2025-06-22T17:12:52.096Z] Customer: But I want to know how many I can select.
+
+[2025-06-22T17:12:52.096Z] AI Agent: For the lunch side, you can choose one option. We have chips, coleslaw, or Lays chips for a dollar extra. Which one sounds good to you?
+
+[2025-06-22T17:12:52.096Z] Customer: Can I select more than one?
+
+[2025-06-22T17:12:52.096Z] AI Agent: For the lunch side, you can only choose one option. If you'd like to add something extra, we can discuss other customization options later. Let's focus on the lunch side for now. Would you
+
+[2025-06-22T17:12:52.148Z] Customer: Okay. And and how how you're con how how you confirm? Like, I can only select one?
+
+[2025-06-22T17:12:52.148Z] AI Agent: Let me check that for you. According to our options, for the lunch side, it's a single selection. You can choose one from chips, coleslaw, or Lays chips.
+
+[2025-06-22T17:12:52.149Z] Customer: Is it is it because, like, you have the min selection one and max selection as one one? Is it because of that?
+
+[2025-06-22T17:12:52.149Z] AI Agent: Yes, that's correct. The minimum and maximum selection for the lunch side is one, which means you can only choose one option from the available choices.
+
+[2025-06-22T17:12:52.149Z] Customer: Okay. Okay. Forget about the Manhattan cheese stick. Can I, select, order the, original classic?
+
+[2025-06-22T17:12:52.149Z] AI Agent: The Original Classic, great choice. That's one of our popular breakfast sandwiches with egg, cheese, and your choice of meat. Let me get the options for your Original Classic...
+
+[2025-06-22T17:12:52.149Z] AI Agent: For your Original Classic, let's start with the bagel choice. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which type of bagel would you like?
+
+[2025-06-22T17:12:52.149Z] Customer: Hold on. So, give me one second. I'm doing something else as well.
+
+[2025-06-22T17:12:52.149Z] AI Agent: Take your
+
+[2025-06-22T17:12:52.149Z] Customer: 
+
+[2025-06-22T17:12:52.150Z] AI Agent: I'll
+
+[2025-06-22T17:12:52.150Z] Customer: Yeah. So in the bagel choice, how many like, can I have two bagels, one everything and one asiago?
+
+[2025-06-22T17:12:52.150Z] AI Agent: For the Original Classic, you can only choose one bagel. If you'd like to have two different bagels, you could consider ordering two separate Original Classics, each with a different bagel choice.

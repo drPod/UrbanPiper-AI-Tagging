@@ -1,0 +1,24 @@
+Call ID: 686eac7cd14f3abcfb3e1184
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-09T17:53:00.226Z
+End Time: 2025-07-09T17:53:40.651Z
+Duration: 38 seconds
+From: 919780032269
+To: 918035740152
+Summary: John ordered a Mint Oreo Chillerz in a sixteen-ounce size.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-09T17:53:40.475Z] AI Agent: Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-09T17:53:40.475Z] Customer: I want to order mint toadillas.
+
+[2025-07-09T17:53:40.475Z] AI Agent: You'll need to pick just one size for your Mint Oreo Chillerz. We have sixteen ounce and twenty-four ounce for one dollar forty-nine extra. Which size would you prefer?
+
+[2025-07-09T17:53:40.475Z] Customer: 16 ounce, and that's it. You can call the change order tool now.
+
+[2025-07-09T17:53:40.476Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-09T17:53:40.476Z] AI Agent: I'm sorry, there was an issue processing your request. Let me try that

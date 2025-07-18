@@ -1,0 +1,36 @@
+Call ID: 68591d0d1be7d3da0601a8f7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T09:23:25.598Z
+End Time: 2025-06-23T09:25:12.321Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle from Manhattan Bagel with thirteen Garlic bagels and two tubs of spread, but the call ended before completion of the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T09:25:12.073Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T09:25:12.073Z] Customer: I'm looking to order breakfast bundle.
+
+[2025-06-23T09:25:12.073Z] AI Agent: The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T09:25:12.074Z] AI Agent: Alright, I have all the options for you. Do you want to proceed with the customization now?
+
+[2025-06-23T09:25:12.075Z] Customer: Jesper.
+
+[2025-06-23T09:25:12.075Z] AI Agent: First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.
+
+[2025-06-23T09:25:12.075Z] Customer: Yeah. I like to go with the 13 as garlic burger.
+
+[2025-06-23T09:25:12.075Z] AI Agent: Thirteen Garlic bagels. Next, for your **two tubs of spread**. We have Plain, Vegetable, or Scallion. Want to hear more options?
+
+[2025-06-23T09:25:12.076Z] Customer: No. I just want to go with the vanilla and vegetable cream cheese.
+
+[2025-06-23T09:25:12.076Z] AI Agent: Vanilla and Vegetable cream cheese. Next, for your **four muffins**. You can choose from Blueberry, Corn, or Double Chocolate. What are your choices for the four muffins?
+
+[2025-06-23T09:25:12.076Z] Customer: Is vanilla, valid one?
+
+[2025-06-23T09:25:12.076Z] AI Agent: Vanilla is not a valid option for the spread. You had chosen Vanilla and Vegetable cream cheese, but Vanilla is not one of the available options. Let me offer you the choices again. For your **two tubs of spread**, we have Plain, Vegetable, Scallion, and other options. Would you like to choose from those?

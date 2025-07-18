@@ -1,0 +1,18 @@
+Call ID: 685b111d9ae6a419f3d7344c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T20:57:01.657Z
+End Time: 2025-06-24T20:57:31.742Z
+Duration: 60 seconds
+From: +13215054148
+To: +16204558091
+Summary: The customer, Ace Jack, inquired about their existing order but the agent couldn't access or recall it, offering instead to help with a new order or menu inquiry.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T20:57:31.544Z] AI Agent: Hello Ace Jack, Welcome to Manhattan Bagel. It is great to see you again. What would you like to order?
+
+[2025-06-24T20:57:31.544Z] Customer: I've already ordered. Can you tell me what my order is?
+
+[2025-06-24T20:57:31.544Z] AI Agent: I don't have the ability to access or recall previous orders. If you'd like to place a new order or inquire about our menu, I'd be happy to help. What can I get for you today?

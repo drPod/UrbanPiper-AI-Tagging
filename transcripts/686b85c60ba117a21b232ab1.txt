@@ -1,0 +1,26 @@
+Call ID: 686b85c60ba117a21b232ab1
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T08:31:02.276Z
+End Time: 2025-07-07T08:32:40.150Z
+Duration: 96 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a Farmhouse Egg Sandwich and discussed possible modifications with BagelBot.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T08:32:39.742Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T08:32:39.742Z] Customer: I'd like to order, thanks, palm oil sandwich.
+
+[2025-07-07T08:32:39.742Z] AI Agent: One Philly Steak Egg & Cheese sandwich. To get that started, what kind of bagel can I get for you? We have Plain, Everything, Asiago, Blueberry, California,
+
+[2025-07-07T08:32:39.742Z] Customer: No. I want, farmhouse egg sandwich.
+
+[2025-07-07T08:32:39.742Z] AI Agent: One Farmhouse Egg Sandwich. First, I'll need to get a bagel choice for that. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, and many more. Which one would you like?
+
+[2025-07-07T08:32:39.743Z] Customer: No. I'm just asking for the pharma of sex sandwich. So please check your menu accordingly, and let me know what all the modifications you can, suggest me.
+
+[2025-07-07T08:32:39.743Z] AI Agent: For the Farmhouse Egg Sandwich, I can offer you several modifications. First, would you like to add any vegetables? We have options like lettuce, tomato, red onions, avocado, spinach, cucumber, green peppers, capers, roasted red peppers, grilled onions, and jalapeño peppers. Additionally, you can choose to add extra breakfast meat, such as extra bacon, pork roll, sausage, ham, turkey sausage, or turkey bacon. We also have options for toast, where you can choose to have it toasted, lightly toasted, toasted dark, or no toast.

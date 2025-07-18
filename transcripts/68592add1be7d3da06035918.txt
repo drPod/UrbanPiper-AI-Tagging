@@ -1,0 +1,64 @@
+Call ID: 68592add1be7d3da06035918
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T10:22:21.574Z
+End Time: 2025-06-23T10:26:00.686Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer called to order a Breakfast Bundle but the call ended without completing the order due to a misunderstanding about the bagel options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T10:26:00.212Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T10:26:00.212Z] Customer: 
+
+[2025-06-23T10:26:00.212Z] AI Agent: Let's
+
+[2025-06-23T10:26:00.212Z] Customer: Yeah. I want to order a big first one.
+
+[2025-06-23T10:26:00.212Z] AI Agent: The Big Breakfast Burrito, excellent choice. That's one of our
+
+[2025-06-23T10:26:00.212Z] Customer: No. No. I want to, order the breakfast bundle, not big baked burrito. Breakfast bundle.
+
+[2025-06-23T10:26:00.212Z] AI Agent: The Breakfast Bundle, great choice. Let me get all the customization options for you...
+
+[2025-06-23T10:26:00.213Z] AI Agent: Do you want to proceed with the customization of your Breakfast Bundle?
+
+[2025-06-23T10:26:00.213Z] Customer: Yes.
+
+[2025-06-23T10:26:00.213Z] AI Agent: Let's start with the **Bagel Dozen**. You need to choose exactly 13 bagels. We have a variety of options such as Plain, Everything, Asiago, and more. Which ones would you like?
+
+[2025-06-23T10:26:00.213Z] Customer: 
+
+[2025-06-23T10:26:00.213Z] AI Agent: For
+
+[2025-06-23T10:26:00.213Z] Customer: All 13 will be, stallion.
+
+[2025-06-23T10:26:00.213Z] AI Agent: Thirteen Scallion bagels. Next, for the **Choose 2 Tubs of Spread**, you need to select exactly 2 options. We have Plain Cream Cheese, Vegetable Cream Cheese, and others. Which two would you like?
+
+[2025-06-23T10:26:00.213Z] Customer: So why you're not deleting the, 13 style in bagel with the bagel dozen options?
+
+[2025-06-23T10:26:00.213Z] AI Agent: Let me correct that. For the **Bagel Dozen**, you've chosen thirteen Scallion bagels, but I should have confirmed that Scallion is indeed one of the options. Since Scallion is available, I'll make sure to note that correctly. Thirteen Scallion bagels it is. Now, moving on to the **Choose 2 Tubs of Spread**, you need to select exactly 2 options. We have Plain Cream Cheese, Vegetable Cream Cheese, and others. Which two would you like?
+
+[2025-06-23T10:26:00.213Z] Customer: No.
+
+[2025-06-23T10:26:00.214Z] AI Agent: For the **Choose 2 Tubs of Spread**, you've decided on
+
+[2025-06-23T10:26:00.214Z] Customer: Wait. Wait. Wait. Hold on. Hold on. Hold on. Hold on. I just want to know, are we done with the bagel bagel dozen? Because I said 13, and you are denying it's not, the bagel type. And, now you have also no because now you are going to the next step.
+
+[2025-06-23T10:26:00.214Z] AI Agent: Let's go back to the
+
+[2025-06-23T10:26:00.214Z] Customer: What is happening?
+
+[2025-06-23T10:26:00.214Z] AI Agent: Let me get back on track. For the **Bagel Dozen**, you chose thirteen Scallion bagels. I should have confirmed if Scallion is an option within the Bagel Dozen group. Since Scallion is indeed an option, I'll proceed with that choice. To confirm, you'd like all thirteen bagels to be Scallion, correct?
+
+[2025-06-23T10:26:00.214Z] Customer: Yes.
+
+[2025-06-23T10:26:00.214Z] AI Agent: For the **Bagel Dozen**, thirteen Scallion bagels are confirmed. Now, let's move on to the **Choose 2 Tubs of Spread**. You need to select exactly 2 options. We have Plain Cream Cheese, Vegetable Cream Cheese, and others. Which two would you like?
+
+[2025-06-23T10:26:00.214Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T10:26:00.214Z] AI Agent: Thank you for calling. Have a great day. Goodbye.

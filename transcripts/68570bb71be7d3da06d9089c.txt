@@ -1,0 +1,54 @@
+Call ID: 68570bb71be7d3da06d9089c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T19:44:55.328Z
+End Time: 2025-06-21T19:47:16.812Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a medium hot tea with oat milk at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T19:47:16.518Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T19:47:16.518Z] Customer: Yeah. I want to order a hot tea.
+
+[2025-06-21T19:47:16.518Z] AI Agent: The hot tea, excellent choice. Let me get the options for your tea... 
+
+[2025-06-21T19:47:16.519Z] AI Agent: For your hot tea, we have several options. Let's start with the size. You can choose from Small 12oz, Medium 16oz, Large 20oz, or X Large 24oz. Which size would you prefer?
+
+[2025-06-21T19:47:16.519Z] Customer: Medium size.
+
+[2025-06-21T19:47:16.520Z] AI Agent: For the medium size, that's a 16oz. Now, let's talk about the roast. We have House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, or Tea. Which one sounds good to you?
+
+[2025-06-21T19:47:16.520Z] Customer: Just t.
+
+[2025-06-21T19:47:16.520Z] AI Agent: So you'd like just the Tea option, which is our Lipton Black Tea. Next, would you like any milk in your tea? We have Regular Milk, Half & Half, Skim, Almond, Oat Milk, or Soy. Which one would you prefer?
+
+[2025-06-21T19:47:16.520Z] Customer: Oat milk.
+
+[2025-06-21T19:47:16.521Z] AI Agent: Oat milk is a greatchoice. Now, would you like to add any sweetener or syrup to your tea? We have options like Sugar, Sweet
+
+[2025-06-21T19:47:16.521Z] Customer: No.
+
+[2025-06-21T19:47:16.521Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-21T19:47:16.522Z] AI Agent: Added 1 item(s) to your cart. Total: $5.28
+
+[2025-06-21T19:47:16.522Z] AI Agent: Alright, I've added the hot tea to your order. Your total comes out to be $5.28. Would you like to order anything else?
+
+[2025-06-21T19:47:16.522Z] Customer: No.
+
+[2025-06-21T19:47:16.523Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-21T19:47:16.523Z] AI Agent: {'result': "Order placed successfully! Your order number is 465367. That's 4, 6, 5, 3, 6, 7. Total: $5.81 (subtotal 5.28 dollars plus 0.53 dollars tax). Thank you for your order!", 'responseType': 'tool-response', 'success': True, 'orderNumber': '465367', 'orderTotal': 5.8100000000000005, 'itemCount': 1, 'customer': 'Jitin', 'orderSummary': {'orderNumber': '465367', 'callId': '6f13576b-8686-4c10-8b70-2498b613a6b8', 'tenantName': 'manhattan_bagel_864915', 'storeId': '1', 'customer': {'name': 'Jitin', 'contact_number': '949862707', 'country_code': '+918', 'customer_email': 'noemail@example.com', 'full_address': 'Pickup Order - No Address Required', 'locality': 'Restaurant Location', 'payment_method_preference': 'cash', 'preferred_time_for_delivery_pickup': 'pickup'}, 'items': [{'item_name': 'HOT Coffee or Tea', 'ref_id': 'itm_2cf855ff-f641-49c4-8470-63e8e4233fec', 'quantity': 1, 'base_price': 1.99, 'modifier_groups': [{'group_title': 'Size', 'option_title': 'Medium 16oz', 'price': 2.49, 'quantity': 1, 'group_ref_id': 'mg1409627', 'option_ref_id': '5709632'}, {'group_title': 'Tea Choice', 'option_title': 'Lipton Black Tea', 'price': 0, 'quantity': 1, 'group_ref_id': 'mg1409579', 'option_ref_id': '5709402'}, {'group_title': 'Milk Choice', 'option_title': 'Oat Milk', 'price': 0.8, 'quantity': 1, 'group_ref_id': 'mg1409577', 'option_ref_id': '5709385'}], 'item_total_price': 5.28, 'category': 'Beverages', 'description': '', 'food_type': '1', 'taxes': [], 'added_at': '2025-06-21T19:46:24.714Z'}], 'itemCount': 1, 'subtotal': 5.28, 'specialInstructions': '', 'placedAt': '2025-06-21T19:46:40.261Z'}, 'externalApiResponse': {'status': 'success', 'message': 'Order processed', 'order_request_id': '67555609-80b8-4fcb-a989-6772515aeba6', 'order_total_price': 5.8100000000000005, 'total_tax_applied': 0.53}, 'externalApiSubmitted': True}
+
+[2025-06-21T19:47:16.524Z] AI Agent: Alright Jitin, your order is placed! Your order number is 465367. That's 4, 6, 5, 3, 6, 7. Your total comes out to be $5.81, which includes a subtotal of $5.28 and $0.53 in tax. We'll have that ready for you shortly!
+
+[2025-06-21T19:47:16.524Z] Customer: Thank you.
+
+[2025-06-21T19:47:16.524Z] AI Agent: You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and we'll see you soon at Manhattan Bagel! 
+
+[2025-06-21T19:47:16.525Z] AI Agent: OK

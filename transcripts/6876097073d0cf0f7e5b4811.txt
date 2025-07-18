@@ -1,0 +1,30 @@
+Call ID: 6876097073d0cf0f7e5b4811
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-15T07:55:28.703Z
+End Time: 2025-07-15T07:56:21.491Z
+Duration: 49 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a medium decaf hot coffee with half and half milk from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-15T07:56:21.318Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-15T07:56:21.318Z] Customer: Okay. Give me, hot coffee, medium sized decaf, with half an hour milk.
+
+[2025-07-15T07:56:21.318Z] AI Agent: I have a medium decaf hot coffee with half and half milk. Anything else you'd like?
+
+[2025-07-15T07:56:21.318Z] Customer: No.
+
+[2025-07-15T07:56:21.318Z] AI Agent: Perfect, so I have a medium decaf hot coffee with half and half milk. Now let me help you customize it exactly how you like it. 
+
+[2025-07-15T07:56:21.319Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-15T07:56:21.319Z] AI Agent: I have a medium decaf hot coffee with half and half milk. Now let me help you customize it exactly how you like it. 
+
+[2025-07-15T07:56:21.319Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-07-15T07:56:21.319Z] AI Agent: I have a medium decaf hot coffee with half and half

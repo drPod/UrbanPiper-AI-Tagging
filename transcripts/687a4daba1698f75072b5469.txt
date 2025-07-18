@@ -1,0 +1,22 @@
+Call ID: 687a4daba1698f75072b5469
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T13:35:39.243Z
+End Time: 2025-07-18T13:36:16.378Z
+Duration: 35 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha ordered an Omelet Wrap with a wheat wrap choice and began customizing it.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T13:36:16.208Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T13:36:16.209Z] Customer: Okay. Give me a minute left, please.
+
+[2025-07-18T13:36:16.209Z] AI Agent: That would be our Omelet Wrap on the menu. I'll add the Omelet Wrap for you. Now, let's customize it. You'll need to pick a wrap choice for your Omelet Wrap. I have Flour or Wheat. Which would you prefer?
+
+[2025-07-18T13:36:16.209Z] Customer: I need, wheat.
+
+[2025-07-18T13:36:16.209Z] AI Agent: For your Omelet Wrap, you've chosen Wheat as the wrap. Now, you'll need to pick a meat for your Omelet Wrap.

@@ -1,0 +1,18 @@
+Call ID: 68696bab45548bd51cf8afe7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-05T18:15:07.959Z
+End Time: 2025-07-05T18:15:28.180Z
+Duration: 18 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin inquired about hot coffee at Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-05T18:15:27.927Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-05T18:15:27.927Z] Customer: Do you have hot copy?
+
+[2025-07-05T18:15:27.927Z] AI Agent: Yes we do have hot coffee Would you like to order a hot coffee

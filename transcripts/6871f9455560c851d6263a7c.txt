@@ -1,0 +1,30 @@
+Call ID: 6871f9455560c851d6263a7c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T05:57:25.383Z
+End Time: 2025-07-12T05:59:41.932Z
+Duration: 136 seconds
+From: 919780032269
+To: 918035740152
+Summary: The customer ordered a Breakfast Bundle with specific bagel, cream cheese, and muffin selections.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T05:59:41.501Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-12T05:59:41.501Z] Customer: Can I have a breakfast bundle?
+
+[2025-07-12T05:59:41.501Z] AI Agent: Got it! The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). Let's start by picking exactly thirteen bagels together. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast Bagel, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, and Honey Whole Wheat Everything. How many of each would you like, or should I list more options?
+
+[2025-07-12T05:59:41.501Z] Customer: Yeah. Okay. I I need, five sesame, two vanilla, three everything, and rest three can be plain bagel.
+
+[2025-07-12T05:59:41.501Z] AI Agent: Alright, that's five Sesame, two Vanilla, three Everything, and three Plain bagels. That makes thirteen total. Perfect! Now for your two tubs of cream cheese, you can choose from Plain, Vegetable, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), 
+
+[2025-07-12T05:59:41.501Z] Customer: Okay. I need I need one vanilla, one plain pink cheese.
+
+[2025-07-12T05:59:41.501Z] AI Agent: Got it! One Vanilla and one Plain cream cheese. Now for the four muffins, you'll need to pick at least one, but you can choose up to four. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. How many of each would you like, or should I list more options?
+
+[2025-07-12T05:59:41.501Z] Customer: I need two corn, two blueberry, two strawberry, one chocolate chip.
+
+[2025-07-12T05:59:41.502Z] AI Agent: That's two Corn, two Blueberry, two Strawberry, and one Chocolate Chip muffins. Perfect! Now, would you like to add a box of coffee for $24.99? We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and

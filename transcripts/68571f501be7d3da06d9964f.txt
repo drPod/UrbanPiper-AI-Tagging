@@ -1,0 +1,122 @@
+Call ID: 68571f501be7d3da06d9964f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T21:08:32.749Z
+End Time: 2025-06-21T21:13:56.423Z
+Duration: 360 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered a Big Breakfast Bundle with modifications and a box of Decaf coffee from Manhattan Bagel for pickup.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T21:13:55.225Z] AI Agent: Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T21:13:55.226Z] Customer: Actually, I'd like to order, breakfast bundle. Can I get the breakfast bundle?
+
+[2025-06-21T21:13:55.226Z] AI Agent: The Big Breakfast Bundle, a fantastic choice. That comes with thirteen fresh-baked Manhattan Bagels, two tubs of cream cheese, and four muffins. You can also make it extra special by adding four ounces of premium Acme smoked nova for just nine dollars and ninety-nine cents. Would you like to add the smoked nova?
+
+[2025-06-21T21:13:55.226Z] AI Agent: Let
+
+[2025-06-21T21:13:55.226Z] Customer: No. No. I don't want I just I just want breakfast bundle.
+
+[2025-06-21T21:13:56.423Z] Unknown: [2025-06-21T21:13:55.226Z] assistant: The Big Breakfast Bundle, a fantastic choice. That comes with thirteen fresh-baked Manhattan Bagels, two tubs of cream cheese, and four muffins. Let me get the options for your bagel choices... 
+
+You have thirteen bagels to choose from. You can pick any combination. Some popular ones are Plain, Everything, or Sesame. What sounds good?
+
+[2025-06-21T21:13:55.226Z] Customer: Okay. Can you do, like, 12 sesame, one garlic? If you have garlic?
+
+[2025-06-21T21:13:56.423Z] Unknown: [2025-06-21T21:13:55.227Z] assistant: Twelve Sesame and one Garlic, that sounds like a great combination. Let me see what we have for your cream cheese choices... 
+
+For the two tubs of cream cheese, we have several flavors. You can pick two. Some options are Plain, Vegetable, or Scallion. What sounds good?
+
+[2025-06-21T21:13:55.227Z] AI Agent: You can choose from Plain
+
+[2025-06-21T21:13:55.227Z] Customer: Clean.
+
+[2025-06-21T21:13:55.227Z] AI Agent: Plain cream
+
+[2025-06-21T21:13:55.227Z] Customer: Yeah. Plain and yeah. Plain cream cheese and another scallion.
+
+[2025-06-21T21:13:55.227Z] AI Agent: Plain cream cheese and Scallion cream cheese, great choices. Now, let's move on to your muffin selections. You have four muffins to choose from. We have Blueberry, Corn, Double Chocolate, and more. What sounds good for your muffins? 
+
+[2025-06-21T21:13:55.228Z] AI Agent: You can choose
+
+[2025-06-21T21:13:55.228Z] Customer: Blueberry and chocolate chips.
+
+[2025-06-21T21:13:55.228Z] AI Agent: Blueberry and Chocolate Chip, great choices. You've selected two muffins, and you have two more to choose. Would you like to add two more of the same or try something different? Maybe some Corn or Double Chocolate? 
+
+[2025-06-21T21:13:55.237Z] Customer: Yeah. Do that.
+
+[2025-06-21T21:13:55.237Z] AI Agent: So you'd like two Blueberry and two Chocolate Chip muffins. Perfect, let me 
+
+[2025-06-21T21:13:55.237Z] Customer: No. No. I said corn and another blueberry.
+
+[2025-06-21T21:13:56.423Z] Unknown: [2025-06-21T21:13:55.237Z] assistant: So, to confirm, you'd like two Blueberry muffins and two Corn muffins. Perfect, let me add that to your order... 
+
+You've got twelve Sesame bagels, one Garlic bagel, two tubs of cream cheese - Plain and Scallion, and four muffins - two Blueberry and two Corn. 
+
+Now, I'll add the Big Breakfast Bundle to your order. 
+
+[2025-06-21T21:13:55.237Z] AI Agent: Added 1 item(s) to your cart. Total: $29.99
+
+[2025-06-21T21:13:55.238Z] AI Agent: Alright, I've added the Big Breakfast Bundle to your order. Your total comes out to be $29.99. Would you like to place your order for pickup?
+
+[2025-06-21T21:13:55.238Z] Customer: Actually, I also want to add a box of coffee to breakfast bundle.
+
+[2025-06-21T21:13:55.238Z] AI Agent: Let me see what coffee options we have
+
+[2025-06-21T21:13:55.238Z] Customer: Because I can see, like
+
+[2025-06-21T21:13:55.238Z] AI Agent: Let me see what coffee options we have for the box of coffee. We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Which one would you like? 
+
+[2025-06-21T21:13:55.238Z] AI Agent: You can choose from House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Which one sounds good to you?
+
+[2025-06-21T21:13:55.238Z] Customer: I want to decaf.
+
+[2025-06-21T21:13:56.423Z] Unknown: [2025-06-21T21:13:55.238Z] assistant: Decaf it is. Perfect, let me add that to your order... 
+
+You now have the Big Breakfast Bundle with twelve Sesame bagels, one Garlic bagel, two tubs of cream cheese - Plain and Scallion, four muffins - two Blueberry and two Corn, and a box of Decaf coffee.
+
+Your total comes out to be $54.98. Would you like to place your order for pickup? 
+
+[2025-06-21T21:13:55.239Z] AI Agent: Updated your order. Total: $54.98
+
+[2025-06-21T21:13:55.239Z] AI Agent: Alright,
+
+[2025-06-21T21:13:55.239Z] Customer: But, can I so but I think, I can also choose one more vehicle because you mentioned, like, I just, I have selected only 12? Right?
+
+[2025-06-21T21:13:55.239Z] AI Agent: You're right, you had selected twelve Sesame bagels and one Garlic bagel, which totals thirteen bagels. So, you can't add another bagel. Your Big Breakfast Bundle is complete with the thirteen bagels, two tubs of cream cheese, four muffins, and the box of Decaf coffee. Would you like to place your order for pickup?
+
+[2025-06-21T21:13:55.239Z] Customer: So I have 13 bagel or, 12 bagel total?
+
+[2025-06-21T21:13:55.239Z] AI Agent: You have a total of thirteen bagels, which is the complete
+
+[2025-06-21T21:13:55.239Z] Customer: Okay.
+
+[2025-06-21T21:13:55.239Z] AI Agent: Alright, so you have thirteen bagels
+
+[2025-06-21T21:13:55.239Z] Customer: Okay. Thank you so much.
+
+[2025-06-21T21:13:55.239Z] AI Agent: You're welcome
+
+[2025-06-21T21:13:55.239Z] Customer: Understood. Understood. Thank you so thank you so much.
+
+[2025-06-21T21:13:55.240Z] AI Agent: Alright, let me get t
+
+[2025-06-21T21:13:55.240Z] Customer: Thank you.
+
+[2025-06-21T21:13:55.240Z] AI Agent: Alright, let
+
+[2025-06-21T21:13:55.240Z] Customer: Sorry. Pardon. Give me one word word word, please.
+
+[2025-06-21T21:13:55.240Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-21T21:13:55.240Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 647262. That's 6, 4, 7, 2, 6, 2. Total: $60.47 (subtotal 54.98 dollars plus 5.49 dollars tax). Thank you for your order!
+
+[2025-06-21T21:13:55.240Z] AI Agent: Order placed successfully. Your order number is 6, 4, 7, 2, 6, 2. Your total comes out to be 54 dollars and 98 cents for the order, plus 5 dollars and 49 cents tax. So, your final total is 60 dollars and 47 cents. We'll have your order ready for pickup shortly. Thank you for ordering from Manhattan Bagel!
+
+[2025-06-21T21:13:55.240Z] Customer: Thank you.
+
+[2025-06-21T21:13:55.240Z] AI Agent: You're welcome, Mehul. Have a great day and we'll see you soon for pickup.

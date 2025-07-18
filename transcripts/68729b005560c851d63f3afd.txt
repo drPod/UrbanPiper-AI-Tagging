@@ -1,0 +1,18 @@
+Call ID: 68729b005560c851d63f3afd
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T17:27:28.489Z
+End Time: 2025-07-12T17:28:18.814Z
+Duration: 45 seconds
+From: 918949862707
+To: 918035740152
+Summary: The customer, Jutin, inquired about lunch options at Manhattan Bagel and was provided with a list of available choices.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T17:28:18.663Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T17:28:18.664Z] Customer: Can you tell me what do you what all the options you have in lunch?
+
+[2025-07-12T17:28:18.664Z] AI Agent: For lunch, we have a variety of options. We have sandwiches like the Greenwich Grilled Cheese, Chelsea Grilled Chicken, Ellis Island Hot Pastrami Sandwich, Manhattan Cheesesteak Sandwich, Balsamic Grilled Chicken Wrap, Buffalo Grilled Chicken Wrap, Avocado BLT Sandwich, Chicken Cheesesteak, Chicken Cuban, Grilled Chicken Caesar Wrap, Pastrami Rueben, Italian Sub, Chicken Salad Sandwich, East Side

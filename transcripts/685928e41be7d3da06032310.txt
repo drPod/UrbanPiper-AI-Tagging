@@ -1,0 +1,36 @@
+Call ID: 685928e41be7d3da06032310
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T10:13:56.110Z
+End Time: 2025-06-23T10:15:31.102Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle with thirteen Butter bagels and discussed customization options for the spread and other items.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T10:15:30.886Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T10:15:30.886Z] Customer: I want to order, breakfast bundle.
+
+[2025-06-23T10:15:30.886Z] AI Agent: The Breakfast Bundle, great choice. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T10:15:30.886Z] AI Agent: Alright, I have all the customization options for you. Do you want to proceed with the customization now?
+
+[2025-06-23T10:15:30.886Z] Customer: Yes.
+
+[2025-06-23T10:15:30.886Z] AI Agent: First, for the
+
+[2025-06-23T10:15:30.886Z] Customer: Yes. Yes.
+
+[2025-06-23T10:15:30.886Z] AI Agent: First, for the **thirteen bagels** in your Bagel Dozen, popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.
+
+[2025-06-23T10:15:30.887Z] Customer: I want, yeah, I want 13 to be scallion bagel.
+
+[2025-06-23T10:15:30.887Z] AI Agent: Thirteen Scallion bagels. Next, for your **two tubs of spread**, we have Plain, Vegetable, or Scallion. Want to hear more options?
+
+[2025-06-23T10:15:30.887Z] Customer: But okay. Can you please update 13 to be butter bagel?
+
+[2025-06-23T10:15:30.887Z] AI Agent: Thirteen Butter bagels. Now, for your **two tubs of spread**, we have Plain, Vegetable, or Scallion. Want to hear more options?

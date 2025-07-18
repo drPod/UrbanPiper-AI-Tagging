@@ -1,0 +1,18 @@
+Call ID: 685698df1be7d3da06c95299
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T11:34:55.022Z
+End Time: 2025-06-21T11:35:25.723Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin inquired about ordering hot coffee from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T11:35:25.610Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T11:35:25.610Z] Customer: Hot coffee.
+
+[2025-06-21T11:35:25.610Z] AI Agent: We have a variety of hot coffee options. We offer House Blend, Vanilla Hazelnut Blend, Dark Roast, and Decaf. Which one sounds good to you?

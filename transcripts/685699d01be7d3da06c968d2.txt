@@ -1,0 +1,48 @@
+Call ID: 685699d01be7d3da06c968d2
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T11:38:56.494Z
+End Time: 2025-06-21T11:41:12.898Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for a small Decaf hot coffee with Soy Milk for pickup at Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T11:41:12.529Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T11:41:12.529Z] Customer: I like to order hot coffee.
+
+[2025-06-21T11:41:12.529Z] AI Agent: We have a variety of hot coffee options. We have House Blend, Vanilla Hazelnut Blend, Dark Roast, and Decaf. Which one sounds good to you?
+
+[2025-06-21T11:41:12.529Z] Customer: Decaf.
+
+[2025-06-21T11:41:12.529Z] AI Agent: Our Decaf hot coffee. Would you like it in a small 12oz size for one dollar and ninety-nine cents, a medium 16oz for two dollars and forty-nine cents, or a large 20oz for two dollars and ninety-nine cents?
+
+[2025-06-21T11:41:12.529Z] Customer: I want, small size.
+
+[2025-06-21T11:41:12.529Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-21T11:41:12.529Z] AI Agent: Added 1 item(s) to your cart. Total: $0.00
+
+[2025-06-21T11:41:12.530Z] AI Agent: Your total comes out to be one dollar and ninety-nine cents. We have milk options like Regular Milk, Half & Half, Skim, Almond, Oat Milk, and Soy. Which milk would you like?
+
+[2025-06-21T11:41:12.530Z] Customer: Soy milk.
+
+[2025-06-21T11:41:12.530Z] AI Agent: For the Decaf hot coffee, I'll add Soy Milk to it. Anything else you'd like to add, such as sugar, sweetener, or whipped cream?
+
+[2025-06-21T11:41:12.530Z] Customer: No
+
+[2025-06-21T11:41:12.530Z] AI Agent: Alright, so that's a small Decaf hot coffee with Soy Milk. Your total comes out to be one dollar and ninety-nine cents. Would you like to place this order for pickup?
+
+[2025-06-21T11:41:12.530Z] Customer: 
+
+[2025-06-21T11:41:12.530Z] AI Agent: Alright, let me place this order for you... 
+
+[2025-06-21T11:41:12.531Z] AI Agent: Your order has been placed successfully! Your order number is 703752. Total: $0.00
+
+[2025-06-21T11:41:12.531Z] AI Agent: Your order has been placed successfully. You can pick it up at our store located at 1350 Galloping Hill Rd, Union, NJ 07083, USA. Your order number is 703752. We'll have your small Decaf hot coffee with Soy Milk ready for you. Thank you for choosing Manhattan Bagel, and we look forward to serving you. Have a great day! 
+
+[2025-06-21T11:41:12.531Z] AI Agent: OK

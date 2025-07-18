@@ -1,0 +1,34 @@
+Call ID: 685903531be7d3da06fc4942
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T07:33:39.743Z
+End Time: 2025-06-23T07:35:16.312Z
+Duration: 120 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with cream cheese and bagel options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T07:35:16.022Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T07:35:16.022Z] Customer: 
+
+[2025-06-23T07:35:16.022Z] AI Agent: The Breakfast Bundle comes with thirteen bagels, two tubs of cream cheese, and four muffins. You can add smoked nova for nine ninety-nine. Want to add that?
+
+[2025-06-23T07:35:16.022Z] Customer: 
+
+[2025-06-23T07:35:16.022Z] AI Agent: Let me get the options for your bundle. We have a few choices for the cream cheese, bagels, and muffins. For your two cream cheese tubs, we have Plain, Vegetable, or Scallion. Want to hear more options?
+
+[2025-06-23T07:35:16.023Z] AI Agent: For
+
+[2025-06-23T07:35:16.023Z] Customer: 
+
+[2025-06-23T07:35:16.023Z] AI Agent: Let me see what else we have. For your two cream cheese tubs, we also have Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Lox Spread, Storemade Maple Raisin, Storemade Bacon Scallion
+
+[2025-06-23T07:35:16.023Z] Customer: Okay. Give me one give me one made one store made, lockspred and one store made chime.
+
+[2025-06-23T07:35:16.023Z] AI Agent: Let's get back to your Breakfast Bundle. For the bagels, we have a variety of options. You can choose from Plain, Everything, Asiago, Blueberry, California, and many more. Which ones would you like for your thirteen bagels?
+
+[2025-06-23T07:35:16.023Z] Customer: I'll take, let me try again.

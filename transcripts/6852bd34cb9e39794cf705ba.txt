@@ -1,0 +1,86 @@
+Call ID: 6852bd34cb9e39794cf705ba
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T13:20:52.608Z
+End Time: 2025-06-18T13:25:17.456Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rahul placed an order for a customized Avocado BLT Sandwich with Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T13:25:16.850Z] AI Agent: Hello Rahul, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T13:25:16.850Z] Customer: Hey, Emily. I'd like to order as a card of BLT sandwich. Can you please get me?
+
+[2025-06-18T13:25:16.850Z] AI Agent: Let me check on that for you. I'll search for the avocado BLT sandwich.
+
+[2025-06-18T13:25:16.850Z] AI Agent: I found the Avocado BLT Sandwich for nine dollars and ninety-nine cents. Which lunch side would you like - chips, coleslaw, or Lays chips?
+
+[2025-06-18T13:25:16.850Z] Customer: I need, late shifts.
+
+[2025-06-18T13:25:16.850Z] AI Agent: Lays chips it is. Now, which bread would you like for your Avocado BLT Sandwich - plain bagel, everything bagel, or asiago bagel?
+
+[2025-06-18T13:25:16.850Z] Customer: I'll go with the shovel video.
+
+[2025-06-18T13:25:16.851Z] AI Agent: The Avocado BLT Sandwich on an Asiago Bagel sounds great. How would you like it toasted - regular, lightly toasted, or dark?
+
+[2025-06-18T13:25:16.851Z] Customer: Doc.
+
+[2025-06-18T13:25:16.851Z] AI Agent: I think you meant to say "dark". So, you'd like your Avocado BLT Sandwich on an Asiago Bagel, toasted dark. Any condiments you'd like to add - salt, pepper, ketchup, or maybe something else?
+
+[2025-06-18T13:25:16.851Z] Customer: 
+
+[2025-06-18T13:25:16.851Z] AI Agent: You don't need any co
+
+[2025-06-18T13:25:16.851Z] Customer: Can I have more?
+
+[2025-06-18T13:25:16.851Z] AI Agent: You'd like to add more condiments. We have mayo, mustard, hot sauce, tomato spread, butter, cream cheese, flavor cream cheese, and jelly. Which one of these would you like to add to your Avocado BLT Sandwich?
+
+[2025-06-18T13:25:16.851Z] Customer: Flavored green cheese. What is the price for cl flavored green cheese?
+
+[2025-06-18T13:25:16.851Z] AI Agent: The flavor cream cheese is an additional one dollar and fifty cents. Would you like to add that to your Avocado BLT Sandwich?
+
+[2025-06-18T13:25:16.851Z] Customer: Yeah.
+
+[2025-06-18T13:25:16.851Z] AI Agent: I'll add the flavor cream cheese to your Avocado BLT Sandwich. Now, would you like to add cheese to your sandwich? We have American, Swiss, Cheddar, Provolone, Muenster, or Pepper Jack.
+
+[2025-06-18T13:25:16.851Z] Customer: Swiss cheese.
+
+[2025-06-18T13:25:16.851Z] AI Agent: Swiss cheese it is. The Swiss cheese is an additional one dollar and forty-nine cents. Next, would you like to double the lunch protein on your Avocado BLT Sandwich?
+
+[2025-06-18T13:25:16.851Z] Customer: Yes.
+
+[2025-06-18T13:25:16.851Z] AI Agent: Doubling the lunch protein will add an extra four dollars and ninety-nine cents. Now, would you like to add any extra vegetables to your Avocado BLT Sandwich? We have avocado,
+
+[2025-06-18T13:25:16.851Z] Customer: Can can I add tomato, cucumber, and, some lettuce?
+
+[2025-06-18T13:25:16.851Z] AI Agent: I can add those for you. The tomato and lettuce are already included in the sandwich, so I'll just confirm those. And I'll add cucumber as an extra, which is one dollar. Anything else you'd like to add or change?
+
+[2025-06-18T13:25:16.851Z] Customer: I think we covered, very good, customer relations. Thank you so much. Yeah.
+
+[2025-06-18T13:25:16.852Z] AI Agent: I'm glad we were able to get all the customizations just right for your Avocado BLT Sandwich. Now, I'll go ahead and update your order.
+
+[2025-06-18T13:25:16.852Z] AI Agent: Your total comes out to be 18 dollars and 47 cents. Is that correct?
+
+[2025-06-18T13:25:16.852Z] Customer: Yeah.
+
+[2025-06-18T13:25:16.852Z] AI Agent: Any special requests or allergies I should know about?
+
+[2025-06-18T13:25:16.852Z] Customer: Just make sure, like, the package should have couple of napkins so that, I can use them probably.
+
+[2025-06-18T13:25:16.852Z] AI Agent: I'll make a note of that. 
+
+[2025-06-18T13:25:16.852Z] AI Agent: I've added that to your order. Now, are you ready to finalize this order for pickup?
+
+[2025-06-18T13:25:16.852Z] Customer: Я Betting Guard.
+
+[2025-06-18T13:25:16.853Z] AI Agent: Your order number is 1 3 7 4 5 4. Your order total is 20 dollars and 31 cents, which includes a subtotal of 18 dollars and 47 cents and 1 dollar and 84 cents in tax. Is there anything else I can help you with?
+
+[2025-06-18T13:25:16.853Z] Customer: No. Thank you so much for helping me. Bye.
+
+[2025-06-18T13:25:16.853Z] AI Agent: You're welcome, Rahul. It was my pleasure to help. Have a great day and enjoy your Avocado BLT Sandwich. Bye!
+
+[2025-06-18T13:25:16.853Z] AI Agent: OK

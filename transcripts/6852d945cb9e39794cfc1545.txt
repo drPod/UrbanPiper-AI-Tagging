@@ -1,0 +1,40 @@
+Call ID: 6852d945cb9e39794cfc1545
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T15:20:37.388Z
+End Time: 2025-06-18T15:23:44.726Z
+Duration: 240 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rifat ordered an Avocado BLT Sandwich on an everything bagel with chips as the side and toasted dark, with no additional condiments or modifications.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T15:23:43.198Z] AI Agent: Hello Rifat, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T15:23:43.198Z] Customer: Hey. Hi. I'd like to make a order of, avocado BLT, sandwich.
+
+[2025-06-18T15:23:43.198Z] AI Agent: Let me see what I can find for you. I'll check on the Avocado BLT Sandwich. 
+
+[2025-06-18T15:23:43.198Z] AI Agent: I found the Avocado BLT Sandwich for $9.99. It comes with turkey-bacon, avocado, lettuce, tomato, and roasted tomato spread on a thintastic bagel. What would you like for your lunch side? We have chips, cole slaw, or Lays chips for $1.00.
+
+[2025-06-18T15:23:43.199Z] Customer: Chips.
+
+[2025-06-18T15:23:43.199Z] AI Agent: So, you'd like to go with the chips as your side. Now, let's talk about the bread choice for your Avocado BLT Sandwich. We have a variety of options such as plain bagel, everything bagel, asiago bagel, and many more. Which one of these sounds good to you?
+
+[2025-06-18T15:23:43.199Z] Customer: What else?
+
+[2025-06-18T15:23:43.199Z] AI Agent: We have a total of 24 different bread options for you to choose from. In addition to the plain, everything, and asiago bagels, we also have bialy, cheesy jalapeno bacon roll, cheesy hash brown roll, California protein bar, chocolate chip bagel, cinnamon raisin bagel, egg bagel, egg everything, French toast bagel, garlic bagel, gluten-free bagel for an extra $1, honey whole wheat everything bagel, honey whole wheat bagel, multigrain bagel, jalapeno cheddar bagel, marble rye bread, multi-grain bread, onion bagel, poppy bagel, pumpernickel bagel, rainbow bagel, round roll, hero roll, rye bagel, salt bagel, sesame bagel, wheat tortilla, and flour tortilla. Would you like me to narrow down some options based on popularity or would you like to hear a few more details about some of these?
+
+[2025-06-18T15:23:43.199Z] Customer: No. Thank you so much.
+
+[2025-06-18T15:23:43.199Z] AI Agent: Let's move on to the
+
+[2025-06-18T15:23:43.199Z] Customer: Okay. I'll I'll go with the garlic.
+
+[2025-06-18T15:23:43.199Z] AI Agent: So, you'd like to go with the everything bagel for your Avocado BLT Sandwich. Now, let's talk about toasting. Would you like your bagel toasted, lightly toasted, or toasted dark?
+
+[2025-06-18T15:23:43.199Z] Customer: 
+
+[2025-06-18T15:23:43.199Z] AI Agent: So, you'd like your everything bagel toasted dark. Now, let's move on to the condiments. We have a variety of options such as salt, pepper, ketchup, mayo, mustard, hot sauce, tomato spread, butter for $1, cream cheese for $1, flavored cream cheese for $1.50, and jelly for $0.75. Which one of these would you like to add to your sandwich?

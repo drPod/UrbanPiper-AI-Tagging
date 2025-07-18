@@ -1,0 +1,22 @@
+Call ID: 686d9b7ad14f3abcfb2629c0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T22:28:10.120Z
+End Time: 2025-07-08T22:29:15.773Z
+Duration: 63 seconds
+From: +19725155417
+To: +16204558091
+Summary: Sonu placed an order for an Avocado BLT sandwich with customizations.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T22:29:14.734Z] AI Agent: Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T22:29:14.734Z] Customer: Yeah. Let me get the usual. Let me get an avocado BLT sandwich and an Asiago bagel. Let's make that toasted dark. Let's add jalapenos, spinach, provolone, mustard, hot sauce. Let's make that double lunch protein, have lettuce chips on the side.
+
+[2025-07-08T22:29:14.734Z] AI Agent: Okay, one Avocado BLT sandwich on an Asiago bagel. Let me make sure I have all the details right. Would you like to hear the available customizations for this sandwich?
+
+[2025-07-08T22:29:14.734Z] Customer: Yeah.
+
+[2025-07-08T22:29:14.734Z] AI Agent: Alright, first, the Asiago bagel is a great choice. Now, for the Avocado BLT, I'll need to confirm the base options. We have that on a Thintastic bagel. Next, we can add turkey-bacon, avocado, lettuce, tomato, and roasted tomato spread. Would you like to add any cheese? You mentioned Provolone, so I'll note that. For the veggies, jalapeños and spinach are on the way. Condiments: mustard and hot sauce are covered.

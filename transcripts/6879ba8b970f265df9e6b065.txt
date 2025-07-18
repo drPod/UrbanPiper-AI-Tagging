@@ -1,0 +1,22 @@
+Call ID: 6879ba8b970f265df9e6b065
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-18T03:07:55.133Z
+End Time: 2025-07-18T03:08:32.356Z
+Duration: 35 seconds
+From: 919780032269
+To: 918035740152
+Summary: Aksha ordered a Hash Brown and a Big Breakfast Burrito from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-18T03:08:32.145Z] AI Agent: Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-18T03:08:32.145Z] Customer: 
+
+[2025-07-18T03:08:32.145Z] AI Agent: That would be our Hash Brown on the menu. I'll add the Hash Brown for you. Now, would you like to add anything else to your order, or is that all for today?
+
+[2025-07-18T03:08:32.145Z] Customer: Okay. Get me a big breakfast party too as well.
+
+[2025-07-18T03:08:32.145Z] AI Agent: That would be our Big Breakfast Burrito on the menu. I'll add the Big Breakfast Burrito for you. Now, let's customize it. You'll need to choose a wrap. We have Flour

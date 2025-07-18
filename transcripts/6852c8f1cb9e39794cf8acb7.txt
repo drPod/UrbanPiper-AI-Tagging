@@ -1,0 +1,70 @@
+Call ID: 6852c8f1cb9e39794cf8acb7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T14:10:57.964Z
+End Time: 2025-06-18T14:15:50.461Z
+Duration: 300 seconds
+From: +918949862707
+To: +16204558091
+Summary: Rifat placed an order for a customized Santa Fe Egg White with a Hash Brown at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T14:15:50.080Z] AI Agent: Hello Rifat, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T14:15:50.080Z] Customer: 
+
+[2025-06-18T14:15:50.080Z] AI Agent: I'm happy to
+
+[2025-06-18T14:15:50.080Z] Customer: Yeah. Yeah. Hi. I I I'd like to order Santa Fe, egg white.
+
+[2025-06-18T14:15:50.080Z] AI Agent: Let me see what we have for the Santa Fe Egg White. 
+
+[2025-06-18T14:15:50.081Z] AI Agent: The Santa Fe Egg White is available for $7.99. It comes with Egg Whites, Turkey Sausage, Cheddar Cheese, salsa, and Jalepeño cream cheese on an Asiago Think Bagel. Would you like to customize it? You can choose a different bagel type, add or remove meat, cheese, condiments, or vegetables. What would you like to do?
+
+[2025-06-18T14:15:50.081Z] Customer: I'll I'll go with the meat first. And the meat, what are the things I'm having? I think I can go with the turkey, sausage. And in the bagel side, I will choose egg everything.
+
+[2025-06-18T14:15:50.081Z] AI Agent: For the Santa Fe Egg White, you've 
+
+[2025-06-18T14:15:50.081Z] Customer: And
+
+[2025-06-18T14:15:50.081Z] AI Agent: For the Santa Fe Egg White, you've chosen the Turkey Sausage as your meat and the Everything Bagel as your bagel type. Next, I'll ask about cheese. We have American, Swiss for $0.75, Cheddar for $0.75, Pepper Jack for $0.75, Muenster for $0.75, Provolone for $0.75, or No Cheese. Which one would you like?
+
+[2025-06-18T14:15:50.081Z] Customer: I don't need any keys here.
+
+[2025-06-18T14:15:50.081Z] AI Agent: For the Santa Fe Egg White, you've chosen the Turkey Sausage as your meat, the Everything Bagel as your bagel type, and no cheese. Next, I'll ask about toast. Would you like your bagel toasted, lightly toasted, or toasted dark?
+
+[2025-06-18T14:15:50.081Z] Customer: Right. Interesting.
+
+[2025-06-18T14:15:50.081Z] AI Agent: For the Santa Fe Egg White, you've chosen the Turkey Sausage as your meat, the Everything Bagel as your bagel type, no cheese, and lightly toasted. Next, I'll ask about condiments. We have salt, pepper, ketchup, mayo, mustard, hot sauce, tomato spread, butter for $1, cream cheese for $1, flavor CC for $1.5, or jelly for $0.75. Which one would you like?
+
+[2025-06-18T14:15:50.082Z] Customer: Mustard.
+
+[2025-06-18T14:15:50.082Z] AI Agent: For the Santa Fe Egg White, you've chosen the Turkey Sausage as your meat, the Everything Bagel as your bagel type, no cheese, lightly toasted, and mustard. Next, I'll ask about adding vegetables. We have lettuce for $1, tomato for $1, red onions for $1, avocado for $1.99, spinach for $1, cucumber for $1, green peppers for $1, capers for $1, roasted red peppers for $1, grilled onions for $1, or jalapeño peppers for $1. Which one would you like?
+
+[2025-06-18T14:15:50.082Z] Customer: 
+
+[2025-06-18T14:15:50.082Z] AI Agent: For the Santa Fe Egg White, you've chosen the Turkey Sausage as your meat, the Everything Bagel as your bagel type, no cheese, lightly toasted, mustard, and no additional
+
+[2025-06-18T14:15:50.082Z] Customer: 
+
+[2025-06-18T14:15:50.461Z] Unknown: [2025-06-18T14:15:50.082Z] assistant: For the Santa Fe Egg White, you've chosen the Turkey Sausage as your meat, the Everything Bagel as your bagel type, no cheese, lightly toasted, mustard, and no additional vegetables. You'd also like to add a Hash Brown for $1.99. 
+
+Let me update your order. 
+
+[2025-06-18T14:15:50.461Z] Unknown: [2025-06-18T14:15:50.082Z] assistant: Your current order is a Santa Fe Egg White with Everything Bagel, Turkey Sausage, no cheese, lightly toasted, and mustard. The total for this item is $7.99. 
+
+You also mentioned adding a Hash Brown. 
+
+[2025-06-18T14:15:50.461Z] Unknown: [2025-06-18T14:15:50.083Z] assistant: Your current order is a Santa Fe Egg White with Everything Bagel, Turkey Sausage, no cheese, lightly toasted, and mustard, and a Hash Brown. The total for these items is $9.98. 
+
+Is your order correct? Would you like to make any changes or add anything else?
+
+[2025-06-18T14:15:50.083Z] Customer: No. This one is good.
+
+[2025-06-18T14:15:50.083Z] AI Agent: Your total comes out to be $9.98. I will now confirm your order. 
+
+[2025-06-18T14:15:50.083Z] AI Agent: Your order number is 5 4 8 2 8 8. Your order total is $21.96, which includes a subtotal of $19.96 and $2.00 in tax. We appreciate your business and thank you for choosing Manhattan Bagel. Have a great day! 
+
+[2025-06-18T14:15:50.084Z] AI Agent: OK

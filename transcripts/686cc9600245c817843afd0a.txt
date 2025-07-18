@@ -1,0 +1,22 @@
+Call ID: 686cc9600245c817843afd0a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T07:31:44.270Z
+End Time: 2025-07-08T07:32:48.765Z
+Duration: 61 seconds
+From: +910000000000
+To: +910000000000
+Summary: The customer inquired about ordering a Chicken Cuban and hot coffee, but the conversation was cut short due to a misunderstanding about the options available for the Chicken Cuban.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T07:32:48.016Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-08T07:32:48.019Z] Customer: Can I get chicken Cuban and, hot coffee?
+
+[2025-07-08T07:32:48.019Z] AI Agent: For the Chicken Cuban, you'll need to pick just one bread for your sandwich. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, and many more. Would you like one of these, or should I list more options?
+
+[2025-07-08T07:32:48.019Z] Customer: Are you sure, like, in chicken Cuban, you I'm having your option of bagel type.
+
+[2025-07-08T07:32:48.019Z] AI Agent: I don't see bagel type as an option for the Chicken Cuban. Let me start again. For the Chicken Cuban, you can choose to have it toasted or not, and you can also add cheese or double the protein. Additionally, you'll need to pick a side, such as

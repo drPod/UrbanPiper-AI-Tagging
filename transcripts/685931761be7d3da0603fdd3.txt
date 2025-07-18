@@ -1,0 +1,62 @@
+Call ID: 685931761be7d3da0603fdd3
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T10:50:30.847Z
+End Time: 2025-06-23T10:54:58.787Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav ordered a Breakfast Bundle with thirteen Everything bagels, two tubs of spread, four muffins, and a box of House Blend coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T10:54:57.928Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T10:54:57.928Z] Customer: 
+
+[2025-06-23T10:54:57.928Z] AI Agent: Let me get the options for your bagel choices...
+
+[2025-06-23T10:54:57.928Z] Customer: I want breakfast bundle.
+
+[2025-06-23T10:54:57.929Z] AI Agent: The Breakfast Bundle is perfect for a group. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T10:54:57.929Z] AI Agent: Let's start customizing your Breakfast Bundle. For the Bagel Dozen, we have options like Plain, Everything, Asiago, and more. Which thirteen bagels would you like?
+
+[2025-06-23T10:54:57.929Z] Customer: All of 13 as, scallion disc.
+
+[2025-06-23T10:54:57.929Z] AI Agent: I see Scallion here as a cream cheese flavor, but for the bagel types themselves, I have Plain, Everything, or Sesame available. Want to hear the other bagel types I have listed for the bundle?
+
+[2025-06-23T10:54:57.929Z] Customer: No. Can you go with the everything at 13 bagels?
+
+[2025-06-23T10:54:57.929Z] AI Agent: So, you'd like thirteen Everything bagels. Now, let's move on to the Choose 2 Tubs of Spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, and more. Which two spreads would you like?
+
+[2025-06-23T10:54:57.929Z] Customer: Oh, one line vegetable.
+
+[2025-06-23T10:54:57.930Z] AI Agent: For the Choose 2 Tubs of Spread, I don't see Vanilla as an option, but I do have Plain Cream Cheese and Vegetable Cream Cheese. Would you like to go with those two or hear more options?
+
+[2025-06-23T10:54:57.930Z] Customer: Sorry?
+
+[2025-06-23T10:54:57.930Z] AI Agent: Let's move on to the Choose 4 Muffins. We have options like Blueberry, Corn, Double Chocolate, and more. Which muffins would you like? You can choose up to four.
+
+[2025-06-23T10:54:57.930Z] Customer: Okay. Two will be delivery, two will and other two are chocolate chips chocolate chips.
+
+[2025-06-23T10:54:57.930Z] AI Agent: For the Choose 4 Muffins, I see Blueberry and Corn as options, but I don't see Chocolate Dips or Chocolate Chips as exact matches. I do have Double Chocolate as an option, which might be close to what you're looking for. Would you like to go with two Blueberry, two Corn, or try a different combination with the available options?
+
+[2025-06-23T10:54:57.930Z] Customer: So, yeah, except two will be blueberry and two are, chocolate chips chips.
+
+[2025-06-23T10:54:57.930Z] AI Agent: For the Choose 4 Muffins, I have two Blueberry and I see Double Chocolate as an option, which might be what you mean by Chocolate Chips. So, I'll go with two Blueberry and two Double Chocolate. Now, let's move on to the Box of Coffee. We have options like House Blend, Decaf, and more. Would you like to add a box of coffee to your bundle?
+
+[2025-06-23T10:54:57.930Z] Customer: Yes.
+
+[2025-06-23T10:54:57.931Z] AI Agent: Let me get the options for your coffee choice...
+
+[2025-06-23T10:54:57.931Z] Customer: 
+
+[2025-06-23T10:54:57.931Z] AI Agent: So you'd like a box of coffee, but not Decaf. Let me see... I have House Blend, Vanilla Hazelnut, Dark Roast, and Autumn Roast as options. Which one of these would you like?
+
+[2025-06-23T10:54:57.931Z] Customer: House blend. House blend. Hello?
+
+[2025-06-23T10:54:57.931Z] Customer: 
+
+[2025-06-23T10:54:57.931Z] AI Agent: Perfect, let me add that to your order...{"name": "update_order", "parameters": {"action": "add", "items": [{"item_name": "Breakfast Bundle", "quantity": 1,

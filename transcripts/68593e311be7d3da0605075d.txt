@@ -1,0 +1,44 @@
+Call ID: 68593e311be7d3da0605075d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:44:49.979Z
+End Time: 2025-06-23T11:48:00.488Z
+Duration: 240 seconds
+From: +917666917461
+To: +17209999031
+Summary: Jiten ordered a Breakfast Bundle with customized bagels, spreads, muffins, and a box of Dark Roast coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:48:00.183Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T11:48:00.183Z] Customer: I like to order breakfast bundle.
+
+[2025-06-23T11:48:00.183Z] AI Agent: The Breakfast Bundle is perfect for a group. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T11:48:00.183Z] AI Agent: Let's start with your thirteen bagels. I have a variety of options for you. You can choose from Plain, Everything, Asiago, Blueberry, and many more. Which thirteen bagels would you like?
+
+[2025-06-23T11:48:00.183Z] Customer: Two, two as a shavo, two as blueberry, five as, sesame, and six four as, every garlic.
+
+[2025-06-23T11:48:00.183Z] AI Agent: You'd like two Asiago, two Blueberry, five Sesame, and four Everything bagels. That's a total of thirteen bagels. Next, for your two tubs of spread, you can choose from options like Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive. Which two would you like?
+
+[2025-06-23T11:48:00.183Z] Customer: Plain and, stallion.
+
+[2025-06-23T11:48:00.184Z] AI Agent: You've chosen Plain Cream Cheese and Scallion/Onion Chive for your two tubs of spread. Now, let's move on to your four muffins. You can choose from Blueberry, Corn, Double Chocolate, and more. Which four muffins would you like?
+
+[2025-06-23T11:48:00.184Z] Customer: I like, two blueberry and two chocolate chip.
+
+[2025-06-23T11:48:00.184Z] AI Agent: You'd like two Blueberry muffins and two Chocolate Chip muffins. Now, let's talk about your Box of Coffee. You can choose from House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Would you like to add a Box of Coffee to your order?
+
+[2025-06-23T11:48:00.184Z] Customer: You can add a dark roast.
+
+[2025-06-23T11:48:00.184Z] AI Agent: I'll add the Dark Roast coffee to your order. Perfect, let me add that to your order...
+
+[2025-06-23T11:48:00.184Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T11:48:00.184Z] Customer: Yeah. I'm still there.
+
+[2025-06-23T11:48:00.184Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T11:48:00.184Z] Customer: Yes.

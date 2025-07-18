@@ -1,0 +1,64 @@
+Call ID: 685908a51be7d3da06fd824a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T07:56:21.661Z
+End Time: 2025-06-23T08:00:14.809Z
+Duration: 240 seconds
+From: +918949862707
+To: +16204558091
+Summary: Gaurav placed an order for a Breakfast Bundle with specific customizations and confirmed the details before the order was successfully placed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T08:00:14.402Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T08:00:14.402Z] Customer: I'd like to order, breakfast bundle.
+
+[2025-06-23T08:00:14.402Z] AI Agent: The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T08:00:14.402Z] AI Agent: Alright, for the thirteen bagels in your Bagel Dozen, popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.
+
+[2025-06-23T08:00:14.402Z] Customer: Okay. May can I have more options?
+
+[2025-06-23T08:00:14.402Z] AI Agent: We have a wide variety of bagels to choose from. In addition to Plain, Everything, and Sesame, we also have Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll,
+
+[2025-06-23T08:00:14.403Z] Customer: Okay. Okay. Can you do the all of 13 as a garlic grater?
+
+[2025-06-23T08:00:14.403Z] AI Agent: So, you'd like all thirteen bagels to be Garlic bagels. That sounds like a great choice. Now, let's move on to the two tubs of spread that come with your Breakfast Bundle. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which two spreads would you like?
+
+[2025-06-23T08:00:14.403Z] Customer: One is lane, and second one is stallion.
+
+[2025-06-23T08:00:14.403Z] AI Agent: One tub of Plain Cream Cheese and one tub of Scallion/Onion Chive. Got it! Now, let's choose your four muffins. We have Blueberry, Corn, Double Chocolate, and more. Which four muffins would you like? You can choose multiple of the same kind if you'd like.
+
+[2025-06-23T08:00:14.403Z] Customer: Okay. I need, two blueberry and two corn.
+
+[2025-06-23T08:00:14.403Z] AI Agent: Two Blueberry muffins and two Corn muffins. Perfect! Now, let's move on to the Box of Coffee. We have options like House Blend, Decaf, Vanilla Hazelnut, and Dark Roast. Which one would you like?
+
+[2025-06-23T08:00:14.403Z] Customer: Go with the house blind.
+
+[2025-06-23T08:00:14.403Z] AI Agent: House Blend it is. Now, I just want to confirm your Breakfast Bundle order. You've got thirteen Garlic bagels, one tub of Plain Cream Cheese, one tub of Scallion/Onion Chive, two Blueberry muffins, two Corn muffins, and a Box of House Blend Coffee. Perfect, let me add that to your order...
+
+[2025-06-23T08:00:14.403Z] AI Agent: Added 1 item(s) to your cart. Total: $54.98
+
+[2025-06-23T08:00:14.403Z] AI Agent: Alright, I've added the Breakfast Bundle with all your choices. Your total is now $54.98. Anything else for you today?
+
+[2025-06-23T08:00:14.404Z] Customer: No.
+
+[2025-06-23T08:00:14.404Z] AI Agent: Alright, Gaurav, I have your complete order ready. You have one Breakfast Bundle with thirteen Garlic bagels, one tub of Plain Cream Cheese, one tub of Scallion/Onion Chive, two Blueberry muffins, two Corn muffins, and a Box of House Blend Coffee. Your total before tax is $54.98. Does everything sound correct with that?
+
+[2025-06-23T08:00:14.404Z] Customer: Yes.
+
+[2025-06-23T08:00:14.404Z] AI Agent: Do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-23T08:00:14.404Z] Customer: No.
+
+[2025-06-23T08:00:14.404Z] AI Agent: Ready to place this order for pickup, Gaurav?
+
+[2025-06-23T08:00:14.404Z] Customer: I think, yeah, I'm fine with this.
+
+[2025-06-23T08:00:14.404Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-23T08:00:14.404Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 122817. That's 1, 2, 2, 8, 1, 7. Total: $60.47 (subtotal 54.98 dollars plus 5.49 dollars tax). Thank you for your order!
+
+[2025-06-23T08:00:14.404Z] AI Agent: Alright, Gaurav, your order is placed! Your order number is 1, 2, 2, 8, 1, 7. Your final total is $60.47, which includes a subtotal of $54.98 and $5.49 in tax. We'll have that ready for you shortly! Thank you for your order!

@@ -1,0 +1,58 @@
+Call ID: 686ba1d20245c817842780ed
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T10:30:42.301Z
+End Time: 2025-07-07T10:32:54.981Z
+Duration: 131 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a 12-ounce freshly squeezed orange juice at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T10:32:54.622Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T10:32:54.622Z] Customer: I'd like to ora, orange juice.
+
+[2025-07-07T10:32:54.622Z] AI Agent: We have a few options for orange juice. We have small, medium, and large sizes, and you can choose from classic, blackberry, strawberry, or mango flavor. Which one would you like?
+
+[2025-07-07T10:32:54.622Z] Customer: I said orange juice, fresh orange juice.
+
+[2025-07-07T10:32:54.622Z] AI Agent: We do offer freshly squeezed orange juice. You can choose from a 12-ounce or 32-ounce size. Which size would you prefer?
+
+[2025-07-07T10:32:54.622Z] Customer: $12.
+
+[2025-07-07T10:32:54.622Z] AI Agent: The 12-ounce freshly squeezed orange juice is $5.99. Is there anything else I can get for you today?
+
+[2025-07-07T10:32:54.622Z] Customer: No?
+
+[2025-07-07T10:32:54.622Z] AI Agent: Alright, so I have the 12-ounce freshly squeezed orange juice. Is that all for you today?
+
+[2025-07-07T10:32:54.622Z] Customer: Yes.
+
+[2025-07-07T10:32:54.622Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-07T10:32:54.622Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-07T10:32:54.622Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-07T10:32:54.622Z] Customer: No.
+
+[2025-07-07T10:32:54.622Z] AI Agent: Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-07T10:32:54.622Z] Customer: Yeah.
+
+[2025-07-07T10:32:54.622Z] AI Agent: So, just to confirm, I have a 12-ounce freshly squeezed orange juice. That's a total of $5.99. Does that all sound correct?
+
+[2025-07-07T10:32:54.623Z] Customer: Yeah. Sounds good.
+
+[2025-07-07T10:32:54.623Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-07T10:32:54.623Z] Customer: Yes.
+
+[2025-07-07T10:32:54.623Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-07T10:32:54.623Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 626704. That's 6, 2, 6, 7, 0, 4.", 'order_id': '626704', 'call_id': 'ce616da3-e454-4cd2-9c5c-05919bbf3c1c', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e471-d521-d8a9-7ee2-96263fb37b5c'}
+
+[2025-07-07T10:32:54.623Z] AI Agent: Your order is created successfully now! The order number is 6, 2, 6, 7, 0, 4, and the total including taxes comes to $6.29. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment.

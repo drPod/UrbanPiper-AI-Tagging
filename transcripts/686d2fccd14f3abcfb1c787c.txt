@@ -1,0 +1,71 @@
+Call ID: 686d2fccd14f3abcfb1c787c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-08T14:48:44.881Z
+End Time: 2025-07-08T14:51:10.893Z
+Duration: 144 seconds
+From: +919686500112
+To: +16204558091
+Summary: The customer placed a Breakfast Bundle order and confirmed the details before finalizing the order.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-08T14:51:10.423Z] AI Agent: Hello M G Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-08T14:51:10.423Z] Customer: Can I order a breakfast bundle?
+
+[2025-07-08T14:51:10.423Z] AI Agent: Sure thing! The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). Would you like to hear the available bagel options first?
+
+[2025-07-08T14:51:10.423Z] Customer: Give me, 4 Sesame, four everything, four Jalapeno, and one California.
+
+[2025-07-08T14:51:10.423Z] AI Agent: Got it! For the bagels, you'll have four sesame, four everything, four jalapeño, and one California. Would you like to choose the flavors for the two tubs of cream cheese next?
+
+[2025-07-08T14:51:10.423Z] Customer: Give me one, plane and one scallion.
+
+[2025-07-08T14:51:10.423Z] AI Agent: Perfect, your cream cheese flavors will be one plain and one scallion. Now, for the muffins, would you like to hear the available options?
+
+[2025-07-08T14:51:10.423Z] Customer: Give me all chocolate.
+
+[2025-07-08T14:51:10.423Z] AI Agent: Alright, you'll have four chocolate muffins. Is there anything else I can get for you today?
+
+[2025-07-08T14:51:10.423Z] Customer: That's all.
+
+[2025-07-08T14:51:10.423Z] AI Agent: Okay, so I have the Breakfast Bundle with four sesame, four everything, four jalapeño, and one California bagels, one plain and one scallion cream cheese, and four chocolate muffins. Is that all for you today?
+
+[2025-07-08T14:51:10.423Z] Customer: That's all, Kumble.
+
+[2025-07-08T14:51:10.893Z] Unknown: [2025-07-08T14:51:10.423Z] assistant: Perfect, let me get that all put together for you. 
+
+
+
+[2025-07-08T14:51:10.424Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-08T14:51:10.424Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-08T14:51:10.424Z] Customer: 
+
+[2025-07-08T14:51:10.424Z] AI Agent: Alright M G. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-08T14:51:10.424Z] Customer: No.
+
+[2025-07-08T14:51:10.424Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-08T14:51:10.424Z] Customer: Yes.
+
+[2025-07-08T14:51:10.893Z] Unknown: [2025-07-08T14:51:10.424Z] assistant: Great. Placing that for you now, please hold on.
+
+
+
+
+[2025-07-08T14:51:10.424Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 101170. That's 1, 0, 1, 1, 7, 0.", 'order_id': '101170', 'call_id': '37a80c61-6db9-4e0c-8306-d00660f1fdbe', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197ea84-7429-883d-3062-603bd3f281bd'}
+
+[2025-07-08T14:51:10.424Z] AI Agent: Your order is created successfully now! The order number is 1, 0, 1, 1, 7, 0, and the total including taxes comes to $48.25. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist you with today?
+
+[2025-07-08T14:51:10.424Z] Customer: No. That's it. Thank you.
+
+[2025-07-08T14:51:10.424Z] AI Agent: You're welcome! Have a great day!
+
+[2025-07-08T14:51:10.424Z] Customer: Thank you.
+
+[2025-07-08T14:51:10.424Z] AI Agent: You're welcome! Have a great day!

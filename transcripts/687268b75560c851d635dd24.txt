@@ -1,0 +1,22 @@
+Call ID: 687268b75560c851d635dd24
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T13:52:55.358Z
+End Time: 2025-07-12T13:53:40.679Z
+Duration: 43 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jutin inquired about lunch items at Manhattan Bagel and asked about a specific Buffalo Chicken Wrap that was not on the menu.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T13:53:40.505Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T13:53:40.505Z] Customer: Yeah. I I want to know, what do you how many items you have in lunch?
+
+[2025-07-12T13:53:40.505Z] AI Agent: We have a variety of lunch items to choose from. We have the Chelsea Grilled Chicken, Manhattan Cheesesteak Sandwich, Balsamic Grilled Chicken Wrap, and more. Would you like me to go through some of our popular lunch options or is there something specific you're looking for?
+
+[2025-07-12T13:53:40.506Z] Customer: Okay. Do you have buffalo grilled chicken there?
+
+[2025-07-12T13:53:40.506Z] AI Agent: I don't see the Buffalo Chicken Wrap on our menu. However, we do have the Balsamic Grilled Chicken Wrap, which is a

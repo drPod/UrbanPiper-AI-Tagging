@@ -1,0 +1,46 @@
+Call ID: 685a62541be7d3da061928df
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T08:31:16.779Z
+End Time: 2025-06-24T08:33:38.881Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a medium hot latte with half and half milk, Equal sweetener, and DECAF from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T08:33:38.548Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-24T08:33:38.548Z] Customer: I like to order hot latte.
+
+[2025-06-24T08:33:38.548Z] AI Agent: The hot latte, excellent choice. Let me get the options for your hot latte.
+
+[2025-06-24T08:33:38.548Z] AI Agent: Let's start with the Size for your hot latte. You can choose from Small 12oz, Medium 16oz, or Large 20oz. Which one would you like?
+
+[2025-06-24T08:33:38.548Z] Customer: I'd like to go with the medium size and, and half an half milk.
+
+[2025-06-24T08:33:38.548Z] AI Agent: For your medium hot latte, I've got the half and half milk noted down. Next, let's talk about Sweetener & Syrups. You can choose up to 20 options from Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, Pumpkin Syrup, Caramel Syrup, Hazelnut Syrup, Vanilla Syrup, Sugar Free Vanilla Syrup, Pistachio Syrup, Chocolate Sauce,
+
+[2025-06-24T08:33:38.548Z] Customer: Okay. I don't I don't you can, you know, you can do you can, go with the equal. Okay?
+
+[2025-06-24T08:33:38.549Z] AI Agent: I've added Equal as your sweetener. Now, let's move on to the DECAF option. Would you like to make your hot latte DECAF?
+
+[2025-06-24T08:33:38.549Z] Customer: Yeah. Please do that.
+
+[2025-06-24T08:33:38.549Z] AI Agent: I've noted that down. Your medium hot latte will be made with half and half milk, Equal as the sweetener, and it will be DECAF. Finally, would you like to add an Extra Espresso Shot to your hot latte? You can choose from a Single shot for $1.99 or a Double shot for $2.49, or you can skip this option altogether.
+
+[2025-06-24T08:33:38.549Z] Customer: Yeah. I don't mean that. Thank you so much.
+
+[2025-06-24T08:33:38.549Z] AI Agent: Alright, let me get this order placed for you...Please hold for a moment
+
+[2025-06-24T08:33:38.549Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 1750753982322. That's 1, 7, 5, 0, 7, 5, 3, 9, 8, 2, 3, 2, 2.", 'order_id': '1750753982322', 'call_id': '5c7199b1-390f-40ce-aa38-89810d284391', 'responseType': 'tool-response', 'api_response': {'status': 'success', 'workflow_run_id': 'id: "bb66e23289b447a5a9306e9a68c7a0a8"\n', 'call_id': '5c7199b1-390f-40ce-aa38-89810d284391', 'message': 'Menu content refresh workflow started.'}}
+
+[2025-06-24T08:33:38.549Z] AI Agent: Your order number is 1, 7, 5, 0, 7, 5, 3, 9, 8, 2, 3, 2, 2. We'll have that ready for you shortly here at Manhattan Bagel. The total comes out to be 6 dollars and 48 cents. Thank you for ordering with us. Have a great day.
+
+[2025-06-24T08:33:38.549Z] AI Agent: I hope you are still with me!
+
+[2025-06-24T08:33:38.549Z] Customer: Thank you so much.
+
+[2025-06-24T08:33:38.549Z] AI Agent: You're welcome,

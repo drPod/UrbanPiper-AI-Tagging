@@ -1,0 +1,18 @@
+Call ID: 6877e78d73d0cf0f7e878c24
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T17:55:25.891Z
+End Time: 2025-07-16T17:55:56.207Z
+Duration: 27 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel and began the customization process with the agent.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T17:55:55.983Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T17:55:55.983Z] Customer: Give me breakfast bundles, please.
+
+[2025-07-16T17:55:55.983Z] AI Agent: That would be our Breakfast Bundle on the menu. I'll add that for you. Now I'll help you customize it. You'll need to pick exactly 13 bagels for your bundle. I have Plain

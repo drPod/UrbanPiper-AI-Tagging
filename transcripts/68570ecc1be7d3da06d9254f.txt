@@ -1,0 +1,40 @@
+Call ID: 68570ecc1be7d3da06d9254f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T19:58:04.615Z
+End Time: 2025-06-21T20:00:10.223Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin placed an order for an Omelet Wrap with default items and a special instruction to not make it too spicy due to an allergy.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T20:00:09.914Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T20:00:09.914Z] Customer: I want to order, omelette wrap.
+
+[2025-06-21T20:00:09.914Z] AI Agent: The Omelet Wrap, great choice. That comes with 3 eggs, cheese, and your choice of meat in a tortilla. Let me get the options for your meat choices...
+
+[2025-06-21T20:00:09.915Z] AI Agent: For the Omelet Wrap, you can choose your meat. We have several options like Bacon, Sausage, Ham, Steak, or Grilled Chicken. Which one would you like?
+
+[2025-06-21T20:00:09.915Z] Customer: Okay. Can I, go with the default, item and, you can add, some instruction, like, I'm allergic to, you know, too spicy? So do not make, anything, like, more spicy.
+
+[2025-06-21T20:00:09.915Z] AI Agent: Alright, I've got that noted. For your Omelet Wrap, I'll make sure to keep it not too spicy. Let me add that to your order...
+
+[2025-06-21T20:00:09.915Z] AI Agent: Added 1 item(s) to your cart. Total: $9.99
+
+[2025-06-21T20:00:09.915Z] AI Agent: I'll make sure the kitchen knows about your allergy and preference for not too spicy. I'll note that down...
+
+[2025-06-21T20:00:09.915Z] AI Agent: I've added your special instructions to the order.
+
+[2025-06-21T20:00:09.916Z] AI Agent: Alright, I've added the special instruction to your order. Now, would you like to place this order for pickup or is there something else I can get for you?
+
+[2025-06-21T20:00:09.916Z] Customer: No. That's it. I think you can place the order you can submit the order now.
+
+[2025-06-21T20:00:09.916Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-21T20:00:09.916Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 969084. That's 9, 6, 9, 0, 8, 4. Total: $10.99 (subtotal 9.99 dollars plus 1.00 dollars tax). Special instructions noted: Customer is allergic to too spicy food, please do not make anything spicier. Thank you for your order!
+
+[2025-06-21T20:00:09.916Z] AI Agent: Alright Jitin, your order is placed. Your order number is 9, 6, 9, 0, 8, 4. Your total comes out to be 9 dollars and 99 cents for the subtotal, plus 1 dollar and 0 cents for tax, making it a total of 10 dollars and 99 cents. We've noted your special instruction to not make anything too spicy due to your allergy. Thank you for your order!

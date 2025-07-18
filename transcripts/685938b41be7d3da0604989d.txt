@@ -1,0 +1,46 @@
+Call ID: 685938b41be7d3da0604989d
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T11:21:24.480Z
+End Time: 2025-06-23T11:23:11.787Z
+Duration: 120 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh ordered a toasted sesame bagel with scallion cream cheese and egg whites from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T11:23:10.575Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T11:23:10.576Z] Customer: Can I get a sesame bagel with scallion cream cheese and egg in it?
+
+[2025-06-23T11:23:10.576Z] AI Agent: Let me get the options for your bagel choices.
+
+[2025-06-23T11:23:10.576Z] AI Agent: For your bagel, I have options like Plain, Everything, Sesame, and more.
+
+[2025-06-23T11:23:10.576Z] Customer: No. No. I I know what I want. I want a sesame bagel with scallion cream cheese and egg white.
+
+[2025-06-23T11:23:10.576Z] AI Agent: Let me get the options for your bagel choices.
+
+[2025-06-23T11:23:10.576Z] AI Agent: I have a Sesame bagel, and for the spread, I have Scallion cream cheese. Would you like your bagel toasted?
+
+[2025-06-23T11:23:10.576Z] Customer: Toasty.
+
+[2025-06-23T11:23:10.576Z] AI Agent: Perfect, let me add that to your order...
+
+[2025-06-23T11:23:10.576Z] AI Agent: Added 1 item(s) to your cart. Total: $4.49
+
+[2025-06-23T11:23:10.576Z] Customer: And I ordered egg also, egg white in there.
+
+[2025-06-23T11:23:10.576Z] AI Agent: Let me update that for you...
+
+[2025-06-23T11:23:10.577Z] AI Agent: Updated your order. Total: $4.49
+
+[2025-06-23T11:23:10.577Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-23T11:23:10.577Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 617797. That's 6, 1, 7, 7, 9, 7. Total: $4.94 (subtotal 4.49 dollars plus 0.45 dollars tax). Thank you for your order!
+
+[2025-06-23T11:23:10.577Z] AI Agent: Alright Vansh, your order is placed. Your order number is 6, 1, 7, 7, 9, 7. Total is 4 dollars and 49 cents for the subtotal, plus 45 cents in tax, making it 4 dollars and 94 cents. We'll have that ready for you shortly.
+
+[2025-06-23T11:23:10.577Z] Customer: 

@@ -1,0 +1,24 @@
+Call ID: 6877e2f873d0cf0f7e8721eb
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T17:35:52.679Z
+End Time: 2025-07-16T17:36:38.648Z
+Duration: 43 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with the help of BagelBot.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T17:36:38.405Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T17:36:38.406Z] Customer: Give me breakfast bundle, please.
+
+[2025-07-16T17:36:38.648Z] Unknown: [2025-07-16T17:36:38.406Z] assistant: That would be our Breakfast Bundle on the menu. I'll add that for you. Now I'll help you customize it. 
+
+You'll need to pick exactly 13 bagels for your bundle. I have Plain, Everything, Sesame, or Blueberry. Want more options?
+
+[2025-07-16T17:36:38.406Z] Customer: No.
+
+[2025-07-16T17:36:38.406Z] AI Agent: For the 13 bagels, how many of each would you like? You can choose from Plain, 

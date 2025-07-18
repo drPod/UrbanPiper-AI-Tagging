@@ -1,0 +1,22 @@
+Call ID: 6859ab9a1be7d3da0611f946
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T19:31:38.338Z
+End Time: 2025-06-23T19:32:53.316Z
+Duration: 120 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with the assistance of BagelBot.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T19:32:53.023Z] AI Agent: Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T19:32:53.023Z] Customer: Hi. I'd like to order the breakfast bundle.
+
+[2025-06-23T19:32:53.316Z] Unknown: [2025-06-23T19:32:53.023Z] assistant: The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Let me get all the customization options for you. 
+
+
+
+[2025-06-23T19:32:53.024Z] AI Agent: Let's start with the Bagel Dozen. From the options I have listed here, popular choices are Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, Bagel Stick. We'll need to select exactly 13 for this. Which would you like?

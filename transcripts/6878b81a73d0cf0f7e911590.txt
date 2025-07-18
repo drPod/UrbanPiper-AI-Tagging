@@ -1,0 +1,26 @@
+Call ID: 6878b81a73d0cf0f7e911590
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T08:45:14.894Z
+End Time: 2025-07-17T08:46:29.653Z
+Duration: 72 seconds
+From: +447495721189
+To: +441313810000
+Summary: The customer called to order 50 bagels but the call was cut short due to technical issues and the customer's request to adjust the speaking speed.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T08:46:29.040Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T08:46:29.041Z] Customer: I was just on a call with you, and I asked you to triple your speaking speed, and the call just was put down. Why is that?
+
+[2025-07-17T08:46:29.041Z] AI Agent: I'm so sorry to hear that the call was dropped. It's possible that the system experienced a technical issue or that the connection was lost due to a network problem. I'm a large language model, I don't have control over the call connection, but I'm here to help you now. Please feel free to start again, and I'll do my best to assist you with your order. What would you like to order today?
+
+[2025-07-17T08:46:29.041Z] Customer: I would like 50 bagels, please.
+
+[2025-07-17T08:46:29.041Z] AI Agent: For 50 bagels, I'll need to know what type of bagels you'd like. We have a variety of options, including Plain, Everything, Sesame, Poppy, and more. Let's start with the
+
+[2025-07-17T08:46:29.041Z] Customer: Can you please repeat that, but can you double the speed of your speech?
+
+[2025-07-17T08:46:29.041Z] AI Agent: For 50 bagels, I'll need to know what type of bagels you'd like. We have a variety of options, including Plain, Everything, Sesame, Poppy, and more. Let's start with the bagel type. Would you like to choose from our most popular options:

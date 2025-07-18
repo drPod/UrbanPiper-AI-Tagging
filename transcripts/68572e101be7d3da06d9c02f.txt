@@ -1,0 +1,38 @@
+Call ID: 68572e101be7d3da06d9c02f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T22:11:28.631Z
+End Time: 2025-06-21T22:13:32.918Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul placed an order for an Asiago Bagel with plain cream cheese at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T22:13:31.847Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T22:13:31.849Z] Customer: Hey there. I think I'll go for an asago bagel with some plain cream cheese. That sounds delicious.
+
+[2025-06-21T22:13:31.850Z] AI Agent: The Asiago Bagel with plain cream cheese, excellent choice. That's one of our popular combinations, the savory flavor of the Asiago bagel paired with the richness of plain cream cheese. Let me get the options for your bagel and cream cheese...
+
+[2025-06-21T22:13:31.851Z] AI Agent: For your Asiago Bagel, you've chosen plain cream cheese. I just need to confirm a few more details. Would you like your bagel toasted or not toasted? And would you prefer a specific amount of cream cheese, such as a light spread, regular, or extra? 
+
+[2025-06-21T22:13:31.852Z] AI Agent: For your Asiago Bagel with plain cream cheese, I just need to confirm if you'd like it toasted and if you want to add any vegetables. Would you like your bagel toasted, lightly toasted, or toasted dark? And would you like to add any vegetables such as lettuce, tomato, or avocado? 
+
+[2025-06-21T22:13:31.853Z] AI Agent: Let me add that to your order. You have an Asiago Bagel with plain cream cheese. Perfect, let me add that to your order...
+
+[2025-06-21T22:13:31.853Z] AI Agent: Added 1 item(s) to your cart. Total: $4.29
+
+[2025-06-21T22:13:31.854Z] AI Agent: Your total comes out to be $4.29. Would you like to order anything else today?
+
+[2025-06-21T22:13:31.854Z] Customer: I think I'm all set for now. That'll be it for my order. Thanks so much.
+
+[2025-06-21T22:13:31.854Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-21T22:13:31.855Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 214280. That's 2, 1, 4, 2, 8, 0. Total: $4.72 (subtotal 4.29 dollars plus 0.43 dollars tax). Thank you for your order!
+
+[2025-06-21T22:13:31.855Z] AI Agent: Your order number is 2, 1, 4, 2, 8, 0. Your total comes out to be $4.29 plus $0.43 tax. So, your final total is $4.72. We'll have your order ready for pickup shortly. Thank you for choosing Manhattan Bagel, and we look forward to serving you today!
+
+[2025-06-21T22:13:31.855Z] Customer: That was super smooth. The bot did a great job taking my order.

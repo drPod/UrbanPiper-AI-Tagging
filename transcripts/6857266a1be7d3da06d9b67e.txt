@@ -1,0 +1,98 @@
+Call ID: 6857266a1be7d3da06d9b67e
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T21:38:50.192Z
+End Time: 2025-06-21T21:43:40.103Z
+Duration: 300 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul ordered an avocado toast with sesame bagel, mustard, cucumber, grilled chicken, and lox, along with a medium unsweetened iced tea, but the order could not be placed successfully due to technical issues.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T21:43:39.827Z] AI Agent: Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T21:43:39.827Z] Customer: I'd like to order, avocado toast.
+
+[2025-06-21T21:43:39.827Z] AI Agent: Avocado toast sounds delicious. I'll get the options for you. Let me get the choices for your avocado toast.
+
+[2025-06-21T21:43:39.827Z] AI Agent: For your avocado toast, what kind of bagel would you like? We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Croissant, Egg, Egg Everything, English Muffin, French Toast BAGEL, French Toast ROLL, Garlic, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll,
+
+[2025-06-21T21:43:39.827Z] Customer: Okay. I need I need only so sorry.
+
+[2025-06-21T21:43:39.827Z] AI Agent: Let's start with the bagel choice. For your avocado toast, what kind of bagel would you like? We have Plain, 
+
+[2025-06-21T21:43:39.827Z] Customer: Just a minute.
+
+[2025-06-21T21:43:39.827Z] AI Agent: For
+
+[2025-06-21T21:43:39.827Z] Customer: Sesame.
+
+[2025-06-21T21:43:39.828Z] AI Agent: Sesame bagel is a great choice for avocado toast. Now, would you like to add any condiments? We have options like salt, pepper,
+
+[2025-06-21T21:43:39.828Z] Customer: Yeah. You can add mustard.
+
+[2025-06-21T21:43:39.828Z] AI Agent: I'll add mustard to your sesame bagel avocado toast. Next, would you like to add any vegetables? We have lettuce, tomato, red onions, avocado,
+
+[2025-06-21T21:43:39.828Z] Customer: Only only only cucumber.
+
+[2025-06-21T21:43:39.828Z] AI Agent: I'll add cucumber toyour avocado toast. Now, would you like to add any extra breakfast meat? We have options like extra bacon, extra pork roll, extra
+
+[2025-06-21T21:43:39.828Z] Customer: Chicken.
+
+[2025-06-21T21:43:39.828Z] AI Agent: So, to recap, you'd like an avocado toast on a sesame bagel with mustard and cucumber, and you'd like to add chicken to it. Perfect, let me add that to your order...
+
+[2025-06-21T21:43:39.828Z] AI Agent: Added 1 item(s) to your cart. Total: $11.98
+
+[2025-06-21T21:43:39.828Z] AI Agent: Your total comes out to be $11.98. Would you like to place this order for pickup or make any changes?
+
+[2025-06-21T21:43:39.828Z] Customer: Can I have, logs as well in avocado toast?
+
+[2025-06-21T21:43:39.828Z] AI Agent: You'd like to add lox to your avocado toast. Let me update that for you...
+
+[2025-06-21T21:43:39.828Z] AI Agent: Updated your order. Total: $17.97
+
+[2025-06-21T21:43:39.828Z] AI Agent: Your total now comes out to be $17.97. Would you like to place this order for pickup or make any changes?
+
+[2025-06-21T21:43:39.828Z] Customer: Also, I want to add iced tea.
+
+[2025-06-21T21:43:39.828Z] AI Agent: I'll add an iced tea to your order. Let me get the options for you. 
+
+[2025-06-21T21:43:39.829Z] AI Agent: For your iced tea, what size would you like? We have small, 16 ounces for $2.49, medium, 24 ounces for $2.99, or large, 32 ounces for $3.49.
+
+[2025-06-21T21:43:39.829Z] Customer: Medium size.
+
+[2025-06-21T21:43:39.829Z] AI Agent: A medium iced tea is $2.99. Now, would you like to choose a milk option? We have regular milk,
+
+[2025-06-21T21:43:39.829Z] Customer: No. No. I don't I don't need milk iced tea. That's not possible.
+
+[2025-06-21T21:43:39.829Z] AI Agent: For your iced tea, you'd like it without milk. Now, would you like to add any sweeteners or syrups? We have options like sugar, sweet and low, equal, splenda, raw
+
+[2025-06-21T21:43:39.829Z] Customer: You can make it unsweet unsweetened. Okay.
+
+[2025-06-21T21:43:39.830Z] AI Agent: So, you'd like your iced tea unsweetened. Let me update that for you. Perfect, let me add that to your order...
+
+[2025-06-21T21:43:39.830Z] AI Agent: Added 1 item(s) to your cart. Total: $24.45
+
+[2025-06-21T21:43:39.830Z] AI Agent: Your total now comes out to be $20.96. Would you like to place this order for pickup or make any changes?
+
+[2025-06-21T21:43:39.830Z] Customer: No. Good for now. Thank you so much.
+
+[2025-06-21T21:43:39.830Z] AI Agent: Alright, let me get this order placed for you...
+
+[2025-06-21T21:43:39.830Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 402875. That's 4, 0, 2, 8, 7, 5. Total: $26.24 (subtotal 24.45 dollars plus 1.79 dollars tax). Thank you for your order!
+
+[2025-06-21T21:43:39.830Z] AI Agent: Your order has been placed successfully. Your order number is 4, 0, 2, 8, 7, 5. Your total comes out to be $24.45 plus $1.79 tax, so that's a total of $26.24. We'll have your order ready for pickup. Thank you for ordering from Manhattan Bagel!
+
+[2025-06-21T21:43:39.830Z] AI Agent: I hope you are still with me!
+
+[2025-06-21T21:43:39.831Z] Customer: Yeah. I'm still there, but I'm just seeing the order is not placed on the
+
+[2025-06-21T21:43:39.831Z] AI Agent: Let me try to place the order again.
+
+[2025-06-21T21:43:39.831Z] AI Agent: Your cart is empty. Please add items to your cart before placing an order.
+
+[2025-06-21T21:43:39.831Z] AI Agent: It
+
+[2025-06-21T21:43:39.831Z] Customer: No. It's okay. I'll check. I'll I'll see what what is wrong. Okay. Wait. Bye. Thank you.

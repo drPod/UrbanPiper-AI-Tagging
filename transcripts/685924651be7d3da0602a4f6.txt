@@ -1,0 +1,32 @@
+Call ID: 685924651be7d3da0602a4f6
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T09:54:45.160Z
+End Time: 2025-06-23T09:56:08.031Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav attempted to order a Breakfast Bundle but the call ended before completion due to validation issues with the bagel options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T09:56:07.716Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T09:56:07.717Z] Customer: Yeah. I want to order breakfast bundle.
+
+[2025-06-23T09:56:07.717Z] AI Agent: The Breakfast Bundle, great choice. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...
+
+[2025-06-23T09:56:07.717Z] AI Agent: Alright, I have all the customization options for you. Do you want to proceed with the customization now?
+
+[2025-06-23T09:56:07.717Z] Customer: Що?
+
+[2025-06-23T09:56:07.717Z] AI Agent: First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a
+
+[2025-06-23T09:56:07.717Z] Customer: All of scallion.
+
+[2025-06-23T09:56:07.717Z] AI Agent: For the Bagel Dozen, you'd like all thirteen to be Scallion. Next, for your **two tubs of spread**. We have Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive. Want to hear more options?
+
+[2025-06-23T09:56:07.717Z] Customer: Why are you not why are you not validating the options which I have, you know, selected?
+
+[2025-06-23T09:56:07.717Z] AI Agent: You selected "all of scallion" for the bagels, but I need to validate that option. Unfortunately, "all of scallion" is not a valid option for the Bagel Dozen. The available options are: Plain, Everything, Asiago, Blueberry, 

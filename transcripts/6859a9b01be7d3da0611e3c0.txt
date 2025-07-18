@@ -1,0 +1,38 @@
+Call ID: 6859a9b01be7d3da0611e3c0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T19:23:28.914Z
+End Time: 2025-06-23T19:24:46.945Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a 24oz Mint Pistachio Chillerz from Manhattan Bagel but the order placement failed due to an internal server error.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T19:24:46.702Z] AI Agent: Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T19:24:46.702Z] Customer: I'd like to order mint orchillers.
+
+[2025-06-23T19:24:46.945Z] Unknown: [2025-06-23T19:24:46.702Z] assistant: The Mint Pistachio Chillerz, excellent choice. That's a rich ice cream base blended with cool mint and nutty pistachio flavors, topped with fluffy whipped cream and a sprinkle of vibrant green sugar for a refreshing, creamy indulgence. Let me get the options for your Mint Pistachio Chillerz... 
+
+
+
+[2025-06-23T19:24:46.703Z] AI Agent: For your Mint Pistachio Chillerz, let's start with the Size. You can choose from 16oz or 24oz. Which size would you like?
+
+[2025-06-23T19:24:46.703Z] Customer: I'm good with the medium one.
+
+[2025-06-23T19:24:46.945Z] Unknown: [2025-06-23T19:24:46.703Z] assistant: The medium size is actually the 24oz. I'll go with that. So, you'd like the 24oz Mint Pistachio Chillerz. 
+
+Is there anything else I can get for you?
+
+[2025-06-23T19:24:46.703Z] Customer: No. For now, that's it.
+
+[2025-06-23T19:24:46.945Z] Unknown: [2025-06-23T19:24:46.703Z] assistant: Alright, let me get this order placed for you...
+
+
+
+[2025-06-23T19:24:46.703Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T19:24:46.703Z] AI Agent: I apologize for the issue. It seems like there was a problem with placing your order. Let me try again.

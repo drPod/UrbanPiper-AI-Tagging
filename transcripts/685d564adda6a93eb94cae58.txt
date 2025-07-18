@@ -1,0 +1,34 @@
+Call ID: 685d564adda6a93eb94cae58
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-26T14:16:42.399Z
+End Time: 2025-06-26T14:18:41.694Z
+Duration: 120 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh called Manhattan Bagel to place a new order, inquiring about the menu before deciding on a sesame bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-26T14:18:41.413Z] AI Agent: Hello Vansh, welcome back to Manhattan Bagel. This is BagelBot. Are you calling to place a new order or perhaps to check on an existing one?
+
+[2025-06-26T14:18:41.413Z] AI Agent: I hope you are still with me!
+
+[2025-06-26T14:18:41.413Z] Customer: Yeah. I said a new order.
+
+[2025-06-26T14:18:41.413Z] AI Agent: What would you like to order today?
+
+[2025-06-26T14:18:41.413Z] Customer: Can you tell me more about the menu?
+
+[2025-06-26T14:18:41.694Z] Unknown: [2025-06-26T14:18:41.413Z] assistant: We have a variety of delicious options to choose from. For breakfast, we have sandwiches like the Original Classic, which comes with egg, cheese, and your choice of meat on a bagel. We also have omelette wraps, breakfast burritos, and avocado toast. 
+
+For lunch, we have a range of sandwiches, including grilled chicken, pastrami, and turkey, all served on your choice of bagel or bread. We also have salads, soups, and a variety of sides to choose from.
+
+If you're looking for something sweet, we have muffins, pastries, and cookies. And of course, no visit to Manhattan Bagel would be complete without trying one of our freshly baked bagels with cream cheese or butter.
+
+What sounds good to you, or is there something specific you're in the mood for?
+
+[2025-06-26T14:18:41.413Z] AI Agent: I hope you are still with me!
+
+[2025-06-26T14:18:41.413Z] Customer: Can you give me, a sesame bagel?

@@ -1,0 +1,18 @@
+Call ID: 6878eaa1970f265df9d89bca
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T12:20:49.483Z
+End Time: 2025-07-17T12:21:27.505Z
+Duration: 33 seconds
+From: 919780032269
+To: 918035740152
+Summary: None
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T12:21:27.213Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-17T12:21:27.213Z] Customer: Okay. Give me Hasbro, please.
+
+[2025-07-17T12:21:27.213Z] AI Agent: I'm sorry, but our Hash Brown is currently out of stock today. We have other sides like Home Fries, Bacon, or Sausage. Which would you prefer?

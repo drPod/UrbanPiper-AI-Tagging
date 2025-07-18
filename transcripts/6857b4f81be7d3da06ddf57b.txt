@@ -1,0 +1,78 @@
+Call ID: 6857b4f81be7d3da06ddf57b
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T07:47:04.328Z
+End Time: 2025-06-22T07:52:11.009Z
+Duration: 360 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jatin placed an order for a Breakfast Bundle with a box of Autumn Roast coffee at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T07:52:09.660Z] AI Agent: Hello Jatin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T07:52:09.661Z] Customer: Let me to order breakfast bundle.
+
+[2025-06-22T07:52:09.661Z] AI Agent: The Breakfast Bundle, excellent choice. That includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get the options for your cream cheese and muffin choices.
+
+[2025-06-22T07:52:11.009Z] Unknown: [2025-06-22T07:52:09.661Z] assistant: Let's start with your bagel choices. We have a variety of options, including Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like to choose for your Breakfast Bundle? 
+
+Also, for your cream cheese, we have options like Plain Cream Cheese, Vegetable Cream Cheese, and Store Made Vegetable. Which two tubs of spread would you like to include? 
+
+And for your muffins, we have Blueberry, Corn, Double Chocolate, and more. Which four muffins would you like to choose? 
+
+Lastly, would you like to add a box of coffee to your bundle? We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast available. 
+
+Please let me know your preferences for each of these options.
+
+[2025-06-22T07:52:09.661Z] Customer: Okay. I I want, five blueberry, five plain, and, two everything. Sorry. Two garlic and, muffins will be, two blue, blueberry and two chocolate chips.
+
+[2025-06-22T07:52:09.661Z] AI Agent: So, for your bagels, you'd like 5 Blueberry, 5 Plain, 2 Everything, and 1 Garlic. For your muffins, you've chosen 2 Blueberry and 2 Chocolate Chip. Now, let me get the options for your cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, and other flavors. Which two tubs of spread would you like to include? Also, would you like to add a
+
+[2025-06-22T07:52:09.662Z] Customer: Plain green cheese and scallion cream cheeses. Okay?
+
+[2025-06-22T07:52:11.009Z] Unknown: [2025-06-22T07:52:09.662Z] assistant: You've chosen Plain Cream Cheese and Scallion Cream Cheese for your two tubs of spread. Now, let me just confirm your order. You've got a Breakfast Bundle with 5 Blueberry bagels, 5 Plain bagels, 2 Everything bagels, and 1 Garlic bagel. For your muffins, you have 2 Blueberry and 2 Chocolate Chip. And for your cream cheese, you've selected Plain and Scallion. 
+
+Perfect, let me add that to your order. 
+
+[2025-06-22T07:52:09.662Z] AI Agent: Added 1 item(s) to your cart. Total: $29.99
+
+[2025-06-22T07:52:09.662Z] AI Agent: Alright, I've added the Breakfast Bundle to your order. Your total comes out to be $29.99. Now, before I place your order, may I have your name for the order, please?
+
+[2025-06-22T07:52:09.662Z] Customer: My name, my name, is Justin.
+
+[2025-06-22T07:52:09.662Z] AI Agent: Thank you, Jatin. Do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-22T07:52:09.662Z] Customer: No. I don't have it. But, can I, can you add box of coffee as hazelnut option, which comes with the breakfast burrito I mean, breakfast bundle?
+
+[2025-06-22T07:52:09.662Z] AI Agent: I can add a box of coffee to your Breakfast Bundle. Let me see what options we have for the coffee. 
+
+[2025-06-22T07:52:09.662Z] AI Agent: We have a few options for the coffee box. You can choose from House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Which one would you like to add to your Breakfast Bundle?
+
+[2025-06-22T07:52:09.662Z] Customer: Autumn roast. And it'll be like do I need to pay extra or it will be part of the breakfast bundle only?
+
+[2025-06-22T07:52:11.009Z] Unknown: [2025-06-22T07:52:09.663Z] assistant: The Autumn Roast coffee box is an additional item, not included in the Breakfast Bundle. It would be an extra $24.99. So, your new total would be $29.99 for the Breakfast Bundle plus $24.99 for the coffee box, making it a total of $54.98. 
+
+Perfect, let me update that to your order. 
+
+[2025-06-22T07:52:09.663Z] AI Agent: Added 1 item(s) to your cart. Total: $54.98
+
+[2025-06-22T07:52:09.663Z] AI Agent: Alright, I've added the Autumn Roast coffee box to your order. Your new total comes out to be $54.98. Is everything correct, and are you ready to place your order?
+
+[2025-06-22T07:52:09.663Z] Customer: Yeah. Everything is correct. Thank you so much. We can proceed further.
+
+[2025-06-22T07:52:09.663Z] AI Agent: I'll get this order placed for you. 
+
+[2025-06-22T07:52:09.663Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 634324. That's 6, 3, 4, 3, 2, 4. Total: $57.97 (subtotal 54.98 dollars plus 2.99 dollars tax). Thank you for your order!
+
+[2025-06-22T07:52:09.663Z] AI Agent: Alright, Jatin, your order is placed! Your order number is 6, 3, 4, 3, 2, 4. Your total comes out to be $54.98, plus $2.99 in tax, making it a total of $57.97. We'll have your Breakfast Bundle with the Autumn Roast coffee box ready for you shortly. Thank you for your order!
+
+[2025-06-22T07:52:09.663Z] Customer: What is the order ID?
+
+[2025-06-22T07:52:09.663Z] AI Agent: Your order number is 6, 3, 4, 3, 2, 4. I'll read it slowly for you: six, three, four, three, two, four.
+
+[2025-06-22T07:52:09.663Z] Customer: Okay.
+
+[2025-06-22T07:52:09.663Z] AI Agent: You're all set, Jatin. We'll have your order ready for pickup. If you need any further assistance, feel free to ask. Otherwise, have a great day and we'll see you soon!

@@ -1,0 +1,56 @@
+Call ID: 68591a571be7d3da06013eae
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T09:11:51.688Z
+End Time: 2025-06-23T09:14:20.195Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Gaurav placed an order for a Mint Oreo Chillerz and a medium Decaf hot coffee at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T09:14:19.895Z] AI Agent: Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T09:14:19.908Z] Customer: I want a mint Oreo chillers and one hot coffee.
+
+[2025-06-23T09:14:19.908Z] AI Agent: The Mint Oreo Chillerz, excellent choice. That's a refreshing drink. And you'd also like a hot coffee. Let me get all the customization options for you.
+
+[2025-06-23T09:14:19.909Z] AI Agent: For the Mint Oreo Chillerz, would you like the 16 ounces or the 24 ounces size?
+
+[2025-06-23T09:14:19.909Z] Customer: Well, 16 ounces.
+
+[2025-06-23T09:14:19.909Z] AI Agent: The 24 ounces size for your Mint Oreo Chillerz. Now, let me add that to your order...
+
+[2025-06-23T09:14:19.910Z] AI Agent: Added 1 item(s) to your cart. Total: $5.99
+
+[2025-06-23T09:14:19.910Z] AI Agent: Now, about your hot coffee. Let me get the options for that...
+
+[2025-06-23T09:14:19.912Z] AI Agent: For your hot coffee, what size would you like? We have small 12 ounces, medium 16 ounces, large 20 ounces, or extra-large 24 ounces.
+
+[2025-06-23T09:14:19.912Z] Customer: I want medium medium size.
+
+[2025-06-23T09:14:19.912Z] AI Agent: The medium 16 ounces size for your hot coffee. Now, would you like to choose a roast? We have House Blend, Vanilla Hazelnut Blend, Dark Roast, or Decaf.
+
+[2025-06-23T09:14:19.913Z] Customer: Decaf.
+
+[2025-06-23T09:14:19.913Z] AI Agent: The Decaf roast for your medium hot coffee. Let me add that to your order...
+
+[2025-06-23T09:14:19.914Z] AI Agent: Added 1 item(s) to your cart. Total: $8.48
+
+[2025-06-23T09:14:19.914Z] AI Agent: Your order now includes a Mint Oreo Chillerz and a medium Decaf hot coffee. Anything else for you today?
+
+[2025-06-23T09:14:19.914Z] Customer: 
+
+[2025-06-23T09:14:19.915Z] AI Agent: I'll review your order to ensure everything is correct. You have a Mint Oreo Chillerz, that's a 24-ounce drink, and a medium Decaf hot coffee. Your total comes out to be $8.48. Before I place your order, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-23T09:14:19.915Z] Customer: No. I don't have any ID. Thank you so much for asking.
+
+[2025-06-23T09:14:19.915Z] AI Agent: I'll make sure the kitchen knows. Alright, let me get this order placed for you...
+
+[2025-06-23T09:14:19.917Z] AI Agent: {'result': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 281505. That's 2, 8, 1, 5, 0, 5. Total: $9.33 (subtotal 8.48 dollars plus 0.85 dollars tax). Thank you for your order!\n\nNow, Move to Rule 3 Order Summary Protocol", 'responseType': 'tool-response'}
+
+[2025-06-23T09:14:19.917Z] Customer: 
+
+[2025-06-23T09:14:19.917Z] AI Agent: Alright Gaurav, your order is placed. Your order number is 2, 8, 1, 5, 0, 5. Your final total is $9.33, which includes a subtotal of $8.48 and $0.85 in tax. We'll have that ready for you shortly. Thank you for your order. Have a great day.

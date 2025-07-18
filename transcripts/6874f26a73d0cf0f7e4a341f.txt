@@ -1,0 +1,38 @@
+Call ID: 6874f26a73d0cf0f7e4a341f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-14T12:04:58.876Z
+End Time: 2025-07-14T12:06:58.312Z
+Duration: 117 seconds
+From: +918949862707
+To: +16204558091
+Summary: Mehl ordered a Breakfast Bundle with specific bagel and cream cheese preferences.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-14T12:06:58.007Z] AI Agent: Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-14T12:06:58.007Z] Customer: Yeah. I want to order, the first one.
+
+[2025-07-14T12:06:58.007Z] AI Agent: We have a variety of breakfast options to choose from. Can you tell me a little bit more about what you're in the mood for? Are you looking for something classic like a bagel with cream cheese, or maybe something a bit more filling like a breakfast sandwich?
+
+[2025-07-14T12:06:58.007Z] Customer: A breakfast bundle.
+
+[2025-07-14T12:06:58.007Z] AI Agent: Our Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to customize your bundle with any specific types of bagels or cream cheese flavors?
+
+[2025-07-14T12:06:58.007Z] Customer: Yes.
+
+[2025-07-14T12:06:58.007Z] AI Agent: For the bagels, we have a variety of flavors to choose from, such as plain, everything, cinnamon raisin, and more. Which ones would you like to include in your bundle? And
+
+[2025-07-14T12:06:58.008Z] Customer: Do you have the semi?
+
+[2025-07-14T12:06:58.008Z] AI Agent: We do have sesame bagels. I can add those to your Breakfast Bundle. How many sesame bagels would you like? And would you like any other types of bagels as well?
+
+[2025-07-14T12:06:58.008Z] Customer: Four sesame, three everything, and other maybe the first option.
+
+[2025-07-14T12:06:58.008Z] AI Agent: So, to confirm, you'd like 4 sesame bagels, 3 everything bagels, and 6 plain bagels, which is our first option, to complete your bundle of 13 bagels. That sounds great! Now, let's move on to the cream cheese. We have a variety of flavors, such as plain, scallion, and strawberry. Which two flavors would you like to include in your bundle?
+
+[2025-07-14T12:06:58.008Z] Customer: And do you have vanilla on?
+
+[2025-07-14T12:06:58.008Z] AI Agent: We do have a vanilla cream cheese flavor. I can add that to your bundle. You can choose vanilla as one of your two cream cheese flavors. What would you like as your second flavor? We have plain,

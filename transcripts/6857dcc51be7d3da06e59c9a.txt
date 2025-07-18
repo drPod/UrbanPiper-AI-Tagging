@@ -1,0 +1,70 @@
+Call ID: 6857dcc51be7d3da06e59c9a
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T10:36:53.221Z
+End Time: 2025-06-22T10:40:30.477Z
+Duration: 240 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jiten placed an order for a Breakfast Bundle with specific customizations and a Box of Vanilla Hazelnut coffee, totaling $60.47.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T10:40:29.136Z] AI Agent: Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T10:40:29.136Z] Customer: Breakfast bundle?
+
+[2025-06-22T10:40:29.137Z] AI Agent: The Breakfast Bundle, great choice. That comes with thirteen bagels, two tubs of cream cheese, and four muffins. You can add smoked nova for nine ninety-nine. Want to add that?
+
+[2025-06-22T10:40:29.142Z] AI Agent: Let's start with your thirteen bagels. We have a variety of flavors to choose from, including Plain, Everything, Asiago, Blueberry, and many more. Which ones would you like? You can choose any combination of thirteen bagels from our selection.
+
+[2025-06-22T10:40:29.142Z] Customer: Okay. So, I just thank you to have all 13 as blueberry.
+
+[2025-06-22T10:40:30.477Z] Unknown: [2025-06-22T10:40:29.142Z] assistant: You'd like all thirteen bagels to be Blueberry. That sounds delicious. 
+
+Now, let's move on to the two tubs of cream cheese. We have several options, including Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which two types of cream cheese would you like?
+
+[2025-06-22T10:40:29.143Z] Customer: Clean and vegetable.
+
+[2025-06-22T10:40:29.143Z] AI Agent: You'd like one tub of Plain Cream Cheese and one tub of Vegetable Cream Cheese. Next, let's choose your four muffins. We have Blueberry, Corn, Double Chocolate, and other flavors available. Which four muffins would you like? Remember, you can choose any 
+
+[2025-06-22T10:40:29.143Z] Customer: Two chocolate chips.
+
+[2025-06-22T10:40:29.143Z] AI Agent: You'd like
+
+[2025-06-22T10:40:29.144Z] Customer: Two chocolate chips, two blueberry.
+
+[2025-06-22T10:40:30.477Z] Unknown: [2025-06-22T10:40:29.144Z] assistant: You'd like two Chocolate Chip muffins and two Blueberry muffins.
+
+Now, let's talk about the Box of Coffee. We have several options, including House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Would you like to add a Box of Coffee to your Breakfast Bundle, and if so, which type?
+
+[2025-06-22T10:40:29.144Z] Customer: Hazelnut.
+
+[2025-06-22T10:40:30.477Z] Unknown: [2025-06-22T10:40:29.144Z] assistant: You'd like to add a Box of Vanilla Hazelnut coffee to your Breakfast Bundle.
+
+Let me add your Breakfast Bundle to the order... 
+
+[2025-06-22T10:40:29.145Z] AI Agent: Added 1 item(s) to your cart. Total: $54.98
+
+[2025-06-22T10:40:30.477Z] Unknown: [2025-06-22T10:40:29.145Z] assistant: Your Breakfast Bundle with thirteen Blueberry bagels, one tub of Plain Cream Cheese, one tub of Vegetable Cream Cheese, two Chocolate Chip muffins, two Blueberry muffins, and a Box of Vanilla Hazelnut coffee has been added to your order. Your total comes out to be $54.98.
+
+Before I finalize your order, may I have your name for the order?
+
+[2025-06-22T10:40:29.145Z] Customer: My name my name is Jiten.
+
+[2025-06-22T10:40:30.477Z] Unknown: [2025-06-22T10:40:29.146Z] assistant: I have your order ready. You've got a Breakfast Bundle with thirteen Blueberry bagels, one tub of Plain Cream Cheese, one tub of Vegetable Cream Cheese, two Chocolate Chip muffins, two Blueberry muffins, and a Box of Vanilla Hazelnut coffee. Your total comes out to be $54.98. 
+
+Do you have any special requests or allergies I should note for the kitchen?
+
+[2025-06-22T10:40:29.146Z] Customer: No. I don't have any.
+
+[2025-06-22T10:40:29.146Z] AI Agent: I'll make sure the kitchen knows that you don't have any special requests or allergies. 
+
+[2025-06-22T10:40:29.147Z] AI Agent: I've added your special instructions to the order.
+
+[2025-06-22T10:40:29.147Z] AI Agent: Alright, let me get this order placed for you... 
+
+[2025-06-22T10:40:29.147Z] AI Agent: Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 773952. That's 7, 7, 3, 9, 5, 2. Total: $60.47 (subtotal 54.98 dollars plus 5.49 dollars tax). Special instructions noted: No special requests or allergies. Thank you for your order!
+
+[2025-06-22T10:40:29.148Z] AI Agent: Your order is placed! Your order number is 7, 7, 3, 9, 5, 2. Your total comes out to be $60.47, which includes a subtotal of $54.98 and $5.49 in tax. We'll have that ready for you shortly! Thank you for your order!

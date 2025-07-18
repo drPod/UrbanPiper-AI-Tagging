@@ -1,0 +1,22 @@
+Call ID: 6855b6d71be7d3da06bb71fa
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-20T19:30:31.818Z
+End Time: 2025-06-20T19:31:05.176Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer, Gaurav, inquired about ordering a hot latte from Manhattan Bagel but the call ended abruptly without completion.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-20T19:31:05.002Z] AI Agent: Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-20T19:31:05.002Z] Customer: Can I get hot latte?
+
+[2025-06-20T19:31:05.003Z] AI Agent: I can check that for you. Let me see what I can find. 
+
+[2025-06-20T19:31:05.003Z] AI Agent: I'm searching for "hot latte" in our menu. Give me just a moment...
+
+[2025-06-20T19:31:05.004Z] AI Agent: I hope you are still with me!

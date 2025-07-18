@@ -1,0 +1,18 @@
+Call ID: 686f4115d14f3abcfb3f9fb5
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-10T04:27:01.950Z
+End Time: 2025-07-10T04:27:31.472Z
+Duration: 27 seconds
+From: +910000000000
+To: +910000000000
+Summary: The customer inquired about Blueberry Cream Cheese, which is not available, and was provided with alternative options.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-10T04:27:30.663Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-10T04:27:30.663Z] Customer: Hey, BeagleBot. Do you have blueberry green cheese in your menu?
+
+[2025-07-10T04:27:30.663Z] AI Agent: I don't see Blueberry Cream Cheese on our menu. However, we do have Plain Cream Cheese, Vegetable Cream Cheese, Strawberry, Honey Almond, and several other flavors.

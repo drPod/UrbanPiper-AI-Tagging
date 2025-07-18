@@ -1,0 +1,40 @@
+Call ID: 685962fc1be7d3da0608e35f
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T14:21:48.428Z
+End Time: 2025-06-23T14:23:38.817Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jitin ordered a medium hot latte with half and half milk from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T14:23:38.523Z] AI Agent: Hello Jitin, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T14:23:38.523Z] Customer: I'd like to order hot latte.
+
+[2025-06-23T14:23:38.523Z] AI Agent: Let me get the options for your hot latte. I'll check what we have available.
+
+[2025-06-23T14:23:38.523Z] AI Agent: I hope you are still with me!
+
+[2025-06-23T14:23:38.524Z] Customer: Yeah. I'm still there.
+
+[2025-06-23T14:23:38.524Z] AI Agent: Let me get the options for your hot latte... 
+
+[2025-06-23T14:23:38.817Z] Unknown: [2025-06-23T14:23:38.524Z] assistant: I have all the options for your hot latte. Before we proceed, I just want to confirm that you're ready to customize it, okay? 
+
+Now, for the size of your hot latte, we have three options: Small, which is twelve ounces, Medium, which is sixteen ounces, and Large, which is twenty ounces. Which one would you like?
+
+[2025-06-23T14:23:38.524Z] Customer: I want to, go with the medium and half enough milk.
+
+[2025-06-23T14:23:38.524Z] AI Agent: For your medium hot latte, you've chosen half and half as your milk. Now, let's move on to the sweetener and syrups. We have a variety of options, including sugar, sweet and low, equal, splenda, raw sugar, and several flavored syrups like pumpkin,
+
+[2025-06-23T14:23:38.524Z] Customer: I don't want that it's work. You can go ahead you can get go ahead with the medium size in half and half minutes. That's it.
+
+[2025-06-23T14:23:38.524Z] AI Agent: Perfect, let me add that to your order... 
+
+[2025-06-23T14:23:38.524Z] AI Agent: ERROR: 500 - Internal Server Error
+
+[2025-06-23T14:23:38.524Z] AI Agent: I apologize for the technical issue. Let me try that again.

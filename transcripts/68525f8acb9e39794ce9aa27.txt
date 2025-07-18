@@ -1,0 +1,122 @@
+Call ID: 68525f8acb9e39794ce9aa27
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T06:41:14.837Z
+End Time: 2025-06-18T06:48:36.873Z
+Duration: 480 seconds
+From: +919686500112
+To: +16204558091
+Summary: Vansh placed an order for one Original Classic sandwich and one Spinach Bacon Croissant at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T06:48:35.961Z] AI Agent: Hello Vansh, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T06:48:35.962Z] Customer: Hi. Can you tell me, about your breakfast sandwiches?
+
+[2025-06-18T06:48:35.962Z] AI Agent: Let me check our breakfast options for you.
+
+[2025-06-18T06:48:35.962Z] AI Agent: We have a variety of breakfast sandwiches to choose from. Our menu includes pastry, muffins, and cookies. For pastry, we have options like Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. For muffins, you can choose from Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, or Cranberry Orange. We also have cookies, including Mini Cookie Cup and Large Chocolate Chip Cookie. Which one of these options sounds good to you?
+
+[2025-06-18T06:48:35.962Z] Customer: Can you tell me breakfast sandwiches? Not looking for something sweet, looking for sandwich.
+
+[2025-06-18T06:48:35.962Z] AI Agent: Let me check our breakfast sandwiches for you.
+
+[2025-06-18T06:48:35.963Z] AI Agent: We have a few options for breakfast sandwiches. Our Classic Crossant is a popular choice, which includes meat, cheese, and egg. You can choose from various meats like bacon, sausage, or ham, and cheeses like American, Swiss, or pepper jack. We also have options for extra egg, hash brown, and vegetables like lettuce, tomato, and avocado. Another option is the Side of Breakfast Meat, which comes with a side of bacon, sausage, or ham. Which one of these options sounds good to you?
+
+[2025-06-18T06:48:35.963Z] Customer: No. Can you tell me all the sandwich names you have in breakfast sandwiches?
+
+[2025-06-18T06:48:35.963Z] AI Agent: Let me check all the 
+
+[2025-06-18T06:48:35.963Z] AI Agent: I hope you are still with me!
+
+[2025-06-18T06:48:35.963Z] Customer: Hello? Yeah. I don't know what happened. Can you tell me all the sandwich names you have in breakfast sandwich? Just the name.
+
+[2025-06-18T06:48:35.963Z] AI Agent: Let me check all the breakfast sandwiches we have.
+
+[2025-06-18T06:48:35.963Z] AI Agent: Our breakfast sandwiches include the Classic Crossant, Hash Brown, and Side of Breakfast Meat.
+
+[2025-06-18T06:48:35.963Z] Customer: Okay.
+
+[2025-06-18T06:48:35.963Z] AI Agent: Would you like to order one of these sandwiches? If so, which one and what customizations would you like?
+
+[2025-06-18T06:48:35.964Z] Customer: No. You have not given me the names of the sandwich. Can you tell me names of all the sandwiches you have?
+
+[2025-06-18T06:48:35.964Z] AI Agent: Let me check all the sandwiches we have.
+
+[2025-06-18T06:48:36.873Z] Unknown: [2025-06-18T06:48:35.964Z] assistant: The names of the sandwiches we have are:
+
+1. Hash Brown
+2. Classic Crossant
+3. Side of Breakfast Meat
+
+These are the names of the sandwiches we have. Would you like to order one of them?
+
+[2025-06-18T06:48:35.964Z] Customer: I thought you have more sandwiches on the menu. Can you check?
+
+[2025-06-18T06:48:35.964Z] AI Agent: Let me check all the sandwiches we have.
+
+[2025-06-18T06:48:36.873Z] Unknown: [2025-06-18T06:48:35.965Z] assistant: I've checked our menu, and it seems we only have three sandwiches: 
+
+1. Hash Brown
+2. Classic Crossant
+3. Side of Breakfast Meat
+
+If you're interested in ordering one of these, I can help you with that. Would you like to customize any of these options or add any extras?
+
+[2025-06-18T06:48:35.965Z] Customer: No. Give me original classic. You have original classic sandwich?
+
+[2025-06-18T06:48:35.965Z] AI Agent: Let me check if we have an Original Classic sandwich.
+
+[2025-06-18T06:48:35.965Z] AI Agent: We have an Original Classic sandwich. It comes with egg, cheese, and your choice of meat. We have several bagel options, including plain, everything, asiago, blueberry, and more. For meat, you can choose from bacon, sausage, ham, steak, deli turkey, and more. We also have options for cheese, toast, condiments, and vegetables. The price of the Original Classic sandwich is seven dollars and forty-nine cents. Would you like to customize
+
+[2025-06-18T06:48:35.965Z] Customer: Okay. I will I will take original classic with, egg and, Swiss cheese.
+
+[2025-06-18T06:48:35.965Z] AI Agent: For the Original Classic, I can make you an Original Classic with egg and Swiss cheese. The Original Classic comes with a choice of meat, so let's start with that. For meat, I can do Bacon, Sausage, or Ham. Which one sounds good to you?
+
+[2025-06-18T06:48:35.965Z] Customer: 
+
+[2025-06-18T06:48:35.965Z] AI Agent: For the Original Classic, I can make you an Original Classic with egg, Swiss cheese, and no meat. Next, I need to ask about the bagel. We have several options, including Plain, Everything, Asiago, Blueberry, and
+
+[2025-06-18T06:48:35.965Z] Customer: Late. Late vehicle.
+
+[2025-06-18T06:48:35.966Z] AI Agent: For the Original Classic, I can make you an Original Classic with egg, Swiss cheese, no meat, and on a Plain bagel. Now, let me just review your order to make sure I get everything right. You'd like an Original Classic sandwich with an egg, Swiss cheese, and no meat, all on a plain bagel. Is that correct? Also, would you like your bagel toasted or not toasted? We have options for
+
+[2025-06-18T06:48:35.966Z] Customer: That's toast toast it. Toast it.
+
+[2025-06-18T06:48:35.966Z] AI Agent: For the Original Classic, I can make you an Original Classic with egg, Swiss cheese, no meat, on a plain bagel, and toasted. I'll go ahead and add that to your order.
+
+[2025-06-18T06:48:35.966Z] AI Agent: Your current total is 8 dollars and 24 cents. Is there anything else you'd like to add to your order?
+
+[2025-06-18T06:48:35.966Z] Customer: Can you give me one spinach bacon croissant?
+
+[2025-06-18T06:48:35.966Z] AI Agent: Let me check if we have a Spinach Bacon Croissant.
+
+[2025-06-18T06:48:35.967Z] AI Agent: We have a Spinach Bacon Croissant. It comes with spinach, scrambled egg, bacon, Swiss cheese, and zesty tomato spread on a croissant. The price of the Spinach Bacon Croissant is eight dollars and ninety-nine cents. Would you like to add any modifications to your Spinach Bacon Croissant?
+
+[2025-06-18T06:48:35.967Z] Customer: No. No modification.
+
+[2025-06-18T06:48:35.967Z] AI Agent: For the Spinach Bacon Croissant, I can make you a Spinach Bacon Croissant with no modifications. I'll go ahead and add that to your order.
+
+[2025-06-18T06:48:35.967Z] AI Agent: Your current total is 17 dollars and 23 cents. Would you like to place your order or add anything else?
+
+[2025-06-18T06:48:35.967Z] Customer: That's all. Place the order.
+
+[2025-06-18T06:48:35.967Z] AI Agent: Before I place your order, I just need to confirm a few details. Your order is for one Original Classic with egg, Swiss cheese, no meat, on a plain bagel, and toasted, and one Spinach Bacon Croissant, correct? And your total comes out to be 17 dollars and 23 cents. Also, would you like to pay with cash or card today?
+
+[2025-06-18T06:48:35.967Z] Customer: I'll pay my card.
+
+[2025-06-18T06:48:35.967Z] AI Agent: We only accept cash payments. Would you like to proceed with paying by cash?
+
+[2025-06-18T06:48:35.968Z] Customer: Okay. I'll pay by cash.
+
+[2025-06-18T06:48:35.968Z] AI Agent: I'll go ahead and place your order.
+
+[2025-06-18T06:48:35.968Z] AI Agent: Your order has been placed successfully. Your order number is 9-9-7-3-1-6. Your order total is 17 dollars and 23 cents. We will have your order ready for pickup soon. Thank you for choosing Manhattan Bagel! Is there anything else I can help you with?
+
+[2025-06-18T06:48:35.968Z] Customer: No. That's it. Thank you.
+
+[2025-06-18T06:48:35.968Z] AI Agent: You're welcome, Vansh. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Have a great day and enjoy your meal! 
+
+[2025-06-18T06:48:35.969Z] AI Agent: OK

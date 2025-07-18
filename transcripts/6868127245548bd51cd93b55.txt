@@ -1,0 +1,80 @@
+Call ID: 6868127245548bd51cd93b55
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-04T17:42:10.333Z
+End Time: 2025-07-04T17:47:43.008Z
+Duration: 360 seconds
+From: +918949862707
+To: +16516156214
+Summary: Jitin placed an order for a customized Manhattan Cheesesteak Sandwich and a Medium Decaf Hot Coffee.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-04T17:47:42.573Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-04T17:47:42.573Z] Customer: I want to order, man Manhattan cheese stick sandwich and a hot coffee.
+
+[2025-07-04T17:47:42.574Z] AI Agent: Got it. The Manhattan Cheesesteak Sandwich is a delicious choice with grilled steak, roasted peppers, grilled onions, and cheese on a long roll. Would you like to hear the available customizations for your sandwich? And for your hot
+
+[2025-07-04T17:47:42.574Z] Customer: Yeah.
+
+[2025-07-04T17:47:42.574Z] AI Agent: Alright let's start with the Manhattan Cheesesteak Sandwich. For the bread choice, you can select from different options. Let's start with popular choices: Multigrain Bread, Asiago, Gluten Free. Would you like one of these or more options?
+
+[2025-07-04T17:47:42.574Z] Customer: Multigrain.
+
+[2025-07-04T17:47:42.575Z] AI Agent: Great choice with Multigrain Bread. Now for the cheese, you can choose from various types. Let's start with common selections: American, Provolone. Would you like one of these or more options?
+
+[2025-07-04T17:47:42.575Z] Customer: No. Yeah. I'll go the more provolone cheese.
+
+[2025-07-04T17:47:42.575Z] AI Agent: Perfect with Provolone Cheese. Now for any additional toppings or preferences, you can add extras like veggies, condiments, or how you'd like it prepared. Would you like to hear more options or choose from these?
+
+[2025-07-04T17:47:42.575Z] Customer: One second, please.
+
+[2025-07-04T17:47:42.575Z] AI Agent: Of course, take your time. I'm here whenever you're ready.
+
+[2025-07-04T17:47:42.575Z] Customer: Sandwich. Right? Manhattan cheese sandwich. Let me
+
+[2025-07-04T17:47:42.576Z] AI Agent: Alright, for your Manhattan Cheesesteak Sandwich on Multigrain Bread with Provolone Cheese, would you like to add any extra toppings, condiments, or specify how you'd like it prepared? Some options include adding veggies like lettuce or tomato, extra cheese, or your preferred level of toast. Let me know how you'd like it!
+
+[2025-07-04T17:47:42.576Z] Customer: One second. Which item we are talking? Maronite cheese sandwich?
+
+[2025-07-04T17:47:42.576Z] AI Agent: Of course, we're talking about the Manhattan Cheesesteak Sandwich—grilled steak, roasted peppers, grilled onions, and cheese on a long roll. Would you like to add any
+
+[2025-07-04T17:47:42.576Z] Customer: Okay.
+
+[2025-07-04T17:47:42.576Z] AI Agent: Alright, for your
+
+[2025-07-04T17:47:42.577Z] Customer: So what what's what what, all of the things we have added so far?
+
+[2025-07-04T17:47:42.577Z] AI Agent: So far, we've chosen the Manhattan Cheesesteak Sandwich with Multigrain Bread and Provolone Cheese. Would you like to add any extras or specify how you'd like it prepared?
+
+[2025-07-04T17:47:42.577Z] Customer: But in Manhattan cheese steak sandwich, I just see lunch side, double lunch protein, and extra cheese and toast, as in order, you know, options. Can you please recheck it?
+
+[2025-07-04T17:47:42.577Z] AI Agent: You're absolutely right—let me double-check that for you. For the Manhattan Cheesesteak Sandwich, the available customizations include: - **Lunch Side Choice**: You can choose between chips 
+
+[2025-07-04T17:47:42.577Z] Customer: And why why why why you were talking about the bread side?
+
+[2025-07-04T17:47:42.577Z] AI Agent: You're right to clarify—thank you for pointing that out. For the Manhattan Cheesesteak Sandwich, the bread is fixed as a long roll, and the available customizations are **Lunch Side Choice**, **Double Lunch Protein**, **Extra Cheese**, and **Toast Preference**. I apologize for bringing up the bread choice earlier. Let's focus on the available options for your sandwich: Would you like to add any of the following: - **Lunch
+
+[2025-07-04T17:47:42.578Z] Customer: Yeah. Okay. So go ahead, please. Okay. I need so I need, I need chips, double lunch pudding, extra cheese, and lightly toasted.
+
+[2025-07-04T17:47:43.008Z] Unknown: [2025-07-04T17:47:42.578Z] assistant: Got it! Your Manhattan Cheesesteak Sandwich will include **Chips** as the lunch side, **Double Lunch Protein**, **Extra Cheese**, and it will be **Lightly Toasted**. 
+
+Now, onto your **hot coffee**—would you like to choose the size and any additional preferences like roast type or milk options?
+
+[2025-07-04T17:47:42.578Z] Customer: Yeah. I want to have the, medium size and, decaf and, yeah, half and half milk and regular sugar.
+
+[2025-07-04T17:47:43.008Z] Unknown: [2025-07-04T17:47:42.578Z] assistant: Perfect! Your **hot coffee** will be a **Medium size**, **Decaf**, made with **Half & Half milk**, and include **regular sugar**. 
+
+Is there anything else I can get for you today, Jitin?
+
+[2025-07-04T17:47:42.578Z] Customer: No
+
+[2025-07-04T17:47:43.008Z] Unknown: [2025-07-04T17:47:42.579Z] assistant: Alright, let me summarize your order for you. You've ordered a **Manhattan Cheesesteak Sandwich** with **Chips**, **Double Lunch Protein**, **Extra Cheese**, and **Lightly Toasted**, along with a **Medium Decaf Hot Coffee** made with **Half & Half Milk** and **Regular Sugar**.
+
+Thank you for choosing Manhattan Bagel, Jitin. Have a great day!
+
+[2025-07-04T17:47:42.579Z] Customer: Bye.
+
+[2025-07-04T17:47:42.579Z] AI Agent: You're welcome! Enjoy your meal and have a wonderful day! Goodbye!

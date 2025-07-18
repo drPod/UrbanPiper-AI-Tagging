@@ -1,0 +1,32 @@
+Call ID: 68583a8b1be7d3da06f5be69
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-22T17:16:59.686Z
+End Time: 2025-06-22T17:19:41.632Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: The customer inquired about ordering Avocado Toast and discussed bagel options with the assistant.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-22T17:19:41.182Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-22T17:19:41.182Z] Customer: Looking to order avocado toast.
+
+[2025-06-22T17:19:41.182Z] AI Agent: The Avocado Toast, excellent choice. That's one of our popular items, with fresh avocado spread on multigrain toast or any bagel of your choice. Let me get the options for your avocado toast...
+
+[2025-06-22T17:19:41.183Z] AI Agent: For your Avocado Toast, let's start with the **Bagel Choice**. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Croissant, Egg, Egg Everything, English Muffin, French Toast BAGEL, French Toast ROLL, Garlic, Gluten Free, Honey Whole Wheat, Honey Whole Wheat Everything, Jalepeño Cheddar, Marble Rye Bread, Multigrain Bagel, Multigrain Bread, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, 
+
+[2025-06-22T17:19:41.184Z] Customer: Understood. Okay. Okay. Okay. Okay. Fine. Fine. Fine. Understood. So can I get the, English muffin and, blueberry, two bagels?
+
+[2025-06-22T17:19:41.184Z] AI Agent: For your Avocado Toast, you'd like to have it on an **English Muffin** and also a **Blueberry** bagel. Let's move on to the **Condiments**. We have Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, Tomato Spread, Butter, Cream Cheese, Flavor CC, and Jelly. Which one of these would you like to add?
+
+[2025-06-22T17:19:41.184Z] Customer: But, but, I want to know, can I, select more than one bagel? Like, you might you you just did that.
+
+[2025-06-22T17:19:41.184Z] AI Agent: You want to know if you can select more than one bagel option. Yes, you can definitely choose multiple bagel types for your Avocado Toast. So, you've already mentioned English Muffin and Blueberry. Would you like to add any other bagel types from the list, such as Everything, Asiago, or maybe a Croissant?
+
+[2025-06-22T17:19:41.184Z] Customer: Hold on, please. One second. Let me check how many bagels I can select in avocado toast.
+
+[2025-06-22T17:19:41.184Z] AI Agent: Let me just check that for you. For the Avocado Toast, you can actually choose **one** bagel type. I apologize for the confusion earlier when I seemed to allow multiple selections. To confirm, you can pick one bagel from the options like English Muffin, Blueberry, Everything, or any other that you prefer. Which one would you like to go with?

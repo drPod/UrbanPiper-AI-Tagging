@@ -1,0 +1,30 @@
+Call ID: 68715eca5560c851d6249395
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-11T18:58:18.375Z
+End Time: 2025-07-11T18:59:22.174Z
+Duration: 62 seconds
+From: +15129409794
+To: +16204558091
+Summary: The customer placed a breakfast order for Avocado Toast on multigrain bagel with mustard.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-11T18:59:21.965Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-11T18:59:21.965Z] Customer: I'd like to place a breakfast order.
+
+[2025-07-11T18:59:21.965Z] AI Agent: For your breakfast order, you'll need to pick just one item to start. We have a variety of
+
+[2025-07-11T18:59:21.965Z] Customer: Avocado toast.
+
+[2025-07-11T18:59:21.965Z] AI Agent: For the Avocado Toast, you'll need to pick just one bagel type. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, English Muffin, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, 
+
+[2025-07-11T18:59:21.965Z] Customer: Multi grain.
+
+[2025-07-11T18:59:21.965Z] AI Agent: Perfect, multigrain bagel it is. Now, for your Avocado Toast, you can add some condiments if you'd like. We have salt, pepper, ketchup, mayo, mustard, hot sauce, and tomato spread. Any of these sound good to you
+
+[2025-07-11T18:59:21.965Z] Customer: Mustard.
+
+[2025-07-11T18:59:21.965Z] AI Agent: For the Avocado Toast on multigrain bagel with mustard, I just need to confirm a few more things. You'll

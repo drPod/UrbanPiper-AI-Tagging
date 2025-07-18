@@ -1,0 +1,26 @@
+Call ID: 68728a375560c851d63ca627
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-12T16:15:51.437Z
+End Time: 2025-07-12T16:16:37.637Z
+Duration: 44 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jutin ordered a Spicy Grilled Chicken Wrap from Manhattan Bagel
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-12T16:16:36.707Z] AI Agent: Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-12T16:16:36.708Z] Customer: Do you have, spicy, grilled chicken?
+
+[2025-07-12T16:16:36.708Z] AI Agent: We do have a Spicy Grilled Chicken Wrap. It's grilled chicken, lettuce, tomato, roasted red peppers, Provolone Cheese, and
+
+[2025-07-12T16:16:36.708Z] Customer: And what is the price?
+
+[2025-07-12T16:16:36.708Z] AI Agent: The Spicy Grilled Chicken Wrap is $10.49. You'll need to pick just one wrap choice for your Spicy Grilled Chicken Wrap. We have Flour or Wheat. Which would you prefer?
+
+[2025-07-12T16:16:36.709Z] Customer: Okay. Bye.
+
+[2025-07-12T16:16:36.709Z] AI Agent: You'll need to pick just one lunch side for

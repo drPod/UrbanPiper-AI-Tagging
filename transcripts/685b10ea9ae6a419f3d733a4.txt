@@ -1,0 +1,30 @@
+Call ID: 685b10ea9ae6a419f3d733a4
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-24T20:56:10.943Z
+End Time: 2025-06-24T20:57:05.168Z
+Duration: 60 seconds
+From: +13215054148
+To: +16204558091
+Summary: The customer inquired about the status of their existing order, but the language model was unable to assist and transferred the call to a human agent.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-24T20:57:04.896Z] AI Agent: Hello Ace Jack, Welcome to Manhattan Bagel. It is great to see you again. What would you like to order?
+
+[2025-06-24T20:57:04.897Z] Customer: I wanna check up on my order that I just placed about five minutes ago.
+
+[2025-06-24T20:57:04.897Z] AI Agent: I'm happy to help youwith that, Ace Jack. However, I'm a large language model, I don't have the ability to access or view previous orders. Each time you interact with me, it's a new conversation. If you'd like to
+
+[2025-06-24T20:57:04.897Z] Customer: Uau.
+
+[2025-06-24T20:57:04.898Z] AI Agent: I can try to help youwith any questions or concerns you have about your order, 
+
+[2025-06-24T20:57:04.904Z] Customer: 
+
+[2025-06-24T20:57:04.905Z] AI Agent: I need to let you know that I'm a large language model, I
+
+[2025-06-24T20:57:04.905Z] Customer: Language model and you can't tell me. Okay.
+
+[2025-06-24T20:57:04.905Z] Customer: Very interesting.

@@ -1,0 +1,36 @@
+Call ID: 687950b5970f265df9e610c7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-17T19:36:21.109Z
+End Time: 2025-07-17T19:37:49.177Z
+Duration: 85 seconds
+From: +18573305656
+To: +16204558091
+Summary: The customer complained about their sesame bagel not having raisins and became agitated when informed that sesame bagels typically do not come with raisins.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-17T19:37:48.058Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-17T19:37:48.059Z] Customer: 
+
+[2025-07-17T19:37:48.059Z] AI Agent: I'm sorry to hear that your bagel didn't come with raisins as expected. Can you please tell me more about your order, like what type of bagel you ordered and when you received it? This will help me better understand the issue and assist you further.
+
+[2025-07-17T19:37:48.059Z] Customer: I ordered a sesame bagel and it came with no raisins.
+
+[2025-07-17T19:37:48.059Z] AI Agent: A Sesame bagel typically doesn't come with raisins, as it's a different type of bagel. Sesame bagels are known for their sesame seeds on top, not raisins. If you're looking for a bagel with raisins, you might be thinking of a Cinnamon Raisin bagel instead? Would you like me to help you with anything else or provide more information on our bagel options?
+
+[2025-07-17T19:37:48.060Z] Customer: I want my raisins, asshole.
+
+[2025-07-17T19:37:48.060Z] AI Agent: I apologize if there's been a misunderstanding. It seems like you're looking for a bagel with raisins, and I'd be happy to help you with that. However, I want to clarify that our Sesame bagel doesn't typically come with raisins. If you're interested in getting a bagel with raisins, I can offer you a Cinnamon Raisin bagel instead. Would you like me to put in an order for that?
+
+[2025-07-17T19:37:48.060Z] Customer: No.
+
+[2025-07-17T19:37:48.061Z] AI Agent: I
+
+[2025-07-17T19:37:48.061Z] Customer: 
+
+[2025-07-17T19:37:48.061Z] AI Agent: I
+
+[2025-07-17T19:37:48.062Z] Customer: 

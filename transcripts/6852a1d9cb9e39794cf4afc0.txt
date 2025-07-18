@@ -1,0 +1,46 @@
+Call ID: 6852a1d9cb9e39794cf4afc0
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-18T11:24:09.616Z
+End Time: 2025-06-18T11:27:14.661Z
+Duration: 240 seconds
+From: +918949862707
+To: +16204558091
+Summary: Punit ordered a blueberry bagel with jalapeño peppers, toasted dark, from Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-18T11:27:14.268Z] AI Agent: Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?
+
+[2025-06-18T11:27:14.268Z] Customer: I'd like to order, blueberry bay bagel.
+
+[2025-06-18T11:27:14.268Z] AI Agent: Let me see what I can find for you. I'll check if we have any blueberry bagels available.
+
+[2025-06-18T11:27:14.268Z] AI Agent: I found a Single Bagel that can be customized to a blueberry bagel for $1.49. I'll get your preferences. What type of bagel would you like? We have Plain, Everything, Asiago for fifty cents extra, Blueberry, and many more. Which one would you like?
+
+[2025-06-18T11:27:14.268Z] Customer: Blueberry.
+
+[2025-06-18T11:27:14.268Z] AI Agent: So you'd like a blueberry bagel. That's a great choice. Now, would you like your bagel toasted, lightly toasted, or toasted dark?
+
+[2025-06-18T11:27:14.268Z] Customer: Toasted duck.
+
+[2025-06-18T11:27:14.269Z] AI Agent: So you'd like your blueberry bagel toasted dark. Now, would you like to add any vegetables to your bagel? We have lettuce, tomato, red onions, avocado, spinach, cucumber, green peppers, capers, roasted red peppers, grilled onions, or jalapeño peppers. Which one would you like?
+
+[2025-06-18T11:27:14.269Z] Customer: Can you please repeat it again slowly?
+
+[2025-06-18T11:27:14.269Z] AI Agent: We have a few options for vegetables you can add to your blueberry bagel. You can choose from lettuce, tomato, red onions, avocado, spinach, cucumber, green peppers, capers, roasted red peppers, grilled onions, or jalapeño peppers. Which one of these would you like to add?
+
+[2025-06-18T11:27:14.269Z] Customer: Can you please talk little more slow?
+
+[2025-06-18T11:27:14.269Z] AI Agent: I'll speak a bit moreslowly. We... have... a few... options... for vegetables... you can add... to your blueberry bagel. You... can choose... from lettuce, tomato, red onions, avocado, spinach, cucumber, green peppers, capers, roasted red peppers, grilled onions, or jalapeño peppers. Which... one... of these
+
+[2025-06-18T11:27:14.269Z] Customer: Jalapeno
+
+[2025-06-18T11:27:14.269Z] AI Agent: So you'd like to add jalapeño peppers to your blueberry bagel. Now, let me just update your order.
+
+[2025-06-18T11:27:14.269Z] AI Agent: Your current cart contains 1 blueberry bagel with jalapeño peppers, toasted dark, for a total of $2.49. Anything else I can get for you?
+
+[2025-06-18T11:27:14.269Z] Customer: What all the options I'm having?
+
+[2025-06-18T11:27:14.270Z] AI Agent: Let me list all the options you have for your blueberry bagel. You can choose from a variety of spreads such as butter, cream cheese, peanut butter, vegetable, scallion, lox spread, strawberry, jalapeño, honey almond, hummus, Nutella, low-fat vegetable, avocado,

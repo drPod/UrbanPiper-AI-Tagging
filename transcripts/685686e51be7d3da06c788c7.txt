@@ -1,0 +1,44 @@
+Call ID: 685686e51be7d3da06c788c7
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-21T10:18:13.822Z
+End Time: 2025-06-21T10:20:21.828Z
+Duration: 180 seconds
+From: +918949862707
+To: +17209999031
+Summary: Mehul placed an order for a medium hot latte with half and half milk at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-21T10:20:21.545Z] AI Agent: Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-21T10:20:21.545Z] Customer: I want to order hot latte, medium size with half enough milk.
+
+[2025-06-21T10:20:21.545Z] AI Agent: A medium hot latte with half and half milk sounds great. I'll get that added to your order. Would you like whipped cream on top, and would you prefer any flavor shots like vanilla or hazelnut?
+
+[2025-06-21T10:20:21.546Z] Customer: No. I don't need that. Just, half and half milk and medium size. That's it.
+
+[2025-06-21T10:20:21.546Z] AI Agent: So, to confirm, you'd like a medium hot latte with half and half milk, no whipped cream, and no flavor shots. I'll add that to your order. Your total comes out to be $4.49. Would you like to pay with card or cash today?
+
+[2025-06-21T10:20:21.546Z] Customer: I'll pay by cash.
+
+[2025-06-21T10:20:21.828Z] Unknown: [2025-06-21T10:20:21.546Z] assistant: I'll add that to your order. Let me just update your order... 
+
+
+
+[2025-06-21T10:20:21.547Z] AI Agent: Your medium hot latte with half and half milk has been added to your order. Your total is $4.49. We'll have it ready for you to pick up. Would you like to place your order now?
+
+[2025-06-21T10:20:21.548Z] Customer: No. Thank you so much. That's it.
+
+[2025-06-21T10:20:21.828Z] Unknown: [2025-06-21T10:20:21.548Z] assistant: Alright, let me place your order... 
+
+
+
+[2025-06-21T10:20:21.549Z] AI Agent: Your order has been placed successfully. Your order number is 2 7 2 1 1 1. I'll confirm the total with tax now.
+
+[2025-06-21T10:20:21.549Z] AI Agent: I hope you are still with me!
+
+[2025-06-21T10:20:21.549Z] Customer: Okay. My orders placed or not?
+
+[2025-06-21T10:20:21.549Z] AI Agent: Your order is ready for pickup. The total comes out to be $4.49. Your order number is 2 7 2 1 1 1. We'll have your medium hot latte with half and half milk ready for you. Please come by to pick it up at your convenience. Have a great day, Mehul!

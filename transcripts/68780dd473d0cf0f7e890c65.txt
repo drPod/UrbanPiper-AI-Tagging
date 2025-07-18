@@ -1,0 +1,22 @@
+Call ID: 68780dd473d0cf0f7e890c65
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-16T20:38:44.699Z
+End Time: 2025-07-16T20:39:44.500Z
+Duration: 57 seconds
+From: +918949862707
+To: +16204558091
+Summary: Jitin inquired about ordering lunch from Manhattan Bagel and was presented with several menu options by the BagelBot.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-16T20:39:44.181Z] AI Agent: Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?
+
+[2025-07-16T20:39:44.181Z] Customer: Yeah. Hi. How are you doing?
+
+[2025-07-16T20:39:44.181Z] AI Agent: I'm doing well, thanks for asking. What can I get for you today? Would you like to place an order?
+
+[2025-07-16T20:39:44.181Z] Customer: Yeah. I'm looking to place an order. Can you recommend me something, like, good good? I'm I'm I want to order something in lunch.
+
+[2025-07-16T20:39:44.181Z] AI Agent: We have a variety of delicious options for lunch. One of our popular items is the Grilled Chicken Club, which comes with grilled chicken, bacon, lettuce, tomato, and mayo on a bagel. We also have the Italian Sub, which features ham, salami, and provolone cheese on a sub roll. If you're looking for something a bit lighter, you might enjoy our Chicken Caesar Wrap or our Avocado BLT Sandwich. Which of these options sounds appealing to you, or would you like me to recommend

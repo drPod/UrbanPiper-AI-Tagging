@@ -1,0 +1,30 @@
+Call ID: 6858f7911be7d3da06fa26b2
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-06-23T06:43:29.600Z
+End Time: 2025-06-23T06:45:11.242Z
+Duration: 120 seconds
+From: +918949862707
+To: +17209999031
+Summary: Jiten inquired about the price of the Big Breakfast Burrito and the sizes available for hot coffee at Manhattan Bagel.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-06-23T06:45:11.035Z] AI Agent: Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?
+
+[2025-06-23T06:45:11.035Z] Customer: What is the price of big breakfast burrito?
+
+[2025-06-23T06:45:11.035Z] AI Agent: The Big Breakfast Burrito is priced at $9.49. It comes with bacon, sausage, scrambled eggs, salsa, jalapeño cream cheese, cheddar cheese, and a hash brown in a flour tortilla. Would you like to order one?
+
+[2025-06-23T06:45:11.035Z] Customer: And, what are the sizes you have in coffee? Like, if I want, hot coffee, can you tell me the size?
+
+[2025-06-23T06:45:11.242Z] Unknown: [2025-06-23T06:45:11.035Z] assistant: For hot coffee, we have a variety of sizes. Let me get the options for you... 
+
+We have small, medium, and large sizes for our hot coffee. Which one would you like?
+
+[2025-06-23T06:45:11.036Z] Customer: And what is the, you know, exact, you know, size? Can can you tell me, like, how much, it will, contain coffee on the device?
+
+[2025-06-23T06:45:11.036Z] AI Agent: Our hot coffee sizes are based on ounces. We have a small size which is 12 ounces, a medium size which is 16 ounces, a large size which is 20 ounces, and an extra large size which is 24 ounces. Which one of these sizes sounds good to you?
+
+[2025-06-23T06:45:11.036Z] AI Agent: I hope you are still with me!

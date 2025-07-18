@@ -1,0 +1,24 @@
+Call ID: 686c59510245c817843754c2
+Agent: Max AI Agent-Beta
+Call Type: Phone Call
+Start Time: 2025-07-07T23:33:37.167Z
+End Time: 2025-07-07T23:34:23.960Z
+Duration: 45 seconds
+From: +19546004910
+To: +16204558091
+Summary: The customer attempted to place an order in Portuguese, but the AI assistant, BagelBot, could only communicate in English and offered to assist with the order in English instead.
+==================================================
+TRANSCRIPT:
+==================================================
+
+[2025-07-07T23:34:23.798Z] AI Agent: Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?
+
+[2025-07-07T23:34:23.798Z] Customer: Eu quero colocar ordens em português. Você pode me ajudar?
+
+[2025-07-07T23:34:23.798Z] AI Agent: I'm happy to help you with your order, but I need to let you know that I can only communicate in English. Would you like to place an order in English? I can help you with that.
+
+[2025-07-07T23:34:23.798Z] Customer: Do you, speak other languages?
+
+[2025-07-07T23:34:23.798Z] AI Agent: No, I only speak English. I'm designed to assist with orders and answer questions in English. If you need help with an order, I'd be happy to try and assist you in English. What can I get for you today?
+
+[2025-07-07T23:34:23.798Z] Customer: Maybe I'll change it. Could I say to that as well if just just get it?
