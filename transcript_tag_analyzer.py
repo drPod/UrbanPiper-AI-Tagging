@@ -1,6 +1,7 @@
 import os
 import glob
 from openai import OpenAI
+from openai import RateLimitError
 from typing import List, Dict, Set
 import json
 from collections import Counter
@@ -128,20 +129,35 @@ class TranscriptTagAnalyzer:
             }}
             """
 
-        try:
-            response = self.client.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=[{"role": "user", "content": prompt}],
-                max_tokens=300,
-                temperature=0.3,
-            )
+        retries = 4
+        delay = 1  # Start with a 1-second delay
+        for i in range(retries):
+            try:
+                response = self.client.chat.completions.create(
+                    model="gpt-3.5-turbo",
+                    messages=[{"role": "user", "content": prompt}],
+                    max_tokens=300,
+                    temperature=0.3,
+                )
+                result = json.loads(response.choices[0].message.content.strip())
+                return result
 
-            result = json.loads(response.choices[0].message.content.strip())
-            return result
+            except RateLimitError as e:
+                if i < retries - 1:
+                    print(f"Rate limit exceeded. Retrying in {delay} seconds...")
+                    time.sleep(delay)
+                    delay *= 2  # Double the delay for the next potential retry
+                else:
+                    print(f"Rate limit error after multiple retries: {e}")
+                    return {"tags": [], "explanations": {}}  # Fail after last retry
+            except Exception as e:
+                print(f"An unexpected error occurred analyzing transcript: {e}")
+                return {"tags": [], "explanations": {}}
 
-        except Exception as e:
-            print(f"Error analyzing transcript: {e}")
-            return {"tags": [], "explanations": {}}
+        return {
+            "tags": [],
+            "explanations": {},
+        }  # Should not be reached, but good for safety
 
     def analyze_single_transcript(self, transcript: Dict[str, str]) -> Dict[str, any]:
         """
