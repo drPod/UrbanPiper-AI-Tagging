@@ -1,0 +1,117 @@
+{
+  "callId": "685938b41be7d3da0604989d",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T11:21:24.480Z",
+    "callEnded": "2025-06-23T11:23:11.787Z",
+    "duration": 120,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh ordered a toasted sesame bagel with scallion cream cheese and egg whites from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T11:23:10.575Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get a sesame bagel with scallion cream cheese and egg in it?",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices.",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your bagel, I have options like Plain, Everything, Sesame, and more.",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. I I know what I want. I want a sesame bagel with scallion cream cheese and egg white.",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices.",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I have a Sesame bagel, and for the spread, I have Scallion cream cheese. Would you like your bagel toasted?",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Toasty.",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order...",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $4.49",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And I ordered egg also, egg white in there.",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me update that for you...",
+      "timestamp": "2025-06-23T11:23:10.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Updated your order. Total: $4.49",
+      "timestamp": "2025-06-23T11:23:10.577Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-23T11:23:10.577Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 617797. That's 6, 1, 7, 7, 9, 7. Total: $4.94 (subtotal 4.49 dollars plus 0.45 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-23T11:23:10.577Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Vansh, your order is placed. Your order number is 6, 1, 7, 7, 9, 7. Total is 4 dollars and 49 cents for the subtotal, plus 45 cents in tax, making it 4 dollars and 94 cents. We'll have that ready for you shortly.",
+      "timestamp": "2025-06-23T11:23:10.577Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T11:23:10.577Z"
+    }
+  ]
+}

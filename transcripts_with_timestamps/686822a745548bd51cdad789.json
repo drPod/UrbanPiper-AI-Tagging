@@ -1,0 +1,57 @@
+{
+  "callId": "686822a745548bd51cdad789",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-04T18:51:19.282Z",
+    "callEnded": "2025-07-04T18:52:32.715Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "The customer started placing an order for a Manhattan Cheesesteak and Hot Coffee but requested clarification on the customization options and needed more information."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-04T18:52:32.477Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order my instant cheese steak and hot coffee.",
+      "timestamp": "2025-07-04T18:52:32.477Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, we have Manhattan Cheesesteak and Hot Coffee on the menu. Let me start with the Manhattan Cheesesteak. Would you like to hear about the available customizations for your sandwich?",
+      "timestamp": "2025-07-04T18:52:32.477Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-04T18:52:32.477Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright now for your Lunch Bread Choice you can select 1. For the Lunch Bread Choice you can select 1. Let's start with popular choices: Plain Bagel, Everything Bagel, Asiago Bagel. Would you like one of these or more options?",
+      "timestamp": "2025-07-04T18:52:32.478Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sorry? I'm confused what you were saying. Please repeat it again.",
+      "timestamp": "2025-07-04T18:52:32.478Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Of course! For your Manhattan Cheesesteak, you'll first choose the **Lunch Bread Choice**. You can pick just one. Let's start with a few popular options: Plain Bagel, Everything Bagel, or Asiago Bagel. Would you like one of these or would you like to hear more options?",
+      "timestamp": "2025-07-04T18:52:32.478Z"
+    }
+  ]
+}

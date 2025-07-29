@@ -1,0 +1,231 @@
+{
+  "callId": "685981b61be7d3da060e68c5",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T16:32:54.755Z",
+    "callEnded": "2025-06-23T16:37:12.575Z",
+    "duration": 300,
+    "from": "+14083338920",
+    "to": "+16204558091",
+    "summary": "Saurabh placed an order for a customized Plain Bagel, a Cinnamon Raisin Bagel, and a Vanilla Manhattan Chillerz, but the order could not be processed due to an internal server error."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Saurabh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T16:37:11.578Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with your",
+      "timestamp": "2025-06-23T16:37:11.579Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. I would like to order one.",
+      "timestamp": "2025-06-23T16:37:11.579Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices... ",
+      "timestamp": "2025-06-23T16:37:11.579Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I would like to have a, cheese chicken bagel.",
+      "timestamp": "2025-06-23T16:37:11.580Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have for your bagel choices... You've chosen a Cheese Chicken Bagel. That's not a standard option, but I can help you customize a bagel to get close to that. For the bagel itself, we",
+      "timestamp": "2025-06-23T16:37:11.580Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Very good.",
+      "timestamp": "2025-06-23T16:37:11.580Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices... ",
+      "timestamp": "2025-06-23T16:37:11.580Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, I have all the options for",
+      "timestamp": "2025-06-23T16:37:11.581Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-23T16:37:11.582Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the bagel. We have a variety of options, including Plain, Everything, Asiago, and more. Which one would you like?",
+      "timestamp": "2025-06-23T16:37:11.582Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "LEN",
+      "timestamp": "2025-06-23T16:37:11.582Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the bagel, you've chosen Plain. Now, let's talk about the cheese. We have a few options like Cheddar, Swiss, and American. Which one would you like? Or would you like to add any other type of cheese?",
+      "timestamp": "2025-06-23T16:37:11.582Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Nothing cheddar is good.",
+      "timestamp": "2025-06-23T16:37:11.582Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Cheddar is a great choice. Now, let's talk about the chicken. Since we're customizing a bagel, I can offer you the option to add chicken to it. We have grilled chicken or crispy chicken bacon. Which one sounds good to you?",
+      "timestamp": "2025-06-23T16:37:11.582Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Good chicken.",
+      "timestamp": "2025-06-23T16:37:11.583Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen grilled chicken. So, to recap, you've got a Plain bagel with Cheddar cheese and grilled chicken. Anything else you'd like to add, such as veggies or spreads?",
+      "timestamp": "2025-06-23T16:37:11.583Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. My I have a seven year old son, not feeling well. Do you have any recommendations for him? Like, what is your best and favorite for for kids?",
+      "timestamp": "2025-06-23T16:37:11.583Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm so sorry to hear that your son isn't feeling well. For kids, we have a few options that are usually a hit. Our Plain Bagel with cream cheese or peanut butter is a classic favorite. We also have a Cinnamon Raisin Bagel that's sweet and gentle on the stomach. If he's feeling up to something a bit more savory, our Cheese Bagel is a popular choice. Sometimes, when kids aren't feeling well, something plain and simple can be the way to go. Would you like me to",
+      "timestamp": "2025-06-23T16:37:11.583Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Alright. I think the the the minimum, and the this option sounds good. Why don't we add this also in the order?",
+      "timestamp": "2025-06-23T16:37:11.583Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Cinnamon Raisin Bagel is a wonderful choice for your son. I'll add that to your order as well. So, to recap, you now have two items: the Plain Bagel with Cheddar cheese and grilled chicken for you, and the Cinnamon Raisin Bagel for your son. Would you like to add anything else, such as a drink or maybe some cream",
+      "timestamp": "2025-06-23T16:37:11.583Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "In beverages, do you have, like, a boba tea?",
+      "timestamp": "2025-06-23T16:37:11.584Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We don't have Boba Tea on our menu, but we do have a variety of other drinks that might be refreshing. We have coffee, tea, hot chocolate, and some specialty drinks like our Manhattan Chillerz, which are frozen blended beverages made with either coffee or",
+      "timestamp": "2025-06-23T16:37:11.584Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Tell me tell me more about the management pillars. Like, exactly, like, what is this?",
+      "timestamp": "2025-06-23T16:37:11.584Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our Manhattan Chillerz are a delicious and refreshing treat. They're frozen blended beverages made with either a coffee or ice cream base, and they come in a variety of flavors. We have options like Mocha, Caramel, and Vanilla, and you can even customize them with whipped cream and extra flavor shots. They're perfect for hot days or anytime you need a cool pick-me-up. Would you like to try one?",
+      "timestamp": "2025-06-23T16:37:11.584Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Got it. Yeah. I think man Manila is, is awesome. I think Manila is good. Add it to the cart. Thank you.",
+      "timestamp": "2025-06-23T16:37:11.585Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll add a Vanilla Manhattan Chillerz to your order. So, to recap,",
+      "timestamp": "2025-06-23T16:37:11.585Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Thank you.",
+      "timestamp": "2025-06-23T16:37:11.585Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-23T16:37:11.585Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T16:37:11.585Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T16:37:11.586Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It seems like there was an error processing your order. Let me try again. Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-23T16:37:11.586Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T16:37:11.586Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It seems like there's still an issue. Let me try to place your order again. Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-23T16:37:11.587Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T16:37:11.587Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "544 It's",
+      "timestamp": "2025-06-23T16:37:11.587Z"
+    }
+  ]
+}

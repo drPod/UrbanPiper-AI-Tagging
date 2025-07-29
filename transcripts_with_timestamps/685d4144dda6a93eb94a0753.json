@@ -1,0 +1,129 @@
+{
+  "callId": "685d4144dda6a93eb94a0753",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-26T12:47:00.614Z",
+    "callEnded": "2025-06-26T12:49:50.224Z",
+    "duration": 180,
+    "from": "+19737602050",
+    "to": "+16204558091",
+    "summary": "The customer called Manhattan Bagel to place a custom breakfast sandwich order, selecting an everything bagel with an organic farm egg, turkey bacon, American cheese, lettuce, and tomato, all dark toasted."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I need to have a breakfast. Can you tell me what options do you do I have?",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of breakfast options. You can choose from our breakfast sandwiches, like the Original Classic, which comes with egg, cheese, and your choice of meat on a bagel. Or if you're looking for something a bit different, we have the Spinach Bacon Croissant, the Farmhouse Egg Sandwich, or the French Toast Egg Sandwich. We also have omelets, breakfast burritos, and even avocado toast. And if you're in the mood for something sweet, you could try our muffins or pastries. Which of these options sounds good to you,",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I make my own can I make my own sandwich?",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You want to create your own breakfast sandwich. Absolutely, you can choose your own bagel, meat, cheese, and any additional items you'd like. We have a variety of bagels to choose from, such as plain, everything, sesame, and more. For meat, you can pick from bacon, sausage, ham, or turkey",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I want everything bagel.",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Everything bagel with, organic farm egg.",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, so you've got an everything bagel with an organic farm egg. Now, what kind of meat would you like on that? We've got bacon, sausage, ham, turkey bacon, or turkey sausage. Which one sounds good to you?",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "The let's do turkey bacon and the American cheese.",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to recap, you've got an everything bagel with an organic farm egg, turkey bacon, and American cheese. Now, would you like your bagel toasted, lightly toasted, or toasted dark? And would you like any condiments on that, such as",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Dot dot dot posted.",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like your everything bagel dark toasted. And how about some condiments? We've got mayo, mustard, hot sauce, or maybe some butter or cream cheese? Or would you like to add some veggies like lettuce, tomato, or spinach?",
+      "timestamp": "2025-06-26T12:49:49.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's add some veggies.",
+      "timestamp": "2025-06-26T12:49:49.800Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's",
+      "timestamp": "2025-06-26T12:49:49.800Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Like lettuce and tomato.",
+      "timestamp": "2025-06-26T12:49:49.800Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to recap, you've got an everything bagel, dark toasted, with an organic farm egg, turkey bacon, American cheese, lettuce, and tomato. Anything else you'd like to add, like avocado or red onions?",
+      "timestamp": "2025-06-26T12:49:49.800Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-26T12:49:49.800Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you for calling. Have a great day. Goodbye.",
+      "timestamp": "2025-06-26T12:49:49.800Z"
+    }
+  ]
+}

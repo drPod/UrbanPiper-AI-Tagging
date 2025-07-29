@@ -1,0 +1,45 @@
+{
+  "callId": "685c34a832ebb07e59440902",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-25T17:40:56.282Z",
+    "callEnded": "2025-06-25T17:41:43.735Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer inquired about a 'Tube Light Bagel' but decided not to proceed further."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-25T17:41:43.386Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Tell me, do you have tube light bigger?",
+      "timestamp": "2025-06-25T17:41:43.386Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but I don't see a \"Tube Light Bagel\" on our menu. We have a variety of bagels like Egg Everything, Jalapeño Cheddar, and Cinnamon Raisin, to name a few. Would you like to hear more about our available bagel options?",
+      "timestamp": "2025-06-25T17:41:43.386Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I think that's thanks so much.",
+      "timestamp": "2025-06-25T17:41:43.386Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome! If you need help with anything else or want to place an order, feel free to ask. Have a great day!",
+      "timestamp": "2025-06-25T17:41:43.386Z"
+    }
+  ]
+}

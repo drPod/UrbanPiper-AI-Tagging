@@ -1,0 +1,81 @@
+{
+  "callId": "6877eff473d0cf0f7e88219c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T18:31:16.749Z",
+    "callEnded": "2025-07-16T18:33:03.675Z",
+    "duration": 103,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Classic Nova Lox Sandwich on a Blueberry bagel with a Tropicana Apple Juice."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T18:33:03.251Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. But I want to order, like, one Tropicana apple juice and one classic, sorry. Yeah. Classic bagel.",
+      "timestamp": "2025-07-16T18:33:03.251Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Classic Nova Lox Sandwich on the menu, and a Tropicana Orange Juice. I'll add those for you. For your Classic Nova Lox Sandwich, you can choose a bagel. I have Plain, Everything, Blueberry, or Cinnamon Raisin. Want to hear more options?",
+      "timestamp": "2025-07-16T18:33:03.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Please add the blue variable.",
+      "timestamp": "2025-07-16T18:33:03.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Classic Nova Lox Sandwich, I've got the Blueberry bagel. Now, would you like your sandwich toasted, lightly toasted, toasted dark, or no toast?",
+      "timestamp": "2025-07-16T18:33:03.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Tosha Dark.",
+      "timestamp": "2025-07-16T18:33:03.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, toasted dark for your Classic Nova Lox Sandwich on a Blueberry bagel. Now, would you like to add any extra lox to your sandwich?",
+      "timestamp": "2025-07-16T18:33:03.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-16T18:33:03.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've got that noted. No extra lox. For your side, you can choose from Chips or Cole Slaw. Which one would you like?",
+      "timestamp": "2025-07-16T18:33:03.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Nothing. Just, just complete my order. I may add one apple juice topping on apple flavor. Yes. Hello? Hello? Are you there?",
+      "timestamp": "2025-07-16T18:33:03.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-16T18:33:03.252Z"
+    }
+  ]
+}

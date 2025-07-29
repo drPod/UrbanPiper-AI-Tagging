@@ -1,0 +1,63 @@
+{
+  "callId": "685d564adda6a93eb94cae58",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-26T14:16:42.399Z",
+    "callEnded": "2025-06-26T14:18:41.694Z",
+    "duration": 120,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh called Manhattan Bagel to place a new order, inquiring about the menu before deciding on a sesame bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome back to Manhattan Bagel. This is BagelBot. Are you calling to place a new order or perhaps to check on an existing one?",
+      "timestamp": "2025-06-26T14:18:41.413Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-26T14:18:41.413Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I said a new order.",
+      "timestamp": "2025-06-26T14:18:41.413Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "What would you like to order today?",
+      "timestamp": "2025-06-26T14:18:41.413Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me more about the menu?",
+      "timestamp": "2025-06-26T14:18:41.413Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-26T14:18:41.413Z] assistant: We have a variety of delicious options to choose from. For breakfast, we have sandwiches like the Original Classic, which comes with egg, cheese, and your choice of meat on a bagel. We also have omelette wraps, breakfast burritos, and avocado toast. \n\nFor lunch, we have a range of sandwiches, including grilled chicken, pastrami, and turkey, all served on your choice of bagel or bread. We also have salads, soups, and a variety of sides to choose from.\n\nIf you're looking for something sweet, we have muffins, pastries, and cookies. And of course, no visit to Manhattan Bagel would be complete without trying one of our freshly baked bagels with cream cheese or butter.\n\nWhat sounds good to you, or is there something specific you're in the mood for?",
+      "timestamp": "2025-06-26T14:18:41.694Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-26T14:18:41.413Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you give me, a sesame bagel?",
+      "timestamp": "2025-06-26T14:18:41.413Z"
+    }
+  ]
+}

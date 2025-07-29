@@ -1,0 +1,57 @@
+{
+  "callId": "6868e9e745548bd51ce4c5d4",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-05T09:01:27.059Z",
+    "callEnded": "2025-07-05T09:02:30.567Z",
+    "duration": 62,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "The customer inquired about a breakfast bundle and was provided with details about the bundle, but did not complete the order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello M G Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-05T09:02:30.342Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle.",
+      "timestamp": "2025-07-05T09:02:30.342Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One breakfast sandwich. First things first, I'll need to get a bagel choice for that. We have Plain,",
+      "timestamp": "2025-07-05T09:02:30.342Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I want I want breakfast bundle.",
+      "timestamp": "2025-07-05T09:02:30.342Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a Breakfast Bundle that includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to add 4oz of premium Acme smoked nova to that for $9.99?",
+      "timestamp": "2025-07-05T09:02:30.342Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-05T09:02:30.343Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle comes with 13 fresh-baked Manhattan Bagels and 2 tubs of cream cheese. For the bagels, you can choose from a variety of flavors such as Plain, Everything, Asiago, and more. For the cream cheese, you can choose from flavors like Plain, Vegetable, and Scallion. Would you like to hear the options for the bagels and cream cheese?",
+      "timestamp": "2025-07-05T09:02:30.343Z"
+    }
+  ]
+}

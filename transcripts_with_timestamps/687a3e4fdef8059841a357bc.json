@@ -1,0 +1,39 @@
+{
+  "callId": "687a3e4fdef8059841a357bc",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T12:30:07.258Z",
+    "callEnded": "2025-07-18T12:30:47.267Z",
+    "duration": 35,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer ordered a pastry and hash brown from Manhattan Bagel but didn't finalize their selection before the call ended."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T12:30:47.073Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. BagelBot. Can I get, pastry and hash brown?",
+      "timestamp": "2025-07-18T12:30:47.073Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Pastry and Hash Brown. I'll add that for you. Now, for your pastry, we have a variety of options. I have Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, and Cranberry Orange. Which type of pastry would you like?",
+      "timestamp": "2025-07-18T12:30:47.074Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Damn.",
+      "timestamp": "2025-07-18T12:30:47.074Z"
+    }
+  ]
+}

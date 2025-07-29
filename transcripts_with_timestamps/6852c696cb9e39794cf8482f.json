@@ -1,0 +1,105 @@
+{
+  "callId": "6852c696cb9e39794cf8482f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T14:00:54.461Z",
+    "callEnded": "2025-06-18T14:03:34.261Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered a dozen bagels with six Everything and six Blueberry, and a Diet Coke, and the order was successfully placed with an order number and total provided."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T14:03:31.582Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to order, dozen bagel and, Diet Coke.",
+      "timestamp": "2025-06-18T14:03:31.583Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've ordered a dozen bagels. I found that we have a \"Single Bagel\" for $1.49. I'll help you customize it. Which type of bagel would you like? We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic,",
+      "timestamp": "2025-06-18T14:03:31.583Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So so so I want, six everything bagel and six blueberry bagel.",
+      "timestamp": "2025-06-18T14:03:31.583Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've ordered a Diet Coke. I found that we have a \"Soda 12oz Can\" for $1.99. Which soda flavor would you like? We have Coke, Diet Coke, Sprite, Ginger Ale, or Coke Zero.",
+      "timestamp": "2025-06-18T14:03:31.583Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Diet Coke.",
+      "timestamp": "2025-06-18T14:03:31.583Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T14:03:31.584Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be 19 dollars and 87 cents. Is that correct?",
+      "timestamp": "2025-06-18T14:03:31.584Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-18T14:03:31.584Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Do you have any special requests or allergies I should know about?",
+      "timestamp": "2025-06-18T14:03:31.584Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you.",
+      "timestamp": "2025-06-18T14:03:31.584Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Are you ready to place your order for pickup?",
+      "timestamp": "2025-06-18T14:03:31.584Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-18T14:03:31.584Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T14:03:31.585Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 5 6 8 4 2 8. Your total is 21 dollars and 85 cents, which includes a subtotal of 19 dollars and 87 cents and 1 dollar and 98 cents in tax. Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T14:03:31.585Z"
+    }
+  ]
+}

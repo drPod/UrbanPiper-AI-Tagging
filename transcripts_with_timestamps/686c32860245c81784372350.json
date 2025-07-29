@@ -1,0 +1,201 @@
+{
+  "callId": "686c32860245c81784372350",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-07T20:48:06.189Z",
+    "callEnded": "2025-07-07T20:52:38.331Z",
+    "duration": 270,
+    "from": "+19725155417",
+    "to": "+16204558091",
+    "summary": "The customer, Sonu, placed an order for an Avocado BLT sandwich, a Chicken Cuban, a bag of Lays chips, and a large Vanilla Hazelnut coffee."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-07T20:52:38.004Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. Yeah. Let me get my usual avocado BLT sandwich on an Asiago bagel. Let's do toasted dark, add jalapenos, spinach, provolone. Let's do mustard and hot sauce. Also, double lunch protein and add a bag of Lay's chips, please.",
+      "timestamp": "2025-07-07T20:52:38.004Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Absolutely, one Avocado BLT sandwich on an Asiago bagel. First things first, I'll need to get the toast level for that. You've asked for toasted dark, which sounds great. For the sandwich, I'll add jalapeno, spinach, and provolone as you've requested. I'll also include mustard and hot sauce for the condiments. Since you've opted for double lunch protein, I'll make sure to add that extra protein to your BLT. And to go with it, I'll include a bag of Lays chips. Would you like to add any other items to your order today?",
+      "timestamp": "2025-07-07T20:52:38.005Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I think that's it. Actually, I want a chicken Cuban.",
+      "timestamp": "2025-07-07T20:52:38.005Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've got the Avocado BLT sandwich on an Asiago bagel, toasted dark, with jalapeno, spinach, provolone, mustard, and hot sauce, and double lunch protein, along with a bag of Lays chips. Now, let's add the Chicken Cuban to that. For the Chicken Cuban, would you like it on a bagel or perhaps a roll? And would you prefer it toasted or not toasted? Also, I can",
+      "timestamp": "2025-07-07T20:52:38.005Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's do it. Let's do it on, like, a plain bagel, not toasted, please. And, what toppings do you guys have?",
+      "timestamp": "2025-07-07T20:52:38.005Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Chicken Cuban on a plain bagel, not toasted, that sounds great. We've got a variety of toppings you can choose from. You can add avocado, spinach, cucumber, green peppers, roasted red peppers, grilled yellow onions, ",
+      "timestamp": "2025-07-07T20:52:38.006Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Actually, let's go ahead and do pickles. And for the sauce, let's do chipotle mayo.",
+      "timestamp": "2025-07-07T20:52:38.007Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Chicken Cuban on a plain bagel, not toasted, I'll add pickles and chipotle mayo as the sauce. So, to recap, you have an Avocado BLT sandwich on an",
+      "timestamp": "2025-07-07T20:52:38.007Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I also want a coffee. What options do you guys have?",
+      "timestamp": "2025-07-07T20:52:38.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of coffee options. You can choose from our House Blend, Decaf, Vanilla Hazelnut Blend, or Dark Roast. We also have",
+      "timestamp": "2025-07-07T20:52:38.009Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-07T20:52:38.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll get you a Vanilla Hazelnut coffee. What size would you like that in? We have small, medium, or large.",
+      "timestamp": "2025-07-07T20:52:38.009Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's go for a large.",
+      "timestamp": "2025-07-07T20:52:38.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, so I have the Avocado BLT sandwich on an Asiago bagel, toasted dark, with jalapeno, spinach, provolone, mustard, and hot sauce, and double lunch protein, along with a bag of Lays chips. I also have the Chicken Cuban on a plain bagel, not toasted, with pickles and chipotle mayo. And to drink, you'd like a large Vanilla Hazelnut coffee. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-07T20:52:38.009Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I think that's it. Thank you.",
+      "timestamp": "2025-07-07T20:52:38.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you.",
+      "timestamp": "2025-07-07T20:52:38.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-07-07T20:52:38.009Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-07T20:52:38.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-07T20:52:38.010Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-07T20:52:38.010Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-07T20:52:38.010Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Sonu. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-07T20:52:38.010Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I'm good. Please go ahead and order.",
+      "timestamp": "2025-07-07T20:52:38.010Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-07T20:52:38.010Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-07T20:52:38.010Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-07T20:52:38.011Z] assistant: Great. Placing that for you now, please hold on.\n",
+      "timestamp": "2025-07-07T20:52:38.331Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 791220. That's 7, 9, 1, 2, 2, 0.\", 'order_id': '791220', 'call_id': 'aa7e0fee-a346-47c9-9744-0f1de9db63e5', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e6a8-fd43-bbf3-6d2d-ca413ccaa1b8'}",
+      "timestamp": "2025-07-07T20:52:38.011Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now! The order number is 7, 9, 1, 2, 2, 0, and the total including taxes comes to $23.45. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist you with today?",
+      "timestamp": "2025-07-07T20:52:38.011Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-07T20:52:38.011Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-07T20:52:38.011Z"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "callId": "686e915fd14f3abcfb3b163f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T15:57:19.075Z",
+    "callEnded": "2025-07-09T15:58:10.476Z",
+    "duration": 48,
+    "from": "+19725155417",
+    "to": "+16204558091",
+    "summary": "The user attempted to order an Avocado BLT sandwich with specific customizations."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T15:58:10.171Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. Let me get an avocado BLT sandwich and an Asiago may bagel. Let's make a darkly toasted. Let's do provolone cheese, spinach, jalapenos, mayo, hot sauce, double lunch protein, race chips. Sorry. I I missed you. I couldn't hear you.",
+      "timestamp": "2025-07-09T15:58:10.171Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me confirm your order. First, for the Avocado BLT sandwich, you'll need to pick just one bagel for your sandwich. We have Asiago, Plain, Everything, Sesame, and Garlic. Which would you prefer?",
+      "timestamp": "2025-07-09T15:58:10.171Z"
+    }
+  ]
+}

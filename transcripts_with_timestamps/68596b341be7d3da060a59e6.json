@@ -1,0 +1,27 @@
+{
+  "callId": "68596b341be7d3da060a59e6",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T14:56:52.784Z",
+    "callEnded": "2025-06-23T14:57:17.176Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin ordered apple juice from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T14:57:17.052Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order, apple juice.",
+      "timestamp": "2025-06-23T14:57:17.052Z"
+    }
+  ]
+}

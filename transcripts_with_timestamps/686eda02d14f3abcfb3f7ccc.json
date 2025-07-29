@@ -1,0 +1,165 @@
+{
+  "callId": "686eda02d14f3abcfb3f7ccc",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T21:07:14.939Z",
+    "callEnded": "2025-07-09T21:09:39.075Z",
+    "duration": 142,
+    "from": "+18325446511",
+    "to": "+16204558091",
+    "summary": "George placed an order for two bagels at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-09T21:09:38.780Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey, BagelBot. I'm curious. Do you offer, like, cream cheese, options or, like, everything bagels? Like, what do you got?",
+      "timestamp": "2025-07-09T21:09:38.781Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! We have a wide variety of bagels and cream cheese options. For bagels, we offer Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg,",
+      "timestamp": "2025-07-09T21:09:38.781Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Yeah. But, my my my wife is gluten free. Do you have any gluten free options?",
+      "timestamp": "2025-07-09T21:09:38.781Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, we do have gluten-free options available. For bagels, we offer a Gluten Free bagel. For cream cheese, we have several options, including Plain Cream Cheese, Vegetable Cream Cheese, and more.",
+      "timestamp": "2025-07-09T21:09:38.783Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. What about what about other gluten free toppings that are not cream cheese? What do you what do you have?",
+      "timestamp": "2025-07-09T21:09:38.783Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For gluten-free toppings, we have options like Lettuce, Tomato, Red Onions, Spinach, Cucumber, Green Peppers, Capers,",
+      "timestamp": "2025-07-09T21:09:38.783Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So so pretty much vegetables. Okay. So I I'll order, one gluten free everything bagel, with blueberry cream cheese and a plain buttered bagel.",
+      "timestamp": "2025-07-09T21:09:38.784Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it! Let's start with your Gluten Free Everything Bagel with Blueberry Cream Cheese. You'll need to pick just one size for your bagel. We have Single, Half Dozen, or Dozen. Which would you prefer?",
+      "timestamp": "2025-07-09T21:09:38.784Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Den gav.",
+      "timestamp": "2025-07-09T21:09:38.784Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect! So that's one Gluten Free Everything Bagel with Blueberry Cream Cheese. Now for your plain buttered bagel, you'll need to pick just one bagel type. We have Plain,",
+      "timestamp": "2025-07-09T21:09:38.784Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Another single.",
+      "timestamp": "2025-07-09T21:09:38.784Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one plain buttered bagel. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T21:09:38.784Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Nope. That's it.",
+      "timestamp": "2025-07-09T21:09:38.784Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T21:09:38.785Z] assistant: Perfect, let me get that all put together for you. \n\n",
+      "timestamp": "2025-07-09T21:09:39.075Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-09T21:09:38.785Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order?",
+      "timestamp": "2025-07-09T21:09:38.785Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "George.",
+      "timestamp": "2025-07-09T21:09:38.785Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-09T21:09:38.789Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I mean, I already told you it was gluten free. So yeah. Gluten allergy?",
+      "timestamp": "2025-07-09T21:09:38.790Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright George. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-09T21:09:38.790Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. You already did that. How much is it?",
+      "timestamp": "2025-07-09T21:09:38.790Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T21:09:38.790Z] assistant: Great. Placing that for you now, please hold on.\n\n\n",
+      "timestamp": "2025-07-09T21:09:39.075Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 616018. That's 6, 1, 6, 0, 1, 8.\", 'order_id': '616018', 'call_id': 'b1076fdb-cd55-4077-92b6-1a7f2bd4ac7b', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f105-aec7-15bc-b205-b88fb93ee938'}",
+      "timestamp": "2025-07-09T21:09:38.792Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now! The",
+      "timestamp": "2025-07-09T21:09:38.792Z"
+    }
+  ]
+}

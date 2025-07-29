@@ -1,0 +1,69 @@
+{
+  "callId": "687a66e7a1698f7507301679",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T15:23:19.038Z",
+    "callEnded": "2025-07-18T15:24:43.936Z",
+    "duration": 82,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer attempted to order an Original Classic sandwich, which was out of stock, and instead opted for a pastry."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T15:24:43.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I would like to order a classic sandwich.",
+      "timestamp": "2025-07-18T15:24:43.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Classic Crossant on the menu, just confirming it's available. The Classic Crossant comes with meat, cheese, and egg on a croissant. Now, let's",
+      "timestamp": "2025-07-18T15:24:43.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. I said classic sandwich, not the classic also. I want classic sandwich.",
+      "timestamp": "2025-07-18T15:24:43.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Original Classic on the menu, let me make sure we have that today. The Original Classic comes with egg, cheese, and choice of meat on a bagel. However, I see that the Original Classic is currently out of stock today. Instead, I can offer you our Spinach Bacon Croissant, Farmhouse Egg Sandwich, or Big",
+      "timestamp": "2025-07-18T15:24:43.656Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Please go ahead and add to the odd. I want the same only. I want original classic only.",
+      "timestamp": "2025-07-18T15:24:43.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but our Original Classic is currently out of stock today. I won't be able to add it to your order. Instead, I can offer you our Spinach Bacon Croissant, Farmhouse Egg Sandwich, or Big Breakfast Burrito. Which one of these would you like?",
+      "timestamp": "2025-07-18T15:24:43.656Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So give me, pastry then.",
+      "timestamp": "2025-07-18T15:24:43.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Pastry on the menu, just confirming it's available. We have a variety of pastries to choose from.",
+      "timestamp": "2025-07-18T15:24:43.656Z"
+    }
+  ]
+}

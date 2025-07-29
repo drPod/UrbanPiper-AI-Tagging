@@ -1,0 +1,33 @@
+{
+  "callId": "687a3c76def8059841a33291",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T12:22:14.506Z",
+    "callEnded": "2025-07-18T12:22:42.895Z",
+    "duration": 25,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha ordered pastries from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T12:22:42.486Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order some pastries.",
+      "timestamp": "2025-07-18T12:22:42.486Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our PASTRY. I'll add the PASTRY for you. Now, let's customize it. What type of pastry would you like? I have Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, or Cranberry Orange.",
+      "timestamp": "2025-07-18T12:22:42.486Z"
+    }
+  ]
+}

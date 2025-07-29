@@ -1,0 +1,309 @@
+{
+  "callId": "68525f8acb9e39794ce9aa27",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T06:41:14.837Z",
+    "callEnded": "2025-06-18T06:48:36.873Z",
+    "duration": 480,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh placed an order for one Original Classic sandwich and one Spinach Bacon Croissant at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T06:48:35.961Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. Can you tell me, about your breakfast sandwiches?",
+      "timestamp": "2025-06-18T06:48:35.962Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check our breakfast options for you.",
+      "timestamp": "2025-06-18T06:48:35.962Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of breakfast sandwiches to choose from. Our menu includes pastry, muffins, and cookies. For pastry, we have options like Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. For muffins, you can choose from Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, or Cranberry Orange. We also have cookies, including Mini Cookie Cup and Large Chocolate Chip Cookie. Which one of these options sounds good to you?",
+      "timestamp": "2025-06-18T06:48:35.962Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me breakfast sandwiches? Not looking for something sweet, looking for sandwich.",
+      "timestamp": "2025-06-18T06:48:35.962Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check our breakfast sandwiches for you.",
+      "timestamp": "2025-06-18T06:48:35.962Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a few options for breakfast sandwiches. Our Classic Crossant is a popular choice, which includes meat, cheese, and egg. You can choose from various meats like bacon, sausage, or ham, and cheeses like American, Swiss, or pepper jack. We also have options for extra egg, hash brown, and vegetables like lettuce, tomato, and avocado. Another option is the Side of Breakfast Meat, which comes with a side of bacon, sausage, or ham. Which one of these options sounds good to you?",
+      "timestamp": "2025-06-18T06:48:35.963Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Can you tell me all the sandwich names you have in breakfast sandwiches?",
+      "timestamp": "2025-06-18T06:48:35.963Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check all the ",
+      "timestamp": "2025-06-18T06:48:35.963Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-18T06:48:35.963Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? Yeah. I don't know what happened. Can you tell me all the sandwich names you have in breakfast sandwich? Just the name.",
+      "timestamp": "2025-06-18T06:48:35.963Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check all the breakfast sandwiches we have.",
+      "timestamp": "2025-06-18T06:48:35.963Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our breakfast sandwiches include the Classic Crossant, Hash Brown, and Side of Breakfast Meat.",
+      "timestamp": "2025-06-18T06:48:35.963Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-18T06:48:35.963Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Would you like to order one of these sandwiches? If so, which one and what customizations would you like?",
+      "timestamp": "2025-06-18T06:48:35.963Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. You have not given me the names of the sandwich. Can you tell me names of all the sandwiches you have?",
+      "timestamp": "2025-06-18T06:48:35.964Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check all the sandwiches we have.",
+      "timestamp": "2025-06-18T06:48:35.964Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T06:48:35.964Z] assistant: The names of the sandwiches we have are:\n\n1. Hash Brown\n2. Classic Crossant\n3. Side of Breakfast Meat\n\nThese are the names of the sandwiches we have. Would you like to order one of them?",
+      "timestamp": "2025-06-18T06:48:36.873Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I thought you have more sandwiches on the menu. Can you check?",
+      "timestamp": "2025-06-18T06:48:35.964Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check all the sandwiches we have.",
+      "timestamp": "2025-06-18T06:48:35.964Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T06:48:35.965Z] assistant: I've checked our menu, and it seems we only have three sandwiches: \n\n1. Hash Brown\n2. Classic Crossant\n3. Side of Breakfast Meat\n\nIf you're interested in ordering one of these, I can help you with that. Would you like to customize any of these options or add any extras?",
+      "timestamp": "2025-06-18T06:48:36.873Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Give me original classic. You have original classic sandwich?",
+      "timestamp": "2025-06-18T06:48:35.965Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check if we have an Original Classic sandwich.",
+      "timestamp": "2025-06-18T06:48:35.965Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have an Original Classic sandwich. It comes with egg, cheese, and your choice of meat. We have several bagel options, including plain, everything, asiago, blueberry, and more. For meat, you can choose from bacon, sausage, ham, steak, deli turkey, and more. We also have options for cheese, toast, condiments, and vegetables. The price of the Original Classic sandwich is seven dollars and forty-nine cents. Would you like to customize",
+      "timestamp": "2025-06-18T06:48:35.965Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I will I will take original classic with, egg and, Swiss cheese.",
+      "timestamp": "2025-06-18T06:48:35.965Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Original Classic, I can make you an Original Classic with egg and Swiss cheese. The Original Classic comes with a choice of meat, so let's start with that. For meat, I can do Bacon, Sausage, or Ham. Which one sounds good to you?",
+      "timestamp": "2025-06-18T06:48:35.965Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T06:48:35.965Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Original Classic, I can make you an Original Classic with egg, Swiss cheese, and no meat. Next, I need to ask about the bagel. We have several options, including Plain, Everything, Asiago, Blueberry, and",
+      "timestamp": "2025-06-18T06:48:35.965Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Late. Late vehicle.",
+      "timestamp": "2025-06-18T06:48:35.965Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Original Classic, I can make you an Original Classic with egg, Swiss cheese, no meat, and on a Plain bagel. Now, let me just review your order to make sure I get everything right. You'd like an Original Classic sandwich with an egg, Swiss cheese, and no meat, all on a plain bagel. Is that correct? Also, would you like your bagel toasted or not toasted? We have options for",
+      "timestamp": "2025-06-18T06:48:35.966Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's toast toast it. Toast it.",
+      "timestamp": "2025-06-18T06:48:35.966Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Original Classic, I can make you an Original Classic with egg, Swiss cheese, no meat, on a plain bagel, and toasted. I'll go ahead and add that to your order.",
+      "timestamp": "2025-06-18T06:48:35.966Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current total is 8 dollars and 24 cents. Is there anything else you'd like to add to your order?",
+      "timestamp": "2025-06-18T06:48:35.966Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you give me one spinach bacon croissant?",
+      "timestamp": "2025-06-18T06:48:35.966Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check if we have a Spinach Bacon Croissant.",
+      "timestamp": "2025-06-18T06:48:35.966Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a Spinach Bacon Croissant. It comes with spinach, scrambled egg, bacon, Swiss cheese, and zesty tomato spread on a croissant. The price of the Spinach Bacon Croissant is eight dollars and ninety-nine cents. Would you like to add any modifications to your Spinach Bacon Croissant?",
+      "timestamp": "2025-06-18T06:48:35.967Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No modification.",
+      "timestamp": "2025-06-18T06:48:35.967Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Spinach Bacon Croissant, I can make you a Spinach Bacon Croissant with no modifications. I'll go ahead and add that to your order.",
+      "timestamp": "2025-06-18T06:48:35.967Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current total is 17 dollars and 23 cents. Would you like to place your order or add anything else?",
+      "timestamp": "2025-06-18T06:48:35.967Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's all. Place the order.",
+      "timestamp": "2025-06-18T06:48:35.967Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Before I place your order, I just need to confirm a few details. Your order is for one Original Classic with egg, Swiss cheese, no meat, on a plain bagel, and toasted, and one Spinach Bacon Croissant, correct? And your total comes out to be 17 dollars and 23 cents. Also, would you like to pay with cash or card today?",
+      "timestamp": "2025-06-18T06:48:35.967Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll pay my card.",
+      "timestamp": "2025-06-18T06:48:35.967Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We only accept cash payments. Would you like to proceed with paying by cash?",
+      "timestamp": "2025-06-18T06:48:35.967Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I'll pay by cash.",
+      "timestamp": "2025-06-18T06:48:35.968Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll go ahead and place your order.",
+      "timestamp": "2025-06-18T06:48:35.968Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully. Your order number is 9-9-7-3-1-6. Your order total is 17 dollars and 23 cents. We will have your order ready for pickup soon. Thank you for choosing Manhattan Bagel! Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T06:48:35.968Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it. Thank you.",
+      "timestamp": "2025-06-18T06:48:35.968Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Vansh. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Have a great day and enjoy your meal! ",
+      "timestamp": "2025-06-18T06:48:35.968Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-18T06:48:35.969Z"
+    }
+  ]
+}

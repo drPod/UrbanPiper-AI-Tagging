@@ -1,0 +1,69 @@
+{
+  "callId": "6859a9011be7d3da0611dda4",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T19:20:33.700Z",
+    "callEnded": "2025-06-23T19:21:49.467Z",
+    "duration": 120,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh inquired about the categories and items available at Manhattan Bagel, specifically asking about the Breakfast Sandwiches category and showing interest in the Original Classic."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T19:21:49.196Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me, what all categories you have?",
+      "timestamp": "2025-06-23T19:21:49.196Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have several categories to choose from. We have LTO Spring Beverages and Sweet Treats, Breakfast Sandwiches, Breakfast Bagels and Sweets, Breakfast Platters, Lunch, Deli Items by 1/2 lb,",
+      "timestamp": "2025-06-23T19:21:49.196Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me can you tell me what do you have in breakfast services?",
+      "timestamp": "2025-06-23T19:21:49.196Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "In our Breakfast Platters category, we have a few options. We have Eggs and",
+      "timestamp": "2025-06-23T19:21:49.196Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. Breakfast sandwiches category.",
+      "timestamp": "2025-06-23T19:21:49.196Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "In our Breakfast Sandwiches category, we have a variety of options. We have the Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich, Big Breakfast Burrito, Santa Fe Egg White, Egg on a Bagel, French Toast Egg Sandwich, Omelet Wrap, Protein Breakfast Wrap, ",
+      "timestamp": "2025-06-23T19:21:49.196Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T19:21:49.196Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Original Classic is a popular choice. It comes with egg, cheese, and your choice of meat. Would you like to customize it with some",
+      "timestamp": "2025-06-23T19:21:49.196Z"
+    }
+  ]
+}

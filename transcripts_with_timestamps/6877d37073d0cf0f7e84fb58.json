@@ -1,0 +1,165 @@
+{
+  "callId": "6877d37073d0cf0f7e84fb58",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T16:29:36.062Z",
+    "callEnded": "2025-07-16T16:33:24.901Z",
+    "duration": 225,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered a Big Breakfast Burrito with a wheat wrap, extra grilled chicken, lettuce, tomato, and mustard."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T16:33:23.232Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me, big breakfast burrito.",
+      "timestamp": "2025-07-16T16:33:23.232Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:33:23.232Z] assistant: The Big Breakfast Burrito is a great choice. It comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. \n\nFor the Big Breakfast Burrito, I need to ask a few questions to get it just right. What kind of wrap would you like? We have flour or wheat.",
+      "timestamp": "2025-07-16T16:33:24.901Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I'll go with the beat.",
+      "timestamp": "2025-07-16T16:33:23.232Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Big Breakfast Burrito, you've chosen the wheat wrap. Next, would you like to add any extra breakfast meat? We have options like extra bacon, extra sausage, or even ",
+      "timestamp": "2025-07-16T16:33:23.232Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me extra give me grilled grilled chicken.",
+      "timestamp": "2025-07-16T16:33:23.232Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:33:23.232Z] assistant: You'd like to add grilled chicken to your Big Breakfast Burrito. That's a great choice. \n\nSo, to confirm, you have the Big Breakfast Burrito with a wheat wrap and extra grilled chicken. \n\nNext, would you like to add any vegetables? We have options like lettuce, tomato, onions, spinach, and more.",
+      "timestamp": "2025-07-16T16:33:24.901Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It seems that grilled chicken is",
+      "timestamp": "2025-07-16T16:33:23.233Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me sorry? Pardon?",
+      "timestamp": "2025-07-16T16:33:23.233Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:33:23.233Z] assistant: No need to apologize. I'm here to help.\n\nSo, let's try again. For the Big Breakfast Burrito, you've chosen the wheat wrap. Next, would you like to add any extra breakfast meat? We have options like extra bacon, extra sausage, or extra ham.\n\nWhich one of these would you like to add?",
+      "timestamp": "2025-07-16T16:33:24.901Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I said grilled chicken. I I want extra grilled chickens.",
+      "timestamp": "2025-07-16T16:33:23.233Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Big Breakfast Burrito, I need to check if extra grilled chicken is a valid option. ",
+      "timestamp": "2025-07-16T16:33:23.233Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:33:23.233Z] assistant: You've added extra grilled chicken to your Big Breakfast Burrito.\n\nNext, would you like to add any vegetables? We have options like lettuce, tomato, onions, spinach, and more. ",
+      "timestamp": "2025-07-16T16:33:24.901Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You haven't chosen any vegetables yet. For the Big Breakfast",
+      "timestamp": "2025-07-16T16:33:23.234Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So give me lettuce and tomato.",
+      "timestamp": "2025-07-16T16:33:23.234Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:33:23.234Z] assistant: For the Big Breakfast Burrito, you've added lettuce and tomato.\n\nNext, would you like to add any condiments? We have options like salt, pepper, ketchup, mayo, and more. ",
+      "timestamp": "2025-07-16T16:33:24.901Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You haven't chosen any condiments yet. For the Big Breakfast Burrito, we have salt, pepper, ketchup, mayo, and mustard. Which one of these would you like to add?",
+      "timestamp": "2025-07-16T16:33:23.234Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Mustard.",
+      "timestamp": "2025-07-16T16:33:23.234Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:33:23.234Z] assistant: For the Big Breakfast Burrito, you've added mustard.\n\nNext, would you like to add an extra egg? We have options like 1 extra egg, 2 extra eggs, 3 extra eggs, or 4 extra eggs. ",
+      "timestamp": "2025-07-16T16:33:24.901Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You haven't chosen",
+      "timestamp": "2025-07-16T16:33:23.235Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can you please talk in can you talk in Spanish?",
+      "timestamp": "2025-07-16T16:33:23.235Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:33:23.235Z] assistant: ¡Claro! Puedo hablar en español. ¿Quieres que continúe con tu pedido en español?\n\n(Translation: Of course! I can speak in Spanish. Do you want me to continue with your order in Spanish?)",
+      "timestamp": "2025-07-16T16:33:24.901Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Let's continue.",
+      "timestamp": "2025-07-16T16:33:23.235Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:33:23.235Z] assistant: ¡Genial! Entonces, para confirmar, tienes el Big Breakfast Burrito con tortilla de trigo, con extra de pollo a la parrilla, lechuga, tomate y mostaza.\n\n¿Quieres agregar algo más a tu pedido o estás listo para finalizar?",
+      "timestamp": "2025-07-16T16:33:24.901Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. No. No. No. Just continue English on this then.",
+      "timestamp": "2025-07-16T16:33:23.235Z"
+    }
+  ]
+}

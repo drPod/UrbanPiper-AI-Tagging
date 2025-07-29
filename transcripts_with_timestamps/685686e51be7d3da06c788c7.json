@@ -1,0 +1,99 @@
+{
+  "callId": "685686e51be7d3da06c788c7",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T10:18:13.822Z",
+    "callEnded": "2025-06-21T10:20:21.828Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul placed an order for a medium hot latte with half and half milk at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T10:20:21.545Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order hot latte, medium size with half enough milk.",
+      "timestamp": "2025-06-21T10:20:21.545Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "A medium hot latte with half and half milk sounds great. I'll get that added to your order. Would you like whipped cream on top, and would you prefer any flavor shots like vanilla or hazelnut?",
+      "timestamp": "2025-06-21T10:20:21.545Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't need that. Just, half and half milk and medium size. That's it.",
+      "timestamp": "2025-06-21T10:20:21.546Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like a medium hot latte with half and half milk, no whipped cream, and no flavor shots. I'll add that to your order. Your total comes out to be $4.49. Would you like to pay with card or cash today?",
+      "timestamp": "2025-06-21T10:20:21.546Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll pay by cash.",
+      "timestamp": "2025-06-21T10:20:21.546Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T10:20:21.546Z] assistant: I'll add that to your order. Let me just update your order... \n\n",
+      "timestamp": "2025-06-21T10:20:21.828Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your medium hot latte with half and half milk has been added to your order. Your total is $4.49. We'll have it ready for you to pick up. Would you like to place your order now?",
+      "timestamp": "2025-06-21T10:20:21.547Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much. That's it.",
+      "timestamp": "2025-06-21T10:20:21.548Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T10:20:21.548Z] assistant: Alright, let me place your order... \n\n",
+      "timestamp": "2025-06-21T10:20:21.828Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully. Your order number is 2 7 2 1 1 1. I'll confirm the total with tax now.",
+      "timestamp": "2025-06-21T10:20:21.549Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-21T10:20:21.549Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. My orders placed or not?",
+      "timestamp": "2025-06-21T10:20:21.549Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is ready for pickup. The total comes out to be $4.49. Your order number is 2 7 2 1 1 1. We'll have your medium hot latte with half and half milk ready for you. Please come by to pick it up at your convenience. Have a great day, Mehul!",
+      "timestamp": "2025-06-21T10:20:21.549Z"
+    }
+  ]
+}

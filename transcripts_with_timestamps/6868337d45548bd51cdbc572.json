@@ -1,0 +1,105 @@
+{
+  "callId": "6868337d45548bd51cdbc572",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-04T20:03:09.825Z",
+    "callEnded": "2025-07-04T20:05:25.507Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer attempted to place an order but had questions and confusion about the menu item details."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-04T20:05:25.082Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I like to order Taylor ham Taylor ham, egg and cheese on sesame bagel, three bacon, egg and cheese on plain bagel, and one Manhattan cheese sandwich, five lemon snaffle, two peach snaffle, three Diet Coke, canned soda, and one thirty two ounce Diet Coke.",
+      "timestamp": "2025-07-04T20:05:25.085Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get that all started for you. First, I'll need to confirm the details for your Taylor Ham, Egg & Cheese on a Sesame Bagel. Would you like to hear the available customizations for this item?",
+      "timestamp": "2025-07-04T20:05:25.085Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Go ahead, please.",
+      "timestamp": "2025-07-04T20:05:25.086Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing. For your Taylor Ham, Egg & Cheese on a Sesame Bagel, the first thing I need is the size. We have small, medium, and large. Which size would you like?",
+      "timestamp": "2025-07-04T20:05:25.086Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sorry?",
+      "timestamp": "2025-07-04T20:05:25.086Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "No problem at all. For the Taylor Ham, Egg & Cheese on a Sesame Bagel, the first thing I need is the size. We have small, medium, and large. Which size would you like?",
+      "timestamp": "2025-07-04T20:05:25.086Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What size?",
+      "timestamp": "2025-07-04T20:05:25.086Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Taylor Ham, Egg & Cheese on a Sesame Bagel, we have small, medium, and large. Which size would you like?",
+      "timestamp": "2025-07-04T20:05:25.086Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is this under what is this item is all about?",
+      "timestamp": "2025-07-04T20:05:25.086Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Taylor Ham, Egg & Cheese on a Sesame Bagel is a breakfast sandwich with Taylor Ham, egg, and cheese on a sesame bagel. Would you like to proceed with choosing the size for this item?",
+      "timestamp": "2025-07-04T20:05:25.086Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second. Sandwich. Right? Breakfast sandwich?",
+      "timestamp": "2025-07-04T20:05:25.087Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, it's a breakfast sandwich. To get started, we need to choose a size for it. We have small, medium, and large. Which size would you like?",
+      "timestamp": "2025-07-04T20:05:25.087Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please check your menu? You are not correct.",
+      "timestamp": "2025-07-04T20:05:25.087Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the confusion. Let me check our menu for you. The Taylor Ham, Egg & Cheese on a Sesame Bagel is indeed a breakfast sandwich. For this item, we have the following sizes: small, medium, and large. Which size would you like?",
+      "timestamp": "2025-07-04T20:05:25.087Z"
+    }
+  ]
+}

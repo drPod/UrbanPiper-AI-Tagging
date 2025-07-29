@@ -1,0 +1,117 @@
+{
+  "callId": "68794243970f265df9e552dc",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T18:34:43.166Z",
+    "callEnded": "2025-07-17T18:36:05.970Z",
+    "duration": 81,
+    "from": "+12149402918",
+    "to": "+16204558091",
+    "summary": "Azaan placed an order for a toasted everything bagel at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Azaan Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-17T18:36:05.632Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. Can I have one everything bagel, please?",
+      "timestamp": "2025-07-17T18:36:05.632Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Single Bagel on the menu. I'll add the Everything bagel for you. Would you like it toasted, lightly toasted, or not toasted at all?",
+      "timestamp": "2025-07-17T18:36:05.632Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Posted.",
+      "timestamp": "2025-07-17T18:36:05.632Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, that's an Everything bagel, toasted. Anything else I can get for you today, or would you like to proceed with just the bagel?",
+      "timestamp": "2025-07-17T18:36:05.632Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Just proceed, please.",
+      "timestamp": "2025-07-17T18:36:05.632Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-17T18:36:05.632Z] assistant: Just a moment while I add that up... \n\nYour total comes to 1 dollar and 49 cents.\n\nPerfect, let me get that all put together for you. ",
+      "timestamp": "2025-07-17T18:36:05.970Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-17T18:36:05.633Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm now finalizing your order. And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-17T18:36:05.633Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it. Thank you.",
+      "timestamp": "2025-07-17T18:36:05.633Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Azaan. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-17T18:36:05.633Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. You can just place it.",
+      "timestamp": "2025-07-17T18:36:05.633Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great. Placing that for you now, please hold on... ",
+      "timestamp": "2025-07-17T18:36:05.633Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 962611. That's 9, 6, 2, 6, 1, 1.\", 'order_id': '962611', 'call_id': 'ded35a3e-c366-4959-9557-6c39e02bc495', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '019819ab-b440-5d36-1769-407d565b41e0'}",
+      "timestamp": "2025-07-17T18:36:05.633Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 9, 6, 2, 6, 1, 1. Your total is one dollar and forty-nine cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-17T18:36:05.633Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it. Thank you.",
+      "timestamp": "2025-07-17T18:36:05.634Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Azaan. It was a pleasure helping you",
+      "timestamp": "2025-07-17T18:36:05.634Z"
+    }
+  ]
+}

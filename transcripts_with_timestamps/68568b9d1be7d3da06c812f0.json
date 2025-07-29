@@ -1,0 +1,117 @@
+{
+  "callId": "68568b9d1be7d3da06c812f0",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T10:38:21.921Z",
+    "callEnded": "2025-06-21T10:40:53.215Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin placed an order for a medium hot latte with half and half milk at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T10:40:52.987Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Emily, I I'd like to order hot latte, medium size, half and half milk.",
+      "timestamp": "2025-06-21T10:40:52.987Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "A medium hot latte with half and half milk sounds great. I'll get that started for you. For the half and half milk, would you like whipped cream on top for an extra seventy-five cents?",
+      "timestamp": "2025-06-21T10:40:52.987Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't need it. That that's, it only half and half mil, medium size.",
+      "timestamp": "2025-06-21T10:40:52.987Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like a medium hot latte with half and half milk, no whipped cream. I'll add that to your order. Your total comes out to be four dollars and forty-nine cents. Would you like to pay with card or cash today?",
+      "timestamp": "2025-06-21T10:40:52.987Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-21T10:40:52.987Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T10:40:52.988Z] assistant: Perfect, let me add that to your order... \n\n",
+      "timestamp": "2025-06-21T10:40:53.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, your medium hot latte with half and half milk has been added to your order. The total comes out to be four dollars and forty-nine cents. What else can I get for you today?",
+      "timestamp": "2025-06-21T10:40:52.988Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's it for now. Thank you so much.",
+      "timestamp": "2025-06-21T10:40:52.988Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Mehul. It was a pleasure helping you with your order. Before I place it, may I confirm your name for the order, please?",
+      "timestamp": "2025-06-21T10:40:52.988Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. My name is Jitin.",
+      "timestamp": "2025-06-21T10:40:52.988Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you for confirming, Jitin. I'll make sure to get that right. Now, I just need to ask: Any special requests or allergies I should note for your order?",
+      "timestamp": "2025-06-21T10:40:52.988Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have any. Thank you so much for asking.",
+      "timestamp": "2025-06-21T10:40:52.988Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T10:40:52.988Z] assistant: I'll note that down. Alright, let me place this order for you... \n\n",
+      "timestamp": "2025-06-21T10:40:53.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully. Your order number is 9-2-6-6-1-9. Your order total is six dollars and four cents, which includes a subtotal of five dollars and forty-nine cents and fifty-five cents in tax. Is there anything else I can help you with?",
+      "timestamp": "2025-06-21T10:40:52.989Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much.",
+      "timestamp": "2025-06-21T10:40:52.989Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and enjoy your hot latte!",
+      "timestamp": "2025-06-21T10:40:52.989Z"
+    }
+  ]
+}

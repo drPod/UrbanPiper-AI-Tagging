@@ -1,0 +1,45 @@
+{
+  "callId": "6877e2f873d0cf0f7e8721eb",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T17:35:52.679Z",
+    "callEnded": "2025-07-16T17:36:38.648Z",
+    "duration": 43,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with the help of BagelBot."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T17:36:38.405Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me breakfast bundle, please.",
+      "timestamp": "2025-07-16T17:36:38.406Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T17:36:38.406Z] assistant: That would be our Breakfast Bundle on the menu. I'll add that for you. Now I'll help you customize it. \n\nYou'll need to pick exactly 13 bagels for your bundle. I have Plain, Everything, Sesame, or Blueberry. Want more options?",
+      "timestamp": "2025-07-16T17:36:38.648Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-16T17:36:38.406Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the 13 bagels, how many of each would you like? You can choose from Plain, ",
+      "timestamp": "2025-07-16T17:36:38.406Z"
+    }
+  ]
+}

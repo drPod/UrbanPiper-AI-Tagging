@@ -1,0 +1,45 @@
+{
+  "callId": "686d9b7ad14f3abcfb2629c0",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T22:28:10.120Z",
+    "callEnded": "2025-07-08T22:29:15.773Z",
+    "duration": 63,
+    "from": "+19725155417",
+    "to": "+16204558091",
+    "summary": "Sonu placed an order for an Avocado BLT sandwich with customizations."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T22:29:14.734Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Let me get the usual. Let me get an avocado BLT sandwich and an Asiago bagel. Let's make that toasted dark. Let's add jalapenos, spinach, provolone, mustard, hot sauce. Let's make that double lunch protein, have lettuce chips on the side.",
+      "timestamp": "2025-07-08T22:29:14.734Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, one Avocado BLT sandwich on an Asiago bagel. Let me make sure I have all the details right. Would you like to hear the available customizations for this sandwich?",
+      "timestamp": "2025-07-08T22:29:14.734Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-08T22:29:14.734Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, first, the Asiago bagel is a great choice. Now, for the Avocado BLT, I'll need to confirm the base options. We have that on a Thintastic bagel. Next, we can add turkey-bacon, avocado, lettuce, tomato, and roasted tomato spread. Would you like to add any cheese? You mentioned Provolone, so I'll note that. For the veggies, jalapeños and spinach are on the way. Condiments: mustard and hot sauce are covered.",
+      "timestamp": "2025-07-08T22:29:14.734Z"
+    }
+  ]
+}

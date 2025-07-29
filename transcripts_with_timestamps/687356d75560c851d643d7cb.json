@@ -1,0 +1,21 @@
+{
+  "callId": "687356d75560c851d643d7cb",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-13T06:48:55.395Z",
+    "callEnded": "2025-07-13T06:49:11.094Z",
+    "duration": 10,
+    "from": "918949862707",
+    "to": "918035740152",
+    "summary": "Mehl greeted and was welcomed back to Manhattan Bagel but did not place an order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-13T06:49:10.716Z"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "callId": "6852998ecb9e39794cf3fc57",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T10:48:46.180Z",
+    "callEnded": "2025-06-18T10:55:38.619Z",
+    "duration": 420,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "The customer, Vansh, ordered a Breakfast Bundle from Manhattan Bagel, but the order was not successfully placed due to technical issues."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T10:55:36.866Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me more about your breakfast bundle?",
+      "timestamp": "2025-06-18T10:55:36.866Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have for breakfast. ",
+      "timestamp": "2025-06-18T10:55:36.866Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can choose from a variety of bagel flavors, cream cheese flavors, and muffin types. The bundle costs $29.99. Would you like to add 4oz of premium Acme smoked nova for $9.99? Also, which bagel flavors would you like to choose? We have plain, everything, asiago, blueberry,",
+      "timestamp": "2025-06-18T10:55:36.866Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I I I have the okay. I know the bagel choices. Give me",
+      "timestamp": "2025-06-18T10:55:36.866Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Two plain.",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen 2",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Two.",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen 2 Asiago bagels. Now, let's move on to the",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "To to California.",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen 2 California bagels. Now, let's move on to the cream cheese selection. We have plain cream cheese,",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. I we are not done with all the bagels. Right? How many bagels do I need to choose?",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You need to choose 13 bagels for the Breakfast Bundle. You've already chosen",
+      "timestamp": "2025-06-18T10:55:36.867Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "How many yeah. How many have you chosen?",
+      "timestamp": "2025-06-18T10:55:36.868Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen 6 bagels so far: 2 Plain, 2 Asiago, and 2 California. You still need to choose 7 more bagels. Which ones would you like?",
+      "timestamp": "2025-06-18T10:55:36.868Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Give me three gluten free.",
+      "timestamp": "2025-06-18T10:55:36.868Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen 3 Gluten-Free bagels. That brings the total to 9 bagels so far: 2 Plain,",
+      "timestamp": "2025-06-18T10:55:36.868Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And remaining remaining jalapeno cheddar.",
+      "timestamp": "2025-06-18T10:55:36.868Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T10:55:36.869Z] assistant: You've chosen the remaining 4 bagels to be Jalapeño Cheddar. So, to recap, your 13 bagels are: 2 Plain, 2 Asiago, 2 California, 3 Gluten-Free, and 4 Jalapeño Cheddar.\n\nNext, let's move on to the cream cheese selection. You need to choose 2 tubs of cream cheese. We have plain cream cheese, vegetable cream cheese, scallion cream cheese, and more. Which two would you like?",
+      "timestamp": "2025-06-18T10:55:38.619Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll I want, one tub of store made locks spread chunky.",
+      "timestamp": "2025-06-18T10:55:36.869Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen one tubof Store-Made Lox Spread (Chunky) for $1.5 extra. You still need to choose one more tub of cream cheese.",
+      "timestamp": "2025-06-18T10:55:36.869Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Give me give me one strawberry.",
+      "timestamp": "2025-06-18T10:55:36.869Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T10:55:36.870Z] assistant: You've chosen one tub of Strawberry cream cheese.\n\nNext, let's move on to the muffin selection. You need to choose 4 muffins. We have blueberry, corn, double chocolate, chocolate chip, cinnamon chip, and cranberry orange. Which four would you like?",
+      "timestamp": "2025-06-18T10:55:38.619Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me one cranberry orange, one cinnamon chip, one chocolate chip, and one corn.",
+      "timestamp": "2025-06-18T10:55:36.870Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T10:55:36.870Z] assistant: You've chosen one Cranberry Orange, one Cinnamon Chip, one Chocolate Chip, and one Corn muffin.\n\nNow, let's recap your Breakfast Bundle:\n\n* 13 bagels: 2 Plain, 2 Asiago, 2 California, 3 Gluten-Free, and 4 Jalapeño Cheddar\n* 2 tubs of cream cheese: 1 Store-Made Lox Spread (Chunky) and 1 Strawberry\n* 4 muffins: 1 Cranberry Orange, 1 Cinnamon Chip, 1 Chocolate Chip, and 1 Corn\n\nThe total cost of your Breakfast Bundle is $29.99, plus $1.5 for the Store-Made Lox Spread (Chunky), for a total of $31.49.\n\nWould you like to add anything else to your order, or would you like to proceed with the payment?",
+      "timestamp": "2025-06-18T10:55:38.619Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That that breakfast bundle comes with coffee or no?",
+      "timestamp": "2025-06-18T10:55:36.870Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle does come with a box of coffee. You have a choice of flavors: House Blend,",
+      "timestamp": "2025-06-18T10:55:36.870Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So you have not asked me for the coffee choice.",
+      "timestamp": "2025-06-18T10:55:36.870Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T10:55:36.870Z] assistant: You are correct, I haven't asked you for your coffee choice yet. Let me correct that.\n\nFor the coffee selection, you have a choice of flavors: House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Which one would you like?",
+      "timestamp": "2025-06-18T10:55:38.619Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Dark rose.",
+      "timestamp": "2025-06-18T10:55:36.870Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T10:55:36.870Z] assistant: You've chosen the Dark Roast coffee.\n\nNow, let's recap your Breakfast Bundle:\n\n* 13 bagels: 2 Plain, 2 Asiago, 2 California, 3 Gluten-Free, and 4 Jalapeño Cheddar\n* 2 tubs of cream cheese: 1 Store-Made Lox Spread (Chunky) and 1 Strawberry\n* 4 muffins: 1 Cranberry Orange, 1 Cinnamon Chip, 1 Chocolate Chip, and 1 Corn\n* 1 box of Dark Roast coffee\n\nThe total cost of your Breakfast Bundle is $29.99, plus $1.5 for the Store-Made Lox Spread (Chunky), for a total of $31.49.\n\nNext, I'll need to confirm your order and ask if you have any special requests or allergies. Would you like to proceed with the order? ",
+      "timestamp": "2025-06-18T10:55:38.619Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 400 - {\"success\":false,\"error\":\"Missing or invalid instructions. Must be a non-empty string.\"}",
+      "timestamp": "2025-06-18T10:55:36.871Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No special request. I know the order. Just place it.",
+      "timestamp": "2025-06-18T10:55:36.871Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be $31.49. I just need to confirm, are you ready to place this order for pickup? ",
+      "timestamp": "2025-06-18T10:55:36.871Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 400 - {\"success\":false,\"error\":\"No items found in cart. Please add items using update_order before placing order.\"}",
+      "timestamp": "2025-06-18T10:55:36.871Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Please pick place the order for pickup.",
+      "timestamp": "2025-06-18T10:55:36.871Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hallo?",
+      "timestamp": "2025-06-18T10:55:36.871Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T10:55:36.871Z] assistant: I apologize for the delay. It seems like there was an issue with placing your order. Let me try again. \n\nFirst, I need to add the items to your cart. ",
+      "timestamp": "2025-06-18T10:55:38.619Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Oh, I thought you already did.",
+      "timestamp": "2025-06-18T10:55:36.872Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T10:55:36.872Z] assistant: I apologize for the confusion earlier. Let me start again from the beginning to ensure your order is placed correctly. \n\nYou had chosen the Breakfast Bundle, which includes 13 bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Your bagel selections were 2 Plain, 2 Asiago, 2 California, 3 Gluten-Free, and 4 Jalapeño Cheddar. For cream cheese, you chose 1 tub of Store-Made Lox Spread (Chunky) and 1 tub of Strawberry. Your muffin selections were 1 Cranberry Orange, 1 Cinnamon Chip, 1 Chocolate Chip, and 1 Corn. Finally, you chose Dark Roast coffee.\n\nTo proceed with your order, I will first update your cart with these items. ",
+      "timestamp": "2025-06-18T10:55:38.619Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-18T10:55:36.872Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Waiting for you.",
+      "timestamp": "2025-06-18T10:55:36.881Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Halo",
+      "timestamp": "2025-06-18T10:55:36.881Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me update your order with the items ",
+      "timestamp": "2025-06-18T10:55:36.881Z"
+    }
+  ]
+}

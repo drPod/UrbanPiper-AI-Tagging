@@ -1,0 +1,45 @@
+{
+  "callId": "686970b545548bd51cf90b55",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-05T18:36:37.590Z",
+    "callEnded": "2025-07-05T18:37:16.551Z",
+    "duration": 36,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "Jitin ordered a Breakfast Bundle from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-05T18:37:16.388Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundles.",
+      "timestamp": "2025-07-05T18:37:16.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to choose the types of bagels and cream cheese, or would you like me to suggest some popular options?",
+      "timestamp": "2025-07-05T18:37:16.389Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is the price?",
+      "timestamp": "2025-07-05T18:37:16.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The price for our Breakfast Bundle is $29.99. It's a great",
+      "timestamp": "2025-07-05T18:37:16.389Z"
+    }
+  ]
+}

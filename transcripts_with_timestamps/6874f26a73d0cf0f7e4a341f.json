@@ -1,0 +1,93 @@
+{
+  "callId": "6874f26a73d0cf0f7e4a341f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-14T12:04:58.876Z",
+    "callEnded": "2025-07-14T12:06:58.312Z",
+    "duration": 117,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Mehl ordered a Breakfast Bundle with specific bagel and cream cheese preferences."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-14T12:06:58.007Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I want to order, the first one.",
+      "timestamp": "2025-07-14T12:06:58.007Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of breakfast options to choose from. Can you tell me a little bit more about what you're in the mood for? Are you looking for something classic like a bagel with cream cheese, or maybe something a bit more filling like a breakfast sandwich?",
+      "timestamp": "2025-07-14T12:06:58.007Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "A breakfast bundle.",
+      "timestamp": "2025-07-14T12:06:58.007Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to customize your bundle with any specific types of bagels or cream cheese flavors?",
+      "timestamp": "2025-07-14T12:06:58.007Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-14T12:06:58.007Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the bagels, we have a variety of flavors to choose from, such as plain, everything, cinnamon raisin, and more. Which ones would you like to include in your bundle? And",
+      "timestamp": "2025-07-14T12:06:58.007Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have the semi?",
+      "timestamp": "2025-07-14T12:06:58.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We do have sesame bagels. I can add those to your Breakfast Bundle. How many sesame bagels would you like? And would you like any other types of bagels as well?",
+      "timestamp": "2025-07-14T12:06:58.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Four sesame, three everything, and other maybe the first option.",
+      "timestamp": "2025-07-14T12:06:58.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like 4 sesame bagels, 3 everything bagels, and 6 plain bagels, which is our first option, to complete your bundle of 13 bagels. That sounds great! Now, let's move on to the cream cheese. We have a variety of flavors, such as plain, scallion, and strawberry. Which two flavors would you like to include in your bundle?",
+      "timestamp": "2025-07-14T12:06:58.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And do you have vanilla on?",
+      "timestamp": "2025-07-14T12:06:58.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We do have a vanilla cream cheese flavor. I can add that to your bundle. You can choose vanilla as one of your two cream cheese flavors. What would you like as your second flavor? We have plain,",
+      "timestamp": "2025-07-14T12:06:58.008Z"
+    }
+  ]
+}

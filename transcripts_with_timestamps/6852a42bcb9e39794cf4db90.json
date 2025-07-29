@@ -1,0 +1,39 @@
+{
+  "callId": "6852a42bcb9e39794cf4db90",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T11:34:03.209Z",
+    "callEnded": "2025-06-18T11:34:41.307Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The call was a greeting and introduction between the Manhattan Bagel assistant and the customer, Tom, where the assistant asked for Tom's contact number."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Punit, Welcome to Manhattan Bagel. It's great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T11:34:41.144Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? My name is Tom.",
+      "timestamp": "2025-06-18T11:34:41.144Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Nice to meet you, Tom. Before we get started, may I please have your contact number so I can easily reach out to you about your order?",
+      "timestamp": "2025-06-18T11:34:41.144Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Contact number is which is this? Contact number?",
+      "timestamp": "2025-06-18T11:34:41.145Z"
+    }
+  ]
+}

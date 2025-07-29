@@ -1,0 +1,129 @@
+{
+  "callId": "68724ddc5560c851d6333d41",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T11:58:20.284Z",
+    "callEnded": "2025-07-12T12:01:17.727Z",
+    "duration": 170,
+    "from": "918949862707",
+    "to": "918035740152",
+    "summary": "Jutin placed an order for Avocado Toast with plain cream cheese and a medium hot black coffee at manhattan_bagel_864915"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T12:01:16.570Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Looking to order, avocado, French toast with plain green cheese and lightly toasted. Also like to have, hot coffee, medium size black coffee, basically. Hot black coffee.",
+      "timestamp": "2025-07-12T12:01:16.570Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great, the Avocado Toast with plain cream cheese and lightly toasted. I also have a medium hot black coffee. Anything else?",
+      "timestamp": "2025-07-12T12:01:16.570Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-12T12:01:16.570Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I have the Avocado Toast with plain cream cheese and lightly toasted, and a medium hot black coffee. Is this correct?",
+      "timestamp": "2025-07-12T12:01:16.570Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T12:01:16.570Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to item customization stage...",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's customize your Avocado Toast. Pick one bagel. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, English Muffin, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, ",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "French toast.",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect! French Toast BAGEL. I'll note lightly toasted for later. Pick one spread. We have Butter, Plain Cream Cheese, Low-Fat Plain Cream Cheese, Grape Jelly, Styrawberry Jelly, Vegetable, Scallion, Strawberry, Jalapeno, Honey Almond, Hummus, Nutella, Avocado, Peanut Butter Cream Cheese.",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What I said earlier, I don't know. I don't I don't remember. Can you tell me what I have said?",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You had ordered an Avocado Toast with plain cream cheese and lightly toasted, and a medium hot black coffee.",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So while asking this question, you can you you should have, you know, Zoom, like, playing games here. Right?",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I should have recalled that you mentioned plain cream cheese earlier. So, to confirm, you would like plain cream cheese on your Avocado Toast, correct?",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T12:01:16.571Z] assistant: Perfect! Plain cream cheese. I'll also go ahead with the lightly toasted French Toast BAGEL as we previously discussed. Your Avocado Toast is now complete. \n\nLet's move on to your hot black coffee. You had mentioned a medium size, and I'll go ahead with that. \n\nSince we've completed customizing your items, I'll now transition to the ordering summarization stage. ",
+      "timestamp": "2025-07-12T12:01:17.727Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-12T12:01:16.571Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 370833. That's 3, 7, 0, 8, 3, 3.\", 'order_id': '370833', 'call_id': '1eb4d550-a84e-49fc-8c42-d0ec6dfc9e37', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fe82-7f9e-4918-9f3e-2d410af75b29'}",
+      "timestamp": "2025-07-12T12:01:16.572Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 3, 7, 0, 8, 3, 3. Please pick up your order at manhattan_bagel_864915. We accept cash only.",
+      "timestamp": "2025-07-12T12:01:16.572Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "callId": "6878e47c970f265df9d82f7f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T11:54:36.484Z",
+    "callEnded": "2025-07-17T11:55:34.551Z",
+    "duration": 57,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Hash Brown but it was out of stock, so the order was not completed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-17T11:55:34.303Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi, Bengalbot. Can I get the hash brown, please?",
+      "timestamp": "2025-07-17T11:55:34.303Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Hash Brown on the menu. I'll add the Hash Brown for you. Would you like to add anything else, such as a bagel or a drink, or is that all for now?",
+      "timestamp": "2025-07-17T11:55:34.303Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So is it still in stock or out of stock?",
+      "timestamp": "2025-07-17T11:55:34.303Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. According to our current inventory, the Hash Brown is actually out of stock. I apologize for the inconvenience. Would you like to consider an alternative, such as a bagel or another side item?",
+      "timestamp": "2025-07-17T11:55:34.304Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it.",
+      "timestamp": "2025-07-17T11:55:34.304Z"
+    }
+  ]
+}

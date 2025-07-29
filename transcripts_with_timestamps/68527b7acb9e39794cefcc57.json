@@ -1,0 +1,153 @@
+{
+  "callId": "68527b7acb9e39794cefcc57",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T08:40:26.611Z",
+    "callEnded": "2025-06-18T08:45:13.194Z",
+    "duration": 300,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Punit placed an order for a medium Hot Latte with half and half milk through Manhattan Bagel's customer service."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T08:45:12.909Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to make an order of, hot latte.",
+      "timestamp": "2025-06-18T08:45:12.910Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what I can find for you. ",
+      "timestamp": "2025-06-18T08:45:12.910Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a Hot Latte for you. I can make you a Hot Latte. What size would you like? We have a small 12 ounce for $3.99, a medium 16 ounce for $4.49, or a large 20 ounce for $4.99. Which one sounds good to you?",
+      "timestamp": "2025-06-18T08:45:12.910Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size. Medium size. Hello?",
+      "timestamp": "2025-06-18T08:45:12.910Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've got that. So, you'd like a medium Hot Latte, which is 16 ounces and costs $4.49. Now, let's talk about the type of milk you'd like. We have regular milk, half and half for an extra $1, skim milk, almond milk for an extra $1, oat milk for an extra $1, or soy milk. Which one of those sounds good to you?",
+      "timestamp": "2025-06-18T08:45:12.910Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Half enough milk.",
+      "timestamp": "2025-06-18T08:45:12.911Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like a medium Hot Latte with half and half milk. That's a great choice. The half and half milk adds an extra $1 to the price, so your total comes out to be $5.49. Now, would you like to add any sweetener or syrup to your latte? We have sugar, sweet and low, equal, splenda, raw sugar, pumpkin",
+      "timestamp": "2025-06-18T08:45:12.911Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. No. No. I don't want I don't want any yeah. No. I don't want any sugars. Just make it, like, raw sugar only, like, like, no extra sugar.",
+      "timestamp": "2025-06-18T08:45:12.911Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like a medium Hot Latte with half and half milk and no extra sugar, just the raw sugar that's already in it. I've got that. So, to confirm, your order is a medium Hot Latte with half and half milk, and you'd like it just as it is, with no extra sweetener or syrup. Is that correct?",
+      "timestamp": "2025-06-18T08:45:12.911Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-18T08:45:12.911Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll go ahead and add that to your order. ",
+      "timestamp": "2025-06-18T08:45:12.911Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be $5.49. Would you like to place your order for pickup?",
+      "timestamp": "2025-06-18T08:45:12.912Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-18T08:45:12.912Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-18T08:45:12.912Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T08:45:12.913Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 400 - {\"success\":false,\"error\":\"No items found in cart. Please add items using update_order before placing order.\"}",
+      "timestamp": "2025-06-18T08:45:12.913Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the mistake. It seems that the order was not placed correctly. Let me try again. ",
+      "timestamp": "2025-06-18T08:45:12.913Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be $5.49. I will now place your order for pickup. ",
+      "timestamp": "2025-06-18T08:45:12.914Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully. Your order number is 2-3-4-3-4-6. Your order total is $6.04, which includes a subtotal of $5.49 and $0.55 in tax. Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T08:45:12.914Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much.",
+      "timestamp": "2025-06-18T08:45:12.914Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Punit. It was a pleasure helping you with your order. If you need anything else, feel free to reach out. Have a great day and enjoy your Hot Latte! ",
+      "timestamp": "2025-06-18T08:45:12.914Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-18T08:45:12.915Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "callId": "686d9666d14f3abcfb262470",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T22:06:30.750Z",
+    "callEnded": "2025-07-08T22:06:55.791Z",
+    "duration": 23,
+    "from": "+19725155417",
+    "to": "+16204558091",
+    "summary": "Sonu placed an order for an Avocado BLT sandwich with Asiago bagel and condiments."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T22:06:55.502Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. Let me get my usual avocado BLT sandwich. Let's make that an Asiago bagel. Let's do, hot sauce, mayo. Let's add wait. Let's do that.",
+      "timestamp": "2025-07-08T22:06:55.503Z"
+    }
+  ]
+}

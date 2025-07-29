@@ -1,0 +1,171 @@
+{
+  "callId": "6859222d1be7d3da06026221",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T09:45:17.834Z",
+    "callEnded": "2025-06-23T09:48:15.168Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Gaurav ordered a Breakfast Bundle with thirteen plain bagels, two tubs of spread, and four muffins, and the order was successfully placed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T09:48:14.873Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order, breakfast bundle.",
+      "timestamp": "2025-06-23T09:48:14.873Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I have all the customization options for you. Do you want to proceed with the customization now?",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I I want, all of 13 as, 13 as plain bagel.",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thirteen Plain bagels. Next, for your **two tubs of spread**. We have Plain, Vegetable, or Scallion. Want to hear more options?",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. One is vanilla, and second one is vegetable.",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One Vanilla and one Vegetable cream cheese. Now, for your **four muffins**. You can choose from Blueberry, Corn, or Double Chocolate. What are your choices for the four muffins?",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want chocolate chips and blueberries.",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Two Chocolate Chip and two Blueberry muffins. And for the **Box of Coffee** that comes with your bundle, would you prefer our House Blend, Decaf, or maybe something else?",
+      "timestamp": "2025-06-23T09:48:14.874Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't want that.",
+      "timestamp": "2025-06-23T09:48:14.875Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "No coffee for you. Perfect, let me add that Breakfast Bundle to your order...",
+      "timestamp": "2025-06-23T09:48:14.875Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $29.99",
+      "timestamp": "2025-06-23T09:48:14.875Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the Breakfast Bundle with all your choices. Your total is now $29.99. Anything else for you today?",
+      "timestamp": "2025-06-23T09:48:14.875Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so",
+      "timestamp": "2025-06-23T09:48:14.875Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome. I have your complete order ready. Would you like me to read it back to make sure everything is perfect?",
+      "timestamp": "2025-06-23T09:48:14.875Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you.",
+      "timestamp": "2025-06-23T09:48:14.875Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-06-23T09:48:14.875Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-23T09:48:14.876Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll make sure the kitchen knows...",
+      "timestamp": "2025-06-23T09:48:14.876Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added your special instructions to the order.",
+      "timestamp": "2025-06-23T09:48:14.876Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-23T09:48:14.876Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 622805. That's 6, 2, 2, 8, 0, 5. Total: $32.98 (subtotal 29.99 dollars plus 2.99 dollars tax). Special instructions noted: No special requests or allergies. Thank you for your order!",
+      "timestamp": "2025-06-23T09:48:14.876Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Gaurav, your order is placed. Your order number is 6, 2, 2, 8, 0, 5. Your final total is 29 dollars and 99 cents for",
+      "timestamp": "2025-06-23T09:48:14.876Z"
+    }
+  ]
+}

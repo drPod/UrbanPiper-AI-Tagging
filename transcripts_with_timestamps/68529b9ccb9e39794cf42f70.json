@@ -1,0 +1,21 @@
+{
+  "callId": "68529b9ccb9e39794cf42f70",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T10:57:32.331Z",
+    "callEnded": "2025-06-18T10:57:50.420Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The call was a conversation between Emily, a friendly voice AI for Manhattan Bagel, and a customer, but the customer didn't place an order."
+  },
+  "messages": [
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-18T10:57:50.241Z"
+    }
+  ]
+}

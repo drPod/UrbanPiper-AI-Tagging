@@ -1,0 +1,171 @@
+{
+  "callId": "68715cbf5560c851d6247565",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-11T18:49:35.055Z",
+    "callEnded": "2025-07-11T18:51:44.454Z",
+    "duration": 127,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jutin placed an order for a Poppy bagel with Plain Cream Cheese at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-11T18:51:44.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I want to order poppy bagel with clean, clean cheese.",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see \"clean cream cheese\" on our menu. We have Plain Cream Cheese, Vegetable Cream Cheese, Strawberry, and Honey Almond, among others. Which one of these sounds good to you?",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Plain cream cheese with poppy seed burger.",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect. One Poppy bagel with Plain Cream Cheese. You'll need to pick just one size for your cream cheese. We have a regular size. Would you like that, or would you like to add any other items to your order?",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Poppy",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Just",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One Poppy bagel with Plain Cream Cheese. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it.",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you. ",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-11T18:51:44.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order, please?",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. My name is Jiten.",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have any. Thank you so much.",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Jutin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. All good.",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great. Placing that for you now, please hold on. ",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 569291. That's 5, 6, 9, 2, 9, 1.\", 'order_id': '569291', 'call_id': '0c62a981-fdca-430a-ba3b-2d78539139ac', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fad3-c1ff-1776-5ff3-832551d07fe1'}",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now ! The order number is 5, 6, 9, 2, 9, 1, and the total including taxes comes to $4.29. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Do you need any further assistance?",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're all set then. It was a pleasure helping you with your order, Jutin. Have a great day and enjoy your Poppy bagel with Plain Cream Cheese! ",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-11T18:51:44.104Z"
+    }
+  ]
+}

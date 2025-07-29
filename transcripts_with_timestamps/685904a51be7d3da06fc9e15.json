@@ -1,0 +1,159 @@
+{
+  "callId": "685904a51be7d3da06fc9e15",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T07:39:17.719Z",
+    "callEnded": "2025-06-23T07:43:14.457Z",
+    "duration": 240,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh ordered a Breakfast Bundle with specific bagel, cream cheese, muffin, and coffee selections."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast 1 tuh",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, excellent choice. That comes with thirteen bagels, two tubs of cream cheese, and four muffins. You can also add smoked nova for an extra $9.99. Would you like to add the smoked nova today?",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "We'll decide about that later. Can we start with, choosing the options on request button?",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your Breakfast Bundle. We have a few choices to make. First, for your two tubs of cream cheese, we have Plain, Vegetable, or Scallion. Which ones would you like?",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One clay, one stallion.",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your two tubs of cream cheese, you've chosen one Plain and one Scallion. Now, let's move on to your thirteen bagels. We have a variety of flavors to choose from, including Plain, Everything, Asiago, Blueberry, and many more. Which thirteen bagels would you like",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me, yeah, give me three plain, three asiago, three sesame.",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like three Plain, three Asiago, and three Sesame bagels. That's a total of nine bagels so far. You still have four more bagels to choose. Would you like to add some other flavors or stick with one of these?",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Tell me more flavors.",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a wide range of flavors to choose from. In addition to Plain, Asiago, and Sesame, we also have Everything, Blueberry, California, Cheesy Jalepeño",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me two give me two everything and two, blueberry.",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like to add two Everything and two Blueberry bagels to your selection. So, to recap, you now have three Plain, three Asiago, three Sesame, two Everything, and two Blueberry bagels. That completes your thirteen bagels. Next, let's move on to your four muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange to choose from. Which",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me three three blueberries and three corn.",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like three Blueberry and one Corn muffin. That's a total of four muffins. Now, let's review your Breakfast Bundle:",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I said 3 three three blueberry and three corn.",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You wanted three Blueberry and three Corn muffins, but since you only need four muffins in total, let's adjust that to two Blueberry and two Corn muffins. Now, let's review your Breakfast Bundle: you have three Plain",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. No. Give me okay. Four only. Give me all blueberry. All four blueberry.",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T07:43:14.128Z] assistant: You'd like all four muffins to be Blueberry. I've got that updated for you.\n\nNow, let's review your Breakfast Bundle: you have three Plain, three Asiago, three Sesame, two Everything, and two Blueberry bagels. And for your muffins, you've chosen all four to be Blueberry. \n\nNext, would you like to add a box of coffee to your Breakfast Bundle? We have several flavors to choose from, including House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast.",
+      "timestamp": "2025-06-23T07:43:14.457Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me, household.",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T07:43:14.128Z] assistant: You've chosen the House Blend for your box of coffee.\n\nLet me just recap your entire Breakfast Bundle: you have three Plain, three Asiago, three Sesame, two Everything, and two Blueberry bagels. For your spreads, you've chosen one Plain and one Scallion cream cheese. For your muffins, you've chosen all four to be Blueberry. And you've also added a box of House Blend coffee.\n\nNow, would you like to add smoked nova to your Breakfast Bundle for an extra $9.99?",
+      "timestamp": "2025-06-23T07:43:14.457Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Non.",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've decided not to add the smoked nova. Let me add your Breakfast Bundle ",
+      "timestamp": "2025-06-23T07:43:14.128Z"
+    }
+  ]
+}

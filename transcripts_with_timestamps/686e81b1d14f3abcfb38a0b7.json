@@ -1,0 +1,57 @@
+{
+  "callId": "686e81b1d14f3abcfb38a0b7",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T14:50:25.466Z",
+    "callEnded": "2025-07-09T14:51:31.602Z",
+    "duration": 63,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "John attempted to order a Breakfast Bundle but had issues with bagel selections."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T14:51:31.245Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle?",
+      "timestamp": "2025-07-09T14:51:31.246Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, and Cinnamon Raisin. Would you like one of these, or should I list more options?",
+      "timestamp": "2025-07-09T14:51:31.246Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I said I want breakfast bundle.",
+      "timestamp": "2025-07-09T14:51:31.246Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, John. You'll need to pick exactly thirteen bagels for your Breakfast Bundle. Let's start with some popular options - we have Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?",
+      "timestamp": "2025-07-09T14:51:31.246Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me, okay. I need five vanilla, two cream tea sorry. Two sesame, and the rest can be garlic bagel.",
+      "timestamp": "2025-07-09T14:51:31.246Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see vanilla bagels on our menu, but we have Plain, Everything, Sesame, Cinnamon Raisin, Garlic,",
+      "timestamp": "2025-07-09T14:51:31.246Z"
+    }
+  ]
+}

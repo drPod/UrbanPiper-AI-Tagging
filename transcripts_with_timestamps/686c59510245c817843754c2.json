@@ -1,0 +1,51 @@
+{
+  "callId": "686c59510245c817843754c2",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-07T23:33:37.167Z",
+    "callEnded": "2025-07-07T23:34:23.960Z",
+    "duration": 45,
+    "from": "+19546004910",
+    "to": "+16204558091",
+    "summary": "The customer attempted to place an order in Portuguese, but the AI assistant, BagelBot, could only communicate in English and offered to assist with the order in English instead."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-07T23:34:23.798Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Eu quero colocar ordens em português. Você pode me ajudar?",
+      "timestamp": "2025-07-07T23:34:23.798Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm happy to help you with your order, but I need to let you know that I can only communicate in English. Would you like to place an order in English? I can help you with that.",
+      "timestamp": "2025-07-07T23:34:23.798Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you, speak other languages?",
+      "timestamp": "2025-07-07T23:34:23.798Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "No, I only speak English. I'm designed to assist with orders and answer questions in English. If you need help with an order, I'd be happy to try and assist you in English. What can I get for you today?",
+      "timestamp": "2025-07-07T23:34:23.798Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Maybe I'll change it. Could I say to that as well if just just get it?",
+      "timestamp": "2025-07-07T23:34:23.798Z"
+    }
+  ]
+}

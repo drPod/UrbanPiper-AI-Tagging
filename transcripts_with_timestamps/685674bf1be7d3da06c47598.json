@@ -1,0 +1,27 @@
+{
+  "callId": "685674bf1be7d3da06c47598",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T09:00:47.240Z",
+    "callEnded": "2025-06-21T09:01:13.151Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-21T09:01:12.997Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-21T09:01:12.997Z"
+    }
+  ]
+}

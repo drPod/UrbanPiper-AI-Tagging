@@ -1,0 +1,135 @@
+{
+  "callId": "68591e611be7d3da0601dfba",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T09:29:05.732Z",
+    "callEnded": "2025-06-23T09:32:03.538Z",
+    "duration": 180,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh ordered a Breakfast Bundle with customized bagels, spreads, muffins, and coffee."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T09:32:03.006Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I would like to order the breakfast bundle.",
+      "timestamp": "2025-06-23T09:32:03.007Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T09:32:03.007Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I have all the customization options for the Breakfast Bundle. Do you want to proceed with the customization now?",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me three oh, Sesame. Three, plane and, three everything.",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like three Sesame, three Plain, and three Everything bagels, and you still need to choose four more bagels to complete your dozen. Which other types",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me give me four, four scallion.",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like four Scallion bagels to complete your dozen. Now, for your **two tubs of spread**. We have Plain, Vegetable, or Scallion. Want to hear more options?",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Please.",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We also have Lox spread for a dollar extra, Strawberry, or Jalapeño. Which two would you like?",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Jalapeno and, locksmith.",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like one tub of Jalapeño cream cheese and one tub of Lox spread. Next, for your **four muffins**. You can choose from Blueberry, Corn, or Double Chocolate. What are your choices for the four muffins?",
+      "timestamp": "2025-06-23T09:32:03.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Blueberry, and corn.",
+      "timestamp": "2025-06-23T09:32:03.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like two Blueberry and two Corn muffins. Lastly, for the **Box of Coffee**, would you prefer our House Blend, Decaf, or one of our other flavors?",
+      "timestamp": "2025-06-23T09:32:03.009Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "House plan.",
+      "timestamp": "2025-06-23T09:32:03.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen the House Blend for the Box of Coffee. Perfect, let me add that to your order...",
+      "timestamp": "2025-06-23T09:32:03.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T09:32:03.009Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Waiting for you.",
+      "timestamp": "2025-06-23T09:32:03.009Z"
+    }
+  ]
+}

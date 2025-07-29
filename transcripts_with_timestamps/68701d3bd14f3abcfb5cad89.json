@@ -1,0 +1,303 @@
+{
+  "callId": "68701d3bd14f3abcfb5cad89",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-10T20:06:19.600Z",
+    "callEnded": "2025-07-10T20:11:29.110Z",
+    "duration": 307,
+    "from": "+18184348357",
+    "to": "+16204558091",
+    "summary": "The customer, Yves Ac Cadillac, placed an order for an Asiago bagel with sausage, pepper jack cheese, scrambled eggs, and all vegetables, along with a medium black coffee, and the order was successfully placed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-10T20:11:28.646Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to order some bagels. Can you give me your menu?",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of delicious bagels to choose from. We've got our Classic Bagels like Plain, Everything, Sesame, Poppy, Salt, and more. We also have some specialty bagels like Blueberry, Cinnamon Raisin, French Toast, and Multigrain. And if you're feeling fancy, you could try one of our flavored bagels like Asiago, Garlic, or Onion. We also have a bunch of different spreads you can put on your bagel, like cream cheese, butter, or peanut butter. And if you're in the mood for something a little more substantial, you could try one of our breakfast sandwiches or lunch sandwiches. Which type",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's try a breakfast sandwich.",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For breakfast sandwiches, you'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, Poppy, Salt, and more. Which one would you",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's go with as Asiago.",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Asiago bagel is a great choice. Now, you'll need to pick just one meat for your sandwich. We have Bacon, Pork Roll, Sausage, Ham, Turkey Bacon, and ",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's go with, sausage.",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The sausage is a popular choice. Now, you'll need to pick just one cheese for your sandwich. We have American, No Cheese, Swiss, Pepper Jack, Cheddar, Muenster,",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's do pepper jack.",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Pepper Jack is a great choice. Now, let's talk about the egg. You can choose from Scrambled or No Egg. We also have an option for Egg White for an extra dollar. Which one would you prefer?",
+      "timestamp": "2025-07-10T20:11:28.649Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's do the scrambled.",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Scrambled eggs are a classic choice. Now, you'll need to decide on the toast level for your bagel. You can choose from Toasted, Lightly Toasted, Toasted Dark, or No Toast. Which one sounds good to",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Toasted dog.",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Toasted Dark gives the bagel a nice crispy texture. Now, let's see if you'd like to add any condiments. You can choose from Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, or Tomato Spread. We also have some additional ",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Gold stepper.",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Salt and pepper are classic",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And mayo.",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to recap, you've got an Asiago bagel with sausage, pepper jack cheese, scrambled eggs, toasted dark, salt, pepper, and mayo. Now, would you like to add any vegetables to your sandwich? We have Lettuce, Tomato, Red Onions, Spinach, Cucumber, Green",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Everything.",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You want to add all the vegetables. That's a great way to get some extra nutrients. So, to confirm, you'd like to add Lettuce, Tomato, Red Onions, Spinach, Cucumber, Green Peppers, Capers, Roasted Red Peppers, Grilled Onions, and Jalapeño Peppers to your sandwich. Is there anything else you'd like to add or change?",
+      "timestamp": "2025-07-10T20:11:28.650Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's perfect.",
+      "timestamp": "2025-07-10T20:11:28.651Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm glad you're happy with your selection. Just to confirm, I have you down for an Asiago bagel with sausage, pepper jack cheese, scrambled eggs, toasted dark, salt, pepper, mayo, and all the vegetables. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-10T20:11:28.651Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have drinks available?",
+      "timestamp": "2025-07-10T20:11:28.651Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of drinks to choose from. For hot drinks, we have coffee, tea, and hot chocolate.",
+      "timestamp": "2025-07-10T20:11:28.653Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's get a coffee, black.",
+      "timestamp": "2025-07-10T20:11:28.653Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "A black coffee is a great choice. We have several sizes to choose from: Small 12 ounce,",
+      "timestamp": "2025-07-10T20:11:28.653Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Miriam",
+      "timestamp": "2025-07-10T20:11:28.653Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like a Medium 16 ounce black coffee. I'll add that to your order. To recap, you have an Asiago bagel with sausage, pepper jack",
+      "timestamp": "2025-07-10T20:11:28.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "It's good.",
+      "timestamp": "2025-07-10T20:11:28.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm glad everything looks good. Just to confirm, I have you down for an Asiago bagel with sausage, pepper jack cheese, scrambled eggs, toasted dark, salt, pepper, mayo, and all the vegetables, along with a Medium 16 ounce black coffee. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-10T20:11:28.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's it.",
+      "timestamp": "2025-07-10T20:11:28.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm going to go ahead and finalize your order. Let me just put everything together for you. ",
+      "timestamp": "2025-07-10T20:11:28.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-10T20:11:28.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order?",
+      "timestamp": "2025-07-10T20:11:28.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "It's Eve, y v e s, Accad, a c c a d.",
+      "timestamp": "2025-07-10T20:11:28.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-10T20:11:28.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-10T20:11:28.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Yves Ac Cadillac. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-10T20:11:28.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-10T20:11:28.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-10T20:11:28.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-10T20:11:28.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great. Placing that for you now, please hold on. ",
+      "timestamp": "2025-07-10T20:11:28.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 706074. That's 7, 0, 6, 0, 7, 4.\", 'order_id': '706074', 'call_id': '34639830-91b5-4eae-9745-7a3127a4abdf', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f5f6-5eac-d3be-5920-57b1998aeb13'}",
+      "timestamp": "2025-07-10T20:11:28.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now ! The order number is 7, 0, 6, 0, 7, 4.  That's 7, 0, 6, 0, 7, 4. The total including taxes comes to $12.41. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-10T20:11:28.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's it. Thanks.",
+      "timestamp": "2025-07-10T20:11:28.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Yves Ac Cadillac. It was a pleasure helping you with your order. Have a great day and enjoy your meal! ",
+      "timestamp": "2025-07-10T20:11:28.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-10T20:11:28.656Z"
+    }
+  ]
+}

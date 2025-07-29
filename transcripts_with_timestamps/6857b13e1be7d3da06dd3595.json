@@ -1,0 +1,39 @@
+{
+  "callId": "6857b13e1be7d3da06dd3595",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-22T07:31:10.243Z",
+    "callEnded": "2025-06-22T07:32:00.885Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jatin ordered a coffee from Manhattan Bagel, but the call ended before the order could be finalized."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jatin, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-22T07:32:00.787Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want a coffee. Hello?",
+      "timestamp": "2025-06-22T07:32:00.787Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can help you with the coffee. The hot coffee, excellent choice. That's one of our popular options made just right to start your day off. Let me get the options for your coffee choices.",
+      "timestamp": "2025-06-22T07:32:00.787Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the size of your coffee. We have small, 12 ounces for $1.99, medium, 16 ounces for",
+      "timestamp": "2025-06-22T07:32:00.788Z"
+    }
+  ]
+}

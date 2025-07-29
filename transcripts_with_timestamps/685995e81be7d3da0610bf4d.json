@@ -1,0 +1,57 @@
+{
+  "callId": "685995e81be7d3da0610bf4d",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T17:59:04.025Z",
+    "callEnded": "2025-06-23T18:00:31.244Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with the help of BagelBot."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T18:00:30.892Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking for big, big first bundle to order.",
+      "timestamp": "2025-06-23T18:00:30.893Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, excellent choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a few other goodies. Let me get all the customization options for you.",
+      "timestamp": "2025-06-23T18:00:30.893Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T18:00:30.894Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'm still there.",
+      "timestamp": "2025-06-23T18:00:30.894Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices... ",
+      "timestamp": "2025-06-23T18:00:30.894Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the Bagel Dozen. For this, you need to choose exactly 13 bagels. The options I have listed here are Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame,",
+      "timestamp": "2025-06-23T18:00:30.895Z"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "callId": "686e535bd14f3abcfb32de88",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T11:32:43.194Z",
+    "callEnded": "2025-07-09T11:37:03.174Z",
+    "duration": 256,
+    "from": "+19737032606",
+    "to": "+16204558091",
+    "summary": "Akram placed a large order for pickup at Manhattan Bagel but encountered a technical issue during finalization."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Akram Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T11:37:02.051Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi, I wanna place an order for pickup.",
+      "timestamp": "2025-07-09T11:37:02.053Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing Akram! What can I get started for you today?",
+      "timestamp": "2025-07-09T11:37:02.054Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let me get a Manhattan cheesesteak, a toasted plain bagel with butter, five bacon, egg, and cheese on plain bagels, one Taylor ham, egg, and cheese on a sesame, tuna, sesame, bagel, lettuce, tomato, one, Alice Island hot pastrami, one omelette crab with bacon.",
+      "timestamp": "2025-07-09T11:37:02.054Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one",
+      "timestamp": "2025-07-09T11:37:02.054Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One snapple I'm not finished. I'm not finished. One snapple with lemon snapple lemon and two peach snapple.",
+      "timestamp": "2025-07-09T11:37:02.055Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing, one Snapple with lemon and two peach Snapples. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.056Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you can you confirm my order? Repeat the order to me.",
+      "timestamp": "2025-07-09T11:37:02.056Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, so I have the Manhattan Cheesesteak, five Bacon Egg & Cheese on Plain Bagels, one Taylor Ham Egg & Cheese on a Sesame Bagel, lettuce and tomato, one Ellis Island Hot Pastrami, one Ham & Bacon Club, one Snapple with lemon, and two Peach Snapples. Is that all for you today?",
+      "timestamp": "2025-07-09T11:37:02.056Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I did not order the ham bacon club.",
+      "timestamp": "2025-07-09T11:37:02.056Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're absolutely right, let me fix that. So, I have the Manhattan Cheesesteak, five Bacon Egg & Cheese on Plain Bagels, one Taylor Ham Egg & Cheese on a Sesame Bagel with lettuce and tomato, one Ellis Island Hot Pastrami, one Snapple with lemon, and two Peach Snapples. Is that all for you today?",
+      "timestamp": "2025-07-09T11:37:02.057Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. The bacon, egg, and cheese. Can you toast the bagels?",
+      "timestamp": "2025-07-09T11:37:02.057Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing, I can toast the bagels for your Bacon Egg & Cheese. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.057Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Give me a toasted and scooped, plain bagel, with cream cheese.",
+      "timestamp": "2025-07-09T11:37:02.058Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one toasted and scooped plain bagel with cream cheese. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.059Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get an omelette crab with bacon?",
+      "timestamp": "2025-07-09T11:37:02.060Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing, one omelet wrap with bacon. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.060Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. The bacon, egg, and cheese, put salt, pepper, ketchup on it.",
+      "timestamp": "2025-07-09T11:37:02.060Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, I'll add salt, pepper, and ketchup to your Bacon Egg & Cheese. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.060Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "他 们 利 渡 的 项 目 其 实 都 来 有 的",
+      "timestamp": "2025-07-09T11:37:02.060Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You didn't order any tuna sandwiches. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.061Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Let me get tuna and sesame with lettuce and tomato.",
+      "timestamp": "2025-07-09T11:37:02.061Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one tuna on sesame with lettuce and tomato. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.062Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What's my total?",
+      "timestamp": "2025-07-09T11:37:02.062Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total is $69.99. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.062Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Please speak Arabic.",
+      "timestamp": "2025-07-09T11:37:02.063Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but I can't switch to Arabic. I can only assist in English. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.063Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-09T11:37:02.063Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing, we have chicken noodle soup available. Would you like a cup or a bowl?",
+      "timestamp": "2025-07-09T11:37:02.064Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No soup. How about soda? Can I let me get Coca Cola? Coke, 30 ounce.",
+      "timestamp": "2025-07-09T11:37:02.064Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have 12 ounce cans of Coke available. Would you like one?",
+      "timestamp": "2025-07-09T11:37:02.064Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'll take a 12 can 12 ounce can. That's fine.",
+      "timestamp": "2025-07-09T11:37:02.065Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one 12 ounce can of Coke. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.065Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Let me also do, let me also do a Manhattan cheese steak.",
+      "timestamp": "2025-07-09T11:37:02.066Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing, another Manhattan Cheesesteak. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:37:02.066Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Neurologue",
+      "timestamp": "2025-07-09T11:37:02.070Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T11:37:02.071Z] assistant: Perfect, let me get that all put together for you. \n\n",
+      "timestamp": "2025-07-09T11:37:03.174Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-07-09T11:37:02.072Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T11:37:02.072Z] assistant: I'm sorry, there was an issue processing your request. Let me get that all put together for you. \n\n",
+      "timestamp": "2025-07-09T11:37:03.174Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-07-09T11:37:02.073Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T11:37:02.073Z] assistant: I'm sorry, there seems to be a technical issue. Let me try one more time to finalize your order. .\n\n\n",
+      "timestamp": "2025-07-09T11:37:03.174Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-07-09T11:37:02.073Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T11:37:02.073Z] assistant: I'm sorry for the inconvenience. Let me attempt to process your order again.  .\n\n\n\n",
+      "timestamp": "2025-07-09T11:37:03.174Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-07-09T11:37:02.074Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T11:37:02.074Z] assistant: I'm sorry, there seems to be a persistent issue with the system. Let me transfer you to a team member who can assist you directly.  .\n\n\n\n",
+      "timestamp": "2025-07-09T11:37:03.174Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Call ended before tool response was received",
+      "timestamp": "2025-07-09T11:37:02.079Z"
+    }
+  ]
+}

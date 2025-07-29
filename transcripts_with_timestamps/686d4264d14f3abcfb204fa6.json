@@ -1,0 +1,93 @@
+{
+  "callId": "686d4264d14f3abcfb204fa6",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T16:08:04.372Z",
+    "callEnded": "2025-07-08T16:09:10.328Z",
+    "duration": 62,
+    "from": "+31614798622",
+    "to": "+16204558091",
+    "summary": "The customer ordered a plain bagel and is considering spread options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-08T16:09:09.919Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-08T16:09:09.919Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! May I have your",
+      "timestamp": "2025-07-08T16:09:09.920Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Alright.",
+      "timestamp": "2025-07-08T16:09:09.920Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure, I can help with that.",
+      "timestamp": "2025-07-08T16:09:09.920Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What kind of bagger what kind of bagels do you have?",
+      "timestamp": "2025-07-08T16:09:09.921Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of bagels to choose from. Some of our popular options include Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Garlic, and Multigrain. Would you like to hear more options or choose from these?",
+      "timestamp": "2025-07-08T16:09:09.921Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Can you give me the healthiest one with the lowest number of calories?",
+      "timestamp": "2025-07-08T16:09:09.921Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The plain bagel is a great choice for the healthiest option with the lowest number of calories. Would you like to proceed with the plain bagel?",
+      "timestamp": "2025-07-08T16:09:09.921Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yoc plus",
+      "timestamp": "2025-07-08T16:09:09.922Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one plain bagel. Would you like to hear about any customizations or additional options for your bagel?",
+      "timestamp": "2025-07-08T16:09:09.922Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes, please.",
+      "timestamp": "2025-07-08T16:09:09.923Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! For your plain bagel, you can choose from a variety of spreads. Some of our popular options include Plain Cream Cheese",
+      "timestamp": "2025-07-08T16:09:09.923Z"
+    }
+  ]
+}

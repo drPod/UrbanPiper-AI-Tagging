@@ -1,0 +1,357 @@
+{
+  "callId": "686d2d99d14f3abcfb1c0390",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T14:39:21.737Z",
+    "callEnded": "2025-07-08T14:45:44.945Z",
+    "duration": 381,
+    "from": "+19546835387",
+    "to": "+16204558091",
+    "summary": "Robert placed an order for a dozen plain bagels, a Tuna Salad Sandwich, and a tub of plain cream cheese, totaling $32.12 for pickup."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-08T14:45:44.226Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I wanna order a everything bagel.",
+      "timestamp": "2025-07-08T14:45:44.226Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one everything bagel. Would you like to hear about the available customizations for your bagel?",
+      "timestamp": "2025-07-08T14:45:44.226Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Actually, you know what? I wanna change that. I wanna order 50,000 plain bagels.",
+      "timestamp": "2025-07-08T14:45:44.226Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see an option for fifty thousand plain bagels on our menu. Let me share some options: We have single bagels, half dozen bagels, and dozen bagels. Would you like one of these or hear more options?",
+      "timestamp": "2025-07-08T14:45:44.226Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll go with the dozen.",
+      "timestamp": "2025-07-08T14:45:44.226Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great choice! A dozen plain bagels. Would you like to hear about the available customizations for your dozen bagels?",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me if, what is the bagel made out of? What does it come on? What comes with it?",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Plain bagels are made from a traditional wheat dough and are naturally vegan. They come in a dozen of the same kind, and you can choose to have them sliced if you'd like. Would you like to add slicing to your dozen plain bagels for an additional $1.50?",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. But I do wanna get one of them with, tuna fish. Can I get a tuna on the side?",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see tuna on our bagel menu as a direct option, but we do have a Tuna Salad Sandwich if you'd like to add that to your order. Would you like to hear more about it?",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get it as a regular with the bread?",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Instead of white bread?",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see white bread as an option for our Tuna Salad Sandwich. Our sandwiches are served on a choice of bagels or bread listed in our menu. Would you like to hear the available bread or bagel options for the Tuna Salad Sandwich?",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sure. Let me hear the bread.",
+      "timestamp": "2025-07-08T14:45:44.230Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Tuna Salad Sandwich, you can choose from the following bread or bagel options: Plain, Everything, Asiago, Bialy, Cheesy Jalapeño Bacon Roll, Cheesy Hash Brown Roll, California Protein Bar, Chocolate Chip, Cinnamon Raisin, Egg, Egg ",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Plain. Plain.",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it! The Tuna Salad Sandwich will be on a plain bagel. Would you like to hear about any additional customizations or options for your sandwich?",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What comes on the sandwich?",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Tuna Salad Sandwich comes with all white meat tuna salad, lettuce, and tomato. It also includes pickle and a choice of side. Would you like to hear the available side options?",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, the Tuna Salad Sandwich will be on a plain bagel with lettuce, tomato, and pickle. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Mayonnaise on the side.",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! I'll add mayo on the side for your Tuna Salad Sandwich. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get a drink?",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Of course! We have a variety of drinks available. Would you like to hear about our hot coffee, iced coffee, hot chocolate, or other beverage options?",
+      "timestamp": "2025-07-08T14:45:44.235Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. No. A Coke.",
+      "timestamp": "2025-07-08T14:45:44.236Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it! One Coke for your order. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:45:44.236Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So what do you have in the, cart right now?",
+      "timestamp": "2025-07-08T14:45:44.236Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I currently have a dozen plain bagels and a Tuna Salad Sandwich on a plain bagel with mayo on the side, plus one Coke. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:45:44.236Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What about some cream cheese for the bagels? What kind of cream cheese you got?",
+      "timestamp": "2025-07-08T14:45:44.245Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your dozen plain bagels, we have several cream cheese options available: Plain, Vegetable, Store Made Vegetable (Chunky), Scallion/Onion Chive,",
+      "timestamp": "2025-07-08T14:45:44.245Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let me just keep playing.",
+      "timestamp": "2025-07-08T14:45:44.245Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! I'll add one tub of plain cream cheese to go with your dozen plain bagels. Is there anything else I can",
+      "timestamp": "2025-07-08T14:45:44.246Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you give me a yep. Can you give me the breakdown on price on everything?",
+      "timestamp": "2025-07-08T14:45:44.246Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-08T14:45:44.246Z] assistant: Sure! Let me break down the total for you:\n\n- A dozen plain bagels cost $16.99.\n- The Tuna Salad Sandwich on a plain bagel is $9.49.\n- Mayo on the side is an additional $0.75.\n- One Coke is $1.99.\n- One tub of plain cream cheese is $5.99.\n\nThat brings your total to $34.11. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:45:44.945Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Repeat the total again.",
+      "timestamp": "2025-07-08T14:45:44.246Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Of course! Let me go over the total again: - Dozen plain bagels: $16.99 - Tuna Salad Sandwich on plain bagel: $9.49 - Mayo on the side: $0.75 - One Coke: $1.99 - One tub of plain cream cheese: $5.99 Your total is $34.11. Is there anything else I",
+      "timestamp": "2025-07-08T14:45:44.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Total that out one more time for me.",
+      "timestamp": "2025-07-08T14:45:44.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure! Here's the total one more time: - Dozen plain bagels: $16.99 - Tuna Salad Sandwich on a plain bagel: $9.49 - Mayo on the side: $0.75 - One Coke: $1.99 - One tub of plain cream cheese: $5.99",
+      "timestamp": "2025-07-08T14:45:44.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Always find it.",
+      "timestamp": "2025-07-08T14:45:44.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, the total for",
+      "timestamp": "2025-07-08T14:45:44.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Of course. And that's fine. Which is which is all good. And Go ahead. What was the total again?",
+      "timestamp": "2025-07-08T14:45:44.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The total for your order is $34.11. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:45:44.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "You know what? The Coke, take that off.",
+      "timestamp": "2025-07-08T14:45:44.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! I'll remove the Coke from your order. Your new total is $32.12. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:45:44.253Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. How can I pay for that?",
+      "timestamp": "2025-07-08T14:45:44.253Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We accept cash payments for pickup orders. Your total of $32.12 will be ready for you when you come in. Is there anything else I can assist you with today?",
+      "timestamp": "2025-07-08T14:45:44.253Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Am I able to pay for it now?",
+      "timestamp": "2025-07-08T14:45:44.253Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We're set up for pickup only, so you'll pay when you come in to get your order. Your total of $32.12 will be ready for you then. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:45:44.253Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it. And what what what name do I pick it up under? You didn't get any of my info.",
+      "timestamp": "2025-07-08T14:45:44.253Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order?",
+      "timestamp": "2025-07-08T14:45:44.253Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Robert.",
+      "timestamp": "2025-07-08T14:45:44.253Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, Robert! Your order will be ready for pickup under your name. See you soon!",
+      "timestamp": "2025-07-08T14:45:44.254Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Thank you.",
+      "timestamp": "2025-07-08T14:45:44.254Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're",
+      "timestamp": "2025-07-08T14:45:44.254Z"
+    }
+  ]
+}

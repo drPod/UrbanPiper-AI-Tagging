@@ -1,0 +1,93 @@
+{
+  "callId": "6856852e1be7d3da06c74da5",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T10:10:54.067Z",
+    "callEnded": "2025-06-21T10:13:45.216Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul ordered a medium hot latte made with oat milk from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T10:13:43.886Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to order, hot latte.",
+      "timestamp": "2025-06-21T10:13:43.886Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For a hot latte, we have a few options. We can do a small 12oz, medium 16oz, or large 20oz. Which size sounds good to you?",
+      "timestamp": "2025-06-21T10:13:43.886Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order medium size.",
+      "timestamp": "2025-06-21T10:13:43.886Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "A medium hot latte is 4 dollars and 49 cents. Now, let's talk about the type of milk you'd like. We have regular milk, half and half for an extra dollar, skim milk, almond milk for an extra dollar, oat milk for an extra dollar, or soy milk. Which milk would you prefer?",
+      "timestamp": "2025-06-21T10:13:43.886Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Oat milk.",
+      "timestamp": "2025-06-21T10:13:43.901Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So that's a medium hot latte with oat milk. The oat milk adds an extra 0.8 dollars, so the total comes out to be 5 dollars and 29 cents. Now, would you like any flavor shots or sweeteners? We have options like vanilla syrup, hazelnut syrup, or whipped cream for an extra 0.75 dollars.",
+      "timestamp": "2025-06-21T10:13:43.901Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I don't need any whipped cream. You can go ahead and, you know, that's it from my side.",
+      "timestamp": "2025-06-21T10:13:43.902Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T10:13:43.902Z] assistant: Perfect, let me add that to your order. I'm going to go ahead and update your order with a medium hot latte made with oat milk. \n\n{\n  \"action\": \"add\",\n  \"items\": [\n    {\n      \"item_name\": \"Hot Latte\",\n      \"quantity\": 1,\n      \"modifiers\": [\n        {\n          \"group_title\": \"Size\",\n          \"option_title\": \"Medium 16oz\",\n          \"price\": 4.49,\n          \"quantity\": 1\n        },\n        {\n          \"group_title\": \"Specialty Drink Milk Choice\",\n          \"option_title\": \"Oat Milk\",\n          \"price\": 0.8,\n          \"quantity\": 1\n        }\n      ]\n    }\n  ],\n  \"tenantName\": \"manhattan_bagel_864915\",\n  \"storeId\": \"1\"\n}\n\nYour total comes out to be 5 dollars and 29 cents. What else can I get for you?",
+      "timestamp": "2025-06-21T10:13:45.216Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay",
+      "timestamp": "2025-06-21T10:13:43.902Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I think there might have been a slight misunderstanding. It seems like you were about to ask something, but it got cut off. Could you please repeat or complete your question? I'm here to help with any inquiries you might have.",
+      "timestamp": "2025-06-21T10:13:43.902Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. One second. One second.",
+      "timestamp": "2025-06-21T10:13:43.902Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Take your time, Mehul. I'm here when you're ready to continue.",
+      "timestamp": "2025-06-21T10:13:43.902Z"
+    }
+  ]
+}

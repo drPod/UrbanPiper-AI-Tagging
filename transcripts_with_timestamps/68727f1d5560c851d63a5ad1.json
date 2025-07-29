@@ -1,0 +1,33 @@
+{
+  "callId": "68727f1d5560c851d63a5ad1",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T15:28:29.442Z",
+    "callEnded": "2025-07-12T15:29:23.847Z",
+    "duration": 52,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T15:29:23.560Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have avocado BLT sandwich? Hello? Hello?",
+      "timestamp": "2025-07-12T15:29:23.560Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-07-12T15:29:23.560Z"
+    }
+  ]
+}

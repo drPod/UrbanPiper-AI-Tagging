@@ -1,0 +1,57 @@
+{
+  "callId": "6879b86e970f265df9e6afee",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T02:58:54.477Z",
+    "callEnded": "2025-07-18T02:59:46.227Z",
+    "duration": 49,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha attempted to order a Hash Brown and a Big Breakfast Burrito but was informed that the Big Breakfast Burrito was out of stock."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T02:59:45.988Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me hash brown, please.",
+      "timestamp": "2025-07-18T02:59:45.988Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Hash Brown on the menu. I'll add the Hash Brown for you. Now, would you like to add anything else to your order, or is that all for today?",
+      "timestamp": "2025-07-18T02:59:45.989Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And give me big breakfast burrito.",
+      "timestamp": "2025-07-18T02:59:45.989Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Big Breakfast Burrito on the menu. I'll add the Big Breakfast Burrito for you. Now, let's customize it. You'll need to choose a wrap. We have Flour or Wheat. Which would you prefer?",
+      "timestamp": "2025-07-18T02:59:45.989Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is it stock in a stock or start out?",
+      "timestamp": "2025-07-18T02:59:45.989Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. According to our menu, the Big Breakfast Burrito is currently out of stock. I'm sorry for the inconvenience. We have other breakfast ",
+      "timestamp": "2025-07-18T02:59:45.990Z"
+    }
+  ]
+}

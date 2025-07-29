@@ -1,0 +1,39 @@
+{
+  "callId": "68529cd3cb9e39794cf44e6c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T11:02:43.803Z",
+    "callEnded": "2025-06-18T11:03:22.070Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer, Punit, inquired about the first bundle and the agent provided information on the breakfast bundle, which includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T11:03:21.812Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. Can I get, breakfast bundle?",
+      "timestamp": "2025-06-18T11:03:21.812Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what's in the first bundle for you, Punit. ",
+      "timestamp": "2025-06-18T11:03:21.812Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The breakfast bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can",
+      "timestamp": "2025-06-18T11:03:21.812Z"
+    }
+  ]
+}

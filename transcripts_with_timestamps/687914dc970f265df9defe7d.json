@@ -1,0 +1,93 @@
+{
+  "callId": "687914dc970f265df9defe7d",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T15:21:00.977Z",
+    "callEnded": "2025-07-17T15:22:46.752Z",
+    "duration": 103,
+    "from": "+447310143227",
+    "to": "+441313810000",
+    "summary": "The customer ordered an Original Classic sandwich on an Everything bagel with bacon, egg, American cheese, and condiments for pickup."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-17T15:22:46.333Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. I'd like to order a bacon, egg, and cheese sandwich for pickup, please.",
+      "timestamp": "2025-07-17T15:22:46.333Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Original Classic on the menu. I'll add the Original Classic for you. Now, let's customize it. You mentioned bacon and egg, which is already included. For your cheese, I have American, Swiss, Pepper Jack, Cheddar,",
+      "timestamp": "2025-07-17T15:22:46.333Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "American. Definitely American.",
+      "timestamp": "2025-07-17T15:22:46.333Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your bagel choice, I have Plain, Everything, Sesame, or Blueberry.",
+      "timestamp": "2025-07-17T15:22:46.333Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Everything bagel.",
+      "timestamp": "2025-07-17T15:22:46.334Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, that's an Everything bagel with bacon, egg, and American cheese. Would you like it toasted?",
+      "timestamp": "2025-07-17T15:22:46.334Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Definitely toasted. And can you add salt, pepper, and ketchup?",
+      "timestamp": "2025-07-17T15:22:46.334Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, that's an Everything bagel, toasted, with bacon, egg, American cheese, salt, pepper, and ketchup. Anything else you'd like to add, such as lettuce, tomato, or spinach?",
+      "timestamp": "2025-07-17T15:22:46.334Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Nope. That's it. How soon is that gonna be ready?",
+      "timestamp": "2025-07-17T15:22:46.334Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Just a moment while I add that up... Your Original Classic on an Everything bagel, toasted, with bacon, egg, American cheese, salt, pepper, and ketchup, will be ready for pickup in about 15 minutes. Your total comes out to be $8.49. We'll have it ready for you at our location, 1350 Galloping Hill Rd, Union, NJ 07083. Would you like to place another order or is that all for today?",
+      "timestamp": "2025-07-17T15:22:46.334Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's all. Thank you very much.",
+      "timestamp": "2025-07-17T15:22:46.334Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome. I'll go ahead and put that order in for you. We'll see you soon to pick up your Original Classic on an Everything bagel. Have a great day, ",
+      "timestamp": "2025-07-17T15:22:46.335Z"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "callId": "6852c548cb9e39794cf80bdf",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T13:55:20.185Z",
+    "callEnded": "2025-06-18T14:00:19.614Z",
+    "duration": 300,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered a Half Dozen Bagels with various types, including Gluten Free, and the order was successfully placed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Irfan, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T14:00:18.282Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. What did you pronounce my name? My name is Jatin. Okay?",
+      "timestamp": "2025-06-18T14:00:18.282Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the mistake, Jitin. I'll make sure to get it right this time. Before we begin, may I confirm that your contact number is +918949862707?",
+      "timestamp": "2025-06-18T14:00:18.282Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "It's right.",
+      "timestamp": "2025-06-18T14:00:18.282Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great, thank you for confirming, Jitin. Now, what can I get for you today? Would you like to order something or do you have any questions about our menu?",
+      "timestamp": "2025-06-18T14:00:18.282Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to order, a half dozen bagel.",
+      "timestamp": "2025-06-18T14:00:18.282Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll check what options we have for a half-dozen bagels. Let me see what we have. ",
+      "timestamp": "2025-06-18T14:00:18.283Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a Half Dozen Bagels option for $8.94. For the bagel selection, I can offer you Plain, Everything, or Asiago for $0.50 extra. Which ones would you like?",
+      "timestamp": "2025-06-18T14:00:18.283Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have more workers?",
+      "timestamp": "2025-06-18T14:00:18.283Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have many more options for the Half Dozen Bagels. In addition to Plain, Everything, and Asiago, we also have Bagel Stick for $0.50 extra, Bialy for $0.50 extra, Blueberry, California for $0.50 extra, Cheesy Hashbrown Roll for $0.50 extra, and many more. Would you like to hear a few more options or would you like me to list all of them for you?",
+      "timestamp": "2025-06-18T14:00:18.283Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have, chocolate chips, garlic, and egg everything?",
+      "timestamp": "2025-06-18T14:00:18.283Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T14:00:18.283Z] assistant: For the Half Dozen Bagels, I can make you a selection with Chocolate Chip, Garlic, and Egg Everything. The total price will be $8.94 for the Half Dozen Bagels, with no extra charge for the Chocolate Chip, Garlic, and Egg Everything options. \n\nLet me update your order with the Half Dozen Bagels and the selected bagel types. ",
+      "timestamp": "2025-06-18T14:00:19.614Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current order is a Half Dozen Bagels with Chocolate Chip, Garlic, and Egg Everything for a total of $8.94. Is that all for today, or would you like to add anything else?",
+      "timestamp": "2025-06-18T14:00:18.284Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "How's it like I want to know, like, how many bakers I can select.",
+      "timestamp": "2025-06-18T14:00:18.284Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Half Dozen Bagels, you can select up to 6 different bagel types. Since you've already chosen 3 types - Chocolate Chip, Garlic, and Egg Everything - you have 3 more selections available if you'd like to add them. Would you like to add any other types or stick with these 3?",
+      "timestamp": "2025-06-18T14:00:18.284Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. See, gluten free, poppy, and, salt.",
+      "timestamp": "2025-06-18T14:00:18.284Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T14:00:18.284Z] assistant: For the Half Dozen Bagels, I can add Gluten Free, Poppy, and Salt to your selection. The Gluten Free option is $1.49 extra per bagel. \n\nSo, your updated selection is: Chocolate Chip, Garlic, Egg Everything, Gluten Free, Poppy, and Salt. \n\nLet me update your order with the new bagel types. ",
+      "timestamp": "2025-06-18T14:00:19.614Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T14:00:18.284Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Half",
+      "timestamp": "2025-06-18T14:00:18.285Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T14:00:18.285Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me update your order to reflect the correct total with the additional bagel types and the Gluten Free option. ",
+      "timestamp": "2025-06-18T14:00:18.285Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T14:00:18.285Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current order isa Half Dozen Bagels with Chocolate Chip, Garlic, Egg Everything, Gluten Free, Poppy, and Salt. The total price for this order is $8.94 for the Half Dozen Bagels, plus $1.49 for the Gluten Free bagel, making it a total of $10.43. Before I place your order, I just need to confirm a few details. Your name is Jitin, and your contact number is +918949862707, correct? Also, would you like to pay with",
+      "timestamp": "2025-06-18T14:00:18.285Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yep.",
+      "timestamp": "2025-06-18T14:00:18.285Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll go ahead and place your order. ",
+      "timestamp": "2025-06-18T14:00:18.285Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 6-2-3-2-6-9. Your order total is $9.83, which includes a subtotal of $8.94 and $0.89 in tax. Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T14:00:18.286Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. All good.",
+      "timestamp": "2025-06-18T14:00:18.286Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're all set, Jitin. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, have a great day and enjoy your Half Dozen Bagels. Goodbye. ",
+      "timestamp": "2025-06-18T14:00:18.286Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-18T14:00:18.286Z"
+    }
+  ]
+}

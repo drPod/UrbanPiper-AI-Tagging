@@ -1,0 +1,177 @@
+{
+  "callId": "6857b6ed1be7d3da06de6437",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-22T07:55:25.843Z",
+    "callEnded": "2025-06-22T07:59:35.491Z",
+    "duration": 300,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jatin ordered a Breakfast Bundle with specific customizations, but the order was not successfully placed due to an issue with the ordering tool."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jatin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-22T07:59:34.198Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle?",
+      "timestamp": "2025-06-22T07:59:34.198Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, excellent choice. That includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get the options for your bagel choices...",
+      "timestamp": "2025-06-22T07:59:34.198Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me help you customize your Breakfast Bundle. You have 13 fresh-baked Manhattan Bagels to choose from. We have a variety of bagel options such as Plain, Everything, Asiago, Blueberry, and many more. Which bagels would you like to choose?",
+      "timestamp": "2025-06-22T07:59:34.199Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, 13 of blueberry. Okay. So seven of blueberry, two of, chocolate chip, and the rest are egg.",
+      "timestamp": "2025-06-22T07:59:34.199Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's get the options for your cream cheese choices...",
+      "timestamp": "2025-06-22T07:59:34.199Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your cream cheese, we have options like Plain Cream Cheese, Vegetable Cream Cheese, and many more. Which two types of cream cheese would you like to choose?",
+      "timestamp": "2025-06-22T07:59:34.200Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "A",
+      "timestamp": "2025-06-22T07:59:34.200Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll choose this scallion and, vegetable cream cheese.",
+      "timestamp": "2025-06-22T07:59:34.251Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your muffin choices...",
+      "timestamp": "2025-06-22T07:59:34.251Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your muffins, we have options like Blueberry, Corn, Double Chocolate, and more. Which four muffins would you like to choose?",
+      "timestamp": "2025-06-22T07:59:34.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Corn and, blueberry chocolate chips and cinnamon chips. Hello?",
+      "timestamp": "2025-06-22T07:59:34.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "You there? Hello?",
+      "timestamp": "2025-06-22T07:59:34.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm here. Now, let me get the options for your coffee box...",
+      "timestamp": "2025-06-22T07:59:34.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your coffee box, we have options like House Blend, Decaf, Vanilla Hazelnut, and more. Which type of coffee would you like to choose?",
+      "timestamp": "2025-06-22T07:59:34.253Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to choose dark roast.",
+      "timestamp": "2025-06-22T07:59:34.254Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order...",
+      "timestamp": "2025-06-22T07:59:34.254Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-22T07:59:34.254Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-22T07:59:34.254Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-22T07:59:34.255Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your cart is empty. Please add items to your cart before placing an order.",
+      "timestamp": "2025-06-22T07:59:34.255Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What happened?",
+      "timestamp": "2025-06-22T07:59:34.255Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It seems like your",
+      "timestamp": "2025-06-22T07:59:34.265Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "You haven't used you haven't used the order date order to can you please use that?",
+      "timestamp": "2025-06-22T07:59:34.265Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll make sure the kitchen knows...",
+      "timestamp": "2025-06-22T07:59:34.265Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added your special instructions to the order.",
+      "timestamp": "2025-06-22T07:59:34.266Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-22T07:59:34.266Z"
+    }
+  ]
+}

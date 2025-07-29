@@ -1,0 +1,33 @@
+{
+  "callId": "686e54dcd14f3abcfb33047a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T11:39:08.613Z",
+    "callEnded": "2025-07-09T11:39:27.196Z",
+    "duration": 18,
+    "from": "+19737032606",
+    "to": "+16204558091",
+    "summary": "The call concluded with the user asking if the assistant speaks other languages."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Akram Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T11:39:27.034Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you speak any other language?",
+      "timestamp": "2025-07-09T11:39:27.034Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm fluent in English and can assist with your order in a friendly and helpful manner. If you have any questions or",
+      "timestamp": "2025-07-09T11:39:27.034Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "callId": "686a4f2f45548bd51c043cc9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-06T10:25:51.264Z",
+    "callEnded": "2025-07-06T10:26:47.158Z",
+    "duration": 54,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin placed an order for a Big Breakfast Burrito at Manhattan Bagel, but the call ended before completing the order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-06T10:26:46.937Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. I'd like to order, Big Mixes burrito.",
+      "timestamp": "2025-07-06T10:26:46.937Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One Big Breakfast Burrito. To get that started, what kind of wrap would you like? We have flour or wheat.",
+      "timestamp": "2025-07-06T10:26:46.938Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sorry? Pardon?",
+      "timestamp": "2025-07-06T10:26:46.938Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "No problem at all. So, you'd like to order a Big Breakfast Burrito. To get that started, what kind of wrap would you like? We have flour or wheat.",
+      "timestamp": "2025-07-06T10:26:46.938Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What options I'm having more?",
+      "timestamp": "2025-07-06T10:26:46.938Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Big Breakfast Burrito, you can choose from flour or wheat for the",
+      "timestamp": "2025-07-06T10:26:46.941Z"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "callId": "6855aa591be7d3da06baa51a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T18:37:13.972Z",
+    "callEnded": "2025-06-20T18:38:46.664Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav placed an order for a Hot Latte at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T18:38:46.425Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get hot hot latte?",
+      "timestamp": "2025-06-20T18:38:46.425Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what I can find for you. ",
+      "timestamp": "2025-06-20T18:38:46.425Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Found 3 item(s) for your search: Hot Latte, Iced Latte, HOT Coffee or Tea . See 'item_details' for more information.",
+      "timestamp": "2025-06-20T18:38:46.425Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a Hot Latte for you. The price is $2.49. Would you like to add any flavor shots to that?",
+      "timestamp": "2025-06-20T18:38:46.426Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Just simple. Please stay at the order.",
+      "timestamp": "2025-06-20T18:38:46.426Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me confirm your order. You'd like a Hot Latte for $2.49. Your total comes out to be 249 cents. Is that correct?",
+      "timestamp": "2025-06-20T18:38:46.426Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-20T18:38:46.426Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Before I place your order, may I have your name for the order, please?",
+      "timestamp": "2025-06-20T18:38:46.426Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Got it.",
+      "timestamp": "2025-06-20T18:38:46.426Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total is 249 cents. Anything else you'd like to add or any special instructions?",
+      "timestamp": "2025-06-20T18:38:46.426Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-20T18:38:46.426Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Ready to place this order for pickup, Gaurav?",
+      "timestamp": "2025-06-20T18:38:46.427Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-20T18:38:46.427Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect! I've submitted your order. Let me get your confirmation number, this will just take a moment...",
+      "timestamp": "2025-06-20T18:38:46.427Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is #1234. Your total is 249 cents, which includes a subtotal of 249 cents and no tax. We will have your order ready for pickup at our store location. Thank you for choosing Manhattan Bagel, have a great day!",
+      "timestamp": "2025-06-20T18:38:46.427Z"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "callId": "6859166d1be7d3da06007f77",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T08:55:09.382Z",
+    "callEnded": "2025-06-23T08:56:57.120Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer attempted to order a Breakfast Bundle but the call ended abruptly due to an invalid cream cheese option being selected."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T08:56:56.929Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T08:56:56.930Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, great choice. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T08:56:56.930Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Do you want to proceed with the customization now?",
+      "timestamp": "2025-06-23T08:56:56.930Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-23T08:56:56.930Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the Bagel Dozen. We have 19 types of bagels to choose from, including Plain, Everything, Asiago, and more. You need to choose exactly 13 bagels. Which ones would you like?",
+      "timestamp": "2025-06-23T08:56:56.930Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want all of 13 as garlic bagel.",
+      "timestamp": "2025-06-23T08:56:56.930Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T08:56:56.930Z] assistant: You'd like all 13 bagels to be Garlic. That's a great choice. \n\nNext, for the Choose 2 Tubs of Spread, we have options like Plain Cream Cheese, Vegetable Cream Cheese, and more. You need to choose exactly 2 tubs of spread. Which two would you like?",
+      "timestamp": "2025-06-23T08:56:57.120Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Vanilla and, vegetable.",
+      "timestamp": "2025-06-23T08:56:56.930Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen Vanilla and Vegetable Cream Cheese as your two tubs of spread. Moving on to the Choose 4 Muffins, we have options like Blueberry, Corn, Double Chocolate, and more. You can choose",
+      "timestamp": "2025-06-23T08:56:56.930Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T08:56:56.931Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Vanilla is not a valid option for the cream cheese spreads. You had chosen Vanilla and Vegetable earlier, but since Vanilla is not available, let's replace it with a different option. How about Plain Cream Cheese or Scallion/Onion Chive instead?",
+      "timestamp": "2025-06-23T08:56:56.931Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Then why are you proceeding?",
+      "timestamp": "2025-06-23T08:56:56.931Z"
+    }
+  ]
+}

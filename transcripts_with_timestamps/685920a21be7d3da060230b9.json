@@ -1,0 +1,117 @@
+{
+  "callId": "685920a21be7d3da060230b9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T09:38:42.325Z",
+    "callEnded": "2025-06-23T09:41:18.282Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Gaurav ordered a Breakfast Bundle with thirteen Sesame bagels, one Vanilla and one Vegetable Cream Cheese, two Corn and two Blueberry muffins, and a House Blend coffee."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T09:41:18.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order breakfast bundle.",
+      "timestamp": "2025-06-23T09:41:18.102Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, great choice. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T09:41:18.102Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Do you want to proceed with the customization now?",
+      "timestamp": "2025-06-23T09:41:18.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-23T09:41:18.102Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, for the thirteen bagels in your Bagel Dozen, we have options like Plain, Everything, Asiago, and more. Which ones would you like? You can choose a variety if you'd like.",
+      "timestamp": "2025-06-23T09:41:18.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "All 13, should be sesame.",
+      "timestamp": "2025-06-23T09:41:18.102Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thirteen Sesame bagels. Next, for your two tubs of spread, we have Plain Cream Cheese, Vegetable Cream Cheese, and others. Which two would you like?",
+      "timestamp": "2025-06-23T09:41:18.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T09:41:18.102Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One Vanilla and one Vegetable Cream Cheese. Now, for your four muffins, you can choose from Blueberry, Corn, Double Chocolate, and more. Which ones would you like?",
+      "timestamp": "2025-06-23T09:41:18.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One, two of corn, two of blueberry.",
+      "timestamp": "2025-06-23T09:41:18.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Two Corn and two Blueberry muffins. Lastly, for the Box of Coffee, would you like House Blend, Decaf, or another option?",
+      "timestamp": "2025-06-23T09:41:18.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "How's Glenn?",
+      "timestamp": "2025-06-23T09:41:18.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "House Blend it is. Perfect, let me add that to your order...",
+      "timestamp": "2025-06-23T09:41:18.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T09:41:18.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. I'm still with you.",
+      "timestamp": "2025-06-23T09:41:18.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-23T09:41:18.103Z"
+    }
+  ]
+}

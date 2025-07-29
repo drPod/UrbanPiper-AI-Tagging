@@ -1,0 +1,153 @@
+{
+  "callId": "686d2981d14f3abcfb1b3626",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T14:21:53.304Z",
+    "callEnded": "2025-07-08T14:24:47.065Z",
+    "duration": 170,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer ordered a breakfast bundle with specific bagel selections, two tubs of spread, and inquired about muffins and a box of coffee."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T14:24:45.923Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have vulnerabilities?",
+      "timestamp": "2025-07-08T14:24:45.923Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see vanilla bagels on our menu. Let me share some options: Plain, Everything, Blueberry, Chocolate Chip, ",
+      "timestamp": "2025-07-08T14:24:45.923Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I want to I I want to order breakfast bundle, where I want to, you know, have five sesame, five everything, and two vanilla and one, garlic bagel.",
+      "timestamp": "2025-07-08T14:24:45.923Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see vanilla bagels on our menu. Let me share some options: Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic,",
+      "timestamp": "2025-07-08T14:24:45.923Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Then okay. You can you can replace the vanilla bagels with the chocolate chip.",
+      "timestamp": "2025-07-08T14:24:45.924Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing. So for your breakfast bundle, I have five sesame, five everything, two chocolate chip, and one garlic bagel. Is that all for you today?",
+      "timestamp": "2025-07-08T14:24:45.924Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-08T14:24:45.924Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let",
+      "timestamp": "2025-07-08T14:24:45.924Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And, also, can I get more, more more, like, two types of spread over there? Like,",
+      "timestamp": "2025-07-08T14:24:45.924Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing. For your breakfast bundle, you can choose two tubs of spread. We have options like plain cream cheese, vegetable cream cheese, scallion, strawberry, and more. Would you like to hear some of these options or choose from these?",
+      "timestamp": "2025-07-08T14:24:45.925Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I like to have strawberry in one vanilla, tub.",
+      "timestamp": "2025-07-08T14:24:45.925Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see a vanilla tub of spread available. Our options include plain cream cheese, strawberry, scallion, and more. Would you like strawberry",
+      "timestamp": "2025-07-08T14:24:45.925Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. One one strawberry, one plain cream cheese.",
+      "timestamp": "2025-07-08T14:24:45.925Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it. One tub of strawberry and one tub of plain cream cheese. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:24:45.925Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Are we done with the all modifiers?",
+      "timestamp": "2025-07-08T14:24:45.925Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're all set with the modifiers for your breakfast bundle. Let me confirm your order: you have five sesame, five everything, two",
+      "timestamp": "2025-07-08T14:24:45.926Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I'm asking you, have we have we covered all the modifiers?",
+      "timestamp": "2025-07-08T14:24:45.926Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, we've covered all the modifiers for your breakfast bundle. You've selected the bagels and the two tubs of spread. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:24:45.926Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "How about muffins and box of coffee?",
+      "timestamp": "2025-07-08T14:24:45.926Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your breakfast bundle, you can choose four muffins. We have options like blueberry, corn, double chocolate, chocolate chip, cinnamon chip, and cranberry orange. Would you like to hear some of these options or choose from these?",
+      "timestamp": "2025-07-08T14:24:45.926Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-08T14:24:45.927Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it. For your muffins, we have blueberry, corn, double",
+      "timestamp": "2025-07-08T14:24:45.927Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "callId": "685291b8cb9e39794cf33819",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T10:15:20.378Z",
+    "callEnded": "2025-06-18T10:16:20.178Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer inquired about breakfast sandwich options at Manhattan Bagel and was presented with various choices, but did not place an order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T10:16:19.857Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order, something from breakfast, sandwich. Can can I know, like, what you have in breakfast?",
+      "timestamp": "2025-06-18T10:16:19.857Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check our breakfast options for you.",
+      "timestamp": "2025-06-18T10:16:19.858Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a Box of Sweets available for breakfast. It includes muffins, pastries, and crumb cake. Would you like to go with the breakfast sweets option or the lunch sweets option?",
+      "timestamp": "2025-06-18T10:16:19.858Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I want to know, something in, sandwich breakfast sandwich.",
+      "timestamp": "2025-06-18T10:16:19.859Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check our breakfast sandwich options for you.",
+      "timestamp": "2025-06-18T10:16:19.860Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of breakfast sandwiches available. Some options include the Original Classic, Spinach Bacon Croissant,",
+      "timestamp": "2025-06-18T10:16:19.861Z"
+    }
+  ]
+}

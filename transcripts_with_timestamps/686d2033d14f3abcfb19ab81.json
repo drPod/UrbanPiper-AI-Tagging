@@ -1,0 +1,81 @@
+{
+  "callId": "686d2033d14f3abcfb19ab81",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T13:42:11.478Z",
+    "callEnded": "2025-07-08T13:43:44.688Z",
+    "duration": 91,
+    "from": "+18058951289",
+    "to": "+16204558091",
+    "summary": "The customer ordered a plain bagel with plain cream cheese, cut into thirds."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-08T13:43:43.443Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want a bagel with cream cheese and sprinkles.",
+      "timestamp": "2025-07-08T13:43:43.444Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see a bagel with cream cheese and sprinkles on our menu. Let me share some options: we have a Bagel with Spread, which includes various cream cheese flavors, and a Fruity Rice Crispy Treat that has colorful sprinkles. Would you like to hear more about either of these?",
+      "timestamp": "2025-07-08T13:43:43.444Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Tell me more about the bagel.",
+      "timestamp": "2025-07-08T13:43:43.444Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Bagel with Spread includes a bagel of your choice topped with a variety of cream cheese flavors like plain, scallion, strawberry, jalapeño, honey almond, and more. You can also add extra toppings ",
+      "timestamp": "2025-07-08T13:43:43.444Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Just regular cream cheese. Regular cream cheese. I'm a little crazy on me.",
+      "timestamp": "2025-07-08T13:43:43.444Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it! A Bagel with Spread featuring regular cream cheese is a great choice. You can pick your favorite bagel and enjoy it with plain cream cheese. Would you like to choose your bagel type now? We have options like plain,",
+      "timestamp": "2025-07-08T13:43:43.444Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Plain bagel plain bagel and cut it in thirds.",
+      "timestamp": "2025-07-08T13:43:43.444Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! A plain bagel with plain cream cheese, cut into thirds. Is there anything else I can add to that for you?",
+      "timestamp": "2025-07-08T13:43:43.445Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Diet Doctor Pepper.",
+      "timestamp": "2025-07-08T13:43:43.445Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Diet Dr. Pepper on our beverage menu. We do have options like Coke, Diet Coke, Sprite, Ginger Ale, and Coke Zero. Would you like",
+      "timestamp": "2025-07-08T13:43:43.445Z"
+    }
+  ]
+}

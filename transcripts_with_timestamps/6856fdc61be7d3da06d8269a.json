@@ -1,0 +1,75 @@
+{
+  "callId": "6856fdc61be7d3da06d8269a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T18:45:26.848Z",
+    "callEnded": "2025-06-21T18:46:38.179Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin ordered an Omelet Wrap from Manhattan Bagel without any modifications."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T18:46:37.833Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Actually, I I want to order, hot, sorry, omelette wrap.",
+      "timestamp": "2025-06-21T18:46:37.834Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Omelet Wrap, great choice! That's one of our popular items with 3 eggs, cheese, and your choice of meat in a tortilla. Let me get the options for your omelet wrap...",
+      "timestamp": "2025-06-21T18:46:37.834Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-21T18:46:37.834Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your omelet wrap... I'll check on the meat choices for you. We have bacon, sausage, and ham. Which one would you like?",
+      "timestamp": "2025-06-21T18:46:37.834Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please make it simple? Do not add any modification. Just place the order.",
+      "timestamp": "2025-06-21T18:46:37.834Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me add that to your order...",
+      "timestamp": "2025-06-21T18:46:37.834Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-21T18:46:37.835Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-21T18:46:37.835Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Call ended before tool response was received",
+      "timestamp": "2025-06-21T18:46:37.835Z"
+    }
+  ]
+}

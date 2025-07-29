@@ -1,0 +1,57 @@
+{
+  "callId": "6852f30fcb9e39794c00eb0c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T17:10:39.953Z",
+    "callEnded": "2025-06-18T17:11:41.045Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Gaurav ordered a medium hot latte and an avocado toast from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T17:11:40.646Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order hot chocolate.",
+      "timestamp": "2025-06-18T17:11:40.646Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what I can find for you. ",
+      "timestamp": "2025-06-18T17:11:40.646Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a hot latte for you. We have three sizes for the hot latte: small 12oz, medium 16oz, and large 20oz. Which size would you like?",
+      "timestamp": "2025-06-18T17:11:40.647Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size. Also, I want to order avocado toast as well.",
+      "timestamp": "2025-06-18T17:11:40.647Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the hot latte, I can make that a medium size for $4.49. Now, let me see what I can find for the avocado toast. ",
+      "timestamp": "2025-06-18T17:11:40.647Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the avocado toast, we have several bagel options. Which one would you like? We have plain, everything, asiago for an extra 50 cents, blueberry, and many more.",
+      "timestamp": "2025-06-18T17:11:40.648Z"
+    }
+  ]
+}

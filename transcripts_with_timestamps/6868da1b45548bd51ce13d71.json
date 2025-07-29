@@ -1,0 +1,45 @@
+{
+  "callId": "6868da1b45548bd51ce13d71",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-05T07:54:03.778Z",
+    "callEnded": "2025-07-05T07:55:11.650Z",
+    "duration": 63,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "Jitin ordered a Breakfast Bundle from Manhattan Bagel, selecting 4 Everything bagels and proceeding with the customization process."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-05T07:55:11.490Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I, order a breakfast bundle?",
+      "timestamp": "2025-07-05T07:55:11.490Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-05T07:55:11.490Z] assistant: One Breakfast Bundle coming right up. A Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and you also have the option to add 4oz of premium Acme smoked nova for just $9.99. \n\nFirst, let's get started with the bagels. Which 13 bagels would you like to choose? You can pick from our variety, such as Plain, Everything, Asiago, Blueberry, and many more.",
+      "timestamp": "2025-07-05T07:55:11.650Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get four sesame?",
+      "timestamp": "2025-07-05T07:55:11.490Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you've chosen 4 Everything bagels. I'll make sure to add those to your order. Next, let's move on to the cream cheese. You get to choose 2 tubs of cream cheese. We have a variety of flavors such as Plain, ",
+      "timestamp": "2025-07-05T07:55:11.490Z"
+    }
+  ]
+}

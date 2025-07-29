@@ -1,0 +1,45 @@
+{
+  "callId": "686d41afd14f3abcfb202c41",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T16:05:03.551Z",
+    "callEnded": "2025-07-08T16:06:02.794Z",
+    "duration": 57,
+    "from": "+918867706225",
+    "to": "+19198136886",
+    "summary": "The call ended without the customer placing an order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-08T16:06:02.376Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "How can you assist me with today?",
+      "timestamp": "2025-07-08T16:06:02.376Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm here to help you place your order for pickup at Manhattan Bagel in Union, New Jersey. We have a wide variety of breakfast sandwiches, bagels, pastries, and more. What would you like to order today?",
+      "timestamp": "2025-07-08T16:06:02.376Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-07-08T16:06:02.377Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you for calling. Have a great day. Goodbye.",
+      "timestamp": "2025-07-08T16:06:02.377Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "callId": "687a4cdda1698f75072b362a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T13:32:13.997Z",
+    "callEnded": "2025-07-18T13:32:57.659Z",
+    "duration": 39,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha inquired about ordering a Pastry but was informed it was out of stock and offered alternative options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T13:32:57.364Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please get the pastry?",
+      "timestamp": "2025-07-18T13:32:57.364Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Pastry on the menu. I'll add the Pastry for you. Now, let me help you customize it. What type of Pastry would you like? We have Blueberry, ",
+      "timestamp": "2025-07-18T13:32:57.365Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is it in the stock right now?",
+      "timestamp": "2025-07-18T13:32:57.365Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. According to our menu, the Pastry is currently out of stock. I'm sorry, but our Pastry is currently out of stock today. We have Muffins, Cookies, or a Fruit Cup as alternatives. Which would you prefer?",
+      "timestamp": "2025-07-18T13:32:57.365Z"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "callId": "6856a5f61be7d3da06ca6347",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T12:30:46.846Z",
+    "callEnded": "2025-06-21T12:32:45.504Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin placed an order for a medium decaf hot coffee with half and half milk at Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T12:32:45.265Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hot coffee, medium size, big cap, and, half and half milk. That's it.",
+      "timestamp": "2025-06-21T12:32:45.265Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'd be happy to help you with that. So, you'd like a medium-sized decaf hot coffee with half and half milk, correct? Let me just add that to your order. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-21T12:32:45.265Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $1.00",
+      "timestamp": "2025-06-21T12:32:45.265Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $1.00. What else can I get you?",
+      "timestamp": "2025-06-21T12:32:45.265Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Nothing.",
+      "timestamp": "2025-06-21T12:32:45.265Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, so that's a medium decaf hot coffee with half and half milk. I'll go ahead and place this order for you. Alright, let me place this order for you... ",
+      "timestamp": "2025-06-21T12:32:45.266Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully! Your order number is 251979. Total: $1.00. Thank you for your order!",
+      "timestamp": "2025-06-21T12:32:45.266Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully. Your order number is 251979. The total comes out to be one dollar. We appreciate your business and hope you enjoy your medium decaf hot coffee with half and half milk. Have a great day.",
+      "timestamp": "2025-06-21T12:32:45.266Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-21T12:32:45.266Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can you please try it again? I like one one once more, like, can you place the order again?",
+      "timestamp": "2025-06-21T12:32:45.266Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll go ahead and place this order for you again. Alright, let me place this order for you... ",
+      "timestamp": "2025-06-21T12:32:45.266Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-21T12:32:45.266Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the inconvenience. It seems like the tool timed out. Let me try again to place your order. ",
+      "timestamp": "2025-06-21T12:32:45.267Z"
+    }
+  ]
+}

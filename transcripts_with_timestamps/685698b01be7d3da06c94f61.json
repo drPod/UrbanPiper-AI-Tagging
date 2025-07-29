@@ -1,0 +1,21 @@
+{
+  "callId": "685698b01be7d3da06c94f61",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T11:34:08.737Z",
+    "callEnded": "2025-06-21T11:34:40.412Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin inquired about ordering from Manhattan Bagel but the conversation was cut short."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T11:34:40.275Z"
+    }
+  ]
+}

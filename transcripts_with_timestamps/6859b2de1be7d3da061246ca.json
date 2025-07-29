@@ -1,0 +1,39 @@
+{
+  "callId": "6859b2de1be7d3da061246ca",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T20:02:38.363Z",
+    "callEnded": "2025-06-23T20:03:07.047Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin, an existing customer, called Manhattan Bagel and immediately requested to speak with a human agent."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T20:03:06.912Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to, I want to talk to a human agent, please.",
+      "timestamp": "2025-06-23T20:03:06.912Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can transfer you to a human agent. Let me go ahead and do that for you. ",
+      "timestamp": "2025-06-23T20:03:06.912Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Call ended before tool response was received",
+      "timestamp": "2025-06-23T20:03:06.912Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "callId": "687270895560c851d6373a9c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T14:26:17.666Z",
+    "callEnded": "2025-07-12T14:27:33.626Z",
+    "duration": 74,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jutin attempted to order an Avocado BLT sandwich and after some clarification, it was found that the item does exist on the menu and the conversation began to discuss bread choices."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T14:27:33.213Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm going to order this, a walkout of BLT sandwich.",
+      "timestamp": "2025-07-12T14:27:33.213Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Big Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?",
+      "timestamp": "2025-07-12T14:27:33.214Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I I want, avocado BLT sandwich.",
+      "timestamp": "2025-07-12T14:27:33.214Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Avocado BLT sandwich on our menu. However, we do have an Avocado BLT Sandwich. You'll need to pick just one bread choice for your Avocado BLT. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California Protein ",
+      "timestamp": "2025-07-12T14:27:33.214Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One one second. One sec. One second. One second. We are talking about which item?",
+      "timestamp": "2025-07-12T14:27:33.214Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We were discussing the Avocado BLT sandwich. I found that we do have an Avocado BLT Sandwich on our menu. For the Avocado BLT, you'll need to pick just one bread choice. We have Plain Bagel, Everything Bagel,",
+      "timestamp": "2025-07-12T14:27:33.214Z"
+    }
+  ]
+}

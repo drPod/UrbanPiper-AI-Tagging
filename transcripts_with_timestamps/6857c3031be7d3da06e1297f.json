@@ -1,0 +1,105 @@
+{
+  "callId": "6857c3031be7d3da06e1297f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-22T08:46:59.977Z",
+    "callEnded": "2025-06-22T08:49:25.200Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul placed an order for a Breakfast Bundle with 13 plain bagels and two tubs of spread, and the order was successfully placed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jatin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-22T08:49:24.924Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle.",
+      "timestamp": "2025-06-22T08:49:24.927Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, excellent choice. That includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to add 4oz of premium Acme smoked nova for just $9.99 to make it extra special?",
+      "timestamp": "2025-06-22T08:49:24.928Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't want that. I just want breakfast bundle.",
+      "timestamp": "2025-06-22T08:49:24.928Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices... ",
+      "timestamp": "2025-06-22T08:49:24.928Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the bagel choices for your Breakfast Bundle. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like to choose? Also, for the spreads, we have options like Plain Cream Cheese, Vegetable Cream Cheese, and Store Made Vegetable. Which 2 tubs of spread would you like to choose? Additionally,",
+      "timestamp": "2025-06-22T08:49:24.928Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So with with the with the, bagel, I I love to have forty, thirteen, plain bagel and spread plain cream cheese and scallion cream cheese.",
+      "timestamp": "2025-06-22T08:49:24.928Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me add that to your order. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-22T08:49:24.928Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $29.99",
+      "timestamp": "2025-06-22T08:49:24.929Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the Breakfast Bundle with 13 plain bagels, plain cream cheese, and scallion cream cheese to your order. Your total comes out to be $29.99. Before we finalize, may I have your name for the order?",
+      "timestamp": "2025-06-22T08:49:24.929Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "How many times you will be asking me my name? My name is Mehul.",
+      "timestamp": "2025-06-22T08:49:24.929Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the confusion earlier, Mehul. I've got your name now. Let me get your order placed for you... ",
+      "timestamp": "2025-06-22T08:49:24.929Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 877440. That's 8, 7, 7, 4, 4, 0. Total: $32.98 (subtotal 29.99 dollars plus 2.99 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-22T08:49:24.929Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Mehul, your order is placed. Your order number is 8, 7, 7, 4, 4, 0. Your total comes out to be 29.99 dollars for the subtotal and 2.99 dollars for the tax, making it a total of 32.98 dollars. We'll have that ready for you shortly. Thank you for your order!",
+      "timestamp": "2025-06-22T08:49:24.929Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me! ",
+      "timestamp": "2025-06-22T08:49:24.929Z"
+    }
+  ]
+}

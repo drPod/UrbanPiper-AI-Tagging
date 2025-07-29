@@ -1,0 +1,57 @@
+{
+  "callId": "6871f8115560c851d6262a40",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T05:52:17.778Z",
+    "callEnded": "2025-07-12T05:54:25.792Z",
+    "duration": 125,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer ordered a Breakfast Bundle with specific bagel, cream cheese, and muffin selections."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-12T05:54:25.552Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. Yeah. I'd like to order a breakfast bundle. Can I get the breakfast bundle now?",
+      "timestamp": "2025-07-12T05:54:25.553Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T05:54:25.553Z] assistant: Got it! The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). \n\nFirst, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?",
+      "timestamp": "2025-07-12T05:54:25.792Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll go with the, five sesame, five everything, and the two plain, one vanilla, and, one garlic, and, one, blueberry.",
+      "timestamp": "2025-07-12T05:54:25.553Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T05:54:25.553Z] assistant: Perfect! That's thirteen bagels selected. Now, you'll need to pick just two tubs of cream cheese for your bundle. We have Plain, Vegetable, Strawberry, Honey Almond, and Jalapeño. Which two would you like to include?\n\nAlso, for the muffins, you'll need to choose four types from our selection. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. What would you like for your muffins?",
+      "timestamp": "2025-07-12T05:54:25.792Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. So for the two, tub of cream cheese, I will go with one plain cream cheese and, one vanilla cream cheese.",
+      "timestamp": "2025-07-12T05:54:25.553Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it! You've selected one Plain cream cheese and one Vanilla cream cheese. Now, for the four muffins, we have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which four would you like to include in your bundle?",
+      "timestamp": "2025-07-12T05:54:25.553Z"
+    }
+  ]
+}

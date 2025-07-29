@@ -1,0 +1,33 @@
+{
+  "callId": "686e9339d14f3abcfb3b6425",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T16:05:13.178Z",
+    "callEnded": "2025-07-09T16:05:54.999Z",
+    "duration": 40,
+    "from": "+19725155417",
+    "to": "+16204558091",
+    "summary": "The user requested an Avocado BLT sandwich, which is not available, and was presented with alternative options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Sonu Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T16:05:54.745Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. Can I get an avocado BLT sandwich on your Asiago bagel? And I want toasted dark, Add jalapenos, spinach, provolone and cheese, mustard, and hot sauce. Also, double lunch protein, and have a bag of Lace chips on the side.",
+      "timestamp": "2025-07-09T16:05:54.745Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you",
+      "timestamp": "2025-07-09T16:05:54.745Z"
+    }
+  ]
+}

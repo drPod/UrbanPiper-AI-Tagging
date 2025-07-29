@@ -1,0 +1,69 @@
+{
+  "callId": "6852f180cb9e39794c00b731",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T17:04:00.078Z",
+    "callEnded": "2025-06-18T17:05:29.794Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Gaurav ordered a Single Bagel for $1.49 from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T17:05:29.503Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. I'd like to make an order of, blueberry bagel and, yeah, blueberry bagel. Do you have blueberry bagel sandwich?",
+      "timestamp": "2025-06-18T17:05:29.503Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few items for your search. We have an Egg on a Bagel for $3.99, The LEO for $11.99, and a Single Bagel for $1.49. Which one of these items sounds good to you?",
+      "timestamp": "2025-06-18T17:05:29.504Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "The single beagle. Can I can I go with the single beagle?",
+      "timestamp": "2025-06-18T17:05:29.504Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T17:05:29.504Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current order is a Single Bagel for $1.49. Is that all you'd like to order today?",
+      "timestamp": "2025-06-18T17:05:29.504Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T17:05:29.505Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Are you",
+      "timestamp": "2025-06-18T17:05:29.505Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 6 8 4 5 9 7. Your total is 1 dollar and 64 cents, which includes a subtotal of",
+      "timestamp": "2025-06-18T17:05:29.505Z"
+    }
+  ]
+}

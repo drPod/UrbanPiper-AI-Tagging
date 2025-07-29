@@ -1,0 +1,63 @@
+{
+  "callId": "6852b29dcb9e39794cf5f41b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T12:35:41.991Z",
+    "callEnded": "2025-06-18T12:36:17.659Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Rohan inquired about ordering a wrap but did not proceed with the order"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Tom, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T12:36:17.455Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello. My name is Rohan, and I want to order",
+      "timestamp": "2025-06-18T12:36:17.455Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have",
+      "timestamp": "2025-06-18T12:36:17.455Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Some wrap in my dinner.",
+      "timestamp": "2025-06-18T12:36:17.455Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T12:36:17.455Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T12:36:17.455Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T12:36:17.455Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-18T12:36:17.455Z"
+    }
+  ]
+}

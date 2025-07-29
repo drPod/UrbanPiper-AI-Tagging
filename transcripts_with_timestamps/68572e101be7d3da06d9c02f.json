@@ -1,0 +1,93 @@
+{
+  "callId": "68572e101be7d3da06d9c02f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T22:11:28.631Z",
+    "callEnded": "2025-06-21T22:13:32.918Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul placed an order for an Asiago Bagel with plain cream cheese at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T22:13:31.847Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey there. I think I'll go for an asago bagel with some plain cream cheese. That sounds delicious.",
+      "timestamp": "2025-06-21T22:13:31.849Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Asiago Bagel with plain cream cheese, excellent choice. That's one of our popular combinations, the savory flavor of the Asiago bagel paired with the richness of plain cream cheese. Let me get the options for your bagel and cream cheese...",
+      "timestamp": "2025-06-21T22:13:31.850Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Asiago Bagel, you've chosen plain cream cheese. I just need to confirm a few more details. Would you like your bagel toasted or not toasted? And would you prefer a specific amount of cream cheese, such as a light spread, regular, or extra? ",
+      "timestamp": "2025-06-21T22:13:31.851Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Asiago Bagel with plain cream cheese, I just need to confirm if you'd like it toasted and if you want to add any vegetables. Would you like your bagel toasted, lightly toasted, or toasted dark? And would you like to add any vegetables such as lettuce, tomato, or avocado? ",
+      "timestamp": "2025-06-21T22:13:31.852Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me add that to your order. You have an Asiago Bagel with plain cream cheese. Perfect, let me add that to your order...",
+      "timestamp": "2025-06-21T22:13:31.853Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $4.29",
+      "timestamp": "2025-06-21T22:13:31.853Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be $4.29. Would you like to order anything else today?",
+      "timestamp": "2025-06-21T22:13:31.854Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I think I'm all set for now. That'll be it for my order. Thanks so much.",
+      "timestamp": "2025-06-21T22:13:31.854Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-21T22:13:31.854Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 214280. That's 2, 1, 4, 2, 8, 0. Total: $4.72 (subtotal 4.29 dollars plus 0.43 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-21T22:13:31.855Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 2, 1, 4, 2, 8, 0. Your total comes out to be $4.29 plus $0.43 tax. So, your final total is $4.72. We'll have your order ready for pickup shortly. Thank you for choosing Manhattan Bagel, and we look forward to serving you today!",
+      "timestamp": "2025-06-21T22:13:31.855Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That was super smooth. The bot did a great job taking my order.",
+      "timestamp": "2025-06-21T22:13:31.855Z"
+    }
+  ]
+}

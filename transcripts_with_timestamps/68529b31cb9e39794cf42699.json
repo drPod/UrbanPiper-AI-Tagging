@@ -1,0 +1,21 @@
+{
+  "callId": "68529b31cb9e39794cf42699",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T10:55:45.327Z",
+    "callEnded": "2025-06-18T10:56:31.848Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer inquired about the Original Classic item and the agent provided details and modifiers for the item, but the call ended without completing the order."
+  },
+  "messages": [
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T10:56:31.671Z"
+    }
+  ]
+}

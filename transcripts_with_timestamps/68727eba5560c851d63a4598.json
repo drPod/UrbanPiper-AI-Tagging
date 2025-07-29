@@ -1,0 +1,57 @@
+{
+  "callId": "68727eba5560c851d63a4598",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T15:26:50.627Z",
+    "callEnded": "2025-07-12T15:28:10.734Z",
+    "duration": 78,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer attempted to order an Avocado BLT Sandwich but it was not available on the menu."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T15:28:10.593Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? Can you hear me?",
+      "timestamp": "2025-07-12T15:28:10.593Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes I can hear you clearly How can I help you with your order today",
+      "timestamp": "2025-07-12T15:28:10.593Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order avocado BLT sandwich.",
+      "timestamp": "2025-07-12T15:28:10.593Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Avocado BLT Sandwich is a great choice You'll need to pick just one bread choice for your Avocado BLT We have Plain Bagel Everything Bagel Asiago Bagel Bialy Cheesy Jalapeno Bacon Roll and many more Which one would you like",
+      "timestamp": "2025-07-12T15:28:10.593Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do we do do I have, like, you know, option for Avocado BLT sandwich and bagel choice? Harish, can you please check your menu?",
+      "timestamp": "2025-07-12T15:28:10.593Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Avocado BLT Sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which",
+      "timestamp": "2025-07-12T15:28:10.593Z"
+    }
+  ]
+}

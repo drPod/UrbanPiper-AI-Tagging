@@ -1,0 +1,159 @@
+{
+  "callId": "6858bc691be7d3da06f8f6e3",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T02:31:05.940Z",
+    "callEnded": "2025-06-23T02:34:28.106Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jiten ordered an Avocado Toast with a Multigrain Bagel, plain cream cheese, and added tomato and cucumber, which was successfully placed for pickup."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T02:34:27.741Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. I'd like to order some vegetarian bagel, with avocado and, little dark toasted as well as, with some plain green cheese.",
+      "timestamp": "2025-06-23T02:34:27.741Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Avocado Toast on a bagel, great choice. I'll get the options for your bagel and spread. Let me see what we have for your bagel choices...",
+      "timestamp": "2025-06-23T02:34:27.741Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Avocado Toast, let's start with the bagel. We have a variety of options such as Plain, Everything, Asiago, and more. Which type of bagel would you like?",
+      "timestamp": "2025-06-23T02:34:27.742Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, multigrain bagel.",
+      "timestamp": "2025-06-23T02:34:27.742Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Multigrain Bagel is a",
+      "timestamp": "2025-06-23T02:34:27.742Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "With the avocado, but plain cheese, plain cream cheese, and, little toasted.",
+      "timestamp": "2025-06-23T02:34:27.742Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm,",
+      "timestamp": "2025-06-23T02:34:27.742Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "With, tomato and onion modif I mean, as in vegetable.",
+      "timestamp": "2025-06-23T02:34:27.742Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your vegetables... You've already chosen the Multigrain Bagel, avocado, and plain cream cheese, lightly toasted. For the vegetables, you'd like to add tomato and onion. Anything else? Maybe some spinach, cucumber, or capers? ",
+      "timestamp": "2025-06-23T02:34:27.742Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've",
+      "timestamp": "2025-06-23T02:34:27.743Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I think I tomato and cucumber is what I wanted.",
+      "timestamp": "2025-06-23T02:34:27.743Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like the Multigrain Bagel with avocado, plain cream cheese, lightly toasted, and you'd like to add tomato and cucumber as your vegetables. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T02:34:27.743Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $21.48",
+      "timestamp": "2025-06-23T02:34:27.743Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added the Avocado Toast to your order. Your total comes out to be $10.99. Would you like to place your order or add anything else?",
+      "timestamp": "2025-06-23T02:34:27.743Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much.",
+      "timestamp": "2025-06-23T02:34:27.743Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-23T02:34:27.743Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 308018. That's 3, 0, 8, 0, 1, 8. Total: $23.62 (subtotal 21.48 dollars plus 2.14 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-23T02:34:27.744Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 3, 0, 8, 0, 1, 8. Your total comes out to be 21 dollars and 48 cents, plus 2 dollars and 14 cents tax. So, your final total is 23 dollars and 62 cents. We'll have that ready for you shortly. Thank you for your order! Is there anything else I can help you with?",
+      "timestamp": "2025-06-23T02:34:27.744Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to know what all you have added to my order, like, what I'm having.",
+      "timestamp": "2025-06-23T02:34:27.744Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me read your order back to you. You have ordered the Avocado Toast, which includes a Multigrain Bagel, avocado, plain cream cheese, lightly toasted, with tomato and cucumber as your added vegetables. That's the current order. Would you like to make any changes or add anything else?",
+      "timestamp": "2025-06-23T02:34:27.744Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much. That's it.",
+      "timestamp": "2025-06-23T02:34:27.744Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, we'll get your Avocado Toast ready for you. Have a great day and enjoy your meal!",
+      "timestamp": "2025-06-23T02:34:27.744Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T02:34:27.744Z"
+    }
+  ]
+}

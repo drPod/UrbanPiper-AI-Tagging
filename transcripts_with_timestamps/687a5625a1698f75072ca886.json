@@ -1,0 +1,57 @@
+{
+  "callId": "687a5625a1698f75072ca886",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T14:11:49.035Z",
+    "callEnded": "2025-07-18T14:12:50.902Z",
+    "duration": 59,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered a Hash Brown and attempted to order a Farmhouse Egg Sandwich, which was out of stock, but the agent did not offer alternatives or complete the order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T14:12:50.603Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get hash brown, please?",
+      "timestamp": "2025-07-18T14:12:50.604Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Hash Brown on the menu, just confirming it's available. I'll add the Hash Brown for you. Now, would you like to add anything else to your order, or is that all for today?",
+      "timestamp": "2025-07-18T14:12:50.604Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Also, I like to add a farmhouse egg sandwich.",
+      "timestamp": "2025-07-18T14:12:50.604Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Farmhouse Egg Sandwich on the menu, just making sure that's available. I'll add the Farmhouse Egg Sandwich for you. Now, let's customize it. You'll need to pick some options for your Farmhouse Egg Sandwich. For your",
+      "timestamp": "2025-07-18T14:12:50.605Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Are you sure, like, five more side sandwiches available?",
+      "timestamp": "2025-07-18T14:12:50.605Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Farmhouse Egg Sandwich on the menu, let me verify we have that today. I've checked, and it says \"OUT OF STOCK\" for the Farmhouse Egg Sandwich. I'm sorry, but that item is currently out of stock today. Instead, I can offer you our Original Classic, the Egg & Cheese, or the Omelet Wrap. ",
+      "timestamp": "2025-07-18T14:12:50.605Z"
+    }
+  ]
+}

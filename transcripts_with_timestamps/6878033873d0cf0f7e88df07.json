@@ -1,0 +1,105 @@
+{
+  "callId": "6878033873d0cf0f7e88df07",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T19:53:28.419Z",
+    "callEnded": "2025-07-16T19:55:40.725Z",
+    "duration": 129,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Breakfast Bundle from Manhattan Bagel with specific customizations, but the call ended before completion."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T19:55:40.441Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okey, gemi büyük paybonlar akıyor.",
+      "timestamp": "2025-07-16T19:55:40.441Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Breakfast Bundle on the menu. I'll add that for you. Now I'll help you customize it. You'll need to pick exactly 13 bagels for your bundle. I have Plain, Everything, Sesame, or Blueberry. Want more options?",
+      "timestamp": "2025-07-16T19:55:40.441Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you I can I have, five sesame, see everything?",
+      "timestamp": "2025-07-16T19:55:40.441Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd",
+      "timestamp": "2025-07-16T19:55:40.441Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And, five more as blueberry and two vanilla.",
+      "timestamp": "2025-07-16T19:55:40.441Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T19:55:40.441Z] assistant: Just a moment... \n\nFor your bagel selection, I have 5 Sesame, 3 Everything, and you'd like 5 more as Blueberry, and 2 Vanilla. Let me validate that for you. \n\n",
+      "timestamp": "2025-07-16T19:55:40.725Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've got the Sesame, Everything, and Blueberry. I don't see Vanilla as an option, but we have Cinnamon Raisin, Chocolate Chip, or Garlic. What would you like for those 2?",
+      "timestamp": "2025-07-16T19:55:40.442Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll go with the Cinnamon then.",
+      "timestamp": "2025-07-16T19:55:40.442Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So that's 5 Sesame, 3 Everything, 5 Blueberry, and 2 Cinnamon Raisin. That's 15 total, but you only need 13 for the bundle. Would you like to adjust the quantities or remove some?",
+      "timestamp": "2025-07-16T19:55:40.442Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Then, remove the garlic one.",
+      "timestamp": "2025-07-16T19:55:40.442Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T19:55:40.442Z] assistant: So I'll remove 2 Cinnamon Raisin to get to 13 bagels. That leaves us with 5 Sesame, 3 Everything, and 5 Blueberry. \n\nNext, you need to pick exactly 2 cream cheese tubs for your bundle. Popular choices are Plain, Vegetable, Scallion, or Strawberry. What would you like?",
+      "timestamp": "2025-07-16T19:55:40.725Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Strawberry.",
+      "timestamp": "2025-07-16T19:55:40.442Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your cream cheese selection, you've chosen Strawberry. You still need to pick one more tub. We have Plain, Vegetable, Scallion, or Bacon Scallion. What would you like for your second tub?",
+      "timestamp": "2025-07-16T19:55:40.442Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second, please.",
+      "timestamp": "2025-07-16T19:55:40.442Z"
+    }
+  ]
+}

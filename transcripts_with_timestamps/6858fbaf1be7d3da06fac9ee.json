@@ -1,0 +1,573 @@
+{
+  "callId": "6858fbaf1be7d3da06fac9ee",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T07:01:03.625Z",
+    "callEnded": "2025-06-23T07:12:58.985Z",
+    "duration": 720,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer placed an order for various items including the Original Classic, Empire State Turkey Club, Swiss Cheese, Fruity Rice Crispy Treat, Pastry, Just Pancakes with Blueberries and Chocolate Chips, and a Breakfast Bundle with nova."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm Emily an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-06-23T07:12:58.125Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. I want to order.",
+      "timestamp": "2025-06-23T07:12:58.125Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "To place your order, could you please tell me what you would like to order today?",
+      "timestamp": "2025-06-23T07:12:58.125Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to have something filling.",
+      "timestamp": "2025-06-23T07:12:58.125Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get",
+      "timestamp": "2025-06-23T07:12:58.125Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Could you tell me what options do I have?",
+      "timestamp": "2025-06-23T07:12:58.125Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of options that can be quite filling. Let me see what we have for you... We have breakfast sandwiches, omelets, bagels with cream cheese or butter, and even some of our lunch items like sandwiches and wraps. Which one of these sounds interesting to you?",
+      "timestamp": "2025-06-23T07:12:58.125Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T07:12:58.125Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Original Classic is one of our popular items. It comes with egg, cheese, and your choice of meat on a bagel, roll, or croissant. Let me get the options for your meat choices...",
+      "timestamp": "2025-06-23T07:12:58.125Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with your",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Original Classic, we have several bagel options. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, and many more. Which one of these sounds good to you?",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I don't wanna have that. Can you suggest me some beverages to choose from?",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your beverage choices... We have hot coffee or tea, iced coffee or tea, hot chocolate, cold brew iced coffee, espresso shot, hot latte, iced latte, hot caramel macchiato, iced caramel macchiato, americano, hot cappuccino, manhattan chillerz, frozen lemonade, fruit smoothie, small lemonade, medium lemonade, large lemonade, nesquick, tropicana oj, soda, gatorade, milk, snapple, water, and fresh squeezed orange juice. Which one of these sounds refreshing to you?",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Alright. Add a hot chocolate to my order.",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $0.00",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added a hot chocolate to your order. Your total is now zero dollars and zero cents. Anything else?",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What other lunch options do you have?",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your lunch choices... We have a variety of sandwiches, wraps, and other items. Some popular options include the Greenwich Grilled Cheese, Chelsea Grilled Chicken, Spicy Avocado",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the lunch options,",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. You can see what are the bunch options you have.",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your lunch choices... We have the Greenwich Grilled Cheese, Chelsea Grilled Chicken, Spicy Avocado Grilled Chicken, Ellis Island Hot Pastrami Sandwich, Manhattan Cheesesteak Sandwich, Balsamic Grilled Chicken Wrap, Big City BLT, Buffalo Grilled Chicken Wrap, Avocado BLT Sandwich, Chicken Cheesesteak, Chicken Cuban, Grilled Chicken Caesar Wrap, Pastrami Rueben, Italian Sub, Chicken Salad Sandwich, East Side Egg Salad ",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Yeah. Go on.",
+      "timestamp": "2025-06-23T07:12:58.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your lunch choices... We have the Greenwich Grilled Cheese, Chelsea Grilled Chicken, Spicy",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "A",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you know, hey. I'd like to have Empire State Turkey Club sandwich. How much is it for?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Empire State Turkey Club sandwich is a great choice. It's priced at $10.99. Let me get the options for your Empire State Turkey Club sandwich... ",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T07:12:58.127Z] assistant: For the Empire State Turkey Club sandwich, we have several options to customize it to your taste. \n\nFirst, let's choose a side. We have chips, coleslaw, or Lays chips. Which one would you like?",
+      "timestamp": "2025-06-23T07:12:58.985Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll just have the plain, sandwich. Nothing else on the side.",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $10.99",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added the Empire State Turkey Club sandwich to your order. Your total is now $10.99. Anything else?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What are the detail options you have?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your details... We have a variety of options such as name, contact number, customer email, payment method preference, preferred time for delivery or pickup, and full address. Which one of these would you like to provide?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you do catering?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your catering choices... We have several catering options available, including Bagels & Spreads, Broadway Box, Catering Coffee Service, Box of Sweets, Hot Breakfast Sandwich Platter, Salad Platter, Group Salads, Lunch Sandwich Platter, Group Fruit Bowl, Group Yogurt Parfait Bowl, Group Meals, Catering Orange Juice, Brunch Box, Nova Lox Platter, Meat & Cheese Platter, Breakfast Buffet, Individual Cream Cheese Bagel Boxed Meal, and Individual Lunch Box. Which one of these sounds good to you?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Add a individual lunchbox to my order. How much would that cost?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Individual Lunch Box is a great choice. It's priced at $12.99. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $23.98",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added the Individual Lunch Box to your order. Your total is now $23.98. Anything else?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What are daily items?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your deli items... We have Chicken Salad, Egg Salad, Boars Head Turkey, Boars Head Pastrami, Swiss Cheese, Pepper Jack, Tuna Salad, Whitefish Salad, Boars Head Ham, American Cheese, and Muenster. Which one of these sounds good to you?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Add Swiss Swiss cheese to order, and what would that cost?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Swiss Cheese is a great choice. It's priced at $4.99. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $28.97",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added the Swiss Cheese to your order. Your total is now $28.97. Anything else?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me options from LTO spring beverages and sweet.",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your LTO Spring Beverages & Sweet Treats... We have Mint Pistachio Chillerz, Mint Oreo Chillerz, Iced Lavender Blackberry Oat Milk Latte, and Fruity Rice Crispy Treat. Which one of these sounds refreshing to you?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll have a two tries to speak with. And what would that be for?",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Fruity Rice Crispy Treat is a great choice. It's priced at $3.49. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $32.46",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added the Fruity Rice Crispy Treat to your order. Your total is now $32.46. Anything else?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What are options in vehicles and suits do you have?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your Bagels & Sweets... We have The Classic Nova Lox Sandwich, Single Bagel, Half Dozen Bagels, Dozen Bagels, Bakers Dozen Value Pack, Bagel With Spread, mini bagel with spread, Mini Bagels, tub of manhattan bagel plain cream cheese, cookies, fruit cup, Tub of manhattan flavored cream cheese, tub of whipped butter, 1/4 lb Fresh Nova Lox, Whitefish Salad Tub, yogurt parfait, muffins, pastry, Cheese Bagel, and more. Which one of these sounds good to",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What okay. Let's add a pastry to my order. What would that be for?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Pastry is a great choice. It's priced at $2.99. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Pastry, we have several options to choose from. We have Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. Which one of these sounds good to you?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Fruity rice crispy bar.",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Fruity Rice Crispy Bar is a great choice. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $35.45",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added the Fruity Rice Crispy Bar to your order. Your total is now $35.45. Anything else?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's do breakfast one. No. No. No. No. One second. Let's do breakfast platters now. Tell me the options you have.",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your Breakfast Platters... We have Eggs and Omelettes, Sweet & Savory French Toast Platter, Sweet & Savory Pancake Platter, Just French Toast, Just Pancakes. Which one of these sounds good to you?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Add pancakes. What would that be for?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Just Pancakes is a great choice. It's priced at $7.99. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Just Pancakes, we have several options to customize it to your taste. We have Blueberries and Chocolate Chips as add-ins. Which one of these sounds good to you?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Just Pancakes, we have two options to customize it to your taste. We have Blueberries for an additional $2 and Chocolate Chips for an additional $2. Which one of these sounds good to you?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get both of them, blueberry and chocolate chip?",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You can definitely get both Blueberries and Chocolate Chips on your pancakes. That would be an additional $4. Perfect, let me add",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Add that.",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.128Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $47.44",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added the Just Pancakes with Blueberries and Chocolate Chips to your order. Your total is now $47.44. Anything else?",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Oh, what a what's the breakfast bundle?",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great option. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can also add 4oz of premium Acme smoked nova for $9.99. The total price for the Breakfast Bundle is $29.99. Would you like to add the nova or keep it as is?",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to let him know.",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle with the added nova is a great choice. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $87.42",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added the Breakfast Bundle with the added nova to your order. Your total is now $87.42. Anything else?",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That'd be it.",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 363657. That's 3, 6, 3, 6, 5, 7. Total: $96.16 (subtotal 87.42 dollars plus 8.74 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Order placed successfully! Your order number is 3, 6, 3, 6, 5, 7. Total: $96.16 (subtotal $87.42 plus $8.74 tax). Thank you for your order!",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Thank you.",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome. It was a pleasure helping you with your order. Have a great day and enjoy your food!",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "移動",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome. It was a pleasure helping you with your order. Have a great day and enjoy your food!",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-23T07:12:58.129Z"
+    }
+  ]
+}

@@ -15,15 +15,28 @@ The system consists of two main components:
 pip install -r requirements.txt
 ```
 
-2. Set up your OpenAI API key:
+2. Set up your environment variables:
 ```bash
 cp .env.example .env
-# Edit .env with your API key
+# Edit .env with your API keys
 ```
+
+**Required Environment Variables:**
+- `OPENAI_API_KEY`: Your OpenAI API key for transcript analysis
+- `QUIBBLE_COOKIE`: Authentication cookie from Quibble platform for fetching transcripts
+
+**To get the Quibble authentication cookie:**
+1. Login to https://platform.quibbleai.io
+2. Open browser developer tools (F12)
+3. Go to Network tab
+4. Navigate to call logs or make a request
+5. Find a request to the API and copy the entire Cookie header
+6. Add it to your `.env` file as `QUIBBLE_COOKIE=your_cookie_here`
 
 Or export directly:
 ```bash
 export OPENAI_API_KEY="your_api_key_here"
+export QUIBBLE_COOKIE="jwt=your_jwt_token; token=your_token"
 ```
 
 ## Usage Workflow
@@ -45,7 +58,7 @@ python fetch_transcripts.py
 This will:
 - Read the CSV file for call IDs
 - Download transcripts to the `transcripts/` directory
-- Save each transcript as a `.txt` file named by call ID
+- Save each transcript as a `.json` file with timestamps and metadata
 
 ### Step 3: Analyze Transcripts and Generate Tags
 

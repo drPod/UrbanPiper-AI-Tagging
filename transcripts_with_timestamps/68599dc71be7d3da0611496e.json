@@ -1,0 +1,51 @@
+{
+  "callId": "68599dc71be7d3da0611496e",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T18:32:39.796Z",
+    "callEnded": "2025-06-23T18:33:31.217Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered an Avocado Toast and a Breakfast Bundle from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T18:33:30.960Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order, avocado toast and breakfast bundle.",
+      "timestamp": "2025-06-23T18:33:30.961Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Avocado Toast and Breakfast Bundle, excellent choices. Let me get the options for your Avocado Toast first.",
+      "timestamp": "2025-06-23T18:33:30.961Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T18:33:30.961Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Ges hem det?",
+      "timestamp": "2025-06-23T18:33:30.961Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your Avocado Toast... Alright, for the Avocado Toast, you can choose from multigrain toast or any of our bagels. We also have",
+      "timestamp": "2025-06-23T18:33:30.961Z"
+    }
+  ]
+}

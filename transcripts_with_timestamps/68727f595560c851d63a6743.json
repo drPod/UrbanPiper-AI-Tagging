@@ -1,0 +1,33 @@
+{
+  "callId": "68727f595560c851d63a6743",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T15:29:29.326Z",
+    "callEnded": "2025-07-12T15:30:11.201Z",
+    "duration": 38,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer inquired about the Avocado BLT sandwich, which was not available, and was offered alternative options by BagelBot."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T15:30:11.053Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have avocado BLT sandwich?",
+      "timestamp": "2025-07-12T15:30:11.054Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?",
+      "timestamp": "2025-07-12T15:30:11.054Z"
+    }
+  ]
+}

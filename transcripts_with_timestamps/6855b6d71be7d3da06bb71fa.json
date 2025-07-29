@@ -1,0 +1,45 @@
+{
+  "callId": "6855b6d71be7d3da06bb71fa",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T19:30:31.818Z",
+    "callEnded": "2025-06-20T19:31:05.176Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer, Gaurav, inquired about ordering a hot latte from Manhattan Bagel but the call ended abruptly without completion."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T19:31:05.002Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get hot latte?",
+      "timestamp": "2025-06-20T19:31:05.002Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can check that for you. Let me see what I can find. ",
+      "timestamp": "2025-06-20T19:31:05.003Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:31:05.003Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-20T19:31:05.004Z"
+    }
+  ]
+}

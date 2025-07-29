@@ -1,0 +1,69 @@
+{
+  "callId": "687271b15560c851d6377a07",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T14:31:13.792Z",
+    "callEnded": "2025-07-12T14:32:43.310Z",
+    "duration": 88,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer, Jutin, attempted to order a Chelsea Grilled Chicken but the conversation was cut short due to a misunderstanding about the bagel choice for the dish."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T14:32:43.113Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order, Chelsea grilled chicken.",
+      "timestamp": "2025-07-12T14:32:43.113Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Chelsea Grilled Chicken is a great choice. For the Chelsea Grilled Chicken, you'll need to pick just one side. We have Chips, Cole Slaw, or Lays Chips for a dollar extra. Which side would you prefer?",
+      "timestamp": "2025-07-12T14:32:43.113Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Latest shifts?",
+      "timestamp": "2025-07-12T14:32:43.113Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect. Now, you'll need to pick just one bread choice for your Chelsea Grilled Chicken. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, and many more. Which bread choice sounds good to you?",
+      "timestamp": "2025-07-12T14:32:43.114Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Why Chelsea grilled chicken has, bagel choice? Are you hallucinating or what?",
+      "timestamp": "2025-07-12T14:32:43.114Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Chelsea Grilled Chicken actually comes on an Asiago bagel by default, and it's not a choice that needs to be made. Let's move forward with the default Asiago bagel. Now, would you like your Chelsea Grilled Chicken to be toasted, lightly toasted, toasted dark, or no toast?",
+      "timestamp": "2025-07-12T14:32:43.114Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is zone what is zone",
+      "timestamp": "2025-07-12T14:32:43.114Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I",
+      "timestamp": "2025-07-12T14:32:43.114Z"
+    }
+  ]
+}

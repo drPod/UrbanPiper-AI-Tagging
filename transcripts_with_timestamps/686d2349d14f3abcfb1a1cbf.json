@@ -1,0 +1,45 @@
+{
+  "callId": "686d2349d14f3abcfb1a1cbf",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T13:55:21.233Z",
+    "callEnded": "2025-07-08T13:56:15.465Z",
+    "duration": 52,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Breakfast Bundle from Manhattan Bagel with a customized selection of bagels and discussed the cream cheese options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T13:56:15.282Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Looking to order breakfast bundle.",
+      "timestamp": "2025-07-08T13:56:15.282Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and some extras. Would you like to customize your bagel selection or go with our assorted mix?",
+      "timestamp": "2025-07-08T13:56:15.282Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I want to, go with five sesame, five garlic, one vanilla, and, two, everything they do.",
+      "timestamp": "2025-07-08T13:56:15.282Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you'd like 5 Sesame, 5 Garlic, 1 Vanilla, and 2 Everything bagels. That's a total of 13 bagels. Now, let's move on to the cream cheese. We have a variety of ",
+      "timestamp": "2025-07-08T13:56:15.283Z"
+    }
+  ]
+}

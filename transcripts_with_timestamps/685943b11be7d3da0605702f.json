@@ -1,0 +1,129 @@
+{
+  "callId": "685943b11be7d3da0605702f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T12:08:17.248Z",
+    "callEnded": "2025-06-23T12:10:44.196Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer attempted to order a Breakfast Bundle but the call was cut off due to inconsistencies in the order, specifically with the bagel and spread choices."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T12:10:43.034Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order breakfast bundle.",
+      "timestamp": "2025-06-23T12:10:43.034Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T12:10:43.034Z] assistant: The Breakfast Bundle, great choice. That comes with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get all the customization options for you. \n\n",
+      "timestamp": "2025-06-23T12:10:44.196Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start customizing your Breakfast Bundle. For the Bagel Dozen, you need to choose exactly 13 bagels. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like to choose?",
+      "timestamp": "2025-06-23T12:10:43.034Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I I want the two, 13 as, butter bagel.",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T12:10:43.035Z] assistant: Let me get the options for your bagel spread. \n\n",
+      "timestamp": "2025-06-23T12:10:44.196Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Choose 2",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I I said 13 as butter bagel. Is that",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is that okay?",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, that's okay. You've chosen thirteen Butter Bagels for your Bagel Dozen. Now, let's move on to the Choose 2 Tubs of Spread. You need to choose exactly 2 tubs of spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, and many more. Which 2 tubs of spread would you like to choose?",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to choose, one vanilla and one vegetable.",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Choose 2 Tubs of Spread, I think you meant to say you want one Plain Cream Cheese and one Vegetable Cream Cheese, as we don't have a Banana option. Is that correct?",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I said vanilla.",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We don't have a Vanilla option for the spread, but we do have a Honey Almond and other flavors. If you'd like something sweet, I can offer you the Honey Almond or Strawberry spread. Alternatively, you can choose from our",
+      "timestamp": "2025-06-23T12:10:43.035Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Then then then then why you haven't stopped me for the bagel?",
+      "timestamp": "2025-06-23T12:10:43.036Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're right, I should have",
+      "timestamp": "2025-06-23T12:10:43.036Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I I I",
+      "timestamp": "2025-06-23T12:10:43.036Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me start again from the beginning to ensure we get your order just right. You initially said you'd like to order a Breakfast Bundle, which comes with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. For the ",
+      "timestamp": "2025-06-23T12:10:43.036Z"
+    }
+  ]
+}

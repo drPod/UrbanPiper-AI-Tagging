@@ -1,0 +1,45 @@
+{
+  "callId": "68727e675560c851d63a3535",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T15:25:27.495Z",
+    "callEnded": "2025-07-12T15:26:28.166Z",
+    "duration": 57,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jutin ordered a Big City BLT sandwich from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T15:26:27.995Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Get me BLT sandwich, avocado BLT sandwich. Hello?",
+      "timestamp": "2025-07-12T15:26:27.995Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a Big City BLT sandwich. It comes with bacon, lettuce, tomato, and mayo on toasted multigrain bread. You'll need to pick just one lunch bread choice for your Big City BLT. We have Plain Bagel, Everything Bagel, Multigrain Bread, and Asiago Bagel. Which would you prefer?",
+      "timestamp": "2025-07-12T15:26:27.995Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T15:26:27.995Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'll get the Big City BLT on multigrain bread. Now, would you like to add any extra items to your BLT, such as ",
+      "timestamp": "2025-07-12T15:26:27.995Z"
+    }
+  ]
+}

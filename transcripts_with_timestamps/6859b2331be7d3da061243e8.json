@@ -1,0 +1,39 @@
+{
+  "callId": "6859b2331be7d3da061243e8",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T19:59:47.606Z",
+    "callEnded": "2025-06-23T20:00:17.147Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer, Jitin, did not place an order and instead requested to be transferred to a human agent."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T20:00:16.967Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order",
+      "timestamp": "2025-06-23T20:00:16.967Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's get",
+      "timestamp": "2025-06-23T20:00:16.968Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? I don't want to order anything. You just transfer this call to a human agent, please.",
+      "timestamp": "2025-06-23T20:00:16.968Z"
+    }
+  ]
+}

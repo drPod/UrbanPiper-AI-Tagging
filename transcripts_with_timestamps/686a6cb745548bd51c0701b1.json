@@ -1,0 +1,21 @@
+{
+  "callId": "686a6cb745548bd51c0701b1",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-06T12:31:51.382Z",
+    "callEnded": "2025-07-06T12:32:09.191Z",
+    "duration": 15,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "The customer, Jitin, was greeted by BagelBot and began their order, but the call ended abruptly without completing the order or providing further details."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-06T12:32:09.004Z"
+    }
+  ]
+}

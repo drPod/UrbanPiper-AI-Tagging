@@ -1,0 +1,111 @@
+{
+  "callId": "6852c743cb9e39794cf86684",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T14:03:47.132Z",
+    "callEnded": "2025-06-18T14:05:13.617Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Rifat ordered a Ham Sandwich on an Everything Bagel, toasted dark, and confirmed his order for pickup."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T14:05:10.806Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I wanted to have a sandwich. Can you please help?",
+      "timestamp": "2025-06-18T14:05:10.806Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'd be happy to help you with a sandwich. Before I get started, may I have your name, please?",
+      "timestamp": "2025-06-18T14:05:10.806Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. My name is Ripul.",
+      "timestamp": "2025-06-18T14:05:10.806Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found several greatoptions! Popular sandwiches include the Cheese Sandwich for seven dollars and ninety-nine cents, the Ham Sandwich for nine dollars and forty-nine cents,",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I wanted the ham sandwich.",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Ham Sandwich,we have several bread options. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, ",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Go with the everything bigger.",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Ham Sandwich on an Everything Bagel, would you like it toasted, lightly toasted, or toasted dark?",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T14:05:10.807Z] assistant: So, to confirm, you'd like a Ham Sandwich on an Everything Bagel, toasted dark. I'll also add that to your order. \n\n",
+      "timestamp": "2025-06-18T14:05:13.617Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current order isa Ham",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Please.",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be 18 dollars and 98 cents. Is that correct? Also, do you have any",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yağya.",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Do you have any special requests or allergies I should know about? ",
+      "timestamp": "2025-06-18T14:05:10.807Z"
+    }
+  ]
+}

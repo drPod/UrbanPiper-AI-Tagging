@@ -1,0 +1,189 @@
+{
+  "callId": "686dd18cd14f3abcfb26303f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T02:18:52.209Z",
+    "callEnded": "2025-07-09T02:21:50.266Z",
+    "duration": 174,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "John placed an order for an Avocado BLT Sandwich with Bialy bagel, Provolone cheese, and veggies at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T02:21:48.997Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order, avocado BLT sandwich, with, tomato, lettuce, and cucumber as in veggie and with extra cheese.",
+      "timestamp": "2025-07-09T02:21:48.997Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one Avocado BLT Sandwich. First things first, I'll need to get a bread choice for that. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, California Protein ",
+      "timestamp": "2025-07-09T02:21:48.997Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "But I'll I'll choose the, Biali, basil type.",
+      "timestamp": "2025-07-09T02:21:48.997Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, Bialy bagel. Next up, would you like to add any cheese to your sandwich? We have American, Swiss, Cheddar, Provolone,",
+      "timestamp": "2025-07-09T02:21:48.997Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I I'll go with the provolone. I'll go to provolone cheese.",
+      "timestamp": "2025-07-09T02:21:48.997Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Provolone cheese added. Would you like to add any extra protein to your sandwich? We have options like",
+      "timestamp": "2025-07-09T02:21:48.997Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great. How",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Just just add some veggies. Like, I said tomato lettuce and cucumber, and that's it.",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, adding tomato, lettuce, and cucumber to your sandwich. Would you like to add any condiments? We have options like mayo, mustard, hot sauce, and more.",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it. I said that's it. Only veggies and the, they are legal type and extra cheese, and that's it. Nothing more.",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, your Avocado BLT Sandwich with Bialy bagel, Provolone cheese, and veggies is all set. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have, yeah, that's it? I think that's all.",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, so I have your Avocado BLT Sandwich with Bialy bagel, Provolone cheese, and veggies. Is that all for you today?",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T02:21:48.998Z] assistant: Perfect, let me get that all put together for you. \n\n",
+      "timestamp": "2025-07-09T02:21:50.266Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-09T02:21:48.998Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright John. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-09T02:21:48.999Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-09T02:21:48.999Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-09T02:21:48.999Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-09T02:21:48.999Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T02:21:48.999Z] assistant: Great. Placing that for you now, please hold on.\n\n\n",
+      "timestamp": "2025-07-09T02:21:50.266Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 864166. That's 8, 6, 4, 1, 6, 6.\", 'order_id': '864166', 'call_id': '6542f860-65d0-4f7f-b124-be87ba5ce803', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197ecfc-bde9-0ef1-fc3c-bfd30bd19fe0'}",
+      "timestamp": "2025-07-09T02:21:48.999Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now! The order number is 8, 6, 4, 1, 6, 6, and the total including taxes comes to $12.95. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist you with today?",
+      "timestamp": "2025-07-09T02:21:48.999Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. All good. Thank you. Bye.",
+      "timestamp": "2025-07-09T02:21:48.999Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, John! Have a great day! Goodbye!",
+      "timestamp": "2025-07-09T02:21:48.999Z"
+    }
+  ]
+}

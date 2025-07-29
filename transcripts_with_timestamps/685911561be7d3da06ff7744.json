@@ -1,0 +1,93 @@
+{
+  "callId": "685911561be7d3da06ff7744",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T08:33:26.990Z",
+    "callEnded": "2025-06-23T08:35:01.180Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with three Everything bagels and discussed spread options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T08:34:59.625Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order breakfast bundle.",
+      "timestamp": "2025-06-23T08:34:59.625Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T08:34:59.625Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T08:34:59.625Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hjärnstund",
+      "timestamp": "2025-06-23T08:34:59.625Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices...",
+      "timestamp": "2025-06-23T08:34:59.625Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-23T08:34:59.626Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "First, for the thirteen bagels in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those?",
+      "timestamp": "2025-06-23T08:34:59.626Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the bagels. You can choose thirteen bagels from our variety, which includes Plain, Everything, Asiago, Blueberry, and many more. Which ones would you like?",
+      "timestamp": "2025-06-23T08:34:59.626Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want",
+      "timestamp": "2025-06-23T08:34:59.626Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the",
+      "timestamp": "2025-06-23T08:34:59.626Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Three three I want three playing, three everything label.",
+      "timestamp": "2025-06-23T08:34:59.626Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Three Everything bagels. Now, for your two tubs of spread, we have Plain Cream Cheese, Vegetable Cream",
+      "timestamp": "2025-06-23T08:34:59.626Z"
+    }
+  ]
+}

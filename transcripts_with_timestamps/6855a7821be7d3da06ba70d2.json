@@ -1,0 +1,27 @@
+{
+  "callId": "6855a7821be7d3da06ba70d2",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T18:25:06.858Z",
+    "callEnded": "2025-06-20T18:25:41.752Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The call was a greeting from Emily, the Manhattan Bagel assistant, to Gaurav, but it ended abruptly without discussing any orders or menu items."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T18:25:41.600Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-20T18:25:41.600Z"
+    }
+  ]
+}

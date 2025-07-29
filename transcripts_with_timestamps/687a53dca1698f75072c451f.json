@@ -1,0 +1,105 @@
+{
+  "callId": "687a53dca1698f75072c451f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T14:02:04.551Z",
+    "callEnded": "2025-07-18T14:04:28.270Z",
+    "duration": 141,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer attempted to order various items, including pastries, an omelet wrap, hash browns, and a big breakfast burrito, but all were out of stock, and finally considered ordering a breakfast bundle."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T14:04:27.920Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Get me pastries, please. I want to order some pastries.",
+      "timestamp": "2025-07-18T14:04:27.920Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Pastry on the menu, now let me check the availability. We have a variety of pastries available, including Blueberry, Double Chocolate Chip, Cinnamon Chip, Chocolate Chip, and Cranberry",
+      "timestamp": "2025-07-18T14:04:27.920Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Forget about the pastry. Can I get, omelette wrap?",
+      "timestamp": "2025-07-18T14:04:27.920Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Omelet Wrap on the menu, now let me check the availability. I've checked, and unfortunately, our Omelet Wrap is currently out of stock today. Instead, I can offer you our Original Classic breakfast",
+      "timestamp": "2025-07-18T14:04:27.920Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Alright. And is Tesery out of stock or in stock?",
+      "timestamp": "2025-07-18T14:04:27.920Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Cheesey Hashbrown Roll on the menu, now let me check the availability. I've checked, and our Cheesey Hashbrown Roll is available. Would you like to add it to your order",
+      "timestamp": "2025-07-18T14:04:27.920Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I want I'm saying, is your, hash brown, can I can I order hash brown, please?",
+      "timestamp": "2025-07-18T14:04:27.921Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Hash Brown on the menu, now let me check the availability. I've checked, and unfortunately, our Hash Brown is currently out of stock today. Instead, I can offer you our Home Fries as a side. Would you like to add Home Fries to your order?",
+      "timestamp": "2025-07-18T14:04:27.921Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-18T14:04:27.921Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Pastry on the menu, now let me check the availability. I've checked, and unfortunately, our Pastry is currently out of stock today. Instead, I can offer you our Muffins, Cookies, or a Fruit Cup. Which one would you like?",
+      "timestamp": "2025-07-18T14:04:27.921Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me big, big, extra burrito.",
+      "timestamp": "2025-07-18T14:04:27.921Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Big Breakfast Burrito on the menu, now let me check the availability. I've checked, and unfortunately, our Big Breakfast Burrito is currently out of stock today. Instead, I can offer you our Original Classic breakfast sandwich, the Egg & Cheese, or the Omelet Wrap. Which one would you",
+      "timestamp": "2025-07-18T14:04:27.921Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Sorry. Forget about them. Then can I get the breakfast bundle now?",
+      "timestamp": "2025-07-18T14:04:27.921Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Breakfast Bundle on the menu, now let me check the availability. I've checked, and our Breakfast Bundle is available. The Breakfast Bundle includes 13 assorted bagels, 2 tubs of cream cheese, and 4 muffins. Would you like to customize your bagel selection and cream cheese flavors?",
+      "timestamp": "2025-07-18T14:04:27.921Z"
+    }
+  ]
+}

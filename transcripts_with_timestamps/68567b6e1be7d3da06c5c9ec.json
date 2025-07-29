@@ -1,0 +1,45 @@
+{
+  "callId": "68567b6e1be7d3da06c5c9ec",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T09:29:18.481Z",
+    "callEnded": "2025-06-21T09:30:00.120Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-21T09:29:59.848Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-21T09:29:59.848Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-21T09:29:59.849Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. Hello? Can you hear me?",
+      "timestamp": "2025-06-21T09:29:59.849Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-21T09:29:59.849Z"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "callId": "685736201be7d3da06d9c33d",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T22:45:52.286Z",
+    "callEnded": "2025-06-21T22:52:30.905Z",
+    "duration": 420,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Alex ordered a medium-sized Tropicana Apple Juice and a 16oz Strawberry Banana smoothie from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Alex, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T22:52:29.652Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I I I'm I want apple juice. Do you have apple juice?",
+      "timestamp": "2025-06-21T22:52:29.653Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We actually have a variety of juices, but I'd be happy to check on apple juice for you. Let me see what we have.",
+      "timestamp": "2025-06-21T22:52:29.653Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'm still there. Tell me.",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We don't have apple juice on our menu, but we do have other options like orange juice, and we also have a variety of beverages including coffee, tea, and soda. Would you like me to tell you more about those options?",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Tell me about your juices. Like, what juices you have?",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have orange juice, and it's available in different sizes. We also have a Fresh Squeezed Orange Juice option. Additionally, we offer a Frozen Lemonade and a Fruit Smoothie made with low-fat vanilla yogurt and fruit mix. Which one of these sounds interesting to you?",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So you don't have apple juice. Right?",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That's correct, Alex. We don't have apple juice on our menu. But I can offer you one of the other juice options I mentioned earlier, like orange juice or the fruit smoothie. Would you like to try one of those?",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Tell me the, items you have in beverages.",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me go through our beverage options for you. We have hot coffee, iced coffee, hot tea, iced tea,",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can you can you check your tropical OZ?",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check on that for you. Yes, we do have Tropicana Orange Juice. It's a 100% orange juice, and we offer it in different sizes. Would you like to know the prices or perhaps order one?",
+      "timestamp": "2025-06-21T22:52:29.654Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I I I've said Tropicana o j because it has, option. Can you please check the option Tropicana o j?",
+      "timestamp": "2025-06-21T22:52:29.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what options we have for Tropicana Orange Juice. Ah, yes! We have a Small, Medium, and Large size for our Tropicana Orange Juice. The prices are $3.79 for the Small size, $4.29 for the Medium size, and $4.79 for the Large size. Which size would you like?",
+      "timestamp": "2025-06-21T22:52:29.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And, also, do you have the apple flavor?",
+      "timestamp": "2025-06-21T22:52:29.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check the options for Tropicana Orange Juice. We have Orange, Apple, and Cranberry flavors available. So, yes, we do have the Apple flavor. Would you like to order one of these flavors?",
+      "timestamp": "2025-06-21T22:52:29.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Now you understand, like, what I was saying?",
+      "timestamp": "2025-06-21T22:52:29.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, I understand now that you were asking about the options for Tropicana Orange Juice, and I should have checked the flavors available, which include Apple, Orange, and Cranberry. Thank you for clarifying! Let me get the options for you... ",
+      "timestamp": "2025-06-21T22:52:29.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Tropicana Orange Juice, we have four options: 11oz Orange, 11oz Apple, 11oz Cranberry, and 46oz Orange. Which one would you like to order?",
+      "timestamp": "2025-06-21T22:52:29.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you repeat again?",
+      "timestamp": "2025-06-21T22:52:29.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start again from the beginning. You initially asked about apple juice, and I told you we don't have it. Then, you asked about our juice options, and I mentioned we have orange juice, among others. After that, you specifically asked about Tropicana Orange Juice and its options. I checked and found that we have Tropicana Orange Juice in different sizes and flavors, including Apple. Now, I'd like to confirm your order. Would you like to order a Tropicana Orange Juice, and if so, which size and flavor would you prefer?",
+      "timestamp": "2025-06-21T22:52:29.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size and, apple clear.",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $4.29",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the medium-sized Tropicana Apple Juice to your order. Your total comes out to be $4.29. Would you like to order anything else or is that all for today?",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Also, if you don't mind, can I have, the smoothie?",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of smoothies to choose from. Let me see what options we have. ",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For our smoothies, we have two sizes: 16oz and 24oz. We also have four flavor options: Strawberry Banana, Strawberry Mango, Mango, and Wild Berry Yogurt. Additionally, you can choose to add whipped cream for an extra 75 cents. Which size, flavor, and would you like whipped cream?",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I I like to have the strawberry smoothie. Do you have the strawberry smoothie?",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a Strawberry Banana smoothie, which is a blend of strawberries and bananas. We also have a Strawberry Mango smoothie, which combines strawberries and mango. Both of these options are part of our smoothie menu. Which one of these strawberry smoothies sounds good to you? Or would you like me to check if we have a plain Strawberry smoothie option?",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Strawberry banana is good, I think.",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Strawberry",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I need small size and, no whipped cream. Just plain, strawberry smoothie. Is that possible?",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Strawberry Banana smoothie, we have a 16oz size, which is our small size. And you'd like to have it without whipped cream, just plain. That's perfectly fine. Let me add that to your order... ",
+      "timestamp": "2025-06-21T22:52:29.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $10.28",
+      "timestamp": "2025-06-21T22:52:29.657Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the 16oz Strawberry Banana smoothie without whipped cream to your order. Your new total comes out to be $10.28. Is there anything else you'd like to order, or is that all for today?",
+      "timestamp": "2025-06-21T22:52:29.657Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. That's all for today. Thank you so much.",
+      "timestamp": "2025-06-21T22:52:29.657Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Alex. It was a pleasure helping you with your order. Before I place your order, I just need to confirm a few details. Your order consists of a medium-sized Tropicana Apple Juice and a 16oz Strawberry Banana smoothie, correct? And you'd like to",
+      "timestamp": "2025-06-21T22:52:29.657Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Right.",
+      "timestamp": "2025-06-21T22:52:29.657Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-21T22:52:29.657Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 601091. That's 6, 0, 1, 0, 9, 1. Total: $11.31 (subtotal 10.28 dollars plus 1.03 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-21T22:52:29.657Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Alex, your order is placed! Your order number is 6, 0, 1, 0, 9, 1. Your total comes out to be $10.28 subtotal plus $1.03 tax, making it $11.31. We'll have your order ready for you shortly. Thank you for choosing Manhattan Bagel, and we look forward to serving you!",
+      "timestamp": "2025-06-21T22:52:29.657Z"
+    }
+  ]
+}

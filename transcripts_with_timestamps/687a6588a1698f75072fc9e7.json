@@ -1,0 +1,195 @@
+{
+  "callId": "687a6588a1698f75072fc9e7",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T15:17:28.649Z",
+    "callEnded": "2025-07-18T15:20:52.437Z",
+    "duration": 200,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha placed an order for one Brownie Pastry and two Fruity Rice Crispy Bars at manhattan_bagel_864915, with a total of $10.42, and received an order number of 995000."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T15:20:51.390Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order three pastry. Can you please give me three pastry?",
+      "timestamp": "2025-07-18T15:20:51.390Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Pastry on the menu, just confirming it's available. For your pastry, I have Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. Which three would you like?",
+      "timestamp": "2025-07-18T15:20:51.390Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like,",
+      "timestamp": "2025-07-18T15:20:51.390Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't",
+      "timestamp": "2025-07-18T15:20:51.390Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Brownies, you see.",
+      "timestamp": "2025-07-18T15:20:51.391Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Brownie Pastry on the menu. I'll add one Brownie Pastry for you. You wanted three pastries, so I still need to know about the other two. We have Blueberry Lemon Loaf, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. Which two would you like to add to your Brownie Pastry?",
+      "timestamp": "2025-07-18T15:20:51.391Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please repeat again?",
+      "timestamp": "2025-07-18T15:20:51.391Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your pastry, I have Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. You've already chosen the Brownie. Which two other pastries would you like?",
+      "timestamp": "2025-07-18T15:20:51.391Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Both are, same.",
+      "timestamp": "2025-07-18T15:20:51.391Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like two more Brownies, in addition to the one you already chose. So, that's three Brownies in ",
+      "timestamp": "2025-07-18T15:20:51.391Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Wait. Can I can I have fruit? Can I get fruity rice crispy bars?",
+      "timestamp": "2025-07-18T15:20:51.391Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:20:51.391Z] assistant: You'd like to replace two of the Brownies with Fruity Rice Crispy Bars. So, that's one Brownie and two Fruity Rice Crispy Bars. I'll update your order. \n\nJust to confirm, you now have one Brownie Pastry and two Fruity Rice Crispy Bars. Is that correct?",
+      "timestamp": "2025-07-18T15:20:52.437Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Right.",
+      "timestamp": "2025-07-18T15:20:51.391Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:20:51.391Z] assistant: I'll just calculate the total for you. Just a moment... \n\n",
+      "timestamp": "2025-07-18T15:20:52.437Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:20:51.392Z] assistant: I'm sorry, but it seems like there was an error calculating the price for your order. Let me try again.\n\n",
+      "timestamp": "2025-07-18T15:20:52.437Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:20:51.392Z] assistant: Your total for one Brownie Pastry and two Fruity Rice Crispy Bars comes to 10 dollars and 42 cents. \n\nWould you like to make any changes or add anything else to your order?",
+      "timestamp": "2025-07-18T15:20:52.437Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No",
+      "timestamp": "2025-07-18T15:20:51.392Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:20:51.392Z] assistant: Perfect, let me get that all put together for you.\n\n",
+      "timestamp": "2025-07-18T15:20:52.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-18T15:20:51.393Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-18T15:20:51.393Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have any. Thank you so much.",
+      "timestamp": "2025-07-18T15:20:51.393Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Aksha. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-18T15:20:51.393Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-18T15:20:51.393Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:20:51.393Z] assistant: Great. Placing that for you now, please hold on...\n\n",
+      "timestamp": "2025-07-18T15:20:52.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 995000. That's 9, 9, 5, 0, 0, 0.\", 'order_id': '995000', 'call_id': 'e28ed69b-204d-4748-992a-f526d19be449', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981e1e-e1b2-71ac-8c08-34691c47a07f'}",
+      "timestamp": "2025-07-18T15:20:51.394Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:20:51.394Z] assistant: Your order number is 9, 9, 5, 0, 0, 0. Your total is 10 dollars and 42 cents. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment.\n\nIs there anything else I can help you with today?",
+      "timestamp": "2025-07-18T15:20:52.437Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much.",
+      "timestamp": "2025-07-18T15:20:51.394Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Aksha. It was a pleasure helping you with your order. If you have any other questions or need assistance in the future, don't hesitate to reach out. Have a great day and enjoy your pastries!",
+      "timestamp": "2025-07-18T15:20:51.394Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-07-18T15:20:51.395Z"
+    }
+  ]
+}

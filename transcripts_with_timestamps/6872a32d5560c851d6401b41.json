@@ -1,0 +1,57 @@
+{
+  "callId": "6872a32d5560c851d6401b41",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T18:02:21.398Z",
+    "callEnded": "2025-07-12T18:03:57.486Z",
+    "duration": 94,
+    "from": "918949862707",
+    "to": "918035740152",
+    "summary": "The customer ordered a Breakfast Bundle and specified the types of bagels they wanted, but one of the chosen bagel types, Vanilla Bagel, was not available on the menu."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehl Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T18:03:57.259Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Get me breakfast bundle.",
+      "timestamp": "2025-07-12T18:03:57.259Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great choice. For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?",
+      "timestamp": "2025-07-12T18:03:57.259Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I need, five, plain. Two everything. Three, garlic. One vanilla. Two egg bagel, one blueberry bagel, one everything bagel.",
+      "timestamp": "2025-07-12T18:03:57.260Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect. That's a total of 13 bagels: 5 Plain, 2 Everything, 3 Garlic, 1 Vanilla, 2 Egg Bagel, and 1 Blueberry Bagel, and I'll add the last one as another Everything Bagel to complete the set. Now, you'll also get 2 tubs of cream cheese with the Breakfast Bundle. We have Plain Cream Cheese,",
+      "timestamp": "2025-07-12T18:03:57.260Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So have you have you have you verified the menu structure for vanilla wiggle, valid options? Do we have vanilla wiggle?",
+      "timestamp": "2025-07-12T18:03:57.260Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Vanilla Bagel on our menu. We have Plain, Everything, Sesame, Garlic, Egg, Blueberry, and other options, but Vanilla Bagel is not one of them. Let me offer you some alternatives. We have a French Toast Bagel that might be close to what you're",
+      "timestamp": "2025-07-12T18:03:57.260Z"
+    }
+  ]
+}

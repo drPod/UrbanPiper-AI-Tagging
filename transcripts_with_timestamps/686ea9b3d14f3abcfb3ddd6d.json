@@ -1,0 +1,75 @@
+{
+  "callId": "686ea9b3d14f3abcfb3ddd6d",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T17:41:07.250Z",
+    "callEnded": "2025-07-09T17:42:25.187Z",
+    "duration": 74,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "John placed an order for a Mint Oreo Chillerz and received confirmation."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T17:42:24.958Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order, mint all your chilies.",
+      "timestamp": "2025-07-09T17:42:24.958Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'll need to pick just one size for your Mint Oreo Chillerz. We have sixteen ounce for five ninety nine or twenty four ounce for seven forty eight. Which size would you prefer?",
+      "timestamp": "2025-07-09T17:42:24.958Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size.",
+      "timestamp": "2025-07-09T17:42:24.958Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect. Alright, that's one Mint Oreo Chillerz in a twenty four ounce size. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T17:42:24.958Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it. Thank you.",
+      "timestamp": "2025-07-09T17:42:24.959Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, so I have the Mint Oreo Chillerz for you. Let me get that all put together.",
+      "timestamp": "2025-07-09T17:42:24.959Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. Hello?",
+      "timestamp": "2025-07-09T17:42:24.959Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 836683. That's 8, 3, 6, 6, 8, 3.\", 'order_id': '836683', 'call_id': '652ba4c8-05df-4e92-b181-0fcdbfc1f99b', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f047-b815-2dd6-2084-82bb2d05184c'}",
+      "timestamp": "2025-07-09T17:42:24.959Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully! Your order number is eight, three, six, six, eight, three. The total is seven dollars and forty-eight cents, including tax. Let me know when you’re ready to pick up your order!",
+      "timestamp": "2025-07-09T17:42:24.960Z"
+    }
+  ]
+}

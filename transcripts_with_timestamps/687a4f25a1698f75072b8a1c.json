@@ -1,0 +1,57 @@
+{
+  "callId": "687a4f25a1698f75072b8a1c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T13:41:57.824Z",
+    "callEnded": "2025-07-18T13:43:03.861Z",
+    "duration": 63,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered an Omelet Wrap with a flour wrap, hash brown, and an unspecified meat and cheese choice."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T13:43:03.522Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me on the draft, please.",
+      "timestamp": "2025-07-18T13:43:03.522Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Omelet Wrap on the menu. I'll add the Omelet Wrap for you. Now, let's customize it. You'll need to pick a wrap choice. I have Flour or Wheat. Which would you like?",
+      "timestamp": "2025-07-18T13:43:03.522Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-18T13:43:03.522Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Omelet Wrap, you've chosen the Flour wrap. Now, you'll need to pick a meat. I have Bacon, Pork Roll, Sausage, Ham, Steak, Deli Turkey, Turkey Bacon, Turkey Sausage, or Pastrami. Which meat would you like?",
+      "timestamp": "2025-07-18T13:43:03.522Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. What about hash brown?",
+      "timestamp": "2025-07-18T13:43:03.522Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Omelet Wrap, you've added Hash Brown. Now, let's talk about cheese. You'll need to pick a cheese. I have American, Swiss, Pepper Jack, Cheddar, Provolone, or Muenster. Which cheese would you like?",
+      "timestamp": "2025-07-18T13:43:03.522Z"
+    }
+  ]
+}

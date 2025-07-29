@@ -1,0 +1,177 @@
+{
+  "callId": "68725eab5560c851d634a3c0",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T13:10:03.942Z",
+    "callEnded": "2025-07-12T13:15:19.436Z",
+    "duration": 311,
+    "from": "918949862707",
+    "to": "918035740152",
+    "summary": "Jutin ordered a Breakfast Bundle from Manhattan Bagel, customizing it with 13 bagels, 2 tubs of cream cheese, and 4 muffins."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T13:15:18.061Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order breakfast bundle.",
+      "timestamp": "2025-07-12T13:15:18.061Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a few other goodies. Anything else you'd like to add to that?",
+      "timestamp": "2025-07-12T13:15:18.061Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. That's it.",
+      "timestamp": "2025-07-12T13:15:18.061Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect. I have one Breakfast Bundle for you. Now let me help you customize it exactly how you like it. ",
+      "timestamp": "2025-07-12T13:15:18.061Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to item customization stage...",
+      "timestamp": "2025-07-12T13:15:18.061Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's customize your Breakfast Bundle. You need to pick 13 bagels. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, and many more. Which 13 would you like?",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I will go with the three, everything five, blueberry and, one, vanilla and one multigrain bagel, one onion, and two salt.",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see vanilla bagel available for bagel choice. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion,",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So how many bagels we have done so far?",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me recap. You've chosen 3 Everything bagels, 5 Blueberry bagels, 1 Multigrain bagel, 1 Onion bagel, and 2 Salt bagels. That's a total of 12 bagels so far. You still need to choose 1 more bagel to complete your 13-bagel selection. Which one would you",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Then make it make it like, I'll return you. Okay?",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T13:15:18.062Z] assistant: Perfect! Everything bagel. So, to recap, you now have 4 Everything bagels, 5 Blueberry bagels, 1 Multigrain bagel, 1 Onion bagel, and 2 Salt bagels. That completes your 13-bagel selection.\n\nNext, you need to choose 2 tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), Storemade Maple Raisin (Chunky), Storemade Bacon Scallion (Chunky), Strawberry, Honey Almond, Jalapeño Cream Cheese, and Butter 8 ounce Whipped. Which two would you like?",
+      "timestamp": "2025-07-12T13:15:19.435Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I will choose one plain, one blueberry, cream cheese.",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see blueberry cream cheese available. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), Storemade Maple Raisin (Chunky), Storemade Bacon Scallion (Chunky), Strawberry, Honey Almond, Jalapeño Cream Cheese, and Butter 8 ounce Whipped. Which two would you like?",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Plain and vegetable oil.",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T13:15:18.062Z] assistant: Perfect! Plain Cream Cheese and Vegetable Cream Cheese.\n\nNext, you need to choose 4 muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which 4 would you like?",
+      "timestamp": "2025-07-12T13:15:19.435Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, all of four could be chocolate chip.",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see a \"Tocolate\" muffin option. We have Blueberry",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "With chocolate chip. I said chocolate chip.",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T13:15:18.062Z] assistant: Perfect! Chocolate Chip. You'd like all 4 muffins to be Chocolate Chip. \n\nThat completes your Breakfast Bundle customization. You now have: \n- 13 bagels (4 Everything, 5 Blueberry, 1 Multigrain, 1 Onion, and 2 Salt)\n- 2 tubs of cream cheese (Plain and Vegetable)\n- 4 Chocolate Chip muffins\n\nI'll get your order ready. ",
+      "timestamp": "2025-07-12T13:15:19.436Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your Breakfast Bundle is ready for pickup. The total comes out to be $29.99. I will now place the order. ",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 676958. That's 6, 7, 6, 9, 5, 8.\", 'order_id': '676958', 'call_id': 'c190a01f-ecdb-493e-9d9c-60a584d8cdd1', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fec6-0a01-08a5-93c8-863d399731b6'}",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is placed! Order number is 6, 7, 6, 9, 5, 8. Total with tax is thirty-two dollars and ninety-seven cents. You'll get an SMS with payment link. Anything else I can help with?",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're all set then. Have a great day, and we'll see you at pickup!",
+      "timestamp": "2025-07-12T13:15:18.062Z"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "callId": "68572ee11be7d3da06d9c143",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T22:14:57.105Z",
+    "callEnded": "2025-06-21T22:18:13.375Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul placed an order for Avocado Toast and a medium House Blend coffee through Manhattan Bagel's phone service."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T22:18:12.727Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I think I'll try something different this time. How about an avocado toast with a side of coffee?",
+      "timestamp": "2025-06-21T22:18:12.727Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Avocado Toast, excellent choice. That's toasted multigrain bread topped with fresh avocado and a sprinkle of everything bagel seasoning. And you'd like to pair that with a side of coffee. Let me get the options for your coffee...",
+      "timestamp": "2025-06-21T22:18:12.727Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sounds great. I usually like my coffee black, so I'll just keep it simple. Let me know what options you have.",
+      "timestamp": "2025-06-21T22:18:12.727Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your coffee, we have a variety of roast levels. Let me see what we have... ",
+      "timestamp": "2025-06-21T22:18:12.727Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your",
+      "timestamp": "2025-06-21T22:18:12.727Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sure. That sounds good. I'm open to whatever roast you recommend. Light, medium, or dark, whichever you think pairs best with the avocado toast.",
+      "timestamp": "2025-06-21T22:18:12.727Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our House Blend is a popular choice, but since you're getting the Avocado Toast, I think a lighter roast would complement it nicely. Let's go with the House Blend, which is a medium roast. Now, for the size, we have Small, which is 12 ounces, Medium, which is 16 ounces, Large, which is 20 ounces, and X-Large, which is 24 ounces. Which size sounds good to you?",
+      "timestamp": "2025-06-21T22:18:12.728Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I think medium size 16 ounces sounds perfect. That should be just the right amount to go with the toast.",
+      "timestamp": "2025-06-21T22:18:12.728Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "A medium size, 16 ounces, is a great choice to pair with your Avocado Toast. Now, let me just add that to your order... ",
+      "timestamp": "2025-06-21T22:18:12.728Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 2 item(s) to your cart. Total: $11.47",
+      "timestamp": "2025-06-21T22:18:12.728Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the Avocado Toast and a medium House Blend coffee to your order. Your total comes out to be $11.47. Would you like to make any changes or add anything else to your order?",
+      "timestamp": "2025-06-21T22:18:12.728Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Nope. That sounds perfect. I'm all set with that order. Thank you so much.",
+      "timestamp": "2025-06-21T22:18:12.728Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm glad you're all set with your order. Before I place it, I just need to confirm a few details. Your name is Mehul, and I'll make sure to get that on the order. We'll have your Avocado Toast and medium House Blend coffee ready for pickup. Do you have any special requests or allergies I should note for the kitchen? ",
+      "timestamp": "2025-06-21T22:18:12.728Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added your special instructions to the order.",
+      "timestamp": "2025-06-21T22:18:12.728Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-21T22:18:12.728Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 387869. That's 3, 8, 7, 8, 6, 9. Total: $12.62 (subtotal 11.47 dollars plus 1.15 dollars tax). Special instructions noted: none. Thank you for your order!",
+      "timestamp": "2025-06-21T22:18:12.729Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-21T22:18:12.729Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-21T22:18:12.745Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Mehul, your order is placed. Your order number is 3, 8, 7, 8, 6, 9. Your total comes out to be $11.47 subtotal plus $1.15 tax, making it $12.62. We'll have your Avocado Toast and medium House Blend coffee ready for pickup. Thank you for your order!",
+      "timestamp": "2025-06-21T22:18:12.746Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "You're welcome. That all sounds perfect. I really appreciate it, and I'll see you soon to pick up my order.",
+      "timestamp": "2025-06-21T22:18:12.746Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Mehul. It was my pleasure to help you with your order. I'll see you soon when you come to pick it up. Have a great day and we'll get your Avocado Toast and coffee ready for you. Bye for now. ",
+      "timestamp": "2025-06-21T22:18:12.746Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-21T22:18:12.746Z"
+    }
+  ]
+}

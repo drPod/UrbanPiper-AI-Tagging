@@ -1,0 +1,105 @@
+{
+  "callId": "685690161be7d3da06c8882b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T10:57:26.458Z",
+    "callEnded": "2025-06-21T11:01:04.698Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin placed an order for a Big Breakfast Burrito with extra grilled chicken, extra cheese, tomato, spinach, and a hash brown, along with a medium hot coffee with half-and-half and whipped cream"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T11:01:04.334Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order big breakfast burrito and hot coffee.",
+      "timestamp": "2025-06-21T11:01:04.335Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T11:01:04.335Z] assistant: The Big Breakfast Burrito is a great choice, and I can get that started for you. It comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. \n\nFor the Big Breakfast Burrito, would you like to add any extra breakfast meat, such as extra bacon, sausage, or ham?",
+      "timestamp": "2025-06-21T11:01:04.698Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to have extra grilled chicken, extra cheese, tomato and spinach, and, hash brown, if it is there.",
+      "timestamp": "2025-06-21T11:01:04.335Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T11:01:04.335Z] assistant: I've added extra grilled chicken, extra cheese, tomato, spinach, and a hash brown to your Big Breakfast Burrito. \n\nNow, let me just confirm the details. Your Big Breakfast Burrito will have bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, a hash brown, extra grilled chicken, extra cheese, tomato, and spinach, all in a flour tortilla. \n\nMoving on to your hot coffee, would you like it in a small 12-ounce size for 1 dollar and 99 cents, a medium 16-ounce size for 2 dollars and 49 cents, or a large 20-ounce size for 2 dollars and 99 cents? And would you prefer whole milk, half-and-half, skim milk, almond milk, or oat milk?",
+      "timestamp": "2025-06-21T11:01:04.698Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So I need, medium size, half and half milk, and whipped cream. That's all.",
+      "timestamp": "2025-06-21T11:01:04.335Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T11:01:04.335Z] assistant: So, for your hot coffee, I've got a medium 16-ounce size with half-and-half and whipped cream. That sounds like a great way to start your day.\n\nLet me just add these items to your order. \n\nPerfect, let me add that to your order... ",
+      "timestamp": "2025-06-21T11:01:04.698Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-21T11:01:04.335Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'm still there.",
+      "timestamp": "2025-06-21T11:01:04.335Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T11:01:04.335Z] assistant: I've added the Big Breakfast Burrito and the hot coffee to your order. Your total comes out to be $14.47. \n\nBefore I place the order, I just want to confirm a few details. Your Big Breakfast Burrito will have bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, a hash brown, extra grilled chicken, extra cheese, tomato, and spinach, all in a flour tortilla. And your hot coffee will be a medium 16-ounce size with half-and-half and whipped cream. \n\nIs everything correct? And do you have any special requests or allergies I should note?",
+      "timestamp": "2025-06-21T11:01:04.698Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. That's all correct, and I don't I don't have any request. Thank you so much.",
+      "timestamp": "2025-06-21T11:01:04.335Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll go ahead and place your order. Alright, let me place this order for you...",
+      "timestamp": "2025-06-21T11:01:04.335Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-21T11:01:04.335Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-21T11:01:04.335Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been successfully placed. We'll get your Big Breakfast Burrito and hot coffee ready for pickup. If you need any further assistance or have any other questions, feel free to ask. Otherwise, we'll see you soon at Manhattan Bagel. Have a great day, Jitin.",
+      "timestamp": "2025-06-21T11:01:04.336Z"
+    }
+  ]
+}

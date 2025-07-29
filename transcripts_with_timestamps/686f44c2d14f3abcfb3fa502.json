@@ -1,0 +1,51 @@
+{
+  "callId": "686f44c2d14f3abcfb3fa502",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-10T04:42:42.433Z",
+    "callEnded": "2025-07-10T04:43:49.687Z",
+    "duration": 65,
+    "from": "+910000000000",
+    "to": "+910000000000",
+    "summary": "The customer requested an Avocado Bagel, which is not available, and agreed to try the Avocado Toast instead."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-10T04:43:49.002Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I need avocado bagel with the dark toasted and, apple cream cheese.",
+      "timestamp": "2025-07-10T04:43:49.002Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, you'll need to pick just one bagel for your Avocado Bagel. We have Plain, Everything, Sesame, and Garlic. Would you like one of these, or should I list more options?",
+      "timestamp": "2025-07-10T04:43:49.002Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I said avocado bagel.",
+      "timestamp": "2025-07-10T04:43:49.002Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see an Avocado Bagel on our menu. However, we do have a great Avocado Toast option. It comes with avocado and everything bagel seasoning on a multigrain toast or any bagel of your choice. Would you like to try that instead?",
+      "timestamp": "2025-07-10T04:43:49.003Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Do that then.",
+      "timestamp": "2025-07-10T04:43:49.003Z"
+    }
+  ]
+}

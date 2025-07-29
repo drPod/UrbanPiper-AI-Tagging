@@ -1,0 +1,39 @@
+{
+  "callId": "68594ce51be7d3da060626a1",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T12:47:33.729Z",
+    "callEnded": "2025-06-23T12:48:42.896Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with the assistance of BagelBot."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T12:48:42.585Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order, breakfast bundle.",
+      "timestamp": "2025-06-23T12:48:42.585Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T12:48:42.586Z] assistant: The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Let me get all the customization options for you. \n\nLet me see what we have for the bagel choices...",
+      "timestamp": "2025-06-23T12:48:42.896Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The available customization groups are: Bagel Dozen, Choose 2 Tubs of Spread, Choose 4 Muffins, Box of Coffee. I have all the options for your Breakfast Bundle right here. Ready to customize now? Let's start with the bagel choices. For the Bagel Dozen, you need to choose exactly 13 bagels. We have a variety of options such as Plain, Everything, Asiago,",
+      "timestamp": "2025-06-23T12:48:42.586Z"
+    }
+  ]
+}

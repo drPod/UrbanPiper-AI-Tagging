@@ -1,0 +1,99 @@
+{
+  "callId": "685928181be7d3da06030cc5",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T10:10:32.908Z",
+    "callEnded": "2025-06-23T10:12:31.107Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with thirteen Scallion bagels, but the call ended before completion."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T10:12:30.724Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Request bundle.",
+      "timestamp": "2025-06-23T10:12:30.725Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T10:12:30.725Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I have all the options for you. Do you want to proceed with the customization now?",
+      "timestamp": "2025-06-23T10:12:30.725Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-23T10:12:30.725Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.",
+      "timestamp": "2025-06-23T10:12:30.726Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I all, I want all of as scallion bagel.",
+      "timestamp": "2025-06-23T10:12:30.726Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Scallion bagels for all thirteen. Next, for your **two tubs of spread**. We have Plain, Vegetable, or Scallion. Want to hear more options?",
+      "timestamp": "2025-06-23T10:12:30.726Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So in your bagel type, do you have Charlene bagel?",
+      "timestamp": "2025-06-23T10:12:30.726Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have Scallion/Onion Chive, which is similar to what you're looking for. Would you like to choose that as one of your spreads?",
+      "timestamp": "2025-06-23T10:12:30.726Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. I'm asking about the bagel type.",
+      "timestamp": "2025-06-23T10:12:30.726Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We do have a Scallion bagel type, it's listed as \"Scallion/Onion Chive\" in our options. Would you like to choose that for your thirteen bagels?",
+      "timestamp": "2025-06-23T10:12:30.726Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "But I think that is your your tub of spread, not the bagel type. Right?",
+      "timestamp": "2025-06-23T10:12:30.727Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You are correct, Scallion/Onion Chive is a type of spread, not a bagel type. Let me check the bagel options again. We actually have a \"Scallion\" bagel type, which is a different option from the spread. Would you like to choose Scallion bagels for your thirteen bagels?",
+      "timestamp": "2025-06-23T10:12:30.727Z"
+    }
+  ]
+}

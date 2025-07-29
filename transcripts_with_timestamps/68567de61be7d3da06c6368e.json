@@ -1,0 +1,141 @@
+{
+  "callId": "68567de61be7d3da06c6368e",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T09:39:50.725Z",
+    "callEnded": "2025-06-21T09:42:41.846Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer placed an order for a medium hot latte with half and half, a 16oz Mint Oreo Chillerz, and a 12oz can of Diet Coke."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm Emily an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello, Emily. I want to make an order of hot latte.",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can help you with that. For the hot latte, what kind of milk would you like? We have regular milk, half and half, skim milk, almond milk, oat milk, or soy milk.",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, half and half.",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Half and half it is. Now, would you like your hot latte in a small 12oz, medium 16oz, or large 20oz size?",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium.",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your medium hot latte with half and half is added to your order. Your total comes out to be $4.99. Would you like to add anything else to your order, or is that all for today?",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I also want to have, mint order chillers and one Diet Coke.",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the Mint Oreo Chillerz. We have a 16oz and a 24oz size. Which one would you like?",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "16.",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like a 16oz Mint Oreo Chillerz. That's $5.99. Now, let's move on to the Diet Coke. We have a 12oz can. Would you like that?",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add those to your order... ",
+      "timestamp": "2025-06-21T09:42:41.514Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your 16oz Mint Oreo Chillerz and a 12oz can of Diet Coke are added to your order. Your new total comes out to be $12.97. Before I place your order, would you like me to repeat it back to you to make sure everything is correct?",
+      "timestamp": "2025-06-21T09:42:41.515Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-21T09:42:41.515Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me place this order for you... ",
+      "timestamp": "2025-06-21T09:42:41.515Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is one, eight, zero, five, zero, five. Your subtotal is zero dollars. The tax is twelve dollars and ninety-seven cents. The final total with tax is twelve dollars and ninety-seven cents. Is there anything else I can help you with?",
+      "timestamp": "2025-06-21T09:42:41.515Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much.",
+      "timestamp": "2025-06-21T09:42:41.515Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome. Have a great day and we'll see you soon for your pickup.",
+      "timestamp": "2025-06-21T09:42:41.515Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-21T09:42:41.515Z"
+    }
+  ]
+}

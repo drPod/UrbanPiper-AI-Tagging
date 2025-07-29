@@ -1,0 +1,69 @@
+{
+  "callId": "686cda100245c817843ec470",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T08:42:56.524Z",
+    "callEnded": "2025-07-08T08:44:52.632Z",
+    "duration": 113,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer attempted to order a customized Breakfast Bundle but needed clarification on bagel types."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T08:44:52.287Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Say hi. I'd like to order avocado BLT sandwich.",
+      "timestamp": "2025-07-08T08:44:52.287Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, one Avocado BLT sandwich. First things first, I'll need to get a bread choice for that. We have Multigrain Bread, Plain, Everything, Blueberry, Cinnamon Raisin, Egg, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey",
+      "timestamp": "2025-07-08T08:44:52.287Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can can I, can I have, breakfast bundle?",
+      "timestamp": "2025-07-08T08:44:52.287Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Big Frost bundles on our menu. Let",
+      "timestamp": "2025-07-08T08:44:52.288Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. I said breakfast bundle.",
+      "timestamp": "2025-07-08T08:44:52.288Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the misunderstanding. Let me share our Breakfast Bundle options with you. The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). Would you like to proceed with this bundle?",
+      "timestamp": "2025-07-08T08:44:52.290Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. So I want, five sesame, five vanilla, and, two tubs of green tea as plain, and two are vanilla green tea, and one box of coffee as decaf and four, chocolate chip muffins.",
+      "timestamp": "2025-07-08T08:44:52.291Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let's start putting your Breakfast Bundle together. First, I'll need to confirm the bagel choices. You mentioned five sesame and five vanilla. However, \"vanilla\" isn't a bagel type. Let me share some options: Plain, Everything, Blueberry, Cinnamon Raisin, Egg, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, ",
+      "timestamp": "2025-07-08T08:44:52.291Z"
+    }
+  ]
+}

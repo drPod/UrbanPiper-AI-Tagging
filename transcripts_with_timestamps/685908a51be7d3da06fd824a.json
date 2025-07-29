@@ -1,0 +1,171 @@
+{
+  "callId": "685908a51be7d3da06fd824a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T07:56:21.661Z",
+    "callEnded": "2025-06-23T08:00:14.809Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Gaurav placed an order for a Breakfast Bundle with specific customizations and confirmed the details before the order was successfully placed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T08:00:14.402Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to order, breakfast bundle.",
+      "timestamp": "2025-06-23T08:00:14.402Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T08:00:14.402Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, for the thirteen bagels in your Bagel Dozen, popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.",
+      "timestamp": "2025-06-23T08:00:14.402Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. May can I have more options?",
+      "timestamp": "2025-06-23T08:00:14.402Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a wide variety of bagels to choose from. In addition to Plain, Everything, and Sesame, we also have Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll,",
+      "timestamp": "2025-06-23T08:00:14.402Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Okay. Can you do the all of 13 as a garlic grater?",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like all thirteen bagels to be Garlic bagels. That sounds like a great choice. Now, let's move on to the two tubs of spread that come with your Breakfast Bundle. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which two spreads would you like?",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One is lane, and second one is stallion.",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One tub of Plain Cream Cheese and one tub of Scallion/Onion Chive. Got it! Now, let's choose your four muffins. We have Blueberry, Corn, Double Chocolate, and more. Which four muffins would you like? You can choose multiple of the same kind if you'd like.",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I need, two blueberry and two corn.",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Two Blueberry muffins and two Corn muffins. Perfect! Now, let's move on to the Box of Coffee. We have options like House Blend, Decaf, Vanilla Hazelnut, and Dark Roast. Which one would you like?",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Go with the house blind.",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "House Blend it is. Now, I just want to confirm your Breakfast Bundle order. You've got thirteen Garlic bagels, one tub of Plain Cream Cheese, one tub of Scallion/Onion Chive, two Blueberry muffins, two Corn muffins, and a Box of House Blend Coffee. Perfect, let me add that to your order...",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $54.98",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the Breakfast Bundle with all your choices. Your total is now $54.98. Anything else for you today?",
+      "timestamp": "2025-06-23T08:00:14.403Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Gaurav, I have your complete order ready. You have one Breakfast Bundle with thirteen Garlic bagels, one tub of Plain Cream Cheese, one tub of Scallion/Onion Chive, two Blueberry muffins, two Corn muffins, and a Box of House Blend Coffee. Your total before tax is $54.98. Does everything sound correct with that?",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Ready to place this order for pickup, Gaurav?",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I think, yeah, I'm fine with this.",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 122817. That's 1, 2, 2, 8, 1, 7. Total: $60.47 (subtotal 54.98 dollars plus 5.49 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Gaurav, your order is placed! Your order number is 1, 2, 2, 8, 1, 7. Your final total is $60.47, which includes a subtotal of $54.98 and $5.49 in tax. We'll have that ready for you shortly! Thank you for your order!",
+      "timestamp": "2025-06-23T08:00:14.404Z"
+    }
+  ]
+}

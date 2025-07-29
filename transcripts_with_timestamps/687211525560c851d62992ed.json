@@ -1,0 +1,153 @@
+{
+  "callId": "687211525560c851d62992ed",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T07:40:02.294Z",
+    "callEnded": "2025-07-12T07:44:29.738Z",
+    "duration": 264,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin placed an order for a Breakfast Bundle from Manhattan Bagel, which included 13 bagels, 2 tubs of cream cheese, and 4 muffins."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T07:44:28.684Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'm looking to order, breakfast bundle.",
+      "timestamp": "2025-07-12T07:44:28.685Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great choice. For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?",
+      "timestamp": "2025-07-12T07:44:28.685Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "11",
+      "timestamp": "2025-07-12T07:44:28.685Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. So I I need, five cinnamon, two vanilla, three everything, two plain, one garlic, one blueberry.",
+      "timestamp": "2025-07-12T07:44:28.685Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect. So, let me confirm: you'd like five Cinnamon Raisin bagels, two Vanilla bagels, three Everything bagels, two Plain bagels, one Garlic bagel, and one Blueberry bagel. That's a total of 14 bagels, but we need exactly 13 for the Breakfast Bundle. Would you like to adjust any of these quantities to meet the 13-bagel requirement?",
+      "timestamp": "2025-07-12T07:44:28.685Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. You can remove the garlic bagel then.",
+      "timestamp": "2025-07-12T07:44:28.685Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T07:44:28.685Z] assistant: I've removed the Garlic bagel from your selection. So, to confirm, you'd like five Cinnamon Raisin bagels, two Vanilla bagels, three Everything bagels, two Plain bagels, and one Blueberry bagel. That's a total of 13 bagels, which meets the Breakfast Bundle requirement.\n\nNext, for the Breakfast Bundle, you also get to choose 2 tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and many more. Which two would you like?",
+      "timestamp": "2025-07-12T07:44:29.738Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want one plain, one, blueberry green cheese.",
+      "timestamp": "2025-07-12T07:44:28.685Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T07:44:28.685Z] assistant: Perfect. So, you'd like one tub of Plain Cream Cheese and one tub of Blueberry Cream Cheese.\n\nNext, for the Breakfast Bundle, you also get to choose 4 muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which 4 muffins would you like?",
+      "timestamp": "2025-07-12T07:44:29.738Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "See what I mean. All four as in a minute.",
+      "timestamp": "2025-07-12T07:44:28.685Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T07:44:28.685Z] assistant: So, you'd like all 4 muffins to be Cinnamon Chip. That's a great choice.\n\nNow, let me just confirm your entire Breakfast Bundle order: you've got 13 bagels, consisting of 5 Cinnamon Raisin, 2 Vanilla, 3 Everything, 2 Plain, and 1 Blueberry. You've also chosen 2 tubs of cream cheese, 1 Plain and 1 Blueberry. And for your muffins, you've selected 4 Cinnamon Chip muffins.\n\nIs there anything else I can get for you today?",
+      "timestamp": "2025-07-12T07:44:29.738Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "She no. All good.",
+      "timestamp": "2025-07-12T07:44:28.685Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you. ",
+      "timestamp": "2025-07-12T07:44:28.686Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-12T07:44:28.686Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-12T07:44:28.686Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have.",
+      "timestamp": "2025-07-12T07:44:28.686Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-12T07:44:28.686Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Onto the price of my order, please.",
+      "timestamp": "2025-07-12T07:44:28.686Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T07:44:28.686Z] assistant: Let me calculate the total for you.\n\nFor the Breakfast Bundle, the total comes out to be $29.99. This includes the 13 bagels, 2 tubs of cream cheese, and 4 muffins.\n\nHowever, I need to calculate the tax as well. The tax is 9.98% of the total cost of the items. \n\nSo, the total tax would be $2.98.\n\nAdding the tax to the total, your order comes out to be $32.97.\n\nYour order is created successfully now! The order number is 1, 8, 9, 0, 8, 3, and the total including taxes comes to $32.97. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment.\n\nIs there anything else I can help you with today?",
+      "timestamp": "2025-07-12T07:44:29.738Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much.",
+      "timestamp": "2025-07-12T07:44:28.686Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Jitin. It was a pleasure helping you with your order. If you have any other questions or need any further assistance, don't hesitate to reach out. Have a great day and enjoy your Breakfast Bundle! ",
+      "timestamp": "2025-07-12T07:44:28.686Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-12T07:44:28.686Z"
+    }
+  ]
+}

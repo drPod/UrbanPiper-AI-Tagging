@@ -1,0 +1,45 @@
+{
+  "callId": "6852a84fcb9e39794cf52ccc",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T11:51:43.386Z",
+    "callEnded": "2025-06-18T11:52:15.699Z",
+    "duration": 60,
+    "from": "+917014838195",
+    "to": "+16204558091",
+    "summary": "Nitin called to inquire about the status of his order, but the call ended abruptly without resolving the issue."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Nitin, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T11:52:15.515Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I have a follow-up with my order ID. Could you please help me?",
+      "timestamp": "2025-06-18T11:52:15.515Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'd be happy to help you with your order, Nitin. Before we get started, could you please tell me what you would like to order today?",
+      "timestamp": "2025-06-18T11:52:15.516Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Not an order today. I had problem with my order ID.",
+      "timestamp": "2025-06-18T11:52:15.516Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check on the status of your order. Can you please tell me your order ID",
+      "timestamp": "2025-06-18T11:52:15.516Z"
+    }
+  ]
+}

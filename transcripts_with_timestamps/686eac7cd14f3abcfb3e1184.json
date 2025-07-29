@@ -1,0 +1,51 @@
+{
+  "callId": "686eac7cd14f3abcfb3e1184",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T17:53:00.226Z",
+    "callEnded": "2025-07-09T17:53:40.651Z",
+    "duration": 38,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "John ordered a Mint Oreo Chillerz in a sixteen-ounce size."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T17:53:40.475Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order mint toadillas.",
+      "timestamp": "2025-07-09T17:53:40.475Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'll need to pick just one size for your Mint Oreo Chillerz. We have sixteen ounce and twenty-four ounce for one dollar forty-nine extra. Which size would you prefer?",
+      "timestamp": "2025-07-09T17:53:40.475Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "16 ounce, and that's it. You can call the change order tool now.",
+      "timestamp": "2025-07-09T17:53:40.475Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-07-09T17:53:40.476Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, there was an issue processing your request. Let me try that",
+      "timestamp": "2025-07-09T17:53:40.476Z"
+    }
+  ]
+}

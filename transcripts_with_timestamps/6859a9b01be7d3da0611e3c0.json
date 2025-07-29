@@ -1,0 +1,75 @@
+{
+  "callId": "6859a9b01be7d3da0611e3c0",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T19:23:28.914Z",
+    "callEnded": "2025-06-23T19:24:46.945Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin ordered a 24oz Mint Pistachio Chillerz from Manhattan Bagel but the order placement failed due to an internal server error."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T19:24:46.702Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to order mint orchillers.",
+      "timestamp": "2025-06-23T19:24:46.702Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T19:24:46.702Z] assistant: The Mint Pistachio Chillerz, excellent choice. That's a rich ice cream base blended with cool mint and nutty pistachio flavors, topped with fluffy whipped cream and a sprinkle of vibrant green sugar for a refreshing, creamy indulgence. Let me get the options for your Mint Pistachio Chillerz... \n\n",
+      "timestamp": "2025-06-23T19:24:46.945Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Mint Pistachio Chillerz, let's start with the Size. You can choose from 16oz or 24oz. Which size would you like?",
+      "timestamp": "2025-06-23T19:24:46.703Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm good with the medium one.",
+      "timestamp": "2025-06-23T19:24:46.703Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T19:24:46.703Z] assistant: The medium size is actually the 24oz. I'll go with that. So, you'd like the 24oz Mint Pistachio Chillerz. \n\nIs there anything else I can get for you?",
+      "timestamp": "2025-06-23T19:24:46.945Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. For now, that's it.",
+      "timestamp": "2025-06-23T19:24:46.703Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T19:24:46.703Z] assistant: Alright, let me get this order placed for you...\n\n",
+      "timestamp": "2025-06-23T19:24:46.945Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T19:24:46.703Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the issue. It seems like there was a problem with placing your order. Let me try again.",
+      "timestamp": "2025-06-23T19:24:46.703Z"
+    }
+  ]
+}

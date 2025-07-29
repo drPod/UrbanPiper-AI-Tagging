@@ -1,0 +1,33 @@
+{
+  "callId": "687a5d0ea1698f75072dfbd9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T14:41:18.619Z",
+    "callEnded": "2025-07-18T14:41:49.778Z",
+    "duration": 29,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha attempted to order a Hash Brown but was informed it was out of stock and offered alternative side options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T14:41:49.603Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order hatch mail.",
+      "timestamp": "2025-07-18T14:41:49.603Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but our Hash Brown is currently out of stock today. Instead, I can offer you our Home Fries, Bacon, or Sausage as a side. Which would you prefer?",
+      "timestamp": "2025-07-18T14:41:49.603Z"
+    }
+  ]
+}

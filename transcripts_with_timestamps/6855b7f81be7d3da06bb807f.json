@@ -1,0 +1,75 @@
+{
+  "callId": "6855b7f81be7d3da06bb807f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T19:35:20.212Z",
+    "callEnded": "2025-06-20T19:36:19.311Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav inquired about a hot latte at Manhattan Bagel and was informed about the availability of hot coffee"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T19:36:19.129Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get, hot? Okay?",
+      "timestamp": "2025-06-20T19:36:19.130Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what I can find for you. ",
+      "timestamp": "2025-06-20T19:36:19.130Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:36:19.130Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:36:19.130Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:36:19.131Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:36:19.131Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:36:19.131Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot coffee\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:36:19.132Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found hot coffee for one dollar and ninety-nine cents. Would you like to add that to your order?",
+      "timestamp": "2025-06-20T19:36:19.132Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "callId": "6852c3abcb9e39794cf7d4f1",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T13:48:27.929Z",
+    "callEnded": "2025-06-18T13:49:10.454Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Irfan inquired about ordering a dozen bagels from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Irfan, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T13:49:10.226Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? Can you hear me?",
+      "timestamp": "2025-06-18T13:49:10.226Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can hear you just fine, Irfan. How can I assist you with your order today?",
+      "timestamp": "2025-06-18T13:49:10.227Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to have, half dozen sorry, dozen bigger.",
+      "timestamp": "2025-06-18T13:49:10.227Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have for a dozen bagels.",
+      "timestamp": "2025-06-18T13:49:10.227Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-18T13:49:10.227Z"
+    }
+  ]
+}

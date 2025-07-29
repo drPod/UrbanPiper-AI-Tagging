@@ -1,0 +1,165 @@
+{
+  "callId": "686ead01d14f3abcfb3e1818",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T17:55:13.741Z",
+    "callEnded": "2025-07-09T17:57:45.500Z",
+    "duration": 148,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "John placed an order for a Mint Oreo Chillerz at Manhattan Bagel and confirmed the order details."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order mint only killers, 16 ounce.",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it. One Mint Oreo Chillerz in sixteen ounces. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you. That's it. You can call the change order menu I mean, the tool now.",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, John. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it. Before we proceed, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. No. I don't have it.",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great. Placing that for you now, please hold on.",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 953000. That's 9, 5, 3, 0, 0, 0.\", 'order_id': '953000', 'call_id': 'f6c51fe6-d942-46aa-98d5-d9e83d8ebc3f', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f054-feef-acab-39c1-40c139ea1d67'}",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now! The order number is nine, five, three, zero, zero, zero, and the total including taxes comes to twenty-two dollars and fifty cents. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. What is the text you have added?",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The tax added is nine dollars and ninety-eight cents, which is 9.98%.",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. And, what is the total price?",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The total price, including taxes, comes to twenty-two dollars and fifty cents.",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, if you need anything else, feel free to ask. Have a great day, John!",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome! Have a great day!",
+      "timestamp": "2025-07-09T17:57:45.301Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Bye.",
+      "timestamp": "2025-07-09T17:57:45.302Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Goodbye, John! See you soon!",
+      "timestamp": "2025-07-09T17:57:45.302Z"
+    }
+  ]
+}

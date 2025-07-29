@@ -1,0 +1,81 @@
+{
+  "callId": "6852b8a6cb9e39794cf68c19",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T13:01:26.032Z",
+    "callEnded": "2025-06-18T13:03:07.466Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Rahul placed an order for an Avocado BLT Sandwich at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Rahul, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T13:03:07.158Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order avocado BLT sandwich.",
+      "timestamp": "2025-06-18T13:03:07.158Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found the Avocado BLT Sandwich for nine dollars and ninety-nine cents. Which lunch side would you like - chips, coleslaw, or Lays chips?",
+      "timestamp": "2025-06-18T13:03:07.159Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T13:03:07.160Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current cart contains 1 Avocado BLT Sandwich for nine dollars and ninety-nine cents. Your total is nine dollars and ninety-nine cents. Anything else?",
+      "timestamp": "2025-06-18T13:03:07.160Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-18T13:03:07.160Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total is nine dollars and ninety-nine cents. Is this correct?",
+      "timestamp": "2025-06-18T13:03:07.160Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-18T13:03:07.160Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 3 8 3 8 3 6. Your order total is ten dollars and ninety-nine cents, which includes a subtotal of nine dollars and ninety-nine cents and one dollar in tax. Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T13:03:07.161Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Non.",
+      "timestamp": "2025-06-18T13:03:07.161Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-18T13:03:07.161Z"
+    }
+  ]
+}

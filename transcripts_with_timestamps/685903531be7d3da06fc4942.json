@@ -1,0 +1,81 @@
+{
+  "callId": "685903531be7d3da06fc4942",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T07:33:39.743Z",
+    "callEnded": "2025-06-23T07:35:16.312Z",
+    "duration": 120,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with cream cheese and bagel options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T07:35:16.022Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T07:35:16.022Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle comes with thirteen bagels, two tubs of cream cheese, and four muffins. You can add smoked nova for nine ninety-nine. Want to add that?",
+      "timestamp": "2025-06-23T07:35:16.022Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T07:35:16.022Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bundle. We have a few choices for the cream cheese, bagels, and muffins. For your two cream cheese tubs, we have Plain, Vegetable, or Scallion. Want to hear more options?",
+      "timestamp": "2025-06-23T07:35:16.022Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For",
+      "timestamp": "2025-06-23T07:35:16.023Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T07:35:16.023Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what else we have. For your two cream cheese tubs, we also have Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Lox Spread, Storemade Maple Raisin, Storemade Bacon Scallion",
+      "timestamp": "2025-06-23T07:35:16.023Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me one give me one made one store made, lockspred and one store made chime.",
+      "timestamp": "2025-06-23T07:35:16.023Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's get back to your Breakfast Bundle. For the bagels, we have a variety of options. You can choose from Plain, Everything, Asiago, Blueberry, California, and many more. Which ones would you like for your thirteen bagels?",
+      "timestamp": "2025-06-23T07:35:16.023Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll take, let me try again.",
+      "timestamp": "2025-06-23T07:35:16.023Z"
+    }
+  ]
+}

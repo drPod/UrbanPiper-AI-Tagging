@@ -1,0 +1,99 @@
+{
+  "callId": "6856cb311be7d3da06d04213",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T15:09:37.730Z",
+    "callEnded": "2025-06-21T15:11:50.643Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul ordered a medium hot latte with half and half milk and whipped cream from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T15:11:50.415Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hot latte, medium size, and, with with whipped cream, half an half milk.",
+      "timestamp": "2025-06-21T15:11:50.415Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me tell you about the options for that. A medium hot latte with whipped cream and half and half milk sounds delicious. I'll pull up all the customization options for you.",
+      "timestamp": "2025-06-21T15:11:50.415Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are",
+      "timestamp": "2025-06-21T15:11:50.416Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-21T15:11:50.416Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your medium hot latte, I see we have options for milk choice. We have regular milk, half and half for an extra dollar, skim milk, almond milk for an extra dollar, oat milk for an extra dollar, and soy milk. You mentioned half and half milk, so I'll go with that. Would you like any flavor shots or sweeteners in your latte? We have a variety of syrups like pumpkin, caramel, hazelnut, and vanilla for seventy-five cents each, or sugar, sweet and low, equal, splenda, and raw sugar at no extra cost. Or perhaps some whipped cream for seventy-five cents?",
+      "timestamp": "2025-06-21T15:11:50.417Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't want anything. Just medium, half and half and with with whipped cream. That's it. Hot saute.",
+      "timestamp": "2025-06-21T15:11:50.417Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-21T15:11:50.417Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $6.24",
+      "timestamp": "2025-06-21T15:11:50.418Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your medium hot latte with half and half milk and whipped cream is added to your order. Your total comes out to be $6.24. What else can I get for you?",
+      "timestamp": "2025-06-21T15:11:50.418Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Nothing for now. That's all.",
+      "timestamp": "2025-06-21T15:11:50.418Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me place this order for you... ",
+      "timestamp": "2025-06-21T15:11:50.418Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully! Your order number is 507588. Total: $6.86 (subtotal $6.24 + tax $0.62). . Thank you for your order!",
+      "timestamp": "2025-06-21T15:11:50.418Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-21T15:11:50.418Z"
+    }
+  ]
+}

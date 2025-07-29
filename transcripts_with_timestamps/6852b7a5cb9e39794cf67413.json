@@ -1,0 +1,129 @@
+{
+  "callId": "6852b7a5cb9e39794cf67413",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T12:57:09.425Z",
+    "callEnded": "2025-06-18T12:58:55.891Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Rahul placed an order for a brownie pastry at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Rahul, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T12:58:55.593Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T12:58:55.593Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm happy to help youwith your order. What",
+      "timestamp": "2025-06-18T12:58:55.594Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order food.",
+      "timestamp": "2025-06-18T12:58:55.594Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have on the menu. ",
+      "timestamp": "2025-06-18T12:58:55.594Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few options for you. We have muffins for three dollars and forty-nine cents, cookies, and pastry for two dollars and ninety-nine cents. Which one of these sounds good to you?",
+      "timestamp": "2025-06-18T12:58:55.595Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Order? Pastry.",
+      "timestamp": "2025-06-18T12:58:55.595Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your pastry, we have several options. You can choose from Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, or Fruity Rice Crispy Bar. Which one would you like?",
+      "timestamp": "2025-06-18T12:58:55.595Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "The brownie one.",
+      "timestamp": "2025-06-18T12:58:55.596Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Brownie pastry is a great choice. I'll add that to your order. ",
+      "timestamp": "2025-06-18T12:58:55.596Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be 3 dollars and 49 cents. Is that correct?",
+      "timestamp": "2025-06-18T12:58:55.597Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-18T12:58:55.597Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Any special requests or allergies I should know about?",
+      "timestamp": "2025-06-18T12:58:55.597Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-18T12:58:55.597Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Are you ready to finalize this order for pickup? ",
+      "timestamp": "2025-06-18T12:58:55.598Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-18T12:58:55.598Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 5 7 1 4 3 7. Your order total is 3 dollars and 84 cents, which includes a subtotal of 3 dollars and 49 cents and 35 cents in tax. Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T12:58:55.599Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-18T12:58:55.599Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-18T12:58:55.599Z"
+    }
+  ]
+}

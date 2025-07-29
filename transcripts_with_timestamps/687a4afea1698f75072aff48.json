@@ -1,0 +1,45 @@
+{
+  "callId": "687a4afea1698f75072aff48",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T13:24:14.256Z",
+    "callEnded": "2025-07-18T13:25:11.378Z",
+    "duration": 47,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer attempted to order an Omelet Wrap, but it was out of stock, and the agent offered to provide alternatives."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T13:25:11.138Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? Can you get me, omelette wrap?",
+      "timestamp": "2025-07-18T13:25:11.139Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Omelet Wrap on the menu. I'll add the Omelet Wrap for you. Now, let's customize it. What kind of wrap would you like? We have flour or wheat.",
+      "timestamp": "2025-07-18T13:25:11.139Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "K. Hi. Next time onwards, please check your menu first. Okay? Do not go start, doing, customization, please.",
+      "timestamp": "2025-07-18T13:25:11.139Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check our menu first. (pause) I've checked our menu, and it seems we have an Omelet Wrap, but it's listed as out of stock. I can offer you some alternatives, though. We have other breakfast items like the Original",
+      "timestamp": "2025-07-18T13:25:11.139Z"
+    }
+  ]
+}

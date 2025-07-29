@@ -1,0 +1,153 @@
+{
+  "callId": "6872c27a5560c851d641e773",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T20:15:54.753Z",
+    "callEnded": "2025-07-12T20:20:41.842Z",
+    "duration": 284,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Breakfast Bundle and a BLT sandwich, customizing the bundle with various bagel types and cream cheese flavors."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T20:20:41.494Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get a breakfast bundle?",
+      "timestamp": "2025-07-12T20:20:41.495Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great choice It comes with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins Would you like to add anything else to your order, or is that all?",
+      "timestamp": "2025-07-12T20:20:41.495Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. That's all. Also, I also want a a a card of BLT sandwich.",
+      "timestamp": "2025-07-12T20:20:41.495Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T20:20:41.495Z] assistant: The Breakfast Bundle and a BLT sandwich sounds like a great combination The BLT sandwich is our Big City BLT, which comes with bacon, lettuce, tomato, and mayo on toasted multigrain bread Would you like to make any changes to the BLT, or is that perfect as is? \n\nAlso, just to confirm, I have one Breakfast Bundle and one Big City BLT sandwich Is that correct?",
+      "timestamp": "2025-07-12T20:20:41.842Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-12T20:20:41.496Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T20:20:41.496Z] assistant: Perfect I have one Breakfast Bundle and one Big City BLT sandwich Now let me help you customize each one exactly how you like it. \n\n",
+      "timestamp": "2025-07-12T20:20:41.842Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to item customization stage...",
+      "timestamp": "2025-07-12T20:20:41.496Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T20:20:41.497Z] assistant: Let's customize your Breakfast Bundle and Big City BLT sandwich.\n\nFor the Breakfast Bundle, you get to choose 13 bagels. Pick one type. We have Plain, Everything, Sesame, or Blueberry.",
+      "timestamp": "2025-07-12T20:20:41.842Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Claim.",
+      "timestamp": "2025-07-12T20:20:41.497Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect!",
+      "timestamp": "2025-07-12T20:20:41.498Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Bagel.",
+      "timestamp": "2025-07-12T20:20:41.498Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you have 12 more bagels to choose. Pick one type. We have Everything, Sesame, or Blueberry.",
+      "timestamp": "2025-07-12T20:20:41.498Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I'll, can I have more options, please?",
+      "timestamp": "2025-07-12T20:20:41.498Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you have 12 more bagels to choose. Pick one type. We have Plain, Everything, Sesame, Blueberry, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, or Honey Whole Wheat.",
+      "timestamp": "2025-07-12T20:20:41.499Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. So why are you saying pick one? I should pick 12. Right?",
+      "timestamp": "2025-07-12T20:20:41.499Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you need to choose 12 more bagels. You can pick multiple types. We have Plain, Everything, Sesame, Blueberry, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast",
+      "timestamp": "2025-07-12T20:20:41.499Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So I'll I'll I'll like to have one plain, three everything, two garlic, one vanilla, two blueberry, two onion. And, you can also make the rest, as everything may go.",
+      "timestamp": "2025-07-12T20:20:41.500Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T20:20:41.500Z] assistant: Perfect! For the Breakfast Bundle, you have:\n\n* 1 Plain bagel\n* 3 Everything bagels\n* 2 Garlic bagels\n* 1 Vanilla bagel (note: Vanilla bagel is not a standard option, but I can offer you a similar alternative, such as a French Toast bagel)\n* 2 Blueberry bagels\n* 2 Onion bagels\n* And the rest (5 bagels) will be Everything bagels\n\nNow, let's move on to the cream cheese selection. You get to choose 2 tubs of cream cheese. Pick one type. We have Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive.",
+      "timestamp": "2025-07-12T20:20:41.842Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Scallion and, clean cream cheese.",
+      "timestamp": "2025-07-12T20:20:41.500Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T20:20:41.501Z] assistant: Perfect! For the Breakfast Bundle, you have:\n\n* 1 Plain bagel\n* 3 Everything bagels\n* 2 Garlic bagels\n* 1 French Toast bagel (instead of Vanilla)\n* 2 Blueberry bagels\n* 2 Onion bagels\n* And the rest (5 bagels) will be Everything bagels\n\nAnd for the cream cheese, you have:\n\n* 1 tub of Scallion/Onion Chive cream cheese\n* 1 tub of Plain cream cheese\n\nNow, let's move on to the muffin selection. You get to choose 4 muffins. Pick one type. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, or Cranberry Orange.",
+      "timestamp": "2025-07-12T20:20:41.842Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-07-12T20:20:41.501Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you for calling. Have a great day. Goodbye.",
+      "timestamp": "2025-07-12T20:20:41.501Z"
+    }
+  ]
+}

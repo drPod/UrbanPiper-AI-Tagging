@@ -1,0 +1,213 @@
+{
+  "callId": "685838c81be7d3da06f57909",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-22T17:09:28.791Z",
+    "callEnded": "2025-06-22T17:12:53.080Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer inquired about ordering a Manhattan Cheesesteak Sandwich and later changed their mind to an Original Classic, but the call ended before finalizing the order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-22T17:12:52.094Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. How are you?",
+      "timestamp": "2025-06-22T17:12:52.094Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm doing well, thanks for asking. It's great to have you here at Manhattan Bagel. How about you, how's your day going so far? What can I get for you today?",
+      "timestamp": "2025-06-22T17:12:52.094Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. So, actually,",
+      "timestamp": "2025-06-22T17:12:52.094Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm here to",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm actually",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll just wait for a moment, please go ahead and",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Wait. Wait. Wait. I'm looking for",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Take your time, Jiten.",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm here when you're ready to order.",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Yeah. So I'm just saying, I would like to order, Manhattan cheese stick sandwich.",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Manhattan Cheesesteak Sandwich, excellent choice. That's a popular item with grilled steak, roasted peppers, grilled onions, and cheese on a long roll. Let me get the options for your Manhattan Cheesesteak Sandwich...",
+      "timestamp": "2025-06-22T17:12:52.095Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with your Manhattan Cheesesteak Sandwich. For the lunch side, we have chips, coleslaw, or Lays chips for a dollar extra. Which one would you like?",
+      "timestamp": "2025-06-22T17:12:52.096Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "But I want to know how many I can select.",
+      "timestamp": "2025-06-22T17:12:52.096Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the lunch side, you can choose one option. We have chips, coleslaw, or Lays chips for a dollar extra. Which one sounds good to you?",
+      "timestamp": "2025-06-22T17:12:52.096Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I select more than one?",
+      "timestamp": "2025-06-22T17:12:52.096Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the lunch side, you can only choose one option. If you'd like to add something extra, we can discuss other customization options later. Let's focus on the lunch side for now. Would you",
+      "timestamp": "2025-06-22T17:12:52.096Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. And and how how you're con how how you confirm? Like, I can only select one?",
+      "timestamp": "2025-06-22T17:12:52.148Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. According to our options, for the lunch side, it's a single selection. You can choose one from chips, coleslaw, or Lays chips.",
+      "timestamp": "2025-06-22T17:12:52.148Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is it is it because, like, you have the min selection one and max selection as one one? Is it because of that?",
+      "timestamp": "2025-06-22T17:12:52.149Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, that's correct. The minimum and maximum selection for the lunch side is one, which means you can only choose one option from the available choices.",
+      "timestamp": "2025-06-22T17:12:52.149Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Okay. Forget about the Manhattan cheese stick. Can I, select, order the, original classic?",
+      "timestamp": "2025-06-22T17:12:52.149Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Original Classic, great choice. That's one of our popular breakfast sandwiches with egg, cheese, and your choice of meat. Let me get the options for your Original Classic...",
+      "timestamp": "2025-06-22T17:12:52.149Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Original Classic, let's start with the bagel choice. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which type of bagel would you like?",
+      "timestamp": "2025-06-22T17:12:52.149Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hold on. So, give me one second. I'm doing something else as well.",
+      "timestamp": "2025-06-22T17:12:52.149Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Take your",
+      "timestamp": "2025-06-22T17:12:52.149Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-22T17:12:52.149Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll",
+      "timestamp": "2025-06-22T17:12:52.150Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. So in the bagel choice, how many like, can I have two bagels, one everything and one asiago?",
+      "timestamp": "2025-06-22T17:12:52.150Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Original Classic, you can only choose one bagel. If you'd like to have two different bagels, you could consider ordering two separate Original Classics, each with a different bagel choice.",
+      "timestamp": "2025-06-22T17:12:52.150Z"
+    }
+  ]
+}

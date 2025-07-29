@@ -1,0 +1,33 @@
+{
+  "callId": "686e7d29d14f3abcfb37cace",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T14:31:05.764Z",
+    "callEnded": "2025-07-09T14:31:28.243Z",
+    "duration": 20,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The user initiated an order for the Breakfast Bundle but did not complete the customization process before the call ended."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T14:31:28.046Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order the first one there.",
+      "timestamp": "2025-07-09T14:31:28.046Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, and English Muffin. Would you like one of these, or should I",
+      "timestamp": "2025-07-09T14:31:28.046Z"
+    }
+  ]
+}

@@ -6,8 +6,12 @@ Test script to fetch a single transcript from Quibble AI platform
 import os
 import sys
 from fetch_transcripts import QuibbleTranscriptFetcher
+from dotenv import load_dotenv
 
 def main():
+    # Load environment variables from .env file
+    load_dotenv()
+    
     # Get authentication from environment variables
     auth_token = os.getenv('QUIBBLE_AUTH_TOKEN')
     cookie = os.getenv('QUIBBLE_COOKIE')

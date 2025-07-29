@@ -1,0 +1,33 @@
+{
+  "callId": "687a4d0ea1698f75072b3b9f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T13:33:02.237Z",
+    "callEnded": "2025-07-18T13:33:31.529Z",
+    "duration": 27,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered an Omelet Wrap from Manhattan Bagel and began the customization process."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T13:33:31.269Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Get me omelet wrap, please.",
+      "timestamp": "2025-07-18T13:33:31.270Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Omelet Wrap on the menu. I'll add the Omelet Wrap for you. Now, let's customize it. You'll need to pick a wrap choice for your Omelet Wrap. I have Flour or Wheat. Which would you prefer?",
+      "timestamp": "2025-07-18T13:33:31.270Z"
+    }
+  ]
+}

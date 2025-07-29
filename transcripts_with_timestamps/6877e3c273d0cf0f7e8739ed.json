@@ -1,0 +1,135 @@
+{
+  "callId": "6877e3c273d0cf0f7e8739ed",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T17:39:14.421Z",
+    "callEnded": "2025-07-16T17:42:40.020Z",
+    "duration": 202,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer ordered a gluten-free bagel with jalapeno cream cheese spread, but the call ended before the order could be finalized."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you give me, some, gluten free bagel or sandwich? Any of the two? Any help among these these two?",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We do have a Gluten-Free option. For bagels, we have a Gluten-Free bagel, which is a part of our Single Bagel or Bagel With Spread options. As for sandwiches, you can choose any of our items and substitute the regular bagel with a Gluten-Free bagel for an extra $1.49. Which one sounds good to you?",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please repeat?",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a Gluten-Free bagel option. You can get it as a Single Bagel or as part of our Bagel With Spread. If you're interested in a sandwich, you can choose any item and we can substitute the regular bagel with a Gluten-Free one for an extra $1.49. Would you like to try one of these options?",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So give me a big deal with the spread then.",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T17:42:39.274Z] assistant: For the Bagel With Spread, I'll need to know what kind of bagel and spread you'd like. We have a variety of bagels, but since you mentioned gluten-free, I'll make sure to note that down. Our gluten-free bagel option is available for an extra $1.49. \n\nFor the spread, we have butter, plain cream cheese, or other flavored cream cheeses like strawberry or jalapeno. Which spread sounds good to you?",
+      "timestamp": "2025-07-16T17:42:40.020Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Filipino, is good, I think.",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T17:42:39.274Z] assistant: The Jalapeno cream cheese sounds like a great choice. So, to confirm, you'd like a Gluten-Free bagel with Jalapeno cream cheese spread, correct? \n\nAlso, would you like your bagel toasted, lightly toasted, or not toasted at all?",
+      "timestamp": "2025-07-16T17:42:40.020Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me those 10.",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Gluten-Free bagel with Jalapeno cream cheese, you can choose from the following toasting options: 1. Toasted 2. Lightly Toasted 3. Toasted",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me toasted toasted one.",
+      "timestamp": "2025-07-16T17:42:39.274Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T17:42:39.275Z] assistant: So, to confirm, you'd like a Gluten-Free bagel that's toasted, with Jalapeno cream cheese spread. I'll go ahead and add that to your order.\n\nNow, I just need to calculate the total for you. Just a moment, please... \n\n",
+      "timestamp": "2025-07-16T17:42:40.020Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-07-16T17:42:39.275Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "It's hello?",
+      "timestamp": "2025-07-16T17:42:39.275Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-16T17:42:39.275Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Are you there?",
+      "timestamp": "2025-07-16T17:42:39.275Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-16T17:42:39.275Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T17:42:39.275Z] assistant: I'm here. Let me try to calculate the price for your order again.\n\n",
+      "timestamp": "2025-07-16T17:42:40.020Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Call ended before tool response was received",
+      "timestamp": "2025-07-16T17:42:39.275Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "callId": "6857236f1be7d3da06d9ab93",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T21:26:07.927Z",
+    "callEnded": "2025-06-21T21:26:34.583Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul ordered a Breakfast Bundle from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T21:26:34.428Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle? Hello?",
+      "timestamp": "2025-06-21T21:26:34.428Z"
+    }
+  ]
+}

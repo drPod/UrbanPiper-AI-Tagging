@@ -1,0 +1,57 @@
+{
+  "callId": "6877e9dd73d0cf0f7e87be28",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T18:05:17.582Z",
+    "callEnded": "2025-07-16T18:06:17.188Z",
+    "duration": 55,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "Jitin initiated a call with Manhattan Bagel but did not place an order, instead asking to hold for a moment and then ending the call."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T18:06:16.858Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-16T18:06:16.859Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello again, Jitin. Welcome back to Manhattan Bagel. I am BagelBot. What would you like to order today?",
+      "timestamp": "2025-07-16T18:06:16.859Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm just looking to order, like one second, please.",
+      "timestamp": "2025-07-16T18:06:16.859Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Take your time, Jitin. I'm here when you're ready to order. What can I get for you today?",
+      "timestamp": "2025-07-16T18:06:16.859Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second. One second. Hold on.",
+      "timestamp": "2025-07-16T18:06:16.859Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "No rush, Jitin. Take all the time you need. I'll be here when you're ready to place your order.",
+      "timestamp": "2025-07-16T18:06:16.859Z"
+    }
+  ]
+}

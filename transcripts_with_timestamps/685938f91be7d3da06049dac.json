@@ -1,0 +1,51 @@
+{
+  "callId": "685938f91be7d3da06049dac",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T11:22:33.019Z",
+    "callEnded": "2025-06-23T11:23:19.235Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with the assistance of BagelBot."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T11:23:19.106Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Looking to order breakfast bundle.",
+      "timestamp": "2025-06-23T11:23:19.107Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The",
+      "timestamp": "2025-06-23T11:23:19.107Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-23T11:23:19.107Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great choice. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T11:23:19.107Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "First, for your thirteen bagels, I have options like Plain, Everything, or Sesame. What would you like?",
+      "timestamp": "2025-06-23T11:23:19.107Z"
+    }
+  ]
+}

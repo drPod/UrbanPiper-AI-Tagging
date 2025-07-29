@@ -1,0 +1,45 @@
+{
+  "callId": "686b863b0ba117a21b2345ef",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-07T08:32:59.778Z",
+    "callEnded": "2025-07-07T08:34:02.835Z",
+    "duration": 60,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Protein Breakfast Wrap from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-07T08:34:02.501Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order protein breakfast wrap.",
+      "timestamp": "2025-07-07T08:34:02.501Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One Protein Breakfast Wrap. First things first, I'll need to get a wrap choice for that. We have Flour or Wheat. Which one would you like?",
+      "timestamp": "2025-07-07T08:34:02.501Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do protein wrap has modifications. Can you please check it first?",
+      "timestamp": "2025-07-07T08:34:02.501Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check the Protein Breakfast Wrap for you. It comes with Grilled Chicken, Egg Whites, Spinach, Avocado, Roasted Red Peppers, and Melted Swiss Cheese, all served on a whole wheat wrap. There are no modifications available for this item. Would you like to add it to your order or would you like to hear more options?",
+      "timestamp": "2025-07-07T08:34:02.502Z"
+    }
+  ]
+}

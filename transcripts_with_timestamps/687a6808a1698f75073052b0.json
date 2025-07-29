@@ -1,0 +1,129 @@
+{
+  "callId": "687a6808a1698f75073052b0",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T15:28:08.212Z",
+    "callEnded": "2025-07-18T15:29:53.136Z",
+    "duration": 103,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha ordered 2 brownie pastries from Manhattan Bagel and the total came to $7.68."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T15:29:52.772Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order pastry.",
+      "timestamp": "2025-07-18T15:29:52.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. We have a variety of pastries, including muffins, cookies, and croissants. What type of pastry are you looking for? We have blueberry",
+      "timestamp": "2025-07-18T15:29:52.773Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me give me two blueberry muffin, two blueberry goat pastry only.",
+      "timestamp": "2025-07-18T15:29:52.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our",
+      "timestamp": "2025-07-18T15:29:52.773Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me a cookie, please.",
+      "timestamp": "2025-07-18T15:29:52.774Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me just check the availability of the blueberry muffin. That will be our Muffins on the menu, now let me check the availability. You've chosen 2 blueberry muffins. I'll add the 2 blueberry ",
+      "timestamp": "2025-07-18T15:29:52.774Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I I want pastry. Okay? Two brownie pastry.",
+      "timestamp": "2025-07-18T15:29:52.775Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Pastry on the menu, just confirming it's available. You've chosen 2 brownie pastries. I'll add the 2 brownie",
+      "timestamp": "2025-07-18T15:29:52.775Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yahooty, BQ, BQ.",
+      "timestamp": "2025-07-18T15:29:52.776Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:29:52.776Z] assistant: Let me just calculate the total for you. \n\n",
+      "timestamp": "2025-07-18T15:29:53.136Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes to 7 dollars and 68 cents.",
+      "timestamp": "2025-07-18T15:29:52.776Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-18T15:29:52.778Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I didn't quite catch that. Could you please repeat what you said?",
+      "timestamp": "2025-07-18T15:29:52.778Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I said, like, what are the total price?",
+      "timestamp": "2025-07-18T15:29:52.778Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:29:52.779Z] assistant: Your total comes to 7 dollars and 68 cents. \n\nLet me get that all put together for you. \n\n",
+      "timestamp": "2025-07-18T15:29:53.136Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-18T15:29:52.779Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-18T15:29:52.779Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-18T15:29:52.779Z"
+    }
+  ]
+}

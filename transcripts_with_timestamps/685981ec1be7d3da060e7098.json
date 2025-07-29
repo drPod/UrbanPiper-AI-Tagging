@@ -1,0 +1,159 @@
+{
+  "callId": "685981ec1be7d3da060e7098",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T16:33:48.155Z",
+    "callEnded": "2025-06-23T16:37:01.622Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin's order for a customized Avocado Toast could not be placed due to an internal server error."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T16:37:01.086Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. So I'm looking to order, a recorded post.",
+      "timestamp": "2025-06-23T16:37:01.086Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Avocado Toast, great choice. That's toasted multigrain bread with mashed avocado and everything bagel seasoning. Let me get the options for your avocado toast...",
+      "timestamp": "2025-06-23T16:37:01.086Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Avocado Toast, let's start with the Bagel Choice. We have options like Plain, Everything, Asiago, and many more. You need to choose exactly one bagel type. Which one would you like?",
+      "timestamp": "2025-06-23T16:37:01.087Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want a rainbow wheel.",
+      "timestamp": "2025-06-23T16:37:01.087Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Rainbow Bagel is a great choice. Now, let's move on to the Condiments. You can choose up to 10 condiments, and options include Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, Tomato Spread, Butter, Cream Cheese, Flavor CC, and Jelly. Which condiments would you like to add?",
+      "timestamp": "2025-06-23T16:37:01.087Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order, mustard.",
+      "timestamp": "2025-06-23T16:37:01.088Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Mustard is a great addition. Now, let's move on to the Add Vegetables group. You can choose up to 11 vegetables, and we have options like Lettuce, Tomato, Red Onions, Avocado, Spinach, Cucumber, Green Peppers, Capers, Roasted Red Peppers, Grilled Onions, and Jalapeño Peppers. Since you already ",
+      "timestamp": "2025-06-23T16:37:01.088Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So I want to add tomato and, cucumber.",
+      "timestamp": "2025-06-23T16:37:01.088Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Tomato and Cucumber will go well with your Avocado Toast. Now, let's move on to the Extra Breakfast Meat group. You can choose up to 10 extra meats, and we have options like Extra Bacon, Extra Pork Roll, Extra Sausage, Extra",
+      "timestamp": "2025-06-23T16:37:01.088Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can you can you add extra grilled chicken?",
+      "timestamp": "2025-06-23T16:37:01.088Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Extra Grilled Chicken is a great choice. I'll add that to your Avocado Toast. Now, let's move on to the Lox group. You can choose to add Lox if you'd like. Would you like to add",
+      "timestamp": "2025-06-23T16:37:01.088Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. You can add it.",
+      "timestamp": "2025-06-23T16:37:01.089Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll add the Lox to your Avocado Toast. Next, let's consider the Hard Boiled Egg group. You can choose to add a Hard Boiled Egg if",
+      "timestamp": "2025-06-23T16:37:01.089Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I mean, I I don't need anything else. No. No. I don't need anything else.",
+      "timestamp": "2025-06-23T16:37:01.089Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, so to confirm, you've customized your Avocado Toast with a Rainbow Bagel, Mustard, Tomato, Cucumber, Extra Grilled Chicken, and Lox. I'll make sure to get that just right. Now, before I place your order, I just need to confirm a few things. Would you like me to read back your entire order to make sure everything is perfect?",
+      "timestamp": "2025-06-23T16:37:01.089Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T16:37:01.089Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I said no. It's okay. You can go ahead.",
+      "timestamp": "2025-06-23T16:37:01.090Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-23T16:37:01.090Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T16:37:01.090Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize, but it seems like there was an error placing your order. Let me try again. Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-23T16:37:01.090Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T16:37:01.091Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It seems like I'm still having trouble placing your order. Let me try to transfer the call to someone who can help.",
+      "timestamp": "2025-06-23T16:37:01.091Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-23T16:37:01.091Z"
+    }
+  ]
+}

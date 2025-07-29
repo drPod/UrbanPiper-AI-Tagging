@@ -1,0 +1,81 @@
+{
+  "callId": "6853039ecb9e39794c02ac33",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T18:21:18.412Z",
+    "callEnded": "2025-06-18T18:24:19.021Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Gaurav placed an order for a medium-sized Hot Latte with soy milk for pickup."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T18:24:18.642Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. I'd like to make an order of, hot latte.",
+      "timestamp": "2025-06-18T18:24:18.642Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a Hot Latte for you. What size would you like? We have a small 12oz for $3.99, a medium 16oz for $4.49, or a large 20oz for $4.99.",
+      "timestamp": "2025-06-18T18:24:18.643Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size.",
+      "timestamp": "2025-06-18T18:24:18.643Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your Hot Latte with a medium size is added to your order. Now, what kind of milk would you like in your latte? We have regular milk, half and half for $1, skim milk, almond milk for $1, oat milk for $1, or soy milk.",
+      "timestamp": "2025-06-18T18:24:18.643Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Show you, Malik.",
+      "timestamp": "2025-06-18T18:24:18.644Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So you'd like soy milk in your Hot Latte. Would you like to add any sweetener or syrup? We have sugar, sweet and low, equal, splenda, raw sugar, pumpkin syrup for 75 cents, caramel syrup for 75 cents, hazelnut syrup for 75 cents, vanilla syrup for 75 cents, sugar-free vanilla syrup for 75 cents, pistachio syrup for 75 cents, chocolate sauce for 75 cents, caramel sauce for 75 cents, white chocolate sauce for 75 cents, vanilla cold foam for $1, or whipped cream for 75 cents.",
+      "timestamp": "2025-06-18T18:24:18.693Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I no. I don't need any any, more options. We can go ahead.",
+      "timestamp": "2025-06-18T18:24:18.694Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be 4 dollars and 49 cents. Would you like to place your order for pickup?",
+      "timestamp": "2025-06-18T18:24:18.694Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-18T18:24:18.695Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 2 8 0 4 4 4. Your order total is 9 dollars and 88 cents, which includes a subtotal of 9 dollars and 88 cents and 0 dollars and 90 cents in tax. Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T18:24:18.696Z"
+    }
+  ]
+}

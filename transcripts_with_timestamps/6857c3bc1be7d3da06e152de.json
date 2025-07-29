@@ -1,0 +1,123 @@
+{
+  "callId": "6857c3bc1be7d3da06e152de",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-22T08:50:04.090Z",
+    "callEnded": "2025-06-22T08:52:41.076Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul ordered a Breakfast Bundle with specific cream cheese flavors, muffin types, and bagel choices."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-22T08:52:40.167Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle?",
+      "timestamp": "2025-06-22T08:52:40.168Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, a fantastic choice. That comes with thirteen fresh-baked Manhattan Bagels, two tubs of cream cheese, and four muffins. You can also make it extra special by adding four ounces of premium Acme smoked nova for just nine dollars and ninety-nine cents. Would you like to add the smoked nova?",
+      "timestamp": "2025-06-22T08:52:40.168Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't want that.",
+      "timestamp": "2025-06-22T08:52:40.168Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, no problem. Let's start with your choices for the **two tubs of cream cheese** that come with the bundle. Let me get the flavor options for you...",
+      "timestamp": "2025-06-22T08:52:40.168Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-22T08:52:40.168Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have for the cream cheese flavors... ",
+      "timestamp": "2025-06-22T08:52:40.168Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the cream cheese, we have several flavors. You can pick two. To start, some popular ones are Plain, Vegetable, or Scallion. Do any of those sound good, or would you like to hear a few more?",
+      "timestamp": "2025-06-22T08:52:40.168Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Plain and vegetable are good for me.",
+      "timestamp": "2025-06-22T08:52:40.169Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, Plain and Vegetable cream cheese. Next up for your Breakfast Bundle are the **four muffins**. Let me see what muffin flavors we have today... ",
+      "timestamp": "2025-06-22T08:52:40.169Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the muffins, you can choose four. Some options are Blueberry, Corn, or Double Chocolate. What sounds good?",
+      "timestamp": "2025-06-22T08:52:40.169Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Muffins, blueberry, and, two chocolate chips.",
+      "timestamp": "2025-06-22T08:52:40.169Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, two Blueberry and two Chocolate Chip muffins. And finally for the Breakfast Bundle, we need to choose your **thirteen bagels**. Let me get the list of bagel types... ",
+      "timestamp": "2025-06-22T08:52:40.169Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the bagels, you can choose thirteen. Some popular options are Everything, Plain, or Sesame. What sounds good?",
+      "timestamp": "2025-06-22T08:52:40.170Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "13, sesame.",
+      "timestamp": "2025-06-22T08:52:40.170Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-22T08:52:40.170Z] assistant: Thirteen Sesame bagels it is.\n\nAlright! So that's the Breakfast Bundle with Plain and Vegetable cream cheese, two Blueberry and two Chocolate Chip muffins, and thirteen Sesame bagels. Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-22T08:52:41.076Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-22T08:52:40.170Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll make sure to get this order placed for you. Let me just confirm a few details. You've ordered a Breakfast Bundle with Plain and Vegetable cream cheese, two Blueberry and two Chocolate Chip muffins,",
+      "timestamp": "2025-06-22T08:52:40.170Z"
+    }
+  ]
+}

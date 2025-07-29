@@ -1,0 +1,153 @@
+{
+  "callId": "68796e22970f265df9e6a216",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T21:41:54.355Z",
+    "callEnded": "2025-07-17T21:44:09.606Z",
+    "duration": 129,
+    "from": "+15402441130",
+    "to": "+16204558091",
+    "summary": "Darsh placed an order for a Big Breakfast Burrito at Manhattan Bagel store with store ID 1"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Darsh Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-17T21:44:09.153Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get a big breakfast burrito?",
+      "timestamp": "2025-07-17T21:44:09.153Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Big Breakfast Burrito on the menu. I'll add the Big Breakfast Burrito for you. Now, let's customize it. The Big Breakfast Burrito comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. Would you like to make any changes or add anything to it?",
+      "timestamp": "2025-07-17T21:44:09.153Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. I would just like it how it is. Can you just order it?",
+      "timestamp": "2025-07-17T21:44:09.153Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-17T21:44:09.153Z] assistant: The Big Breakfast Burrito comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. I'll go ahead and place the order for you. \n\nJust a moment while I add that up... \n\nYour total comes out to be $9.49. \n\nGreat! We're about to submit your order. Let me know if you want to make any changes or add anything. Otherwise, we'll proceed with placing your order. \n\nPerfect, let me get that all put together for you. \n\n",
+      "timestamp": "2025-07-17T21:44:09.606Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-17T21:44:09.153Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm now finalizing your order. And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-17T21:44:09.153Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-17T21:44:09.153Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Darsh. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-17T21:44:09.154Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-17T21:44:09.154Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-17T21:44:09.154Z] assistant: Great. Placing that for you now, please hold on...\n\n",
+      "timestamp": "2025-07-17T21:44:09.606Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 357099. That's 3, 5, 7, 0, 9, 9.\", 'order_id': '357099', 'call_id': '11cf0aaa-5571-4e04-93f7-d58704d576d2', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981a57-877e-6135-6159-abadd4638262'}",
+      "timestamp": "2025-07-17T21:44:09.154Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 3, 5, 7, 0, 9, 9. Your total is eleven dollars and fifty-four cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete",
+      "timestamp": "2025-07-17T21:44:09.154Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-17T21:44:09.154Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Is there",
+      "timestamp": "2025-07-17T21:44:09.154Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Which store is this for?",
+      "timestamp": "2025-07-17T21:44:09.154Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "This order is for the Manhattan Bagel store, specifically the one with the store ID 1.",
+      "timestamp": "2025-07-17T21:44:09.154Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is it in Union or Westfield?",
+      "timestamp": "2025-07-17T21:44:09.155Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Manhattan Bagel store with the store ID 1 is located in Union.",
+      "timestamp": "2025-07-17T21:44:09.155Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-17T21:44:09.155Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Is there anything",
+      "timestamp": "2025-07-17T21:44:09.156Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Thank you.",
+      "timestamp": "2025-07-17T21:44:09.156Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Darsh. It was a pleasure helping you with",
+      "timestamp": "2025-07-17T21:44:09.156Z"
+    }
+  ]
+}

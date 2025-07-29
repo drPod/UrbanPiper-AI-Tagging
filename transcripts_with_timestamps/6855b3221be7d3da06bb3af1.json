@@ -1,0 +1,27 @@
+{
+  "callId": "6855b3221be7d3da06bb3af1",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T19:14:42.672Z",
+    "callEnded": "2025-06-20T19:15:19.226Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The call was a greeting from Manhattan Bagel to a customer named Gaurav, but no order was placed as the conversation was cut short."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T19:15:19.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-20T19:15:19.008Z"
+    }
+  ]
+}

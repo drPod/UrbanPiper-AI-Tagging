@@ -1,0 +1,39 @@
+{
+  "callId": "68727e325560c851d63a2823",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T15:24:34.775Z",
+    "callEnded": "2025-07-12T15:25:30.583Z",
+    "duration": 54,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer ordered a medium hot coffee and the agent began to ask about milk preferences before the call ended abruptly."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T15:25:30.329Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want a hot coffee, medium size. Hello?",
+      "timestamp": "2025-07-12T15:25:30.329Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, one medium hot coffee. Now, for your coffee, would you like to add any milk? We have regular milk, skim, half and half, almond, oat, and soy.",
+      "timestamp": "2025-07-12T15:25:30.330Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope",
+      "timestamp": "2025-07-12T15:25:30.330Z"
+    }
+  ]
+}

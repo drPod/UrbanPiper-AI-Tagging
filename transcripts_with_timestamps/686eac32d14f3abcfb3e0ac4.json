@@ -1,0 +1,63 @@
+{
+  "callId": "686eac32d14f3abcfb3e0ac4",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T17:51:46.305Z",
+    "callEnded": "2025-07-09T17:52:40.690Z",
+    "duration": 51,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "John ordered a Mint Oreo Chillerz in a sixteen-ounce size."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T17:52:40.527Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order a mint orchillers, 16 ounce, and that's it.",
+      "timestamp": "2025-07-09T17:52:40.527Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one Mint Oreo Chillerz in a sixteen ounce size. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T17:52:40.527Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No, 30 anch'io.",
+      "timestamp": "2025-07-09T17:52:40.527Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T17:52:40.527Z] assistant: Okay, so I have the Mint Oreo Chillerz for you. Let me get that all put together. \n\n",
+      "timestamp": "2025-07-09T17:52:40.690Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-07-09T17:52:40.528Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-09T17:52:40.528Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Call ended before tool response was received",
+      "timestamp": "2025-07-09T17:52:40.528Z"
+    }
+  ]
+}

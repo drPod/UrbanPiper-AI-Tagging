@@ -1,0 +1,14 @@
+{
+  "callId": "687101015560c851d61640d6",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-11T12:18:09.965Z",
+    "callEnded": "Unknown",
+    "duration": 296,
+    "from": "+14252466685",
+    "to": "+16204558091",
+    "summary": "The customer inquired about the menu and placed a hypothetical order for a breakfast sandwich with specific modifications."
+  },
+  "messages": []
+}

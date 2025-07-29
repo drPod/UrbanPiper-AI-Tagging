@@ -1,0 +1,57 @@
+{
+  "callId": "6868408645548bd51cdc2fad",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-04T20:58:46.198Z",
+    "callEnded": "2025-07-04T20:59:52.342Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered a 12oz fresh squeezed orange juice from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-04T20:59:52.147Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order, orange juice. Do you have orange juice?",
+      "timestamp": "2025-07-04T20:59:52.147Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a few options for orange juice. We have fresh squeezed orange juice, which comes in 12oz or 32oz sizes, and we also have Tropicana orange juice in 11oz or 46oz sizes. Which one of those sounds good to you?",
+      "timestamp": "2025-07-04T20:59:52.147Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And, one second, please. So what is the size for fresh squeezed orange juice?",
+      "timestamp": "2025-07-04T20:59:52.147Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our fresh squeezed orange juice comes in two sizes: 12 ounces and 32 ounces. Which size would you prefer?",
+      "timestamp": "2025-07-04T20:59:52.147Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd love to have, shall we do?",
+      "timestamp": "2025-07-04T20:59:52.148Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So you'd like to have the",
+      "timestamp": "2025-07-04T20:59:52.148Z"
+    }
+  ]
+}

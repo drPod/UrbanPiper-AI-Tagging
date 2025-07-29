@@ -1,0 +1,33 @@
+{
+  "callId": "6877e78d73d0cf0f7e878c24",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T17:55:25.891Z",
+    "callEnded": "2025-07-16T17:55:56.207Z",
+    "duration": 27,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "Jitin ordered a Breakfast Bundle from Manhattan Bagel and began the customization process with the agent."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T17:55:55.983Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me breakfast bundles, please.",
+      "timestamp": "2025-07-16T17:55:55.983Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Breakfast Bundle on the menu. I'll add that for you. Now I'll help you customize it. You'll need to pick exactly 13 bagels for your bundle. I have Plain",
+      "timestamp": "2025-07-16T17:55:55.983Z"
+    }
+  ]
+}

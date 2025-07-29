@@ -1,0 +1,87 @@
+{
+  "callId": "686e5586d14f3abcfb3313ff",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T11:41:58.052Z",
+    "callEnded": "2025-07-09T11:43:09.190Z",
+    "duration": 68,
+    "from": "+19737032606",
+    "to": "+16204558091",
+    "summary": "Akram placed an order for multiple breakfast items and beverages at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Akram Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T11:43:08.904Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. I'd like to order a bacon, egg, and cheese on a plain bagel, Taylor ham, egg, and cheese on a sesame, one sausage, egg, and cheese on a plain bagel, one Manhattan cheesesteak, omelette crab with bacon, five Snapple lemon, one Snapple peach, one can soda.",
+      "timestamp": "2025-07-09T11:43:08.904Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One thirty two ounce Coke.",
+      "timestamp": "2025-07-09T11:43:08.904Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one 32 ounce Coke. Let me get that started for you. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T11:43:08.904Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Repeat over to me.",
+      "timestamp": "2025-07-09T11:43:08.904Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T11:43:08.904Z] assistant: Sure thing. Let me get that all put together for you. \n\n",
+      "timestamp": "2025-07-09T11:43:09.190Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-07-09T11:43:08.904Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It looks like there was a small issue with my system. Let me try that again. Is there anything else I can get for you today, Akram?",
+      "timestamp": "2025-07-09T11:43:08.904Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Repeat my order.",
+      "timestamp": "2025-07-09T11:43:08.904Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T11:43:08.905Z] assistant: Alright, let me get that all put together for you.  \n\n\n",
+      "timestamp": "2025-07-09T11:43:09.190Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-07-09T11:43:08.905Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It seems there's a temporary issue with my system. Let me try once more. Is there anything else I can assist",
+      "timestamp": "2025-07-09T11:43:08.905Z"
+    }
+  ]
+}

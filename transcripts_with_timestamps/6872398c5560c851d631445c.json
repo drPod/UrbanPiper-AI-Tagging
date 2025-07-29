@@ -1,0 +1,33 @@
+{
+  "callId": "6872398c5560c851d631445c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T10:31:40.524Z",
+    "callEnded": "2025-07-12T10:32:07.157Z",
+    "duration": 22,
+    "from": "+910000000000",
+    "to": "+910000000000",
+    "summary": "The user requested an Avocado BLT sandwich, which is not available, and was informed of similar options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-12T10:32:06.905Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Get me avocado BLT sandwich, please.",
+      "timestamp": "2025-07-12T10:32:06.905Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see an Avocado BLT sandwich on our menu. However, we do have some great options like the Big City",
+      "timestamp": "2025-07-12T10:32:06.905Z"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "callId": "686b825045548bd51c1e5fb8",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-07T08:16:16.431Z",
+    "callEnded": "2025-07-07T08:18:44.780Z",
+    "duration": 144,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer attempted to order a Farmhouse Egg Sandwich with cucumber, but it was not available as an option."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-07T08:18:44.553Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order, a small sack sandwich.",
+      "timestamp": "2025-07-07T08:18:44.553Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see farm house egg sandwich on our menu. Let me share some options: Original Classic, Spinach Bacon Croissant, Farmhouse Egg",
+      "timestamp": "2025-07-07T08:18:44.553Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please check the menu again? I'm just asking from house egg sandwich.",
+      "timestamp": "2025-07-07T08:18:44.553Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see farm house egg sandwich on our menu. Let me share some options: Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich.",
+      "timestamp": "2025-07-07T08:18:44.553Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-07T08:18:44.553Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-07T08:18:44.553Z] assistant: I don't see farm house egg sandwich on our menu. Let me share some options: Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich. \n\nHowever I do see a Farmhouse Egg Sandwich, it comes with Ham, bacon, egg, cheddar cheese, and pepper cream cheese on a cheesy hash brown roll. Would you like to order that?",
+      "timestamp": "2025-07-07T08:18:44.779Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second, please.",
+      "timestamp": "2025-07-07T08:18:44.553Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll wait for a",
+      "timestamp": "2025-07-07T08:18:44.553Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. Yes. Yes. Yes.",
+      "timestamp": "2025-07-07T08:18:44.553Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So you'd like to order the Farmhouse Egg Sandwich. That comes with ham, bacon, egg, cheddar cheese, and pepper cream cheese on a cheesy hash brown roll. Would you like to add any vegetables to that?",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Vegetable.",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Farmhouse",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to yeah. I would like to have, a Google and, green pepper.",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see cucumber as an option for the Farmhouse Egg Sandwich. Let me share some options: Lettuce, Tomato, Red Onions, Avocado, Spinach, and Grilled Onions. Would you like to add one of these?",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Don't you have, cucumber?",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And vegetable?",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see cucumber as an option for the Farmhouse Egg Sandwich. Let me share some options: Lettuce, Tomato, Red Onions, Avocado, Spinach, and Grilled",
+      "timestamp": "2025-07-07T08:18:44.554Z"
+    }
+  ]
+}

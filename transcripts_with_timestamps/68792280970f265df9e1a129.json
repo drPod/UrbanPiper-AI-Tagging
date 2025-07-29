@@ -1,0 +1,21 @@
+{
+  "callId": "68792280970f265df9e1a129",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T16:19:12.301Z",
+    "callEnded": "2025-07-17T16:19:25.730Z",
+    "duration": 10,
+    "from": "+16043188111",
+    "to": "+16204558091",
+    "summary": "The customer initiated a call with Manhattan Bagel but did not place an order as the conversation just started."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-17T16:19:25.451Z"
+    }
+  ]
+}

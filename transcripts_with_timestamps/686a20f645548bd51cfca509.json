@@ -1,0 +1,117 @@
+{
+  "callId": "686a20f645548bd51cfca509",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-06T07:08:38.934Z",
+    "callEnded": "2025-07-06T07:10:45.449Z",
+    "duration": 123,
+    "from": "+64220434685",
+    "to": "+19198136886",
+    "summary": "Hadeeb ordered a Farmhouse Egg Sandwich with added vegetables and inquired about sides."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-06T07:10:44.171Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I order a burger?",
+      "timestamp": "2025-07-06T07:10:44.177Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order?",
+      "timestamp": "2025-07-06T07:10:44.177Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Adeep?",
+      "timestamp": "2025-07-06T07:10:44.177Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Hadeeb,",
+      "timestamp": "2025-07-06T07:10:44.178Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Pradeep?",
+      "timestamp": "2025-07-06T07:10:44.178Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "What would you like to order today?",
+      "timestamp": "2025-07-06T07:10:44.178Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Burger.",
+      "timestamp": "2025-07-06T07:10:44.178Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We don't have burgers on our menu. We specialize in bagels, sandwiches, and breakfast items. Would you like me to suggest some options?",
+      "timestamp": "2025-07-06T07:10:44.178Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have a king chicken burger?",
+      "timestamp": "2025-07-06T07:10:44.178Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see a king chicken burger on our menu. Let me share some options: we have a variety of bagel sandwiches, including the Original Classic, Spinach Bacon Croissant, and Farmhouse Egg Sandwich. Would you like to hear more about those?",
+      "timestamp": "2025-07-06T07:10:44.179Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have farmhouse, Bagel?",
+      "timestamp": "2025-07-06T07:10:44.179Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Farmhouse Egg Sandwich is a great choice. It comes with ham, bacon, egg, cheddar cheese, and pepper cream cheese on a cheesy hash brown roll. First, I'll need to know if you'd like to add any vegetables to it. We have options like lettuce, tomato, and spinach. Would you like any of those?",
+      "timestamp": "2025-07-06T07:10:44.179Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. Can you add three of those?",
+      "timestamp": "2025-07-06T07:10:44.179Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Farmhouse Egg Sandwich, you can choose up to 11 vegetables. I can add lettuce, tomato, and spinach for you. Would you like to hear more options or proceed with those?",
+      "timestamp": "2025-07-06T07:10:44.179Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Proceed with this.",
+      "timestamp": "2025-07-06T07:10:44.179Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll add lettuce, tomato, and spinach to your Farmhouse Egg Sandwich. Next, would you like to choose a side, such as chips or cole slaw, or perhaps something else?",
+      "timestamp": "2025-07-06T07:10:44.179Z"
+    }
+  ]
+}

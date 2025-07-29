@@ -1,0 +1,33 @@
+{
+  "callId": "685b111d9ae6a419f3d7344c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-24T20:57:01.657Z",
+    "callEnded": "2025-06-24T20:57:31.742Z",
+    "duration": 60,
+    "from": "+13215054148",
+    "to": "+16204558091",
+    "summary": "The customer, Ace Jack, inquired about their existing order but the agent couldn't access or recall it, offering instead to help with a new order or menu inquiry."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Ace Jack, Welcome to Manhattan Bagel. It is great to see you again. What would you like to order?",
+      "timestamp": "2025-06-24T20:57:31.544Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I've already ordered. Can you tell me what my order is?",
+      "timestamp": "2025-06-24T20:57:31.544Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't have the ability to access or recall previous orders. If you'd like to place a new order or inquire about our menu, I'd be happy to help. What can I get for you today?",
+      "timestamp": "2025-06-24T20:57:31.544Z"
+    }
+  ]
+}

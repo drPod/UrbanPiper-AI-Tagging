@@ -1,0 +1,201 @@
+{
+  "callId": "687206355560c851d627829a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T06:52:37.547Z",
+    "callEnded": "2025-07-12T06:58:25.590Z",
+    "duration": 345,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Breakfast Bundle with 13 bagels, 4 muffins, 2 cream cheeses, and a box of House Blend coffee"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T06:58:24.804Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Get me, Bigfast bundle.",
+      "timestamp": "2025-07-12T06:58:24.804Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great choice. For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?",
+      "timestamp": "2025-07-12T06:58:24.804Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So I'll start with five, plain, five everything, one Manila, two garlic.",
+      "timestamp": "2025-07-12T06:58:24.804Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Vanilla as an available choice for bagels in the Breakfast Bundle. Here are some other options we have: Blueberry, Chocolate Chip, Egg Everything, French Toast BAGEL, ",
+      "timestamp": "2025-07-12T06:58:24.804Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Then can you add, two more garlic then?",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to recap, you have five Plain, five Everything, and now four Garlic bagels. That's a total of fourteen bagels, but we need to choose exactly thirteen for the Breakfast Bundle. Would you like to adjust the quantities of any of these bagels to meet the thirteen-bagel requirement?",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Remove one garlic bagel.",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T06:58:24.805Z] assistant: So, I'll remove one Garlic bagel. Now, you have five Plain, five Everything, and three Garlic bagels. That's a total of thirteen bagels, which meets the Breakfast Bundle requirement.\n\nNext, for the Breakfast Bundle, you also get to choose four muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which four muffins would you like?",
+      "timestamp": "2025-07-12T06:58:25.590Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I need one corn, one vanilla, and, one, strawberry.",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Vanilla as an available choice for muffins. Here are some other options we have: Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. You've already chosen one Corn and one Strawberry. Would you like to replace the Vanilla with one of these options?",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Chocolate chip.",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to recap, you have one Corn, one Strawberry, and one Chocolate Chip muffin. You still need to choose one more muffin to complete the four-muffin selection. We have",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I think you meant to say \"Cinnamon\". We do have a Cinnamon Chip muffin option. So, to confirm, you'd like to add a Cinnamon Chip muffin to your selection, making your four muffins: one Corn, one Strawberry, one Chocolate Chip, and one Cinnamon Chip. Is that correct?",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Right.",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you've selected thirteen bagels and four muffins. Now, you also get to choose two tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, and Butter. Which two would you",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me give me one blueberry cream cheese and, one plain cream cheese.",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Blueberry as an available choice for cream cheese. Here are some other options we have: Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin,",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So then give me stow made bacons sorry. Stow stow made maple raisin and, strawberry.",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like to choose Storemade Maple Raisin and Strawberry as your two cream cheese options. I'll make sure to add those to your Breakfast Bundle. Now, would you like to add a box of coffee to your order? We have House Blend, Decaf, Vanilla",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. House blend.",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you've selected thirteen bagels, four muffins, two cream cheeses, and now you'd like to add a box of House Blend coffee. Is there anything else you'd like to add to your order, or is that all for today?",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it.",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you. ",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I just want to know what is the total price.",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I said I want to know the price total price. Can you tell me the price now?",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me calculate the total price for you. The Breakfast Bundle includes 13 bagels, 4 muffins, 2 cream cheeses, and a box of coffee. The total price for the bagels is: 5 Plain bagels = 5 * $2.50 = $12.50 5 Everything bagels = 5 * $2.75 = $13.75 3 Garlic bagels = 3 * $2.75 = $8.25 Total price for bagels = $12.50 + $13.75 + $8.25 = $34.50 The total price for the muffins is: 1 Corn muffin = $2.50 1 Strawberry muffin = $2.75 1 Chocolate Chip muffin = $2.75 1 Cinnamon Chip muffin = $2.75 Total price for muffins = $2.50 + $2.75 + $2.75 + $2.75 = $11.00, but since you have chosen 4 muffins from the",
+      "timestamp": "2025-07-12T06:58:24.805Z"
+    }
+  ]
+}

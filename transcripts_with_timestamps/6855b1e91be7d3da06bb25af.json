@@ -1,0 +1,45 @@
+{
+  "callId": "6855b1e91be7d3da06bb25af",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T19:09:29.492Z",
+    "callEnded": "2025-06-20T19:10:00.865Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer, Gaurav, inquired about ordering a hot latte from Manhattan Bagel but the search_for_item tool failed to retrieve the item, resulting in an incomplete order process."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T19:10:00.679Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have a hot latte?",
+      "timestamp": "2025-06-20T19:10:00.679Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. ",
+      "timestamp": "2025-06-20T19:10:00.679Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-20T19:10:00.679Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I couldn't find that exactly. Let me check our coffee options",
+      "timestamp": "2025-06-20T19:10:00.679Z"
+    }
+  ]
+}

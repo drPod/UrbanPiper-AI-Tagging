@@ -1,0 +1,45 @@
+{
+  "callId": "686a7fed45548bd51c0974b6",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-06T13:53:49.925Z",
+    "callEnded": "2025-07-06T13:54:34.614Z",
+    "duration": 43,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin called Manhattan Bagel to place an order, correcting the agent that his name is Jitin, not Jipan, and inquired about the Big Breakfast Burrito."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jipan Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-06T13:54:34.393Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So I like to order, big breakfast burrito. Can you tell me the price of the big breakfast burrito?",
+      "timestamp": "2025-07-06T13:54:34.393Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our Big Breakfast Burrito is a popular choice. It comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a",
+      "timestamp": "2025-07-06T13:54:34.394Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And and and, actually, I want to, you know, correct you. My name is not Japan. My name is Jitin.",
+      "timestamp": "2025-07-06T13:54:34.394Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the mistake, Jitin. I'll make sure to get your name right from now on. Now, about that",
+      "timestamp": "2025-07-06T13:54:34.394Z"
+    }
+  ]
+}

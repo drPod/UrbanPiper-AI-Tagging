@@ -1,0 +1,21 @@
+{
+  "callId": "6852ab52cb9e39794cf5653a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T12:04:34.982Z",
+    "callEnded": "2025-06-18T12:04:43.032Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The call was a greeting from Emily, the Manhattan Bagel voice AI, to Radz, welcoming them to Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Radz, Welcome to Manhattan Bagel. It is great",
+      "timestamp": "2025-06-18T12:04:42.892Z"
+    }
+  ]
+}

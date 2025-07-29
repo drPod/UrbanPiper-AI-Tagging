@@ -1,0 +1,21 @@
+{
+  "callId": "6877d10273d0cf0f7e84928a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T16:19:14.644Z",
+    "callEnded": "2025-07-16T16:19:25.906Z",
+    "duration": 9,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The call was an introduction to the Manhattan Bagel menu and ordering process with BagelBot, a friendly voice AI for the restaurant."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there,",
+      "timestamp": "2025-07-16T16:19:25.718Z"
+    }
+  ]
+}

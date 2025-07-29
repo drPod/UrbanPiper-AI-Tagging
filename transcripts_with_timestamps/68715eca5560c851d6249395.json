@@ -1,0 +1,69 @@
+{
+  "callId": "68715eca5560c851d6249395",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-11T18:58:18.375Z",
+    "callEnded": "2025-07-11T18:59:22.174Z",
+    "duration": 62,
+    "from": "+15129409794",
+    "to": "+16204558091",
+    "summary": "The customer placed a breakfast order for Avocado Toast on multigrain bagel with mustard."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-11T18:59:21.965Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to place a breakfast order.",
+      "timestamp": "2025-07-11T18:59:21.965Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your breakfast order, you'll need to pick just one item to start. We have a variety of",
+      "timestamp": "2025-07-11T18:59:21.965Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Avocado toast.",
+      "timestamp": "2025-07-11T18:59:21.965Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Avocado Toast, you'll need to pick just one bagel type. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, English Muffin, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, ",
+      "timestamp": "2025-07-11T18:59:21.965Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Multi grain.",
+      "timestamp": "2025-07-11T18:59:21.965Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, multigrain bagel it is. Now, for your Avocado Toast, you can add some condiments if you'd like. We have salt, pepper, ketchup, mayo, mustard, hot sauce, and tomato spread. Any of these sound good to you",
+      "timestamp": "2025-07-11T18:59:21.965Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Mustard.",
+      "timestamp": "2025-07-11T18:59:21.965Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Avocado Toast on multigrain bagel with mustard, I just need to confirm a few more things. You'll",
+      "timestamp": "2025-07-11T18:59:21.965Z"
+    }
+  ]
+}

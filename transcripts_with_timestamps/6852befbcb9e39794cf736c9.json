@@ -1,0 +1,177 @@
+{
+  "callId": "6852befbcb9e39794cf736c9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T13:28:27.411Z",
+    "callEnded": "2025-06-18T13:32:32.474Z",
+    "duration": 300,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Bhanu placed an order for a customized Chelsea Grilled Chicken sandwich with chips, lightly toasted, and avocado for pickup at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Rahul, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T13:32:30.786Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "My name is Bahano, not Rahul.",
+      "timestamp": "2025-06-18T13:32:30.787Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order, please?",
+      "timestamp": "2025-06-18T13:32:30.787Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "My name is Bhanu.",
+      "timestamp": "2025-06-18T13:32:30.787Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Bhanu, welcome to Manhattan Bagel. How can I help you today?",
+      "timestamp": "2025-06-18T13:32:30.787Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order, avocado, grilled sandwich. Can you can you please tell me, do you have the avocado grilled sandwich which has some chicken?",
+      "timestamp": "2025-06-18T13:32:30.787Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few options for you. We have the Spicy Avocado Grilled Chicken sandwich for $10.49, the Protein Breakfast Wrap for $10.99, and the Chelsea Grilled Chicken sandwich for $10.49. Which one of these options sounds good to you?",
+      "timestamp": "2025-06-18T13:32:30.787Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I think Chelsea grilled sandwich is good, like, where I can choose the avocado. Right?",
+      "timestamp": "2025-06-18T13:32:30.787Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Chelsea Grilled Chicken sandwich comes with roasted peppers, pepper jack cheese, and tomato spread on an Asiago bagel. You can choose to add avocado as an extra veggie option. Let's start with the lunch side. Which side would you like - chips, coleslaw, or Lays chips for an extra dollar?",
+      "timestamp": "2025-06-18T13:32:30.788Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T13:32:30.788Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Chelsea Grilled Chicken sandwich, which toast option would you like - toasted, lightly toasted, or toasted dark?",
+      "timestamp": "2025-06-18T13:32:30.788Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Lightly toasted.",
+      "timestamp": "2025-06-18T13:32:30.788Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current cart contains 1 Chelsea Grilled Chicken sandwich with chips, lightly toasted, and avocado for a total of $12.48. Anything else?",
+      "timestamp": "2025-06-18T13:32:30.788Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's all for now.",
+      "timestamp": "2025-06-18T13:32:30.788Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be 12 dollars and 48 cents. Are you ready to finalize this order for pickup?",
+      "timestamp": "2025-06-18T13:32:30.789Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me one second, please.",
+      "timestamp": "2025-06-18T13:32:30.789Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll wait for your confirmation to finalize the order. Take your time.",
+      "timestamp": "2025-06-18T13:32:30.789Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I",
+      "timestamp": "2025-06-18T13:32:30.789Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What what customization we have done so far?",
+      "timestamp": "2025-06-18T13:32:30.789Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We've customized your Chelsea Grilled Chicken sandwich with chips as the lunch side, lightly toasted, and added avocado as an extra veggie option.",
+      "timestamp": "2025-06-18T13:32:30.789Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-18T13:32:30.789Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, your Chelsea Grilled Chicken sandwich will have chips on the side, be lightly toasted, and include avocado. Your total comes out to be $12.48. Are you ready to finalize this order for pickup now?",
+      "timestamp": "2025-06-18T13:32:30.789Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-18T13:32:30.789Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully. Your order number is 5 1 5 6 4 5. Your order total is $13.73, which includes a subtotal of $12.48 and $1.25 in tax. Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T13:32:30.790Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you.",
+      "timestamp": "2025-06-18T13:32:30.790Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Bhanu. Have a great day and we'll see you soon at Manhattan Bagel for your pickup order, number 5 1 5 6 4 5.",
+      "timestamp": "2025-06-18T13:32:30.790Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-18T13:32:30.790Z"
+    }
+  ]
+}

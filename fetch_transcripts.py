@@ -23,6 +23,7 @@ import json
 import os
 import time
 from pathlib import Path
+from dotenv import load_dotenv
 
 class QuibbleTranscriptFetcher:
     def __init__(self, api_base_url="https://prod.quibbleai.io:3000", auth_token=None, cookie=None):
@@ -75,39 +76,27 @@ class QuibbleTranscriptFetcher:
             return None
     
     def format_transcript(self, chat_data, call_id):
-        """Format the chat data into a readable transcript"""
-        transcript_lines = []
-        
-        # Add metadata
-        transcript_lines.append(f"Call ID: {call_id}")
-        transcript_lines.append(f"Agent: {chat_data.get('agentName', 'Unknown')}")
-        transcript_lines.append(f"Call Type: {chat_data.get('callType', 'Unknown')}")
-        transcript_lines.append(f"Start Time: {chat_data.get('callStarted', 'Unknown')}")
-        transcript_lines.append(f"End Time: {chat_data.get('callEnded', 'Unknown')}")
-        transcript_lines.append(f"Duration: {chat_data.get('time', 'Unknown')} seconds")
-        transcript_lines.append(f"From: {chat_data.get('from', 'Unknown')}")
-        transcript_lines.append(f"To: {chat_data.get('to', 'Unknown')}")
-        
-        if 'summary' in chat_data:
-            transcript_lines.append(f"Summary: {chat_data['summary']}")
-        
-        transcript_lines.append("=" * 50)
-        transcript_lines.append("TRANSCRIPT:")
-        transcript_lines.append("=" * 50)
+        """Format the chat data into a structured JSON with timestamps"""
+        formatted_data = {
+            "callId": call_id,
+            "metadata": {
+                "agentName": chat_data.get('agentName', 'Unknown'),
+                "callType": chat_data.get('callType', 'Unknown'),
+                "callStarted": chat_data.get('callStarted', 'Unknown'),
+                "callEnded": chat_data.get('callEnded', 'Unknown'),
+                "duration": chat_data.get('time', 'Unknown'),
+                "from": chat_data.get('from', 'Unknown'),
+                "to": chat_data.get('to', 'Unknown'),
+                "summary": chat_data.get('summary', '')
+            },
+            "messages": []
+        }
         
         # Process chat messages
         for message in chat_data.get('chat', []):
             role = message.get('role', 'unknown')
             content = message.get('message', '')
             timestamp = message.get('timestamp', '')
-            
-            # Format role name
-            if role == 'assistant':
-                role_name = "AI Agent"
-            elif role == 'user':
-                role_name = "Customer"
-            else:
-                role_name = role.title()
             
             # Skip system messages that are JSON objects
             if content.startswith('{') and content.endswith('}'):
@@ -117,17 +106,31 @@ class QuibbleTranscriptFetcher:
                 except json.JSONDecodeError:
                     pass  # Not JSON, include it
             
-            # Add formatted message
-            transcript_lines.append(f"\n[{timestamp}] {role_name}: {content}")
+            # Format role name
+            if role == 'assistant':
+                role_name = "AI Agent"
+            elif role == 'user':
+                role_name = "Customer"
+            else:
+                role_name = role.title()
+            
+            # Add formatted message with timestamp
+            formatted_message = {
+                "role": role_name,
+                "originalRole": role,
+                "text": content,
+                "timestamp": timestamp
+            }
+            formatted_data["messages"].append(formatted_message)
         
-        return '\n'.join(transcript_lines)
+        return formatted_data
     
-    def save_transcript(self, call_id, transcript_text):
-        """Save transcript to file"""
-        filename = self.transcripts_dir / f"{call_id}.txt"
+    def save_transcript(self, call_id, transcript_data):
+        """Save transcript to JSON file"""
+        filename = self.transcripts_dir / f"{call_id}.json"
         
         with open(filename, 'w', encoding='utf-8') as f:
-            f.write(transcript_text)
+            json.dump(transcript_data, f, indent=2, ensure_ascii=False)
         
         print(f"Saved transcript for {call_id} to {filename}")
     
@@ -150,7 +153,7 @@ class QuibbleTranscriptFetcher:
             print(f"\nProcessing {i}/{len(call_ids)}: {call_id}")
             
             # Check if transcript already exists
-            transcript_file = self.transcripts_dir / f"{call_id}.txt"
+            transcript_file = self.transcripts_dir / f"{call_id}.json"
             if transcript_file.exists():
                 print(f"Transcript already exists for {call_id}, skipping...")
                 continue
@@ -174,6 +177,9 @@ class QuibbleTranscriptFetcher:
         print(f"Transcripts saved to: {self.transcripts_dir}")
 
 def main():
+    # Load environment variables from .env file
+    load_dotenv()
+    
     # Get authentication from environment variables
     auth_token = os.getenv('QUIBBLE_AUTH_TOKEN')
     cookie = os.getenv('QUIBBLE_COOKIE')

@@ -1,0 +1,27 @@
+{
+  "callId": "6856aa661be7d3da06caca94",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T12:49:42.666Z",
+    "callEnded": "2025-06-21T12:50:27.958Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin ordered a hot latte with whipped cream, half and half, and medium size from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T12:50:27.794Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi, Emily. I want to order hot latte, whipped cream, half an hour, and medium size.",
+      "timestamp": "2025-06-21T12:50:27.794Z"
+    }
+  ]
+}

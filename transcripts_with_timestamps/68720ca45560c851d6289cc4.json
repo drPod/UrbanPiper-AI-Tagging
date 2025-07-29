@@ -1,0 +1,207 @@
+{
+  "callId": "68720ca45560c851d6289cc4",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T07:20:04.977Z",
+    "callEnded": "2025-07-12T07:24:50.778Z",
+    "duration": 282,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Breakfast Bundle with specific bagel and cream cheese choices, and added a Box of Coffee to their order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T07:24:50.387Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order breakfast bundle and, hot, sorry, apple juice. Do you have apple juice?",
+      "timestamp": "2025-07-12T07:24:50.387Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, that's a great",
+      "timestamp": "2025-07-12T07:24:50.387Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. I wanted to know, do you have Apple use?",
+      "timestamp": "2025-07-12T07:24:50.387Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have Tropicana Orange Juice, but I don't see Apple Juice on our menu. We do have other beverages like coffee, tea, and hot chocolate, though. Would you like me to tell you more about those options?",
+      "timestamp": "2025-07-12T07:24:50.387Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-12T07:24:50.388Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you'll need to pick exactly 13 bagels together. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, ",
+      "timestamp": "2025-07-12T07:24:50.388Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So then I I I'll go with the, five, poppy bagel, three garlic bagel, two vanilla bagel, and the rest of the three can be everything bagel.",
+      "timestamp": "2025-07-12T07:24:50.388Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Vanilla Bagel on our menu. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast ",
+      "timestamp": "2025-07-12T07:24:50.388Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Then make three as egg egg bigger.",
+      "timestamp": "2025-07-12T07:24:50.388Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, for the Breakfast Bundle, you'd like 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and the remaining 2 will be Everything Bagels. That's a total of 13 bagels. Next, you'll need to choose 2 tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, ",
+      "timestamp": "2025-07-12T07:24:50.388Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One plain, one, blueberry cream cheese.",
+      "timestamp": "2025-07-12T07:24:50.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you've chosen 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and 2 Everything Bagels. And for the cream cheese, you'd like one Plain Cream Cheese and one Strawberry Cream Cheese. Next, you'll need to",
+      "timestamp": "2025-07-12T07:24:50.389Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I said blueberry blueberry cream cheese.",
+      "timestamp": "2025-07-12T07:24:50.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We don't have Blueberry Cream Cheese on our menu. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, and Strawberry Cream Cheese, among others. Would you like to choose a different flavor for your second tub of cream cheese?",
+      "timestamp": "2025-07-12T07:24:50.389Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Strawberry. Then make it strawberry.",
+      "timestamp": "2025-07-12T07:24:50.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, for the Breakfast Bundle, you'd like 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and 2 Everything Bagels. And for the cream cheese, you'd like one Plain Cream Cheese and one Strawberry Cream Cheese. Next, you'll need to choose 4 muffins. We have Blueberry, Corn,",
+      "timestamp": "2025-07-12T07:24:50.389Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "All all all as the chocolate chip, Mahan.",
+      "timestamp": "2025-07-12T07:24:50.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you've chosen 5 Poppy Bagels, 3 Garlic",
+      "timestamp": "2025-07-12T07:24:50.390Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-12T07:24:50.390Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you've chosen 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and 2 Everything Bagels. And for the cream cheese, you'd like one Plain Cream Cheese and one Strawberry Cream Cheese. You've also chosen 4 Chocolate Chip Muffins. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-12T07:24:50.390Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Box of muffins, box of coffee is missing. Right?",
+      "timestamp": "2025-07-12T07:24:50.390Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're thinking of adding a Box of Coffee to your order. That's a great idea. For the Box of Coffee, you can choose from House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Would you like to add a",
+      "timestamp": "2025-07-12T07:24:50.390Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "He's in it.",
+      "timestamp": "2025-07-12T07:24:50.391Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you've chosen 5 Poppy Bagels, 3 Garlic Bagels, 3 Egg Bagels, and 2 Everything Bagels. And for the cream cheese, you'd like one Plain Cream Cheese and one Strawberry Cream Cheese. You've also chosen 4 Chocolate Chip Muffins. And you'd like to add a Box of Coffee, with the House Blend. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-12T07:24:50.391Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. All set now.",
+      "timestamp": "2025-07-12T07:24:50.391Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you.",
+      "timestamp": "2025-07-12T07:24:50.391Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-12T07:24:50.391Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-07-12T07:24:50.394Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-12T07:24:50.397Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-12T07:24:50.398Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-12T07:24:50.398Z"
+    }
+  ]
+}

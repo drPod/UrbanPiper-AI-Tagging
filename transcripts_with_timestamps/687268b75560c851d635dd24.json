@@ -1,0 +1,45 @@
+{
+  "callId": "687268b75560c851d635dd24",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T13:52:55.358Z",
+    "callEnded": "2025-07-12T13:53:40.679Z",
+    "duration": 43,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jutin inquired about lunch items at Manhattan Bagel and asked about a specific Buffalo Chicken Wrap that was not on the menu."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T13:53:40.505Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I I want to know, what do you how many items you have in lunch?",
+      "timestamp": "2025-07-12T13:53:40.505Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of lunch items to choose from. We have the Chelsea Grilled Chicken, Manhattan Cheesesteak Sandwich, Balsamic Grilled Chicken Wrap, and more. Would you like me to go through some of our popular lunch options or is there something specific you're looking for?",
+      "timestamp": "2025-07-12T13:53:40.505Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Do you have buffalo grilled chicken there?",
+      "timestamp": "2025-07-12T13:53:40.506Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see the Buffalo Chicken Wrap on our menu. However, we do have the Balsamic Grilled Chicken Wrap, which is a",
+      "timestamp": "2025-07-12T13:53:40.506Z"
+    }
+  ]
+}

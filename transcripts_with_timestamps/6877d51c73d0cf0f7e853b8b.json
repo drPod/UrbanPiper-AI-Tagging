@@ -1,0 +1,225 @@
+{
+  "callId": "6877d51c73d0cf0f7e853b8b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T16:36:44.501Z",
+    "callEnded": "2025-07-16T16:42:21.091Z",
+    "duration": 332,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin, an existing customer, placed an order for an Avocado Veg Out and a Hot Latte with specific customizations through the Manhattan Bagel store."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T16:42:19.348Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. I'd like to order, something vegetarian and, hot coffee as well. Hot latte.",
+      "timestamp": "2025-07-16T16:42:19.348Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.348Z] assistant: For vegetarian options, I have a variety of choices. We have the Avocado Veg Out sandwich, which is avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a sesame bagel. I also have the Garden Avocado Egg White Sandwich, which is egg white, avocado, tomato, spinach, and tomato spread on a bagel. Additionally, we have a Cheese Bagel, which is two slices of cheese on a bagel. \n\nFor hot coffee, I can offer you a hot latte. Would you like to go with one of these options or hear more about our vegetarian choices?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I'll go with the ash avocado wedge out then.",
+      "timestamp": "2025-07-16T16:42:19.348Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.348Z] assistant: The Avocado Veg Out is a delicious choice. It comes with avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a sesame bagel. \n\nFor the bagel, I have a variety of options. I can offer you a Plain Bagel, Everything Bagel, Asiago Bagel, or a Sesame Bagel, which is the default. Would you like to stick with the Sesame Bagel or try a different one?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll go with the multigrain.",
+      "timestamp": "2025-07-16T16:42:19.348Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.349Z] assistant: For the Avocado Veg Out, I'll swap the sesame bagel with a Multigrain Bagel.\n\nNext, I'll move on to your drink order. You mentioned hot coffee and hot latte. Would you like to go with a Hot Latte, or would you prefer a different type of coffee, such as a Hot Coffee or a Cappuccino?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I I'd like you to, you know, also invoke the tools, whatever you have, okay, whenever it is required.",
+      "timestamp": "2025-07-16T16:42:19.349Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So can I can I complete the customization of veg out please again?",
+      "timestamp": "2025-07-16T16:42:19.349Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.349Z] assistant: For the Avocado Veg Out, I have confirmed the Multigrain Bagel. \n\nNext, I need to check the Lunch Side. For the Lunch Side, I have Chips or Cole Slaw. Which one would you prefer?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Cole's law, basically.",
+      "timestamp": "2025-07-16T16:42:19.349Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.349Z] assistant: The Cole Slaw is a valid choice for the Lunch Side.\n\nNext, I need to check the Toast. For the Toast, I have Toasted, Lightly Toasted, Toasted Dark, or No Toasted. Which one would you prefer?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll go with the dark toasted then.",
+      "timestamp": "2025-07-16T16:42:19.350Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.350Z] assistant: The Toasted Dark is a valid choice for the Toast.\n\nNow, I'll move on to your drink order. You mentioned hot coffee and hot latte earlier. Would you like to go with a Hot Latte, or would you prefer a different type of coffee, such as a Hot Coffee or a Cappuccino?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hot latte, basically.",
+      "timestamp": "2025-07-16T16:42:19.350Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.350Z] assistant: For the Hot Latte, I have a few options. \n\nFirst, I need to check the Size. For the Size, I have Small 12 ounce, Medium 16 ounce, or Large 20 ounce. Which one would you prefer?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Small size.",
+      "timestamp": "2025-07-16T16:42:19.350Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.350Z] assistant: The Small 12 ounce is a valid choice for the Size.\n\nNext, I need to check the Specialty Drink Milk Choice. For the Specialty Drink Milk Choice, I have Regular Milk, Skim, Soy Milk, Half & Half, Almond Milk, or Oat Milk. Which one would you prefer?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Half enough.",
+      "timestamp": "2025-07-16T16:42:19.350Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Half & Half is a valid choice for the Specialty Drink Milk Choice. Next, I need to check the Sweetener & Syrups. For the Sweetener & Syrups, I have Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, Pumpkin Syrup, Caramel Syrup, Hazelnut Syrup, Vanilla Syrup, Sugar Free Vanilla Syrup, Pistachio Syrup, Chocolate Sauce, ",
+      "timestamp": "2025-07-16T16:42:19.350Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me hazard. Let's see.",
+      "timestamp": "2025-07-16T16:42:19.351Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.351Z] assistant: The Hazelnut Syrup is a valid choice for the Sweetener & Syrups.\n\nNow, I'll review your order. You have the Avocado Veg Out with a Multigrain Bagel, Cole Slaw, and Toasted Dark, and a Hot Latte with a Small 12 ounce size, Half & Half, and Hazelnut Syrup.\n\nLet me calculate the total price for you. ",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.351Z] assistant: Your total comes out to be 16 dollars and 75 cents.\n\nNow, I'll transition to the order summarization stage. ",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-16T16:42:19.352Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order, please?",
+      "timestamp": "2025-07-16T16:42:19.352Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. My name is, you you you don't have my name, is it? Like that?",
+      "timestamp": "2025-07-16T16:42:19.352Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.352Z] assistant: Your name is Jitin. I have it on file since you're an existing customer.\n\nAnd before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have any allergy. Thank you so much.",
+      "timestamp": "2025-07-16T16:42:19.352Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-16T16:42:19.352Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't want you to read back. Thank you so much.",
+      "timestamp": "2025-07-16T16:42:19.352Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.353Z] assistant: Great. Placing that for you now, please hold on...\n\n",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 875431. That's 8, 7, 5, 4, 3, 1.\", 'order_id': '875431', 'call_id': 'b4412365-e096-4ce3-bad6-f54b5404b666', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0198141d-0d02-f5d1-134b-c76ae438c407'}",
+      "timestamp": "2025-07-16T16:42:19.353Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:42:19.353Z] assistant: Your order number is 8, 7, 5, 4, 3, 1. Your total is 16 dollars and 75 cents. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment.\n\nIs there anything else I can help you with today?",
+      "timestamp": "2025-07-16T16:42:21.091Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you.",
+      "timestamp": "2025-07-16T16:42:19.353Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Jitin. It was a pleasure assisting you with your order. Have a great day and enjoy your Avocado Veg Out and Hot Latte!",
+      "timestamp": "2025-07-16T16:42:19.353Z"
+    }
+  ]
+}

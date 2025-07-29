@@ -1,0 +1,21 @@
+{
+  "callId": "6877f09373d0cf0f7e8829da",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T18:33:55.435Z",
+    "callEnded": "2025-07-16T18:34:19.142Z",
+    "duration": 19,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T18:34:18.928Z"
+    }
+  ]
+}

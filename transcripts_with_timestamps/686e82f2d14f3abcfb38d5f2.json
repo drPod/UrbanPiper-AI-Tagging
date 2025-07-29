@@ -1,0 +1,57 @@
+{
+  "callId": "686e82f2d14f3abcfb38d5f2",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T14:55:46.107Z",
+    "callEnded": "2025-07-09T14:56:50.478Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer attempted to order a Breakfast Bundle but faced issues with unavailable bagel options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T14:56:50.158Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm going to order breakfast bundles.",
+      "timestamp": "2025-07-09T14:56:50.158Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it. You'll need to pick exactly thirteen bagels for your Breakfast Bundle. Let's start with some popular options: Plain, Everything, Sesame, and Cinnamon Raisin. How many of each would you like, or should I list more options?",
+      "timestamp": "2025-07-09T14:56:50.159Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I need, five sesame, five garlic, and two vanilla, one, asiago Vega.",
+      "timestamp": "2025-07-09T14:56:50.159Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Vanilla bagel on our menu. However, we do have Plain, Everything, Sesame, Cinnamon Raisin, Egg, Garlic,",
+      "timestamp": "2025-07-09T14:56:50.159Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "But can you add, two apple flavored bagel?",
+      "timestamp": "2025-07-09T14:56:50.159Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Apple flavored bagel on our menu. However, we do have Plain, Everything, Sesame, Cinnamon Raisin, Egg, Garlic, French Toast BAGEL, ",
+      "timestamp": "2025-07-09T14:56:50.159Z"
+    }
+  ]
+}

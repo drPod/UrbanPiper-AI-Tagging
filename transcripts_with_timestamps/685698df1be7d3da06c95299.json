@@ -1,0 +1,33 @@
+{
+  "callId": "685698df1be7d3da06c95299",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T11:34:55.022Z",
+    "callEnded": "2025-06-21T11:35:25.723Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin inquired about ordering hot coffee from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T11:35:25.610Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hot coffee.",
+      "timestamp": "2025-06-21T11:35:25.610Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of hot coffee options. We offer House Blend, Vanilla Hazelnut Blend, Dark Roast, and Decaf. Which one sounds good to you?",
+      "timestamp": "2025-06-21T11:35:25.610Z"
+    }
+  ]
+}

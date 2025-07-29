@@ -1,0 +1,27 @@
+{
+  "callId": "687a4e1ea1698f75072b64d8",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T13:37:34.645Z",
+    "callEnded": "2025-07-18T13:38:02.149Z",
+    "duration": 25,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T13:38:01.893Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me an omelet wrap, please. Hello?",
+      "timestamp": "2025-07-18T13:38:01.893Z"
+    }
+  ]
+}

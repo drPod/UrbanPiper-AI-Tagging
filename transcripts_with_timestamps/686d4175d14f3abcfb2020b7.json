@@ -1,0 +1,69 @@
+{
+  "callId": "686d4175d14f3abcfb2020b7",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T16:04:05.446Z",
+    "callEnded": "2025-07-08T16:04:58.126Z",
+    "duration": 51,
+    "from": "+918867706225",
+    "to": "+19198136886",
+    "summary": "The customer inquired about Coca-Cola Zero and desserts available at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-08T16:04:57.832Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. I'd like to have some, Coca Cola maybe.",
+      "timestamp": "2025-07-08T16:04:57.832Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing. We have 12 ounce can soda. For the soda, you can choose from Coke, Diet Coke, Sprite, Ginger Ale, or Coke Zero. Which one would you like?",
+      "timestamp": "2025-07-08T16:04:57.832Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Code zero resigned.",
+      "timestamp": "2025-07-08T16:04:57.833Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect. You've",
+      "timestamp": "2025-07-08T16:04:57.833Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What do you have in Dallas?",
+      "timestamp": "2025-07-08T16:04:57.833Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing. We have 12 ounce cans of Coke Zero available. Would you like one?",
+      "timestamp": "2025-07-08T16:04:57.833Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What do you have in desserts?",
+      "timestamp": "2025-07-08T16:04:57.834Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For desserts, we have some great options! Here are a few you might enjoy: - **Cookies**: We have Large Chocolate Chip",
+      "timestamp": "2025-07-08T16:04:57.834Z"
+    }
+  ]
+}

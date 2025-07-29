@@ -1,0 +1,39 @@
+{
+  "callId": "685913a41be7d3da06fff1ec",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T08:43:16.128Z",
+    "callEnded": "2025-06-23T08:43:56.880Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with the help of BagelBot."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T08:43:56.705Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle.",
+      "timestamp": "2025-06-23T08:43:56.705Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's get started with the Breakfast Bundle. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T08:43:56.705Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "First, for the thirteen bagels in your Bagel Dozen, popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if",
+      "timestamp": "2025-06-23T08:43:56.705Z"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "callId": "68593ae41be7d3da0604c873",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T11:30:44.834Z",
+    "callEnded": "2025-06-23T11:31:48.120Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Gaurav ordered a Breakfast Bundle from Manhattan Bagel and began customizing it with thirteen bagels and four muffins."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T11:31:47.876Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to order breakfast bundle.",
+      "timestamp": "2025-06-23T11:31:47.876Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is",
+      "timestamp": "2025-06-23T11:31:47.876Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Allô.",
+      "timestamp": "2025-06-23T11:31:47.876Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T11:31:47.876Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your thirteen bagels, I have options like Plain, Everything, or Sesame. What would you like?",
+      "timestamp": "2025-06-23T11:31:47.877Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "13 as carry in Vegas.",
+      "timestamp": "2025-06-23T11:31:47.877Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. I have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange as muffin options. Which ones would you like?",
+      "timestamp": "2025-06-23T11:31:47.877Z"
+    }
+  ]
+}

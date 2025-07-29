@@ -1,0 +1,177 @@
+{
+  "callId": "6857b4f81be7d3da06ddf57b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-22T07:47:04.328Z",
+    "callEnded": "2025-06-22T07:52:11.009Z",
+    "duration": 360,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jatin placed an order for a Breakfast Bundle with a box of Autumn Roast coffee at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jatin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-22T07:52:09.660Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let me to order breakfast bundle.",
+      "timestamp": "2025-06-22T07:52:09.661Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, excellent choice. That includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get the options for your cream cheese and muffin choices.",
+      "timestamp": "2025-06-22T07:52:09.661Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-22T07:52:09.661Z] assistant: Let's start with your bagel choices. We have a variety of options, including Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like to choose for your Breakfast Bundle? \n\nAlso, for your cream cheese, we have options like Plain Cream Cheese, Vegetable Cream Cheese, and Store Made Vegetable. Which two tubs of spread would you like to include? \n\nAnd for your muffins, we have Blueberry, Corn, Double Chocolate, and more. Which four muffins would you like to choose? \n\nLastly, would you like to add a box of coffee to your bundle? We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast available. \n\nPlease let me know your preferences for each of these options.",
+      "timestamp": "2025-06-22T07:52:11.009Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I I want, five blueberry, five plain, and, two everything. Sorry. Two garlic and, muffins will be, two blue, blueberry and two chocolate chips.",
+      "timestamp": "2025-06-22T07:52:09.661Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, for your bagels, you'd like 5 Blueberry, 5 Plain, 2 Everything, and 1 Garlic. For your muffins, you've chosen 2 Blueberry and 2 Chocolate Chip. Now, let me get the options for your cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, and other flavors. Which two tubs of spread would you like to include? Also, would you like to add a",
+      "timestamp": "2025-06-22T07:52:09.661Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Plain green cheese and scallion cream cheeses. Okay?",
+      "timestamp": "2025-06-22T07:52:09.662Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-22T07:52:09.662Z] assistant: You've chosen Plain Cream Cheese and Scallion Cream Cheese for your two tubs of spread. Now, let me just confirm your order. You've got a Breakfast Bundle with 5 Blueberry bagels, 5 Plain bagels, 2 Everything bagels, and 1 Garlic bagel. For your muffins, you have 2 Blueberry and 2 Chocolate Chip. And for your cream cheese, you've selected Plain and Scallion. \n\nPerfect, let me add that to your order. ",
+      "timestamp": "2025-06-22T07:52:11.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $29.99",
+      "timestamp": "2025-06-22T07:52:09.662Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the Breakfast Bundle to your order. Your total comes out to be $29.99. Now, before I place your order, may I have your name for the order, please?",
+      "timestamp": "2025-06-22T07:52:09.662Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "My name, my name, is Justin.",
+      "timestamp": "2025-06-22T07:52:09.662Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you, Jatin. Do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-06-22T07:52:09.662Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have it. But, can I, can you add box of coffee as hazelnut option, which comes with the breakfast burrito I mean, breakfast bundle?",
+      "timestamp": "2025-06-22T07:52:09.662Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can add a box of coffee to your Breakfast Bundle. Let me see what options we have for the coffee. ",
+      "timestamp": "2025-06-22T07:52:09.662Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a few options for the coffee box. You can choose from House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast. Which one would you like to add to your Breakfast Bundle?",
+      "timestamp": "2025-06-22T07:52:09.662Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Autumn roast. And it'll be like do I need to pay extra or it will be part of the breakfast bundle only?",
+      "timestamp": "2025-06-22T07:52:09.662Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-22T07:52:09.663Z] assistant: The Autumn Roast coffee box is an additional item, not included in the Breakfast Bundle. It would be an extra $24.99. So, your new total would be $29.99 for the Breakfast Bundle plus $24.99 for the coffee box, making it a total of $54.98. \n\nPerfect, let me update that to your order. ",
+      "timestamp": "2025-06-22T07:52:11.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $54.98",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the Autumn Roast coffee box to your order. Your new total comes out to be $54.98. Is everything correct, and are you ready to place your order?",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Everything is correct. Thank you so much. We can proceed further.",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll get this order placed for you. ",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 634324. That's 6, 3, 4, 3, 2, 4. Total: $57.97 (subtotal 54.98 dollars plus 2.99 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Jatin, your order is placed! Your order number is 6, 3, 4, 3, 2, 4. Your total comes out to be $54.98, plus $2.99 in tax, making it a total of $57.97. We'll have your Breakfast Bundle with the Autumn Roast coffee box ready for you shortly. Thank you for your order!",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is the order ID?",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 6, 3, 4, 3, 2, 4. I'll read it slowly for you: six, three, four, three, two, four.",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're all set, Jatin. We'll have your order ready for pickup. If you need any further assistance, feel free to ask. Otherwise, have a great day and we'll see you soon!",
+      "timestamp": "2025-06-22T07:52:09.663Z"
+    }
+  ]
+}

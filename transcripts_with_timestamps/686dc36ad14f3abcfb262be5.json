@@ -1,0 +1,81 @@
+{
+  "callId": "686dc36ad14f3abcfb262be5",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T01:18:34.709Z",
+    "callEnded": "2025-07-09T01:20:08.404Z",
+    "duration": 90,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer inquired about a Cuban Sandwich and wanted to customize it."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T01:20:07.988Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm able to order a Cuban sandwich. Do you have the Cuban sandwich?",
+      "timestamp": "2025-07-09T01:20:07.988Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see a cumin sandwich on our menu. Let me share some sandwich options: we have the Original Classic, Spinach Bacon Croissant, Farmhouse Egg Sandwich, and Big Breakfast Burrito. Would you like to hear more options or choose from these?",
+      "timestamp": "2025-07-09T01:20:07.988Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to hear about the Cuban sandwich.",
+      "timestamp": "2025-07-09T01:20:07.988Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see a cumin sandwich on our menu. Let me share some",
+      "timestamp": "2025-07-09T01:20:07.989Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. I said q one. Q one sandwich.",
+      "timestamp": "2025-07-09T01:20:07.989Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Ah, got it! We do have a **Chicken Cuban Sandwich** on our menu. It's grilled chicken, ham, Swiss cheese, pickle mustard, and mayo on a roll. Would you like to hear about the options for that sandwich, or would you like to proceed with ordering it?",
+      "timestamp": "2025-07-09T01:20:07.989Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I want to, customize it. Can you please go ahead?",
+      "timestamp": "2025-07-09T01:20:07.989Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! Let's get started. First, what kind of **bread or bagel** would you like for your Chicken Cuban Sandwich? We have options like Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, and many more. Would you like to hear a few options or choose from the ones I mentioned?",
+      "timestamp": "2025-07-09T01:20:07.989Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please double confirm the can I choose the bread in there? Or",
+      "timestamp": "2025-07-09T01:20:07.990Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Of course! For your **Chicken Cuban Sandwich**, you can absolutely choose the **bread or bagel**. We offer a",
+      "timestamp": "2025-07-09T01:20:07.990Z"
+    }
+  ]
+}

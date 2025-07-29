@@ -1,0 +1,81 @@
+{
+  "callId": "6858cadb1be7d3da06f8fa3a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T03:32:43.340Z",
+    "callEnded": "2025-06-23T03:34:45.776Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jiten attempted to order a customized Multigrain Bagel but the order was not successfully placed due to an empty cart error."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T03:34:45.527Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order multigrain bagel with plain cream cheese, having tomato, onion, as in vegetable. Also, like to have American cheese cheese American cheese as extra cheese. Can I get this?",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Multigrain Bagel with plain cream cheese, tomato, onion, and American cheese. Let me get the options for your bagel choices...",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'm still there. Tell me.",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices... So, for the Multigrain Bagel, I can confirm that we have plain cream cheese, and we can definitely add tomato and onion as vegetables. For the extra cheese, American cheese is a great choice. Let me just confirm the details... Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll just update your order with the Multigrain Bagel, plain cream cheese, tomato, onion, and American cheese. Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your cart is empty. Please add items to your cart before placing an order.",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me add the Multigrain Bagel with plain cream cheese, tomato, onion, and American cheese to your order. ",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hold on. Hold on.",
+      "timestamp": "2025-06-23T03:34:45.528Z"
+    }
+  ]
+}

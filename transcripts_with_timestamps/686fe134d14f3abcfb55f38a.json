@@ -1,0 +1,57 @@
+{
+  "callId": "686fe134d14f3abcfb55f38a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-10T15:50:12.755Z",
+    "callEnded": "2025-07-10T15:51:07.013Z",
+    "duration": 52,
+    "from": "+19493030106",
+    "to": "+16204558091",
+    "summary": "The customer initiated an order for a Cinnamon Raisin bagel but didn't complete the customization process."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-10T15:51:06.684Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. Can I place an order for a bagel?",
+      "timestamp": "2025-07-10T15:51:06.685Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a wide variety of bagels to choose from. You'll need to pick just one bagel for your order. We have Plain, Everything, Sesame, and Cinnamon Raisin. Would you like one of these, or should I list more options?",
+      "timestamp": "2025-07-10T15:51:06.685Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have cinnamon raisin?",
+      "timestamp": "2025-07-10T15:51:06.685Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Cinnamon Raisin bagel is a great choice. Now, you'll need to pick just",
+      "timestamp": "2025-07-10T15:51:06.686Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "It's just it's really sorry. Yeah. It's pretty much just like that. And it's just, like, super cool and, like, really, you can't even tell it's, like, a bot. Because we were, like, saying stuff like, I don't want that. And they're like, okay. We could take it off for you. Like, no big deal. And he's trying to get this for 85 or whatever.",
+      "timestamp": "2025-07-10T15:51:06.686Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I think there",
+      "timestamp": "2025-07-10T15:51:06.686Z"
+    }
+  ]
+}

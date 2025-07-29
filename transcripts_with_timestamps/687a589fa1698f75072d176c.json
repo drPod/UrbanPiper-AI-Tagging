@@ -1,0 +1,57 @@
+{
+  "callId": "687a589fa1698f75072d176c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T14:22:23.149Z",
+    "callEnded": "2025-07-18T14:23:22.438Z",
+    "duration": 56,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin attempted to order pastry but it was out of stock, so he ordered a hash brown instead."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T14:23:22.171Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order pastry.",
+      "timestamp": "2025-07-18T14:23:22.171Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our PASTRY on the menu, just confirming it's available. However, I see that PASTRY is currently out of stock. Instead, I can offer you our MUFFINS, COOKIES, or CHEESE BAGEL. Which would you prefer?",
+      "timestamp": "2025-07-18T14:23:22.172Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can I get, hash brown?",
+      "timestamp": "2025-07-18T14:23:22.172Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our HASH BROWN on the menu, just confirming it's available. I'll add the HASH BROWN for you. Now, I'll help you customize it. Would you like your hash brown in a sandwich or on the side?",
+      "timestamp": "2025-07-18T14:23:22.172Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can you please tell me the price chassis? Is it I will is this there or not?",
+      "timestamp": "2025-07-18T14:23:22.172Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check the availability of the PASTRY. According to our menu, the PASTRY is currently out of stock. I apologize for the ",
+      "timestamp": "2025-07-18T14:23:22.172Z"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "callId": "6855b0c51be7d3da06bb1384",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T19:04:37.739Z",
+    "callEnded": "2025-06-20T19:05:14.513Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The call to Manhattan Bagel ended abruptly due to technical issues with the search_for_item tool, preventing the customer from ordering a hot latte."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T19:05:14.332Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get hot lobby?",
+      "timestamp": "2025-06-20T19:05:14.332Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. ",
+      "timestamp": "2025-06-20T19:05:14.332Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-20T19:05:14.332Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I couldn't find that exactly. Let me check our drinks options. ",
+      "timestamp": "2025-06-20T19:05:14.332Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-20T19:05:14.332Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I couldn't find any drinks options. Let me check our menu. ",
+      "timestamp": "2025-06-20T19:05:14.332Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-20T19:05:14.332Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I couldn't find any b",
+      "timestamp": "2025-06-20T19:05:14.332Z"
+    }
+  ]
+}

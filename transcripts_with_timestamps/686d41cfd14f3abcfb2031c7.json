@@ -1,0 +1,93 @@
+{
+  "callId": "686d41cfd14f3abcfb2031c7",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T16:05:35.819Z",
+    "callEnded": "2025-07-08T16:06:49.471Z",
+    "duration": 71,
+    "from": "+917499327459",
+    "to": "+19198136886",
+    "summary": "The customer briefly inquired about ordering a burger and bagels before requesting to disconnect the call."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-08T16:06:48.251Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-08T16:06:48.251Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm doing great, thank you! How can I help you today?",
+      "timestamp": "2025-07-08T16:06:48.251Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-08T16:06:48.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but I don't see burgers on our menu. However, we have a variety of breakfast sandwiches, bagels, pastries, and other delicious options.",
+      "timestamp": "2025-07-08T16:06:48.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm here.",
+      "timestamp": "2025-07-08T16:06:48.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! You'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, and Cinnamon Raisin. Would you like one of these, or should I list more",
+      "timestamp": "2025-07-08T16:06:48.253Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-08T16:06:48.253Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it! You'll need to pick just one bagel for your sandwich. We have Plain, Everything, Sesame, and Cinnamon Raisin. Which one would you like?",
+      "timestamp": "2025-07-08T16:06:48.253Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Ini beban dicuci",
+      "timestamp": "2025-07-08T16:06:48.253Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, you'll need to pick just one cheese for your bagel. We have American, Swiss, Pepper",
+      "timestamp": "2025-07-08T16:06:48.253Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Thank you. Thank you. Disconnect the call.",
+      "timestamp": "2025-07-08T16:06:48.253Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-08T16:06:48.256Z"
+    }
+  ]
+}

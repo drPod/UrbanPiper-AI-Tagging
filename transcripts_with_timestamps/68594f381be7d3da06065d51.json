@@ -1,0 +1,195 @@
+{
+  "callId": "68594f381be7d3da06065d51",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T12:57:28.520Z",
+    "callEnded": "2025-06-23T13:02:55.383Z",
+    "duration": 360,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin placed an order for a Breakfast Bundle with 13 Everything bagels, 2 tubs of spread, and 4 Chocolate Chip muffins."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T13:02:54.011Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I want to order breakfast bundle.",
+      "timestamp": "2025-06-23T13:02:54.011Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Let me get all the customization options for you.",
+      "timestamp": "2025-06-23T13:02:54.011Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I have all the options for your Breakfast Bundle right here. Ready to customize now? Let's start",
+      "timestamp": "2025-06-23T13:02:54.011Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Ya.",
+      "timestamp": "2025-06-23T13:02:54.011Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Bagel Dozen, we need to choose exactly 13 bagels. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like? You can choose from Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, Honey ",
+      "timestamp": "2025-06-23T13:02:54.011Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I I want, all 13 as, scallion bagels.",
+      "timestamp": "2025-06-23T13:02:54.011Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We don't have a Scallion bagel option. However, we do have an \"Egg Everything\" bagel and a \"Scallion/Onion Chive\" cream cheese spread, but for the bagels themselves, the closest option would be the \"Onion\" bagel or the \"Everything\" bagel. Would you like to choose 13 of those instead?",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T13:02:54.012Z] assistant: Let's go with the Everything bagel then. So, you'd like 13 Everything bagels. \n\nNext, for the Choose 2 Tubs of Spread, we need to select exactly 2 options. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, and many more. Which two would you like?",
+      "timestamp": "2025-06-23T13:02:55.383Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, vanilla and, vegetable.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We don't have a Vanilla cream cheese option, but we do have a Honey Almond cream cheese. For the vegetable option, we have a Vegetable Cream Cheese and a Store Made Vegetable (Chunky) option. Would you like to choose the Honey Almond and one of the vegetable options instead?",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Go ahead, please.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T13:02:54.012Z] assistant: Let's go with the Honey Almond and the Vegetable Cream Cheese for the two tubs of spread.\n\nNext, for the Choose 4 Muffins, we can select up to 4 muffins. We have options like Blueberry, Corn, Double Chocolate, and more. Which ones would you like? You can choose 1, 2, 3, or all 4 muffins.",
+      "timestamp": "2025-06-23T13:02:55.383Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to choose all four as chocolate chip.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like all 4 muffins to be Chocolate Chip. Finally, for the",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Finally, for the Box of Coffee, it's optional, so you can choose up to 1 option or none at all. We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, and Autumn Roast. Which one would you like, or would you like to skip this option?",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to skip it.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me add that to your order. You've chosen the Breakfast Bundle with 13 Everything bagels, 2 tubs of spread - Honey Almond and Vegetable Cream Cheese, 4 Chocolate Chip muffins, and no coffee. Your total comes out to be $29.99. Does everything sound correct with that? Any changes or anything else you'd like to add?",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much. Everything looks good to me.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get this order placed for you.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your cart is empty. Please add items to your cart before placing an order.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'm still there.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T13:02:54.012Z] assistant: Before I can place your order, I need to add the items to your cart. Let me do that now. \n\nYou've chosen the Breakfast Bundle with 13 Everything bagels, 2 tubs of spread - Honey Almond and Vegetable Cream Cheese, 4 Chocolate Chip muffins, and no coffee. \n\nLet me add this to your order.",
+      "timestamp": "2025-06-23T13:02:55.383Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $29.99",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your Breakfast Bundle has been added to the cart. Now, let me place your order.",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 625201. That's 6, 2, 5, 2, 0, 1. Total: $32.98 (subtotal 29.99 dollars plus 2.99 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Jitin, your order is placed! Your order number is 6, 2, 5, 2, 0, 1. Your final total is $32.98, which includes a subtotal of $29.99 and $2.99 in tax. We'll have that ready for you shortly!",
+      "timestamp": "2025-06-23T13:02:54.012Z"
+    }
+  ]
+}

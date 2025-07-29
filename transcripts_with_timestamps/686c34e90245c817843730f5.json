@@ -1,0 +1,14 @@
+{
+  "callId": "686c34e90245c817843730f5",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-07T20:58:17.742Z",
+    "callEnded": "2025-07-07T20:58:34.481Z",
+    "duration": 15,
+    "from": "+19725155417",
+    "to": "+16204558091",
+    "summary": "The call involved a customer ordering from Manhattan Bagel, with BagelBot guiding the customer through the menu and customization options to complete the order."
+  },
+  "messages": []
+}

@@ -1,0 +1,14 @@
+{
+  "callId": "685ac97e9ae6a419f3d145bf",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-24T15:51:26.555Z",
+    "callEnded": "2025-06-24T15:53:26.999Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": null
+  },
+  "messages": []
+}

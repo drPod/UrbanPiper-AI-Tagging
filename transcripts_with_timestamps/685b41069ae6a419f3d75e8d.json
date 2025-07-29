@@ -1,0 +1,57 @@
+{
+  "callId": "685b41069ae6a419f3d75e8d",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-25T00:21:26.909Z",
+    "callEnded": "2025-06-25T00:22:12.040Z",
+    "duration": 60,
+    "from": "+12149402918",
+    "to": "+16204558091",
+    "summary": "The customer, Azaan, ordered an Everything Bagel and inquired about drinks, but the call ended before completing the order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Azaan, Welcome to Manhattan Bagel. It is great to see you again. What would you like to order?",
+      "timestamp": "2025-06-25T00:22:11.822Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. I would like to order an Emeritus bagel.",
+      "timestamp": "2025-06-25T00:22:11.822Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-25T00:22:11.822Z] assistant: The Everything Bagel, excellent choice. That's one of our classic options with a mix of poppy seeds, sesame seeds, dried garlic, salt, and dried onion on a toasted bagel. \n\nLet me just check the options for you. ",
+      "timestamp": "2025-06-25T00:22:12.040Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, now for your",
+      "timestamp": "2025-06-25T00:22:11.823Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What what drinks do you have?",
+      "timestamp": "2025-06-25T00:22:11.823Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of drinks to choose from. Let me check the options for you. ",
+      "timestamp": "2025-06-25T00:22:11.823Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of drinks to choose from. For hot coffee or tea, you can select from small, medium",
+      "timestamp": "2025-06-25T00:22:11.826Z"
+    }
+  ]
+}

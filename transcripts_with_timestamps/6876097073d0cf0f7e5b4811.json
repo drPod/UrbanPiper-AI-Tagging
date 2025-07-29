@@ -1,0 +1,69 @@
+{
+  "callId": "6876097073d0cf0f7e5b4811",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-15T07:55:28.703Z",
+    "callEnded": "2025-07-15T07:56:21.491Z",
+    "duration": 49,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a medium decaf hot coffee with half and half milk from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-15T07:56:21.318Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me, hot coffee, medium sized decaf, with half an hour milk.",
+      "timestamp": "2025-07-15T07:56:21.318Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I have a medium decaf hot coffee with half and half milk. Anything else you'd like?",
+      "timestamp": "2025-07-15T07:56:21.318Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-15T07:56:21.318Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, so I have a medium decaf hot coffee with half and half milk. Now let me help you customize it exactly how you like it. ",
+      "timestamp": "2025-07-15T07:56:21.318Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-07-15T07:56:21.319Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I have a medium decaf hot coffee with half and half milk. Now let me help you customize it exactly how you like it. ",
+      "timestamp": "2025-07-15T07:56:21.319Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-07-15T07:56:21.319Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I have a medium decaf hot coffee with half and half",
+      "timestamp": "2025-07-15T07:56:21.319Z"
+    }
+  ]
+}

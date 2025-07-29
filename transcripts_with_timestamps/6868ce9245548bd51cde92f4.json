@@ -1,0 +1,39 @@
+{
+  "callId": "6868ce9245548bd51cde92f4",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-05T07:04:50.554Z",
+    "callEnded": "2025-07-05T07:06:46.832Z",
+    "duration": 120,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-05T07:06:46.505Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I order the breakfast bundle?",
+      "timestamp": "2025-07-05T07:06:46.505Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? You there?",
+      "timestamp": "2025-07-05T07:06:46.505Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize, but we're approaching our time limit. Do you want me to transfer this call to a",
+      "timestamp": "2025-07-05T07:06:46.505Z"
+    }
+  ]
+}

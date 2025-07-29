@@ -1,0 +1,14 @@
+{
+  "callId": "68696c1f45548bd51cf8b82e",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-05T18:17:03.946Z",
+    "callEnded": "2025-07-05T18:17:08.893Z",
+    "duration": 3,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "BagelBot assisted a customer with their order, guiding them through the menu and customization options before finalizing the order and transitioning to the next stage."
+  },
+  "messages": []
+}

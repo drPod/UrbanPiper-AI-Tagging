@@ -1,0 +1,105 @@
+{
+  "callId": "6859326d1be7d3da060412c6",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T10:54:37.398Z",
+    "callEnded": "2025-06-23T10:56:14.631Z",
+    "duration": 120,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh inquired about the menu and showed interest in coffee options at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "¿En qué lista el bidimenu?",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the menu for you.",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of items, including breakfast sandwiches, bagels, and coffee. What sounds good to you?",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Coffee.",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the coffee options for you.",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have for coffee. We have hot coffee, iced coffee, and other specialty drinks. Which one would you like?",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please tell me about the other special rings?",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for you...",
+      "timestamp": "2025-06-23T10:56:14.389Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T10:56:14.390Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you for calling. Have a great day. Goodbye.",
+      "timestamp": "2025-06-23T10:56:14.390Z"
+    }
+  ]
+}

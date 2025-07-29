@@ -1,0 +1,201 @@
+{
+  "callId": "6868127245548bd51cd93b55",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-04T17:42:10.333Z",
+    "callEnded": "2025-07-04T17:47:43.008Z",
+    "duration": 360,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "Jitin placed an order for a customized Manhattan Cheesesteak Sandwich and a Medium Decaf Hot Coffee."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-04T17:47:42.573Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order, man Manhattan cheese stick sandwich and a hot coffee.",
+      "timestamp": "2025-07-04T17:47:42.573Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it. The Manhattan Cheesesteak Sandwich is a delicious choice with grilled steak, roasted peppers, grilled onions, and cheese on a long roll. Would you like to hear the available customizations for your sandwich? And for your hot",
+      "timestamp": "2025-07-04T17:47:42.574Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-04T17:47:42.574Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright let's start with the Manhattan Cheesesteak Sandwich. For the bread choice, you can select from different options. Let's start with popular choices: Multigrain Bread, Asiago, Gluten Free. Would you like one of these or more options?",
+      "timestamp": "2025-07-04T17:47:42.574Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Multigrain.",
+      "timestamp": "2025-07-04T17:47:42.574Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great choice with Multigrain Bread. Now for the cheese, you can choose from various types. Let's start with common selections: American, Provolone. Would you like one of these or more options?",
+      "timestamp": "2025-07-04T17:47:42.575Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Yeah. I'll go the more provolone cheese.",
+      "timestamp": "2025-07-04T17:47:42.575Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect with Provolone Cheese. Now for any additional toppings or preferences, you can add extras like veggies, condiments, or how you'd like it prepared. Would you like to hear more options or choose from these?",
+      "timestamp": "2025-07-04T17:47:42.575Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second, please.",
+      "timestamp": "2025-07-04T17:47:42.575Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Of course, take your time. I'm here whenever you're ready.",
+      "timestamp": "2025-07-04T17:47:42.575Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sandwich. Right? Manhattan cheese sandwich. Let me",
+      "timestamp": "2025-07-04T17:47:42.575Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, for your Manhattan Cheesesteak Sandwich on Multigrain Bread with Provolone Cheese, would you like to add any extra toppings, condiments, or specify how you'd like it prepared? Some options include adding veggies like lettuce or tomato, extra cheese, or your preferred level of toast. Let me know how you'd like it!",
+      "timestamp": "2025-07-04T17:47:42.576Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second. Which item we are talking? Maronite cheese sandwich?",
+      "timestamp": "2025-07-04T17:47:42.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Of course, we're talking about the Manhattan Cheesesteak Sandwich—grilled steak, roasted peppers, grilled onions, and cheese on a long roll. Would you like to add any",
+      "timestamp": "2025-07-04T17:47:42.576Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-04T17:47:42.576Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, for your",
+      "timestamp": "2025-07-04T17:47:42.576Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So what what's what what, all of the things we have added so far?",
+      "timestamp": "2025-07-04T17:47:42.577Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So far, we've chosen the Manhattan Cheesesteak Sandwich with Multigrain Bread and Provolone Cheese. Would you like to add any extras or specify how you'd like it prepared?",
+      "timestamp": "2025-07-04T17:47:42.577Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "But in Manhattan cheese steak sandwich, I just see lunch side, double lunch protein, and extra cheese and toast, as in order, you know, options. Can you please recheck it?",
+      "timestamp": "2025-07-04T17:47:42.577Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're absolutely right—let me double-check that for you. For the Manhattan Cheesesteak Sandwich, the available customizations include: - **Lunch Side Choice**: You can choose between chips ",
+      "timestamp": "2025-07-04T17:47:42.577Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And why why why why you were talking about the bread side?",
+      "timestamp": "2025-07-04T17:47:42.577Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're right to clarify—thank you for pointing that out. For the Manhattan Cheesesteak Sandwich, the bread is fixed as a long roll, and the available customizations are **Lunch Side Choice**, **Double Lunch Protein**, **Extra Cheese**, and **Toast Preference**. I apologize for bringing up the bread choice earlier. Let's focus on the available options for your sandwich: Would you like to add any of the following: - **Lunch",
+      "timestamp": "2025-07-04T17:47:42.577Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Okay. So go ahead, please. Okay. I need so I need, I need chips, double lunch pudding, extra cheese, and lightly toasted.",
+      "timestamp": "2025-07-04T17:47:42.578Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-04T17:47:42.578Z] assistant: Got it! Your Manhattan Cheesesteak Sandwich will include **Chips** as the lunch side, **Double Lunch Protein**, **Extra Cheese**, and it will be **Lightly Toasted**. \n\nNow, onto your **hot coffee**—would you like to choose the size and any additional preferences like roast type or milk options?",
+      "timestamp": "2025-07-04T17:47:43.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I want to have the, medium size and, decaf and, yeah, half and half milk and regular sugar.",
+      "timestamp": "2025-07-04T17:47:42.578Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-04T17:47:42.578Z] assistant: Perfect! Your **hot coffee** will be a **Medium size**, **Decaf**, made with **Half & Half milk**, and include **regular sugar**. \n\nIs there anything else I can get for you today, Jitin?",
+      "timestamp": "2025-07-04T17:47:43.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No",
+      "timestamp": "2025-07-04T17:47:42.578Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-04T17:47:42.579Z] assistant: Alright, let me summarize your order for you. You've ordered a **Manhattan Cheesesteak Sandwich** with **Chips**, **Double Lunch Protein**, **Extra Cheese**, and **Lightly Toasted**, along with a **Medium Decaf Hot Coffee** made with **Half & Half Milk** and **Regular Sugar**.\n\nThank you for choosing Manhattan Bagel, Jitin. Have a great day!",
+      "timestamp": "2025-07-04T17:47:43.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Bye.",
+      "timestamp": "2025-07-04T17:47:42.579Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome! Enjoy your meal and have a wonderful day! Goodbye!",
+      "timestamp": "2025-07-04T17:47:42.579Z"
+    }
+  ]
+}

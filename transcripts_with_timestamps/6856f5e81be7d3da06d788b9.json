@@ -1,0 +1,183 @@
+{
+  "callId": "6856f5e81be7d3da06d788b9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T18:11:52.963Z",
+    "callEnded": "2025-06-21T18:15:37.111Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin ordered an Omelet Wrap with Grilled Chicken, American cheese, Mustard, Green Peppers, and a Wheat tortilla, but the order placement failed due to technical issues."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T18:15:36.769Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Omelette wrap.",
+      "timestamp": "2025-06-21T18:15:36.769Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Omelet Wrap, great choice! That's one of our popular items with 3 eggs, cheese, and your choice of meat in a tortilla. Let me get all the customization options for you...",
+      "timestamp": "2025-06-21T18:15:36.769Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Omelet Wrap, let's start with the meat. We have several options like Bacon, Sausage, Ham, Steak, or Grilled Chicken. Which one would you like?",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Grilled chicken?",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Grilled Chicken is a great choice for your Omelet Wrap. Next, let's talk about cheese. We have options like American, Swiss, Pepper Jack, Cheddar, or Muenster. Which cheese would you prefer?",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Un mal école",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "American cheese is a classic choice. Now, let's consider the wrap itself. Would you like it in a Flour tortilla or a Wheat tortilla?",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Wheat.",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Wheat tortilla is a great choice for your Omelet Wrap with Grilled Chicken and American cheese. Next, let's think about condiments. We have options like Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, or Tomato Spread. Would you like to add any of these to your wrap?",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Mustard.",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Mustard will add a nice flavor to your Omelet Wrap. Now, let's think about adding some vegetables. We have options like Lettuce, Tomato, Red Onions, Avocado, Spinach, Cucumber, Green Peppers, Capers, Roasted Red Peppers, Grilled Onions, or Jalapeño Peppers. Would you like to add any of these to your wrap?",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can add Green Peppers to your Omelet Wrap. So, to recap, you have Grilled Chicken, American cheese, in a Wheat tortilla, with Mustard and Green Peppers. Anything else you'd like to add or change? Perfect, let me add that to your order...",
+      "timestamp": "2025-06-21T18:15:36.770Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $13.98",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your Omelet Wrap with Grilled Chicken, American cheese, in a Wheat tortilla, with Mustard and Green Peppers has been added to your order. Your total comes out to be $13.98. Would you like to order anything else or is that all for today?",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I I have added green, grilled chicken, American cheese, mustard, green pepper, and wheat. Right?",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've added an Omelet Wrap with Grilled Chicken, American cheese, Mustard, Green Peppers, and a Wheat tortilla. That's all correct. Your total is $13.98. Now, let me just confirm a few details before we finalize your order. May I have your name for the order, please?",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Jitin.",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Jitin. I have your complete order. You have one Omelet Wrap with Grilled Chicken, American cheese, Mustard, Green Peppers, and a Wheat tortilla. Your total is $13.98. Does everything sound correct with that?",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Just, can can I have couple of napkins in the order?",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll make sure the kitchen knows to include a couple of napkins with your order. Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-21T18:15:36.771Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize, but it seems like there was a technical issue with placing your order. Let me try again. Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-21T18:15:36.772Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-21T18:15:36.772Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize, but it seems like there was a technical issue with placing your order. Let me try again. Alright, let me get this",
+      "timestamp": "2025-06-21T18:15:36.772Z"
+    }
+  ]
+}

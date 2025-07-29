@@ -1,0 +1,39 @@
+{
+  "callId": "687a5395a1698f75072c37d8",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T14:00:53.564Z",
+    "callEnded": "2025-07-18T14:01:26.176Z",
+    "duration": 30,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin attempted to order an Omelet Wrap but it was out of stock, and the agent offered alternative breakfast items."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T14:01:25.871Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order omelette wrap.",
+      "timestamp": "2025-07-18T14:01:25.871Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Omelet Wrap on the menu, now let me check the availability. I've checked, and I'm sorry, but that item is currently out of stock today. Instead, I can offer you our Original Classic breakfast sandwich, the Egg & Cheese, or the Garden",
+      "timestamp": "2025-07-18T14:01:25.871Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-18T14:01:25.871Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "callId": "6877d4b873d0cf0f7e852ba7",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T16:35:04.262Z",
+    "callEnded": "2025-07-16T16:36:18.195Z",
+    "duration": 71,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered a Big Breakfast Bundle from Manhattan Bagel with specific bagel and cream cheese selections."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T16:36:17.476Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. Yeah. I'd like to order a quick bit, breakfast bundle.",
+      "timestamp": "2025-07-16T16:36:17.476Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Big Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Would you like to choose the types of bagels, cream cheese, and muffins, or would you like me to suggest some popular options?",
+      "timestamp": "2025-07-16T16:36:17.476Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me, five sesame, five everything, two vanilla, and, rest as everything bagel.",
+      "timestamp": "2025-07-16T16:36:17.476Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:36:17.476Z] assistant: For the Big Breakfast Bundle, you'd like 5 Sesame bagels, 5 Everything bagels, and 2 Vanilla bagels, and the rest as Everything bagels. That's a total of 13 bagels.\n\nNow, let's move on to the cream cheese. We have a variety of flavors to choose from. Which two flavors would you like for your 2 tubs of cream cheese? We have Plain, Vegetable, Scallion, Strawberry, and many more.",
+      "timestamp": "2025-07-16T16:36:18.195Z"
+    }
+  ]
+}

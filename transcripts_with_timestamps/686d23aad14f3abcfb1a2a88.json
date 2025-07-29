@@ -1,0 +1,45 @@
+{
+  "callId": "686d23aad14f3abcfb1a2a88",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T13:56:58.986Z",
+    "callEnded": "2025-07-08T13:57:49.905Z",
+    "duration": 49,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The user requested a Breakfast Bundle and began customizing the bagel selection."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T13:57:49.682Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Get this this this one, please.",
+      "timestamp": "2025-07-08T13:57:49.682Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! Could you please tell me the full order ID or the last four digits of your order?",
+      "timestamp": "2025-07-08T13:57:49.682Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So I want, breakfast bundle, please.",
+      "timestamp": "2025-07-08T13:57:49.682Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, one Breakfast Bundle. To get that started, what kind of bagels would you like in the dozen? We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, and Honey Whole Wheat Everything. Would you like",
+      "timestamp": "2025-07-08T13:57:49.682Z"
+    }
+  ]
+}

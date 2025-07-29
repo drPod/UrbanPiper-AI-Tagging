@@ -1,0 +1,141 @@
+{
+  "callId": "685903c11be7d3da06fc6217",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T07:35:29.941Z",
+    "callEnded": "2025-06-23T07:39:19.804Z",
+    "duration": 240,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh ordered a Breakfast Bundle from Manhattan Bagel with specific customizations for bagels and muffins."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T07:39:19.419Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle?",
+      "timestamp": "2025-06-23T07:39:19.419Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, great choice. The Breakfast Bundle comes with thirteen bagels, two tubs of cream cheese, and four muffins. You can add smoked nova for nine ninety-nine. Want to add that?",
+      "timestamp": "2025-06-23T07:39:19.419Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "No problem. Let me get the options for your bundle. We have a few choices for the cream cheese, bagels, and muffins. For your two cream cheese tubs, we have Plain, Vegetable, or Scallion. Want to hear more options?",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Give me one plane and one scaling.",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T07:39:19.420Z] assistant: For your two cream cheese tubs, I've got one Plain and one Scallion. Now, let's move on to your thirteen bagels. We have a variety of flavors to choose from, such as Plain, Everything, Asiago, and many more. Which ones would you like? You can choose any combination of thirteen bagels. \n\nAlso, I would like to let you know that we have a few other options to customize your Breakfast Bundle, such as choosing four muffins from our selection, which includes Blueberry, Corn, Double Chocolate, and more. And, if you're interested, you can also add a box of coffee to your bundle, with options like House Blend, Decaf, Vanilla Hazelnut, and Dark Roast. \n\nLet me know how you'd like to proceed with customizing your Breakfast Bundle.",
+      "timestamp": "2025-06-23T07:39:19.804Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. We were on we were, talking about, bagels. Right?",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We were discussing the bagels for your Breakfast Bundle. You have thirteen bagels to choose from our variety. Which ones would you like? Would you like me to list all the options or do you have some specific flavors in mind?",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me two plain, two asiago, two sesame.",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And two chocolate chip.",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, for your thirteen bagels, you'd like two Plain, two Asiago, two Sesame, and two Everything. That's six bagels so far. You have seven more to choose. Would you like to add any other flavors or stick with one of these?",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me no. What what are the choices on the vehicle? Can you give me more options?",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me give you more options for the bagels. We have a wide variety of flavors, including Blueberry, California, Cinnamon Raisin, Egg, French Toast, Garlic, Honey Whole",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me give me three, California, three, blueberry, and one, honey honey roasted.",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to recap, for your thirteen bagels, you'd like: * 2 Plain * 2 Asiago * 2 Sesame * 2 Everything * 3 California * 3 Blueberry * 1 Honey Whole Wheat I've got all your",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Now that we have your bagels sorted, let's move on to the muffins. You get to choose four muffins from our selection. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which four muffins would you like?",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me four cranberry, four, chocolate chip, and four vanilla.",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the muffins, you can only choose four, and it seems like you've listed more than four options. Let me help you with that. You mentioned Cranberry, Chocolate Chip, and Vanilla. We don't have a Vanilla muffin, but we do have other flavors like Blueberry, Corn, Double Chocolate, Cinnamon Chip, and Cranberry Orange.",
+      "timestamp": "2025-06-23T07:39:19.420Z"
+    }
+  ]
+}

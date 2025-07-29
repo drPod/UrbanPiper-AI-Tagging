@@ -1,0 +1,33 @@
+{
+  "callId": "6878eaa1970f265df9d89bca",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T12:20:49.483Z",
+    "callEnded": "2025-07-17T12:21:27.505Z",
+    "duration": 33,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-17T12:21:27.213Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me Hasbro, please.",
+      "timestamp": "2025-07-17T12:21:27.213Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but our Hash Brown is currently out of stock today. We have other sides like Home Fries, Bacon, or Sausage. Which would you prefer?",
+      "timestamp": "2025-07-17T12:21:27.213Z"
+    }
+  ]
+}

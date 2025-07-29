@@ -1,0 +1,81 @@
+{
+  "callId": "68793cdf970f265df9e4ebf9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T18:11:43.547Z",
+    "callEnded": "2025-07-17T18:12:36.627Z",
+    "duration": 51,
+    "from": "+353872628050",
+    "to": "+441313810000",
+    "summary": "The customer called to inquire about a job opportunity at Manhattan Bagel, but the agent was unable to assist with employment inquiries and ended the call."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Ryan Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-17T18:12:36.295Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have a job, please?",
+      "timestamp": "2025-07-17T18:12:36.295Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm happy to help you with your order. What can I get for you today?",
+      "timestamp": "2025-07-17T18:12:36.295Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I want a job. Like, I'm an experienced chef. Can I please have a job?",
+      "timestamp": "2025-07-17T18:12:36.295Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm afraid I'm not the right person to talk to about job openings. I'm just here to help with",
+      "timestamp": "2025-07-17T18:12:36.296Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Oh, that's no problem then. Can you please answer me onto a person that will be able to help?",
+      "timestamp": "2025-07-17T18:12:36.296Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm not able to assist with job inquiries or direct you to someone who can help with employment opportunities. My purpose is",
+      "timestamp": "2025-07-17T18:12:36.296Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Why can't help me.",
+      "timestamp": "2025-07-17T18:12:36.296Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm not able to assist with job inquiries or direct you to someone who can help with employment opportunities. My",
+      "timestamp": "2025-07-17T18:12:36.297Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I get that. But why?",
+      "timestamp": "2025-07-17T18:12:36.297Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-17T18:12:36.297Z"
+    }
+  ]
+}

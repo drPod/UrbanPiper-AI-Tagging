@@ -1,0 +1,33 @@
+{
+  "callId": "6856919d1be7d3da06c8ac85",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T11:03:57.863Z",
+    "callEnded": "2025-06-21T11:04:27.796Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin ordered a Big Breakfast Burrito from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T11:04:27.615Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi, Emily. I'd like to order a breakfast burrito.",
+      "timestamp": "2025-06-21T11:04:27.615Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a Big Breakfast Burrito for nine forty-nine. It comes with",
+      "timestamp": "2025-06-21T11:04:27.615Z"
+    }
+  ]
+}

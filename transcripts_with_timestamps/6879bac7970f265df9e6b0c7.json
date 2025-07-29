@@ -1,0 +1,33 @@
+{
+  "callId": "6879bac7970f265df9e6b0c7",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T03:08:55.499Z",
+    "callEnded": "2025-07-18T03:09:24.847Z",
+    "duration": 24,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha ordered a Big Breakfast Burrito from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T03:09:24.662Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me big big one burrito.",
+      "timestamp": "2025-07-18T03:09:24.662Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Big Breakfast Burrito on the menu. I'll add the Big Breakfast Burrito for you. Now, let's customize it. The Big Breakfast Burrito comes with bacon, sausage, scrambled",
+      "timestamp": "2025-07-18T03:09:24.662Z"
+    }
+  ]
+}

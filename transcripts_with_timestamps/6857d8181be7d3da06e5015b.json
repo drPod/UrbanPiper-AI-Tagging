@@ -1,0 +1,147 @@
+{
+  "callId": "6857d8181be7d3da06e5015b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-22T10:16:56.564Z",
+    "callEnded": "2025-06-22T10:20:14.012Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul ordered a Breakfast Bundle with specific customizations and the order was successfully placed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-22T10:20:13.683Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Like to order breakfast bundle.",
+      "timestamp": "2025-06-22T10:20:13.683Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, a fantastic choice. That comes with thirteen fresh-baked Manhattan Bagels, two tubs of cream cheese, and four muffins. You can also make it extra special by adding four ounces of premium Acme smoked nova for just nine dollars and ninety-nine cents. Would you like to add the smoked nova?",
+      "timestamp": "2025-06-22T10:20:13.684Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-22T10:20:13.684Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with your choices for the two tubs of cream cheese that come with the bundle. Let me get the flavor options for you...",
+      "timestamp": "2025-06-22T10:20:13.684Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the cream cheese, we have several flavors. You can pick two. To start, some popular ones are Plain, Vegetable, or Scallion. Do any of those sound good, or would you like to hear a few more?",
+      "timestamp": "2025-06-22T10:20:13.685Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Clean and vegetable is good for me.",
+      "timestamp": "2025-06-22T10:20:13.685Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, Plain and Vegetable cream cheese. Next up for your Breakfast Bundle are the four muffins. Let me see what muffin flavors we have today...",
+      "timestamp": "2025-06-22T10:20:13.685Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the muffins, you can choose four. Some options are Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, or Cranberry Orange. What sounds good?",
+      "timestamp": "2025-06-22T10:20:13.686Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Blueberry and chocolate chips. Two of each.",
+      "timestamp": "2025-06-22T10:20:13.686Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Two Blueberry and two Chocolate Chip muffins. And finally for the Breakfast Bundle, we need to choose your thirteen bagels. Let me get the list of bagel types...",
+      "timestamp": "2025-06-22T10:20:13.686Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the bagels, you can choose thirteen. Some options are Plain, Everything, Asiago, Blueberry, or California. What sounds good?",
+      "timestamp": "2025-06-22T10:20:13.687Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I I can go with the, 12 plain bigger and one everything bigger.",
+      "timestamp": "2025-06-22T10:20:13.687Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Twelve Plain bagels and one Everything bagel. Alright, so that's the Breakfast Bundle with Plain and Vegetable cream cheese, two Blueberry and two Chocolate Chip muffins, and twelve Plain and one Everything bagel. Perfect, let me add that to your order...",
+      "timestamp": "2025-06-22T10:20:13.687Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $29.99",
+      "timestamp": "2025-06-22T10:20:13.688Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the Breakfast Bundle to your order. Your total is now $29.99. What else can I get for you today?",
+      "timestamp": "2025-06-22T10:20:13.688Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's it.",
+      "timestamp": "2025-06-22T10:20:13.688Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Mehul, I have your complete order. Would you like me to read it back to make sure everything is perfect?",
+      "timestamp": "2025-06-22T10:20:13.689Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't need it. Thank you so much. You can submit the order now.",
+      "timestamp": "2025-06-22T10:20:13.689Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-22T10:20:13.689Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 931162. That's 9, 3, 1, 1, 6, 2. Total: $32.98 (subtotal 29.99 dollars plus 2.99 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-22T10:20:13.690Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Mehul, your order is placed. Your order number is 9, 3, 1, 1, 6, 2. Your total is $29.99 plus $2.99 in tax, making it $32.98. We'll have that ready for you shortly. Thank you for your order!",
+      "timestamp": "2025-06-22T10:20:13.690Z"
+    }
+  ]
+}

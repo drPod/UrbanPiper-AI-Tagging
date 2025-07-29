@@ -1,0 +1,93 @@
+{
+  "callId": "685932871be7d3da0604154b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T10:55:03.749Z",
+    "callEnded": "2025-06-23T10:56:21.375Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle from Manhattan Bagel but the order could not be placed due to an empty cart."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T10:56:21.105Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Bagel, breakfast, breakfast bundle.",
+      "timestamp": "2025-06-23T10:56:21.105Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The",
+      "timestamp": "2025-06-23T10:56:21.105Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And I need 13. Is everything legal?",
+      "timestamp": "2025-06-23T10:56:21.105Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T10:56:21.106Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One plain cream cheese and one vegetable cream cheese.",
+      "timestamp": "2025-06-23T10:56:21.106Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Two muffins blueberry and two corn muffins",
+      "timestamp": "2025-06-23T10:56:21.106Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-23T10:56:21.106Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "House Blend coffee, Perfect, let me add that to your order...",
+      "timestamp": "2025-06-23T10:56:21.106Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T10:56:21.106Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-23T10:56:21.106Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-23T10:56:21.106Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your cart is empty. Please add items to your cart before placing an order.",
+      "timestamp": "2025-06-23T10:56:21.106Z"
+    }
+  ]
+}

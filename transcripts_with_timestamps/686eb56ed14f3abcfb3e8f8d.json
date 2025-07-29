@@ -1,0 +1,33 @@
+{
+  "callId": "686eb56ed14f3abcfb3e8f8d",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T18:31:10.835Z",
+    "callEnded": "2025-07-09T18:31:39.782Z",
+    "duration": 27,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The user asked to see the menu but did not proceed further."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T18:31:39.561Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I don't know. Like, can you show me your menu?",
+      "timestamp": "2025-07-09T18:31:39.561Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! We have a variety of options for you, like breakfast sandwiches, bagels, sweet treats, and more. For breakfast, you can try our Original Classic with egg, cheese, and your choice of meat on a bagel, or the Spinach Bacon Croissant for a",
+      "timestamp": "2025-07-09T18:31:39.561Z"
+    }
+  ]
+}

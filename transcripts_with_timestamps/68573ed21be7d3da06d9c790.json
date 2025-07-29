@@ -1,0 +1,105 @@
+{
+  "callId": "68573ed21be7d3da06d9c790",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T23:22:58.157Z",
+    "callEnded": "2025-06-21T23:24:23.875Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Alex ordered an unsweetened iced tea, medium size, from Manhattan Bagel for pickup."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Alex, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T23:24:23.599Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I would like to order iced tea unsweetened.",
+      "timestamp": "2025-06-21T23:24:23.599Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Iced Tea, sweetened, great choice. Let me get the flavor",
+      "timestamp": "2025-06-21T23:24:23.599Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. Unsweetened unsweetened iced tea, medium size.",
+      "timestamp": "2025-06-21T23:24:23.600Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your unsweetened iced tea. ",
+      "timestamp": "2025-06-21T23:24:23.600Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your unsweetened iced tea, you've chosen a medium size, which is 24 ounces. I'll add that to your order. ",
+      "timestamp": "2025-06-21T23:24:23.601Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $5.98",
+      "timestamp": "2025-06-21T23:24:23.602Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be $2.99. Would you like to order anything else?",
+      "timestamp": "2025-06-21T23:24:23.602Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you. That's it.",
+      "timestamp": "2025-06-21T23:24:23.602Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, so just to confirm, you have one unsweetened iced tea, medium size. Your total is $2.99. I'll go ahead and place your order for pickup. ",
+      "timestamp": "2025-06-21T23:24:23.603Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 820677. That's 8, 2, 0, 6, 7, 7. Total: $6.58 (subtotal 5.98 dollars plus 0.60 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-21T23:24:23.603Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Alex, your order is placed. Your order number is 8, 2, 0, 6, 7, 7. Your total comes out to be 5 dollars and 98 cents plus 60 cents tax. So that's a total of 6 dollars and 58 cents. We'll have that ready for you shortly. Thank you for your order! Is there anything else I can help you with?",
+      "timestamp": "2025-06-21T23:24:23.604Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "You know, that's it. Thanks so much.",
+      "timestamp": "2025-06-21T23:24:23.604Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Alex. It was a pleasure helping you with your order. Have a great day and we'll see you soon at Manhattan Bagel. Goodbye. ",
+      "timestamp": "2025-06-21T23:24:23.606Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-21T23:24:23.607Z"
+    }
+  ]
+}

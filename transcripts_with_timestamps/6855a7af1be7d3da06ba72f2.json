@@ -1,0 +1,51 @@
+{
+  "callId": "6855a7af1be7d3da06ba72f2",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T18:25:51.967Z",
+    "callEnded": "2025-06-20T18:26:24.045Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer, Gaurav, inquired about the price of a hot latte but the search_for_item tool timed out and the call ended before a response could be received."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T18:26:23.809Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Tell me the price of hot latte, please.",
+      "timestamp": "2025-06-20T18:26:23.809Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check the price of a hot latte for you. ",
+      "timestamp": "2025-06-20T18:26:23.809Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-20T18:26:23.809Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I couldn't find the price of a hot latte. Let me try searching for lattes in general. ",
+      "timestamp": "2025-06-20T18:26:23.809Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Call ended before tool response was received",
+      "timestamp": "2025-06-20T18:26:23.809Z"
+    }
+  ]
+}

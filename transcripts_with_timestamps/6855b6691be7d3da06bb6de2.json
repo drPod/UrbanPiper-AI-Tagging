@@ -1,0 +1,63 @@
+{
+  "callId": "6855b6691be7d3da06bb6de2",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T19:28:41.815Z",
+    "callEnded": "2025-06-20T19:29:21.401Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer, Gaurav, inquired about ordering a hot latte from Manhattan Bagel but the call ended abruptly without a resolution."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T19:29:21.214Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get hot latte?",
+      "timestamp": "2025-06-20T19:29:21.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check on that for you. ",
+      "timestamp": "2025-06-20T19:29:21.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:29:21.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:29:21.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:29:21.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:29:21.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Call ended before tool response was received",
+      "timestamp": "2025-06-20T19:29:21.215Z"
+    }
+  ]
+}

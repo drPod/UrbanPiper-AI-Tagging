@@ -1,0 +1,171 @@
+{
+  "callId": "686b86ec0ba117a21b237651",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-07T08:35:56.735Z",
+    "callEnded": "2025-07-07T08:39:08.296Z",
+    "duration": 187,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin placed an order for a customized Spinach Bacon Croissant with extra bacon, cucumber, green peppers, toasted dark, mustard, a hash brown, extra cheese, and two extra eggs for pickup at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-07T08:39:07.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-07T08:39:07.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One Spinach Bacon Croissant coming up. To get that started, would you like to add any extra meat, such as extra bacon or sausage?",
+      "timestamp": "2025-07-07T08:39:07.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Bacon. Okay. You can add, yeah, extra meat.",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll add some extra bacon to your Spinach Bacon Croissant. Now, would you like to add any vegetables, such as lettuce, tomato, or spinach?",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have cucumber and, green pepper?",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can add cucumber and green peppers to your Spinach Bacon Croissant. Next, would you like your croissant toasted, lightly toasted, or not toasted at all?",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Doctor Toasted.",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll make sure your Spinach Bacon Croissant is toasted dark. Now, would you like to add any condiments, such as mayo, mustard, or hot sauce?",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. So you can add mustard.",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll add some mustard to your Spinach Bacon Croissant. Now, would you like to add any extra cheese or perhaps a hash brown to your order?",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. You can add, hash brown and extra cheese as well. Also, I want to have, two extra eggs.",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll add a hash brown and extra cheese to your Spinach Bacon Croissant. And I'll also add two extra eggs to your order. Just to confirm, you'd like a Spinach Bacon Croissant with extra bacon, cucumber, green peppers, toasted dark, mustard, a hash brown, extra cheese, and two extra eggs, correct?",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you. ",
+      "timestamp": "2025-07-07T08:39:07.864Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have any.",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. All set. I'm good.",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great. Placing that for you now, please hold on. ",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 695823. That's 6, 9, 5, 8, 2, 3.\", 'order_id': '695823', 'call_id': '6189452b-1e4f-4c11-8be1-02f402799c04', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e409-a1cd-c0dd-b900-557a70f45b05'}",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now! The order number is 6, 9, 5, 8, 2, 3, and the total including taxes comes to $23.50. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. ",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-07T08:39:07.865Z"
+    }
+  ]
+}

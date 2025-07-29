@@ -1,0 +1,33 @@
+{
+  "callId": "68701ac2d14f3abcfb5c9ab3",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-10T19:55:46.233Z",
+    "callEnded": "2025-07-10T19:56:08.765Z",
+    "duration": 19,
+    "from": "+13215054148",
+    "to": "+16204558091",
+    "summary": "The customer, Ace Jack, inquired about the language capabilities of the BagelBot and confirmed that it can speak Portuguese."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Ace Jack Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-10T19:56:08.501Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you speak in Portuguese?",
+      "timestamp": "2025-07-10T19:56:08.501Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sim, eu falo português. Como posso ajudá-lo hoje? (Yes, I speak Portuguese. How can I help you today?)",
+      "timestamp": "2025-07-10T19:56:08.501Z"
+    }
+  ]
+}

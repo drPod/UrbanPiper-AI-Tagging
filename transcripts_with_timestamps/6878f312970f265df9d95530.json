@@ -1,0 +1,21 @@
+{
+  "callId": "6878f312970f265df9d95530",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T12:56:50.343Z",
+    "callEnded": "2025-07-17T12:57:15.654Z",
+    "duration": 16,
+    "from": "918008546111",
+    "to": "918035740152",
+    "summary": "The call was a greeting from BagelBot to Anchul Gandhi, welcoming him back to Manhattan Bagel and inquiring about his order for the day."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Anchul Gandhi Welcome to manhattan bagel It is great to see you again What would you",
+      "timestamp": "2025-07-17T12:57:15.439Z"
+    }
+  ]
+}

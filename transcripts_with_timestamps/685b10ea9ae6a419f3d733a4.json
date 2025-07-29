@@ -1,0 +1,69 @@
+{
+  "callId": "685b10ea9ae6a419f3d733a4",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-24T20:56:10.943Z",
+    "callEnded": "2025-06-24T20:57:05.168Z",
+    "duration": 60,
+    "from": "+13215054148",
+    "to": "+16204558091",
+    "summary": "The customer inquired about the status of their existing order, but the language model was unable to assist and transferred the call to a human agent."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Ace Jack, Welcome to Manhattan Bagel. It is great to see you again. What would you like to order?",
+      "timestamp": "2025-06-24T20:57:04.896Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I wanna check up on my order that I just placed about five minutes ago.",
+      "timestamp": "2025-06-24T20:57:04.897Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm happy to help youwith that, Ace Jack. However, I'm a large language model, I don't have the ability to access or view previous orders. Each time you interact with me, it's a new conversation. If you'd like to",
+      "timestamp": "2025-06-24T20:57:04.897Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Uau.",
+      "timestamp": "2025-06-24T20:57:04.897Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can try to help youwith any questions or concerns you have about your order, ",
+      "timestamp": "2025-06-24T20:57:04.898Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-24T20:57:04.904Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I need to let you know that I'm a large language model, I",
+      "timestamp": "2025-06-24T20:57:04.905Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Language model and you can't tell me. Okay.",
+      "timestamp": "2025-06-24T20:57:04.905Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Very interesting.",
+      "timestamp": "2025-06-24T20:57:04.905Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "callId": "6856c7461be7d3da06cf547b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T14:52:54.923Z",
+    "callEnded": "2025-06-21T14:53:47.239Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Mehul ordered a medium hot latte and the agent began customizing the drink with milk options before the call ended abruptly."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Mehul, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T14:53:46.990Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking for hot latte, medium size.",
+      "timestamp": "2025-06-21T14:53:46.991Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen a medium hot latte. That's four dollars and forty-nine cents. We have several milk options: Regular Milk, Half & Half for a dollar extra, Skim, Almond Milk for a dollar extra, Oat Milk for a dollar extra, or Soy Milk. Which milk would you like?",
+      "timestamp": "2025-06-21T14:53:46.991Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second, please.",
+      "timestamp": "2025-06-21T14:53:46.991Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll wait for your milk selection. Take your time.",
+      "timestamp": "2025-06-21T14:53:46.991Z"
+    }
+  ]
+}

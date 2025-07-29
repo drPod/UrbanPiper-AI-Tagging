@@ -1,0 +1,105 @@
+{
+  "callId": "6872721c5560c851d6378fe0",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T14:33:00.421Z",
+    "callEnded": "2025-07-12T14:35:25.378Z",
+    "duration": 143,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jutin ordered a Chelsea Grilled Chicken on a Bialy with Chips and no toast from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Chelsea grilled chicken.",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Chelsea Grilled Chicken is a great choice You'll need to pick just one lunch side for your Chelsea Grilled Chicken We have Chips, Cole Slaw, or Lays Chips for one dollar extra Which would you prefer?",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, chips.",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, so you'd like the Chelsea Grilled Chicken with Chips. Now, you'll need to pick just one bread choice for your Chelsea Grilled Chicken. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, and many more. Which one sounds good to you?",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I think",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me help you with",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Chelsea Grilled Chicken comes on a bagel, but I can definitely offer you the Bialy as a bread choice. Now, would you like your Bialy toasted, lightly toasted, toasted dark, or no toast?",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No toasted.",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, so you'd like your Chelsea Grilled Chicken on a Bialy with no toast. Now, would you like to add any extra cheese or double the lunch protein? We have options like Extra Cheese for $1.49 or Double Lunch Protein for $4.99. Or would you like to stick with the standard?",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Standard.",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like to stick with the standard Chelsea Grilled Chicken on a Bialy with Chips and no toast. Is there anything else you'd like to order today?",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it.",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll get that ready for you. Just to confirm, I have you down for a Chelsea Grilled Chicken on a Bialy with Chips and no toast. I'll go ahead and put that order in for you. We'll have it ready for pickup at our Union, NJ location. If you need any further assistance or have any other questions, feel free to ask. Otherwise, we'll see you soon.",
+      "timestamp": "2025-07-12T14:35:25.132Z"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "callId": "687203785560c851d6272624",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T06:40:56.386Z",
+    "callEnded": "2025-07-12T06:44:09.888Z",
+    "duration": 190,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Breakfast Bundle from Manhattan Bagel, customizing it with 13 bagels, 2 cream cheeses, and 4 muffins."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T06:44:09.656Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm thinking to order breakfast bundle.",
+      "timestamp": "2025-07-12T06:44:09.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great choice It comes with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You'll need to pick just one type of bagel for your bundle. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, and more. Which type of bagel would you like?",
+      "timestamp": "2025-07-12T06:44:09.656Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I want, five sesame, two vanilla, one, everything, and rest, as everything bagel.",
+      "timestamp": "2025-07-12T06:44:09.657Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T06:44:09.657Z] assistant: You'd like 5 Sesame bagels, 2 Vanilla bagels, 1 Everything bagel, and the rest as Everything bagels. That's a total of 13 bagels, which fits perfectly with the Breakfast Bundle. \n\nNow, let's move on to the cream cheese. You'll need to choose 2 types of cream cheese for your bundle. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, and more. Which 2 types of cream cheese would you like?",
+      "timestamp": "2025-07-12T06:44:09.888Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What? What? What? What? What? What? Sorry. Can you please repeat it again?",
+      "timestamp": "2025-07-12T06:44:09.657Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T06:44:09.657Z] assistant: You'd like 5 Sesame bagels, 2 Vanilla bagels, 1 Everything bagel, and the rest as Everything bagels. That's a total of 13 bagels, which fits perfectly with the Breakfast Bundle.\n\nNow, let's move on to the cream cheese. You'll need to choose 2 types of cream cheese for your bundle. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, and more. Which 2 types of cream cheese would you like?",
+      "timestamp": "2025-07-12T06:44:09.888Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, jalapeno cream cheese.",
+      "timestamp": "2025-07-12T06:44:09.657Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like one of the cream cheeses",
+      "timestamp": "2025-07-12T06:44:09.658Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And, one butter butter.",
+      "timestamp": "2025-07-12T06:44:09.658Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T06:44:09.658Z] assistant: You'd like Jalapeño Cream Cheese as one of your cream cheeses, and Butter as the second one. \n\nNow, let's move on to the muffins. You get to choose 4 muffins with your Breakfast Bundle. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which 4 muffins would you like?",
+      "timestamp": "2025-07-12T06:44:09.888Z"
+    }
+  ]
+}

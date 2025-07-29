@@ -1,0 +1,69 @@
+{
+  "callId": "686e7ffdd14f3abcfb385229",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T14:43:09.713Z",
+    "callEnded": "2025-07-09T14:44:03.251Z",
+    "duration": 49,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer briefly inquired about available beverages and then ended the call."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T14:44:02.919Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order, Diet Coke.",
+      "timestamp": "2025-07-09T14:44:02.920Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay we have Diet Coke available Would you like to choose a size for your Diet Coke? We have twelve ounce cans.",
+      "timestamp": "2025-07-09T14:44:02.922Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-09T14:44:02.922Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello again! How can I assist you today?",
+      "timestamp": "2025-07-09T14:44:02.923Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do we have apple juice?",
+      "timestamp": "2025-07-09T14:44:02.924Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We do have apple juice available Would you like to choose a size? We have eleven ounce options.",
+      "timestamp": "2025-07-09T14:44:02.924Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me one second.",
+      "timestamp": "2025-07-09T14:44:02.924Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing take your time.",
+      "timestamp": "2025-07-09T14:44:02.924Z"
+    }
+  ]
+}

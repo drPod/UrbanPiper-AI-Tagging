@@ -1,0 +1,201 @@
+{
+  "callId": "687a6197a1698f75072eee28",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T15:00:39.325Z",
+    "callEnded": "2025-07-18T15:03:35.527Z",
+    "duration": 174,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin placed an order for a Hash Brown at Manhattan Bagel, which was successfully submitted and confirmed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T15:03:35.096Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey, BagelBot. I want to order, class original classic sandwich.",
+      "timestamp": "2025-07-18T15:03:35.096Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but our Original Classic is currently out of stock today. Instead, I can offer you our Spinach Bacon Croissant, Farmhouse Egg Sandwich, or Big Breakfast Burrito. Which would you prefer?",
+      "timestamp": "2025-07-18T15:03:35.096Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get hash brown now?",
+      "timestamp": "2025-07-18T15:03:35.096Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Hash Brown on the menu, just confirming it's available. I'll add the Hash Brown for you. Would you like to customize it or is that all for now?",
+      "timestamp": "2025-07-18T15:03:35.097Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And that's for all for now.",
+      "timestamp": "2025-07-18T15:03:35.097Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:03:35.097Z] assistant: Just a moment while I add that up... \n\n",
+      "timestamp": "2025-07-18T15:03:35.527Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:03:35.098Z] assistant: Your complete order total comes to 2 dollars and 19 cents including tax. \n\nPerfect, let me get that all put together for you\n\n",
+      "timestamp": "2025-07-18T15:03:35.527Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-18T15:03:35.098Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-18T15:03:35.098Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. All good.",
+      "timestamp": "2025-07-18T15:03:35.099Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-18T15:03:35.099Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-18T15:03:35.099Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:03:35.099Z] assistant: Great. Placing that for you now, please hold on...\n\n",
+      "timestamp": "2025-07-18T15:03:35.527Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 715605. That's 7, 1, 5, 6, 0, 5.\", 'order_id': '715605', 'call_id': 'a659567b-e4ea-44d5-a71d-97a5fd8d87af', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981e0e-5c1d-2b29-f747-f17a5638ee4f'}",
+      "timestamp": "2025-07-18T15:03:35.154Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 7, 1, 5, 6, 0, 5. Your total is 2 dollars and 19 cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-18T15:03:35.155Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second, please.",
+      "timestamp": "2025-07-18T15:03:35.156Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll wait for a moment. Please go ahead when you're ready.",
+      "timestamp": "2025-07-18T15:03:35.156Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-18T15:03:35.156Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be 2 dollars and 19 cents, including tax.",
+      "timestamp": "2025-07-18T15:03:35.156Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-18T15:03:35.157Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Is there anything else I can",
+      "timestamp": "2025-07-18T15:03:35.157Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And,",
+      "timestamp": "2025-07-18T15:03:35.157Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Is there anything",
+      "timestamp": "2025-07-18T15:03:35.158Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-18T15:03:35.158Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and enjoy your Hash Brown!",
+      "timestamp": "2025-07-18T15:03:35.158Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-18T15:03:35.158Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome! It was a pleasure assisting you. Have a great day!",
+      "timestamp": "2025-07-18T15:03:35.159Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-07-18T15:03:35.159Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I'm not there. Can you please, hang up?",
+      "timestamp": "2025-07-18T15:03:35.159Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It was nice assisting you. Have a great day and enjoy your meal! *hangs up*",
+      "timestamp": "2025-07-18T15:03:35.159Z"
+    }
+  ]
+}

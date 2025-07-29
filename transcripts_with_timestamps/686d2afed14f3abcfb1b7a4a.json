@@ -1,0 +1,309 @@
+{
+  "callId": "686d2afed14f3abcfb1b7a4a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T14:28:14.867Z",
+    "callEnded": "2025-07-08T14:34:17.290Z",
+    "duration": 358,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "John placed an order for two chocolate chip breakfast bagels and a medium iced coffee with Vanilla Hazelnut Blend, almond milk, and vanilla syrup."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T14:34:15.428Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. My name is John, and I want to order, two breakfast beaver and one iced coffee.",
+      "timestamp": "2025-07-08T14:34:15.429Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, two breakfast bagels and one iced coffee. Let me start with the breakfast bagels. Would you like to hear the available customizations for them?",
+      "timestamp": "2025-07-08T14:34:15.429Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-08T14:34:15.429Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, let's start with the bagels. First, I'll need to choose a type for your breakfast bagels. We have a variety of options like Plain, Everything, Blueberry, Chocolate Chip, and more. Which type would you like for your first bagel?",
+      "timestamp": "2025-07-08T14:34:15.429Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "The chocolate chip.",
+      "timestamp": "2025-07-08T14:34:15.430Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, chocolate chip for the first bagel. Now, for the breakfast bagel, would you like to add any meat? We offer options like Bacon, Sausage, Ham, and more.",
+      "timestamp": "2025-07-08T14:34:15.430Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "The hand?",
+      "timestamp": "2025-07-08T14:34:15.430Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great choice, ham. Now, would you like to add any cheese to your breakfast bagel? We have American, Swiss, Cheddar, and other options available.",
+      "timestamp": "2025-07-08T14:34:15.430Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have strawberry?",
+      "timestamp": "2025-07-08T14:34:15.430Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see strawberry cheese on our menu. Our cheese options include American, Swiss, Cheddar, Muenster",
+      "timestamp": "2025-07-08T14:34:15.430Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Add American.",
+      "timestamp": "2025-07-08T14:34:15.430Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, American cheese it is. Now, would you like your bagel toasted? You can choose from Toasted, Lightly Toasted, Toasted Dark, or No Toast.",
+      "timestamp": "2025-07-08T14:34:15.431Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And the lightly toasted.",
+      "timestamp": "2025-07-08T14:34:15.431Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Lightly toasted, perfect. Now, would you like to add any condiments to your breakfast bagel? We have options like Ketchup, Mayo, Mustard, and more.",
+      "timestamp": "2025-07-08T14:34:15.431Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sorry.",
+      "timestamp": "2025-07-08T14:34:15.436Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "No problem! For your breakfast bagel, would you like to add any condiments? We have Ketchup, Mayo",
+      "timestamp": "2025-07-08T14:34:15.436Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No.",
+      "timestamp": "2025-07-08T14:34:15.436Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Understood, no condiments for your first breakfast bagel. Now, would you like to add any vegetables to it? We have options like Lettuce, Tomato, and more.",
+      "timestamp": "2025-07-08T14:34:15.437Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Add lettuce, tomato, onion.",
+      "timestamp": "2025-07-08T14:34:15.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, adding lettuce, tomato, and onions to your first breakfast bagel. Now, moving on to your second breakfast bagel. Would you like the same type, or would you like to choose a different one?",
+      "timestamp": "2025-07-08T14:34:15.437Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "The same type.",
+      "timestamp": "2025-07-08T14:34:15.438Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, chocolate chip for the second bagel as well. Now, would you like to add meat to your second bagel? We have options like Bacon, Sausage, Ham, and more.",
+      "timestamp": "2025-07-08T14:34:15.438Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I want completely same two labels.",
+      "timestamp": "2025-07-08T14:34:15.438Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I'll make sure both breakfast bagels are the same—chocolate chip bagels with ham, American cheese, lightly toasted, and topped with lettuce, tomato, and onions. No condiments. Now, moving on to your iced",
+      "timestamp": "2025-07-08T14:34:15.438Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-08T14:34:15.438Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, let's start with the size for your iced coffee. We have Small 16 ounce, Medium 24 ounce, and Large 32 ounce. Which size would you like?",
+      "timestamp": "2025-07-08T14:34:15.439Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "The medium the medium one.",
+      "timestamp": "2025-07-08T14:34:15.439Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Medium it is, 24 ounces. Now, for your iced coffee, we have a few options like House Blend Coffee, Decaf Ice Coffee, and Vanilla Hazelnut Blend. Which one would you like?",
+      "timestamp": "2025-07-08T14:34:15.439Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "The third one.",
+      "timestamp": "2025-07-08T14:34:15.439Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, Vanilla Hazelnut Blend for your iced coffee. Now, would you like to add any milk to it? We offer Regular Milk, Half & Half, Skim, Almond, Oat, or Soy. Let me know your preference!",
+      "timestamp": "2025-07-08T14:34:15.439Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "In the all month.",
+      "timestamp": "2025-07-08T14:34:15.440Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Almond milk, perfect choice. Now, would you like to add any sweeteners or syrups to your iced coffee? We have options like Sugar, Vanilla Syrup, Caramel Syrup, and more.",
+      "timestamp": "2025-07-08T14:34:15.440Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And the one email?",
+      "timestamp": "2025-07-08T14:34:15.440Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Vanilla syrup it is. Now, would you like to add whipped cream to your iced coffee for an extra touch? It's an additional $0.75.",
+      "timestamp": "2025-07-08T14:34:15.440Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't want it.",
+      "timestamp": "2025-07-08T14:34:15.440Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Understood, no whipped cream. So, to recap, you have two chocolate chip breakfast bagels with ham, American cheese, lightly toasted, and topped with lettuce, tomato, and onions. And for your iced coffee, you've chosen a medium Vanilla Hazelnut Blend with almond milk and vanilla syrup. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:34:15.440Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is there any hot coffee also?",
+      "timestamp": "2025-07-08T14:34:15.441Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see hot coffee on our menu right now. We have iced coffee options available. Would you like to hear more about those or proceed with your current order?",
+      "timestamp": "2025-07-08T14:34:15.441Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Finalize this.",
+      "timestamp": "2025-07-08T14:34:15.441Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, so I have two chocolate chip breakfast bagels and a medium iced coffee with Vanilla Hazelnut Blend, almond milk, and vanilla syrup. Is that all for you today?",
+      "timestamp": "2025-07-08T14:34:15.441Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-08T14:34:15.441Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you.",
+      "timestamp": "2025-07-08T14:34:15.442Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-08T14:34:15.442Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 838605. That's 8, 3, 8, 6, 0, 5.\", 'order_id': '838605', 'call_id': '2ef9ac1d-21d6-45a4-81e2-a947c824725d', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197ea74-d250-f4d9-ea4b-d4827165f6b5'}",
+      "timestamp": "2025-07-08T14:34:15.442Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully! Your order number is eight, three, eight, six, zero, five. The total amount due is $27.98. That's twenty-seven dollars and ninety-eight cents. Thank you for your order, John!",
+      "timestamp": "2025-07-08T14:34:15.442Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Welcome.",
+      "timestamp": "2025-07-08T14:34:15.443Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome! If you need any help with your order or have any questions, feel free to ask. Enjoy your meal!",
+      "timestamp": "2025-07-08T14:34:15.443Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-08T14:34:15.443Z"
+    }
+  ]
+}

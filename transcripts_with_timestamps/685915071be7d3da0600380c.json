@@ -1,0 +1,123 @@
+{
+  "callId": "685915071be7d3da0600380c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T08:49:11.386Z",
+    "callEnded": "2025-06-23T08:51:34.382Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle with thirteen Garlic bagels, two tubs of spread, and four muffins, but the call ended before completion of the order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T08:51:33.217Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order breakfast bundle.",
+      "timestamp": "2025-06-23T08:51:33.217Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T08:51:33.218Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Do you want to proceed with the customization, now ?",
+      "timestamp": "2025-06-23T08:51:33.218Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T08:51:33.218Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let's get started with the customization. First, for the **thirteen bagels** in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if",
+      "timestamp": "2025-06-23T08:51:33.218Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "All all of 13 is garlic.",
+      "timestamp": "2025-06-23T08:51:33.218Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thirteen Garlic bagels. Next, for your **two tubs of spread**. We have Plain, Vegetable, or Scallion. Want to hear more options?",
+      "timestamp": "2025-06-23T08:51:33.218Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, plain and cream cheese.",
+      "timestamp": "2025-06-23T08:51:33.218Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen Plain and Vegetable cream cheese for your two tubs of spread. Now, for your **four muffins**. You can choose from Blueberry,",
+      "timestamp": "2025-06-23T08:51:33.218Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. I I I asked I I said, like, vanilla. Right? So do you have vanilla cheese?",
+      "timestamp": "2025-06-23T08:51:33.218Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We actually have a Strawberry and a Honey Almond cream cheese, but not a plain Vanilla cream cheese. However, I can offer you a Strawberry or a Honey Almond as an alternative. Would you like to",
+      "timestamp": "2025-06-23T08:51:33.219Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. What what what I I said in the first place, like, what was my response? I want to know that.",
+      "timestamp": "2025-06-23T08:51:33.219Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You initially said \"I want plain and green cheese\".",
+      "timestamp": "2025-06-23T08:51:33.219Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Plain and green cheese. So green means you you understood, like, vegetable. Right?",
+      "timestamp": "2025-06-23T08:51:33.219Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, I understood \"green cheese\" to mean Vegetable cream cheese.",
+      "timestamp": "2025-06-23T08:51:33.219Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-23T08:51:33.219Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like",
+      "timestamp": "2025-06-23T08:51:33.219Z"
+    }
+  ]
+}

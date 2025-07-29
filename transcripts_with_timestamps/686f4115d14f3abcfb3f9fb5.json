@@ -1,0 +1,33 @@
+{
+  "callId": "686f4115d14f3abcfb3f9fb5",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-10T04:27:01.950Z",
+    "callEnded": "2025-07-10T04:27:31.472Z",
+    "duration": 27,
+    "from": "+910000000000",
+    "to": "+910000000000",
+    "summary": "The customer inquired about Blueberry Cream Cheese, which is not available, and was provided with alternative options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-10T04:27:30.663Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey, BeagleBot. Do you have blueberry green cheese in your menu?",
+      "timestamp": "2025-07-10T04:27:30.663Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Blueberry Cream Cheese on our menu. However, we do have Plain Cream Cheese, Vegetable Cream Cheese, Strawberry, Honey Almond, and several other flavors.",
+      "timestamp": "2025-07-10T04:27:30.663Z"
+    }
+  ]
+}

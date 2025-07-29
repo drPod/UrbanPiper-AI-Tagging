@@ -1,0 +1,45 @@
+{
+  "callId": "685c0fd632ebb07e593dc916",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-25T15:03:50.390Z",
+    "callEnded": "2025-06-25T15:04:55.333Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The user expressed interest in ordering the Big Breakfast Burrito but did not proceed further."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-25T15:04:55.097Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'd like to order breakfast bundle.",
+      "timestamp": "2025-06-25T15:04:55.097Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it. The Big Breakfast Burrito is a hearty choice with bacon, sausage, scrambled eggs, salsa, jalapeño cream cheese, cheddar cheese, and a hash brown all wrapped up in a flour tortilla. Let me check the customization options for you",
+      "timestamp": "2025-06-25T15:04:55.098Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Oh, no. No. I I want I want the business bundle. Hello? Hello?",
+      "timestamp": "2025-06-25T15:04:55.098Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, got it.The Big Breakfast Burrito is a great choice. Let me go over the ",
+      "timestamp": "2025-06-25T15:04:55.098Z"
+    }
+  ]
+}

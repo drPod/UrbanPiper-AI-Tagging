@@ -1,0 +1,81 @@
+{
+  "callId": "6868230b45548bd51cdadf49",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-04T18:52:59.055Z",
+    "callEnded": "2025-07-04T18:54:33.254Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "Jitin ordered a hot chocolate from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-04T18:54:32.883Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hard copy.",
+      "timestamp": "2025-07-04T18:54:32.884Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see hard copy on our menu. Let me share some options: HOT Coffee or Tea, Ice Coffee or Tea, or Cold Brew Iced Coffee. Would you like one of these or hear more options?",
+      "timestamp": "2025-07-04T18:54:32.884Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hot chocolate.",
+      "timestamp": "2025-07-04T18:54:32.884Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our hot chocolate is a rich and delicious treat. Would you like to hear about the customization options for your hot chocolate, such as size or specialty milk?",
+      "timestamp": "2025-07-04T18:54:32.884Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Yeah.",
+      "timestamp": "2025-07-04T18:54:32.884Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your hot chocolate, you can choose from two sizes: 16 ounces or 24 ounces. And for the milk, you can choose from our specialty milks. We have a few options: would you like to hear about them?",
+      "timestamp": "2025-07-04T18:54:32.884Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. Hot chocolate has only three sizes, twelve, sixteen, and 20.",
+      "timestamp": "2025-07-04T18:54:32.884Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So you'd like a hot chocolate. For the size, we have 12 ounces, 16 ounces, or 24 ounces. Which one of these sizes sounds good to you?",
+      "timestamp": "2025-07-04T18:54:32.884Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Why you were saying sixteen twenty four ounce only?",
+      "timestamp": "2025-07-04T18:54:32.885Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I sometimes make mistakes. Our hot chocolate actually comes in 12 ounces, 16 ounces, and 24 ounces. I should have given you all the options from the start. So,",
+      "timestamp": "2025-07-04T18:54:32.885Z"
+    }
+  ]
+}

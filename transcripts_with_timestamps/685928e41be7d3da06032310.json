@@ -1,0 +1,87 @@
+{
+  "callId": "685928e41be7d3da06032310",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T10:13:56.110Z",
+    "callEnded": "2025-06-23T10:15:31.102Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle with thirteen Butter bagels and discussed customization options for the spread and other items."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T10:15:30.886Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order, breakfast bundle.",
+      "timestamp": "2025-06-23T10:15:30.886Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, great choice. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T10:15:30.886Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I have all the customization options for you. Do you want to proceed with the customization now?",
+      "timestamp": "2025-06-23T10:15:30.886Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-06-23T10:15:30.886Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "First, for the",
+      "timestamp": "2025-06-23T10:15:30.886Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. Yes.",
+      "timestamp": "2025-06-23T10:15:30.886Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "First, for the **thirteen bagels** in your Bagel Dozen, popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.",
+      "timestamp": "2025-06-23T10:15:30.886Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, yeah, I want 13 to be scallion bagel.",
+      "timestamp": "2025-06-23T10:15:30.887Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thirteen Scallion bagels. Next, for your **two tubs of spread**, we have Plain, Vegetable, or Scallion. Want to hear more options?",
+      "timestamp": "2025-06-23T10:15:30.887Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "But okay. Can you please update 13 to be butter bagel?",
+      "timestamp": "2025-06-23T10:15:30.887Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thirteen Butter bagels. Now, for your **two tubs of spread**, we have Plain, Vegetable, or Scallion. Want to hear more options?",
+      "timestamp": "2025-06-23T10:15:30.887Z"
+    }
+  ]
+}

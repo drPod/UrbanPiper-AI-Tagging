@@ -1,0 +1,45 @@
+{
+  "callId": "686d1c7fd14f3abcfb193bde",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T13:26:23.642Z",
+    "callEnded": "2025-07-08T13:27:07.595Z",
+    "duration": 41,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin inquired about the Breakfast Bundle and the number of bagels included."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T13:27:07.419Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle.",
+      "timestamp": "2025-07-08T13:27:07.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, the Breakfast Bundle is a great choice. Let me get that started for you. First, I need to know which bagels you'd like in your dozen. We have options like Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, and more. Would you like to hear some of the options or choose from these?",
+      "timestamp": "2025-07-08T13:27:07.420Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And how many vehicles I can select?",
+      "timestamp": "2025-07-08T13:27:07.420Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle includes 13 bagels. You can choose from a variety of options like Plain, Everything, Blueberry,",
+      "timestamp": "2025-07-08T13:27:07.420Z"
+    }
+  ]
+}

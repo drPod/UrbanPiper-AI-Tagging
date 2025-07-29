@@ -1,0 +1,45 @@
+{
+  "callId": "687a58dba1698f75072d2239",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T14:23:23.544Z",
+    "callEnded": "2025-07-18T14:24:19.084Z",
+    "duration": 46,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer attempted to order pastry but it was out of stock."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T14:24:18.834Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order pastry.",
+      "timestamp": "2025-07-18T14:24:18.834Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T14:24:18.835Z] assistant: That will be our Pastry on the menu, just confirming it's available. Now, let me check the availability. \n\nWe have a variety of pastries to choose from. I have Blueberry Lemon Loaf, Brownie, Chocolate Croissant, Crumb Cake, and Fruity Rice Crispy Bar. Which one would you like?",
+      "timestamp": "2025-07-18T14:24:19.084Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Paste tree is there or not. Like, I don't see it's there. Correct me.",
+      "timestamp": "2025-07-18T14:24:18.835Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. I've checked our menu, and it seems that Pastry is currently out of stock. I apologize for the inconvenience. Instead, I can offer",
+      "timestamp": "2025-07-18T14:24:18.835Z"
+    }
+  ]
+}

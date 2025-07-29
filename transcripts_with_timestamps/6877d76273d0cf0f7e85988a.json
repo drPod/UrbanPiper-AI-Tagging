@@ -1,0 +1,195 @@
+{
+  "callId": "6877d76273d0cf0f7e85988a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T16:46:26.508Z",
+    "callEnded": "2025-07-16T16:51:22.507Z",
+    "duration": 293,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin placed an order for a Breakfast Bundle from Manhattan Bagel with specific bagel, cream cheese, and muffin selections, which was successfully submitted and confirmed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T16:51:22.043Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. Can you give me a breakfast bundle?",
+      "timestamp": "2025-07-16T16:51:22.044Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle includes 13 assorted bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. Would you like to customize your bagel selection or go with our assorted mix?",
+      "timestamp": "2025-07-16T16:51:22.044Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I'll give you the, bagel choices. So I want seven, plain and the two as, everything, five as vanilla, and one as blueberry.",
+      "timestamp": "2025-07-16T16:51:22.044Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you'd like 7 Plain, 2 Everything, 5 Vanilla, and 1 Blueberry bagel. That's a total of 15 bagels, but the bundle comes with 13. Would you like to adjust your selection to fit the 13-bagel limit, or would you like to add 2 more bagels to your order for an additional cost?",
+      "timestamp": "2025-07-16T16:51:22.044Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you repeat to yourself? I lost you in between.",
+      "timestamp": "2025-07-16T16:51:22.044Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:51:22.046Z] assistant: Let me start again. You wanted to order a Breakfast Bundle, which includes 13 assorted bagels, 2 tubs of cream cheese, 4 muffins, and a box of coffee. For the bagels, you chose 7 Plain, 2 Everything, 5 Vanilla, and 1 Blueberry. However, that's a total of 15 bagels, and the bundle only comes with 13. \n\nTo fix this, you could either remove 2 bagels from your selection or add 2 more bagels to your order for an extra cost. Which would you prefer?",
+      "timestamp": "2025-07-16T16:51:22.507Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I said five sesame seven, sorry. Five sesame, three, everything, two vanilla, and the rest can be blueberry.",
+      "timestamp": "2025-07-16T16:51:22.047Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:51:22.047Z] assistant: Let's get your Breakfast Bundle order just right. You'd like 5 Sesame, 3 Everything, 2 Vanilla, and the remaining 3 bagels to be Blueberry. That's a total of 13 bagels. \n\nNext, for the 2 tubs of cream cheese, would you like to choose from our available flavors, such as Plain, Vegetable, or Scallion?",
+      "timestamp": "2025-07-16T16:51:22.507Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Blueberry and strawberry.",
+      "timestamp": "2025-07-16T16:51:22.047Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:51:22.047Z] assistant: For the 2 tubs of cream cheese, you'd like 1 Blueberry and 1 Strawberry. \n\nNow, let's move on to the muffins. You get to choose 4 muffins. We have Blueberry, Double Chocolate, Cinnamon Chip, and Cranberry Orange. Which 4 muffins would you like?",
+      "timestamp": "2025-07-16T16:51:22.507Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Muffins, like, four as chocolate chip.",
+      "timestamp": "2025-07-16T16:51:22.047Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:51:22.048Z] assistant: You'd like all 4 muffins to be Chocolate Chip.\n\nNow, let's review your Breakfast Bundle order: \n\n* 13 bagels: 5 Sesame, 3 Everything, 2 Vanilla, and 3 Blueberry\n* 2 tubs of cream cheese: 1 Blueberry and 1 Strawberry\n* 4 muffins: all 4 are Chocolate Chip\n\nFinally, would you like to add a box of coffee to your order? We have House Blend, Decaf, Vanilla Hazelnut, Dark Roast, or Autumn Roast.",
+      "timestamp": "2025-07-16T16:51:22.507Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Just, Adam Loast is good.",
+      "timestamp": "2025-07-16T16:51:22.048Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:51:22.048Z] assistant: For the Breakfast Bundle, you've chosen:\n\n* 13 bagels: 5 Sesame, 3 Everything, 2 Vanilla, and 3 Blueberry\n* 2 tubs of cream cheese: 1 Blueberry and 1 Strawberry\n* 4 muffins: all 4 are Chocolate Chip\n* Box of coffee: Dark Roast\n\nLet me just calculate the total for you. \n\n",
+      "timestamp": "2025-07-16T16:51:22.507Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:51:22.048Z] assistant: Your Breakfast Bundle order comes out to be $32.98, including tax. \n\nLet me just put this order together for you. \n\n",
+      "timestamp": "2025-07-16T16:51:22.507Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-16T16:51:22.050Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-16T16:51:22.050Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have any.",
+      "timestamp": "2025-07-16T16:51:22.050Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-16T16:51:22.050Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't want that.",
+      "timestamp": "2025-07-16T16:51:22.050Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:51:22.050Z] assistant: Great. Placing that for you now, please hold on...\n\n",
+      "timestamp": "2025-07-16T16:51:22.507Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 345536. That's 3, 4, 5, 5, 3, 6.\", 'order_id': '345536', 'call_id': '481027de-ebde-4837-b2f8-689cbb26422e', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981425-04ef-2f08-cc46-524d9647188b'}",
+      "timestamp": "2025-07-16T16:51:22.050Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 3, 4, 5, 5, 3, 6. Your total is thirty-two dollars and ninety-eight cents, including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-16T16:51:22.050Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. All good. Thank you.",
+      "timestamp": "2025-07-16T16:51:22.050Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Jitin. It was a pleasure helping you with your order. If you have any other questions or need assistance in the future, don't hesitate to reach out. Have a great day and enjoy your Breakfast Bundle!",
+      "timestamp": "2025-07-16T16:51:22.051Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-16T16:51:22.051Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome. Have a great day and we'll see you next time at Manhattan Bagel. Bye for now.",
+      "timestamp": "2025-07-16T16:51:22.051Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Beh",
+      "timestamp": "2025-07-16T16:51:22.051Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Is there something",
+      "timestamp": "2025-07-16T16:51:22.051Z"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "callId": "686dd04fd14f3abcfb262f45",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T02:13:35.036Z",
+    "callEnded": "2025-07-09T02:16:59.407Z",
+    "duration": 202,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer ordered an Avocado BLT Sandwich and a Chicken Cuban Sandwich with specific customizations."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T02:16:59.056Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Let me get my usual, avocado with the sandwich and a sour mango. Let's do toast it back and add jalapenos, spinach, stolon, cheese, mustard, hot sauces. Let me think of double lunch protein and have lettuce on the side.",
+      "timestamp": "2025-07-09T02:16:59.056Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one Avocado Bagel Sandwich. Let me go through the customizations for that. First, I need to confirm the bagel choice. You mentioned Asiago—let me",
+      "timestamp": "2025-07-09T02:16:59.056Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I I said I said I've got a BLD sandwich.",
+      "timestamp": "2025-07-09T02:16:59.056Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're absolutely right, let me fix that. Avocado Bagel Sandwich. Now, ",
+      "timestamp": "2025-07-09T02:16:59.056Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "BLT sandwich. Avocado BLT sandwich.",
+      "timestamp": "2025-07-09T02:16:59.056Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, Avocado BLT Sandwich. Let me confirm the bagel choice. You mentioned Asiago—let me check that for you.",
+      "timestamp": "2025-07-09T02:16:59.056Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Hello?",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, I'm here! Let's get your Avocado BLT Sandwich started. First, I need to confirm the bagel choice. You mentioned Asiago—let me check that for you.",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Where are you checking?",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm checking our menu to confirm the bagel choice you mentioned—Asiago. Let me make sure that's available for your Avocado BLT Sandwich. One moment...",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "All done?",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, Asiago is available for your bagel. Now, for the lunch bread choice, you mentioned \"Avocado BLT Sandwich\"—is that correct, or would you like to adjust anything else?",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Now that's it.",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great! The bagel is set to Asiago. Now, let's move to the next step. Would you like to add any cheese to your sandwich? Our options include American, Swiss, Cheddar, Provolone, Muenster, or Pepper Jack. ",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I said Prolong.",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, Provolone cheese is added. Now, would you",
+      "timestamp": "2025-07-09T02:16:59.057Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can I can I have the chicken cube one?",
+      "timestamp": "2025-07-09T02:16:59.058Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! The Chicken Cuban Sandwich is available. Let me go ahead and add that to your order. For the Chicken ",
+      "timestamp": "2025-07-09T02:16:59.058Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "With extra cheese and pickle.",
+      "timestamp": "2025-07-09T02:16:59.058Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, extra cheese and pickles are added to your Chicken Cuban Sandwich. Would you like to choose a side for that sandwich? We have chips or cole slaw available.",
+      "timestamp": "2025-07-09T02:16:59.058Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-09T02:16:59.058Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Understood, no side for the Chicken Cuban Sandwich. Now, let's go back to your Avocado BLT Sandwich. You mentioned \"toasted dark\"—I've set that for you. Would you like to add any additional lunch veggies? We have lettuce, tomato, onion, spinach, cucumber, green peppers, roasted red peppers, grilled yellow onions, jalapeño peppers, and capers available.",
+      "timestamp": "2025-07-09T02:16:59.058Z"
+    }
+  ]
+}

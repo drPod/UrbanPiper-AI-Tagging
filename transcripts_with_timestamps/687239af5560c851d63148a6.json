@@ -1,0 +1,153 @@
+{
+  "callId": "687239af5560c851d63148a6",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T10:32:15.163Z",
+    "callEnded": "2025-07-12T10:35:56.989Z",
+    "duration": 217,
+    "from": "+910000000000",
+    "to": "+910000000000",
+    "summary": "The customer ordered a Manhattan Cheesesteak Sandwich with Lays Chips and a toasted dark long roll."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order a Ricardo BLT sandwich.",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Avocado BLT Sandwich sounds delicious. I don't see Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Work out of BLT sandwich.",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Avocado BLT sandwich on our menu. However, we do have the Avocado BLT Sandwich, which is a Turkey-Bacon, avocado, lettuce, tomato, and roasted tomato spread on a thintastic bagel. Would you like to try that?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I am also just saying the same. What are the difference between my word and your word?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Upon re-examining our conversation, I realized that I should have acknowledged the Avocado BLT Sandwich from the start. You initially said \"Avocado BLT Sandwich\" and I should have recognized it as a valid menu item. Instead, I incorrectly stated that it wasn't on the menu. To correct this, let's start fresh. You would like to order the Avocado BLT Sandwich, which is a Turkey-Bacon, avocado, lettuce, tomato,",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I want to I want to order, Manhattan cheese steak sandwich.",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Manhattan Cheesesteak Sandwich is a great choice. It comes with grilled steak, roasted peppers, grilled onions, and cheese on a long roll. You'll need to pick just one side for your sandwich. We have Chips, Cole Slaw, or Lays Chips for one dollar extra. Which would you prefer?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Laced chips.",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'll get the Manhattan Cheesesteak Sandwich with Chips as your side. ",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I said Lees Lees chips.",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You said \"Lays Chips\". I'll make sure to get that right. So, to confirm, you'd like the Manhattan Cheesesteak Sandwich with Lays Chips as your side, correct?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'll need to pick just one option for the toast level of your long roll. We have Toasted, Lightly Toasted, Toasted Dark, or No Toasted. Which would you prefer?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Toasted duck.",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like your long roll to be Toasted Dark. Now, you have the option to add extra cheese or double the lunch protein. You can add Extra Cheese for one forty-nine, or Double Lunch Protein for four ninety-nine. Would you like to add either of these options?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're all set with the Manhattan Cheesesteak Sandwich, with Lays Chips as your side, and your long roll toasted dark. Is there anything else you'd like to order today?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll get your Manhattan Cheesesteak Sandwich ready. Just to confirm, your order is a Manhattan Cheesesteak Sandwich with Lays Chips and a toasted dark long roll. I'll let you know the total. Your total comes out to be $12.48. We'll have your order ready for pickup in about 15 minutes. Would you like to pay with card or cash today?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is the total price?",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me calculate the total price for you. The Manhattan Cheesesteak Sandwich is $10.49, and you added Lays Chips for $1.00. With the toasted dark long roll, your total comes out to be $11.49.",
+      "timestamp": "2025-07-12T10:35:54.863Z"
+    }
+  ]
+}

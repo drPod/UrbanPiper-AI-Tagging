@@ -1,0 +1,141 @@
+{
+  "callId": "68570bb71be7d3da06d9089c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T19:44:55.328Z",
+    "callEnded": "2025-06-21T19:47:16.812Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin placed an order for a medium hot tea with oat milk at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T19:47:16.518Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I want to order a hot tea.",
+      "timestamp": "2025-06-21T19:47:16.518Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The hot tea, excellent choice. Let me get the options for your tea... ",
+      "timestamp": "2025-06-21T19:47:16.518Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your hot tea, we have several options. Let's start with the size. You can choose from Small 12oz, Medium 16oz, Large 20oz, or X Large 24oz. Which size would you prefer?",
+      "timestamp": "2025-06-21T19:47:16.519Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size.",
+      "timestamp": "2025-06-21T19:47:16.519Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the medium size, that's a 16oz. Now, let's talk about the roast. We have House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, or Tea. Which one sounds good to you?",
+      "timestamp": "2025-06-21T19:47:16.520Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Just t.",
+      "timestamp": "2025-06-21T19:47:16.520Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So you'd like just the Tea option, which is our Lipton Black Tea. Next, would you like any milk in your tea? We have Regular Milk, Half & Half, Skim, Almond, Oat Milk, or Soy. Which one would you prefer?",
+      "timestamp": "2025-06-21T19:47:16.520Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Oat milk.",
+      "timestamp": "2025-06-21T19:47:16.520Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Oat milk is a greatchoice. Now, would you like to add any sweetener or syrup to your tea? We have options like Sugar, Sweet",
+      "timestamp": "2025-06-21T19:47:16.521Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-21T19:47:16.521Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-21T19:47:16.521Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $5.28",
+      "timestamp": "2025-06-21T19:47:16.522Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the hot tea to your order. Your total comes out to be $5.28. Would you like to order anything else?",
+      "timestamp": "2025-06-21T19:47:16.522Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-06-21T19:47:16.522Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-21T19:47:16.523Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'result': \"Order placed successfully! Your order number is 465367. That's 4, 6, 5, 3, 6, 7. Total: $5.81 (subtotal 5.28 dollars plus 0.53 dollars tax). Thank you for your order!\", 'responseType': 'tool-response', 'success': True, 'orderNumber': '465367', 'orderTotal': 5.8100000000000005, 'itemCount': 1, 'customer': 'Jitin', 'orderSummary': {'orderNumber': '465367', 'callId': '6f13576b-8686-4c10-8b70-2498b613a6b8', 'tenantName': 'manhattan_bagel_864915', 'storeId': '1', 'customer': {'name': 'Jitin', 'contact_number': '949862707', 'country_code': '+918', 'customer_email': 'noemail@example.com', 'full_address': 'Pickup Order - No Address Required', 'locality': 'Restaurant Location', 'payment_method_preference': 'cash', 'preferred_time_for_delivery_pickup': 'pickup'}, 'items': [{'item_name': 'HOT Coffee or Tea', 'ref_id': 'itm_2cf855ff-f641-49c4-8470-63e8e4233fec', 'quantity': 1, 'base_price': 1.99, 'modifier_groups': [{'group_title': 'Size', 'option_title': 'Medium 16oz', 'price': 2.49, 'quantity': 1, 'group_ref_id': 'mg1409627', 'option_ref_id': '5709632'}, {'group_title': 'Tea Choice', 'option_title': 'Lipton Black Tea', 'price': 0, 'quantity': 1, 'group_ref_id': 'mg1409579', 'option_ref_id': '5709402'}, {'group_title': 'Milk Choice', 'option_title': 'Oat Milk', 'price': 0.8, 'quantity': 1, 'group_ref_id': 'mg1409577', 'option_ref_id': '5709385'}], 'item_total_price': 5.28, 'category': 'Beverages', 'description': '', 'food_type': '1', 'taxes': [], 'added_at': '2025-06-21T19:46:24.714Z'}], 'itemCount': 1, 'subtotal': 5.28, 'specialInstructions': '', 'placedAt': '2025-06-21T19:46:40.261Z'}, 'externalApiResponse': {'status': 'success', 'message': 'Order processed', 'order_request_id': '67555609-80b8-4fcb-a989-6772515aeba6', 'order_total_price': 5.8100000000000005, 'total_tax_applied': 0.53}, 'externalApiSubmitted': True}",
+      "timestamp": "2025-06-21T19:47:16.523Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin, your order is placed! Your order number is 465367. That's 4, 6, 5, 3, 6, 7. Your total comes out to be $5.81, which includes a subtotal of $5.28 and $0.53 in tax. We'll have that ready for you shortly!",
+      "timestamp": "2025-06-21T19:47:16.524Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Thank you.",
+      "timestamp": "2025-06-21T19:47:16.524Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Jitin. It was a pleasure helping you with your order. Have a great day and we'll see you soon at Manhattan Bagel! ",
+      "timestamp": "2025-06-21T19:47:16.524Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-21T19:47:16.525Z"
+    }
+  ]
+}

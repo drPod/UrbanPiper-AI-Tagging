@@ -1,0 +1,69 @@
+{
+  "callId": "6877ceb573d0cf0f7e842820",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T16:09:25.506Z",
+    "callEnded": "2025-07-16T16:11:01.683Z",
+    "duration": 93,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a Breakfast Bundle from Manhattan Bagel, selecting 10 plain, 2 blueberry, and 3 vanilla hazelnut bagels, along with blueberry and strawberry cream cheese and four muffins to be chosen."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T16:11:01.311Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you give me because wonder, please?",
+      "timestamp": "2025-07-16T16:11:01.312Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Wonder is a great choice. It comes with scrambled eggs, bacon, sausage, ham, and cheddar cheese on a toasted everything bagel. Would you like to add any",
+      "timestamp": "2025-07-16T16:11:01.312Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I said I I said this breakfast bundle.",
+      "timestamp": "2025-07-16T16:11:01.312Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:11:01.313Z] assistant: The Breakfast Bundle is a great option. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. \n\nFor the bagels, I have Plain, Everything, Sesame, and Blueberry. Would you like one of these or hear more options?",
+      "timestamp": "2025-07-16T16:11:01.683Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Go ahead with the 50 sorry. 10 plain, two blueberry, and three vanilla.",
+      "timestamp": "2025-07-16T16:11:01.313Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:11:01.313Z] assistant: For the bagels, you'd like 10 Plain, 2 Blueberry, and I'll note that we don't have a Vanilla bagel, but we do have a Vanilla Hazelnut flavor, would you like to substitute that for the 3 Vanilla bagels you mentioned?\n\nNext, for the cream cheese, I have Plain, Vegetable, Scallion, and Strawberry. Which two flavors would you like?",
+      "timestamp": "2025-07-16T16:11:01.683Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So I need, blueberry and, strawberry.",
+      "timestamp": "2025-07-16T16:11:01.314Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T16:11:01.314Z] assistant: For the cream cheese, you'd like Blueberry and Strawberry. \n\nNext, for the muffins, I have Blueberry, Double Chocolate, Cinnamon Chip, and Cranberry Orange. Which four muffins would you like?",
+      "timestamp": "2025-07-16T16:11:01.683Z"
+    }
+  ]
+}

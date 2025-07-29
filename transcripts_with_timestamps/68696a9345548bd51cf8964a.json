@@ -1,0 +1,45 @@
+{
+  "callId": "68696a9345548bd51cf8964a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-05T18:10:27.218Z",
+    "callEnded": "2025-07-05T18:11:07.732Z",
+    "duration": 38,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "Jitin inquired about the Breakfast Bundle and its price at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-05T18:11:07.499Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-05T18:11:07.499Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great choice. First, we'll need to choose the thirteen bagels for it. Let's start with some classics. We have Plain, Everything, Sesame, and Cinnamon Raisin. Would you like any of these, or should I list more options?",
+      "timestamp": "2025-07-05T18:11:07.499Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "For the price?",
+      "timestamp": "2025-07-05T18:11:07.500Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The price for the Breakfast Bundle is thirty nine dollars and ninety eight cents. Now let's get back to choosing those thirteen bagels.",
+      "timestamp": "2025-07-05T18:11:07.500Z"
+    }
+  ]
+}

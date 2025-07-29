@@ -1,0 +1,87 @@
+{
+  "callId": "6855a49f1be7d3da06ba2fb9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T18:12:47.292Z",
+    "callEnded": "2025-06-20T18:13:51.238Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The call ended due to technical difficulties as the agent was unable to find the customer's requested item, a hot latte, through the search tool."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T18:13:51.029Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-20T18:13:51.029Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, I can hear you just fine, Gaurav. How can I assist you with your order today?",
+      "timestamp": "2025-06-20T18:13:51.029Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is, what is the can you can you get me hot latte?",
+      "timestamp": "2025-06-20T18:13:51.029Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can definitely help you with that, Gaurav. Let me check on the hot latte for you. ",
+      "timestamp": "2025-06-20T18:13:51.030Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-20T18:13:51.030Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I couldn't find the hot latte. Let me try searching for just \"latte\" to see what options we have. ",
+      "timestamp": "2025-06-20T18:13:51.030Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-20T18:13:51.030Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm having a bit of trouble finding the latte. Let me try one more time with a broader search. ",
+      "timestamp": "2025-06-20T18:13:51.030Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-20T18:13:51.031Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the inconvenience, Gaurav. I'm still having trouble finding the latte. Can you please give me a moment? ",
+      "timestamp": "2025-06-20T18:13:51.031Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-20T18:13:51.031Z"
+    }
+  ]
+}

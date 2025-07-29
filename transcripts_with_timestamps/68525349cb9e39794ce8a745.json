@@ -1,0 +1,195 @@
+{
+  "callId": "68525349cb9e39794ce8a745",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T05:48:57.099Z",
+    "callEnded": "2025-06-18T05:52:04.118Z",
+    "duration": 240,
+    "from": "+917827402632",
+    "to": "+16204558091",
+    "summary": "The customer, Ashish, placed an order for avocado toast and a medium lemonade at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Ashish, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T05:52:03.732Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Hey. I want to place an order. Can you help me out?",
+      "timestamp": "2025-06-18T05:52:03.732Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'd be happy to help you with your order, Ashish. What can I get for you today? Would you like to try one of our",
+      "timestamp": "2025-06-18T05:52:03.732Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T05:52:03.732Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me",
+      "timestamp": "2025-06-18T05:52:03.732Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T05:52:03.732Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have. ",
+      "timestamp": "2025-06-18T05:52:03.733Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few options related to eggs. We have an Egg on a Bagel for $3.99, Eggs and Omelettes for $4.99, or an Omelet Wrap for $8.99. Which one of these options sounds good to you, Ashish?",
+      "timestamp": "2025-06-18T05:52:03.733Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I'm not looking for anything in egg. Can you suggest me something in vegetarian options?",
+      "timestamp": "2025-06-18T05:52:03.733Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what vegetarian options we have. ",
+      "timestamp": "2025-06-18T05:52:03.733Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few vegetarian options for you, Ashish. We have an Avocado Veg Out for $9.49, a Garden Avocado Egg White Sandwich for $7.49, or a Protein Breakfast Wrap for $10.99. Which one of these options sounds good to you?",
+      "timestamp": "2025-06-18T05:52:03.733Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have avocado toast?",
+      "timestamp": "2025-06-18T05:52:03.734Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check on that for you. ",
+      "timestamp": "2025-06-18T05:52:03.734Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, we do have avocado toast. It's $6.99 and it comes with avocado and everything bagel seasoning on multigrain toast or any bagel. Would you like to customize it with a different bagel choice or add any condiments?",
+      "timestamp": "2025-06-18T05:52:03.735Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I just, take it as is. So can you please add avocado toast to my order?",
+      "timestamp": "2025-06-18T05:52:03.735Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll add the Avocado Toast to your order. ",
+      "timestamp": "2025-06-18T05:52:03.735Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current total is $6.99. Is there anything else you'd like to add to your order, Ashish?",
+      "timestamp": "2025-06-18T05:52:03.735Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I also have a medium lemonade?",
+      "timestamp": "2025-06-18T05:52:03.736Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check on that for you. ",
+      "timestamp": "2025-06-18T05:52:03.736Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a Medium Lemonade for $3.99. We have four flavors to choose from: Classic, Blackberry, Strawberry, and Mango. Which flavor would you like, Ashish?",
+      "timestamp": "2025-06-18T05:52:03.736Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Algo mit Plastik.",
+      "timestamp": "2025-06-18T05:52:03.736Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like to add a Medium Classic Lemonade to your order. I'll go ahead and add that for you. ",
+      "timestamp": "2025-06-18T05:52:03.736Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sure.",
+      "timestamp": "2025-06-18T05:52:03.737Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current total is $10.98. Is there anything else you'd like to add to your order, Ashish?",
+      "timestamp": "2025-06-18T05:52:03.737Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I'm good. Thank you so much.",
+      "timestamp": "2025-06-18T05:52:03.737Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Ashish. Before I place your order, I just need to confirm a few things. Your order is for pickup, correct? And you'd like to pay with ",
+      "timestamp": "2025-06-18T05:52:03.737Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. Yes.",
+      "timestamp": "2025-06-18T05:52:03.737Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll go ahead and place your order. ",
+      "timestamp": "2025-06-18T05:52:03.737Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 9-5-9-0-4-0. Your total comes out to be $12.08, which includes a subtotal of $10.98 and $1.10 in tax. We'll have your order ready for pickup. Thank you for choosing Manhattan Bagel, Ashish. Have a great day! ",
+      "timestamp": "2025-06-18T05:52:03.738Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-18T05:52:03.738Z"
+    }
+  ]
+}

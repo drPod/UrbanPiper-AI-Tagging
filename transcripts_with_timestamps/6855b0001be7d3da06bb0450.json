@@ -1,0 +1,63 @@
+{
+  "callId": "6855b0001be7d3da06bb0450",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T19:01:20.774Z",
+    "callEnded": "2025-06-20T19:01:58.120Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer, Gaurav, called Manhattan Bagel to order a hot latte but the agent was unable to find the item due to internal server errors."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T19:01:57.907Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get hot latte?",
+      "timestamp": "2025-06-20T19:01:57.907Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what I can find for you. ",
+      "timestamp": "2025-06-20T19:01:57.907Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-20T19:01:57.907Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I didn't find that exactly. Let me check our drinks menu. ",
+      "timestamp": "2025-06-20T19:01:57.907Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-20T19:01:57.907Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I didn't find that exactly. Let me check our coffee options. ",
+      "timestamp": "2025-06-20T19:01:57.907Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-20T19:01:57.908Z"
+    }
+  ]
+}

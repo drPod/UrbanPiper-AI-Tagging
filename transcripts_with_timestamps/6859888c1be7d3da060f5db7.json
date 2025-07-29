@@ -1,0 +1,195 @@
+{
+  "callId": "6859888c1be7d3da060f5db7",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T17:02:04.212Z",
+    "callEnded": "2025-06-23T17:07:45.352Z",
+    "duration": 360,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh attempted to place an order for a Breakfast Bundle with customizations and a box of House Blend coffee, but the order could not be placed due to technical issues."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T17:07:44.552Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I would like to order the breakfast one.",
+      "timestamp": "2025-06-23T17:07:44.552Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T17:07:44.552Z] assistant: The Breakfast Bundle, great choice. That's one of our popular options with 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get all the customization options for you. \n\nI will now fetch the options for the Breakfast Bundle. \n\n",
+      "timestamp": "2025-06-23T17:07:45.352Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have for the bagel dozen. For the Breakfast Bundle, you'll need to choose exactly 13 bagels. We have a variety of options, including Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like?",
+      "timestamp": "2025-06-23T17:07:44.552Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me two plain, two Asiago, two everything, two sesame.",
+      "timestamp": "2025-06-23T17:07:44.552Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the bagel dozen, I have noted down 2 Plain, 2 Asiago, 2 Everything, and 2 Sesame. That's 8 bagels so far. You still need to choose 5 more bagels to reach the total of 13. Which 5 additional bagels would you like?",
+      "timestamp": "2025-06-23T17:07:44.552Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me, three jalapeno and two California.",
+      "timestamp": "2025-06-23T17:07:44.552Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T17:07:44.552Z] assistant: For the bagel dozen, I now have 2 Plain, 2 Asiago, 2 Everything, 2 Sesame, 3 Jalapeño Cheddar, and 2 California. That completes your selection of 13 bagels.\n\nNext, let's move on to the Choose 2 Tubs of Spread. You need to select exactly 2 tubs of spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, and more. Which 2 tubs of spread would you like?",
+      "timestamp": "2025-06-23T17:07:45.352Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me give me plain cream cheese and strawberry cream cheese.",
+      "timestamp": "2025-06-23T17:07:44.552Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T17:07:44.553Z] assistant: For the Choose 2 Tubs of Spread, I have noted down 1 Plain Cream Cheese and 1 Strawberry Cream Cheese.\n\nNext, let's move on to the Choose 4 Muffins. You can choose between 1 to 4 muffins. We have options like Blueberry, Corn, Double Chocolate, and more. Which muffins would you like?",
+      "timestamp": "2025-06-23T17:07:45.352Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "You need three blueberries and two corn.",
+      "timestamp": "2025-06-23T17:07:44.553Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Choose 4 Muffins, I have noted down 3 Blueberry and 1 Corn, since you can choose up to 4 muffins and you've selected a total of 4 muffins. Next, let's move on to the Box of Coffee. This is an optional",
+      "timestamp": "2025-06-23T17:07:44.553Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Oh, actually, change it. Check check. Change to blueberries and two pound then.",
+      "timestamp": "2025-06-23T17:07:44.554Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Choose 4 Muffins, I have updated your selection to 2 Blueberry and 2 Corn. Next, let's move on to the Box of Coffee. This is an optional item, so you can choose up to 1 box of coffee or none at all. We have options like House Blend, Decaf, Vanilla Hazelnut, and more.",
+      "timestamp": "2025-06-23T17:07:44.554Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is there an extra is there an extra charge for the coffee?",
+      "timestamp": "2025-06-23T17:07:44.555Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, there is an extra charge for the coffee. Each box of coffee costs $24.99. So, if you choose to add a box of coffee to your Breakfast Bundle, it will be an additional $24.99 on top of the bundle's price. Would you like to add a box of coffee to your order?",
+      "timestamp": "2025-06-23T17:07:44.555Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T17:07:44.555Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes, please. Add a house blend.",
+      "timestamp": "2025-06-23T17:07:44.561Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T17:07:44.561Z] assistant: I've added a box of House Blend coffee to your order. That's an additional $24.99.\n\nNow, let me just confirm your entire order. You've chosen the Breakfast Bundle with 2 Plain bagels, 2 Asiago bagels, 2 Everything bagels, 2 Sesame bagels, 3 Jalapeño Cheddar bagels, and 2 California bagels. For the spreads, you've selected 1 Plain Cream Cheese and 1 Strawberry Cream Cheese. For the muffins, you've chosen 2 Blueberry and 2 Corn. And finally, you've added a box of House Blend coffee.\n\nBefore I place your order, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-06-23T17:07:45.352Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me can you tell me what is my total?",
+      "timestamp": "2025-06-23T17:07:44.561Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T17:07:44.561Z] assistant: Let me calculate your total.\n\nThe Breakfast Bundle is $29.99. You've added a box of House Blend coffee for $24.99. So, your subtotal is $29.99 + $24.99 = $54.98. \n\nI will now calculate tax on your subtotal. \n\n",
+      "timestamp": "2025-06-23T17:07:45.352Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool 'calculate_tax' does not exist",
+      "timestamp": "2025-06-23T17:07:44.577Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T17:07:44.577Z] assistant: I can't calculate the tax. Let me just place your order and you'll get the total then.\n\nAlright, let me get this order placed for you...\n\n",
+      "timestamp": "2025-06-23T17:07:45.352Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T17:07:44.577Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T17:07:44.577Z] assistant: I am sorry, but I am unable to place your order at this time. Let me try again.\n\nAlright, let me get this order placed for you...\n\n",
+      "timestamp": "2025-06-23T17:07:45.352Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T17:07:44.577Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I am with you. Can you place the order?",
+      "timestamp": "2025-06-23T17:07:44.577Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T17:07:44.577Z] assistant: Let me try to place your order again.\n\nAlright, let me get this order placed for you...\n\n",
+      "timestamp": "2025-06-23T17:07:45.352Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T17:07:44.577Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I am sorry, but I am unable to place your order at this time. Can I",
+      "timestamp": "2025-06-23T17:07:44.577Z"
+    }
+  ]
+}

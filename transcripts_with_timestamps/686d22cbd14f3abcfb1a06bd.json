@@ -1,0 +1,33 @@
+{
+  "callId": "686d22cbd14f3abcfb1a06bd",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T13:53:15.307Z",
+    "callEnded": "2025-07-08T13:53:54.600Z",
+    "duration": 37,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin placed an order for a breakfast bundle at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T13:53:54.393Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That was bundled.",
+      "timestamp": "2025-07-08T13:53:54.393Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one breakfast bundle. To get started, I need to know which bagels you'd like in the dozen. We have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast Bagel, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, and Honey Whole Wheat, Honey Whole Wheat Everything.",
+      "timestamp": "2025-07-08T13:53:54.393Z"
+    }
+  ]
+}

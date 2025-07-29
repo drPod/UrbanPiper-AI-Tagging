@@ -1,0 +1,171 @@
+{
+  "callId": "687298a55560c851d63ee9fa",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T17:17:25.908Z",
+    "callEnded": "2025-07-12T17:20:51.246Z",
+    "duration": 202,
+    "from": "918949862707",
+    "to": "918035740152",
+    "summary": "Jutin inquired about and ordered an Avocado BLT sandwich on a French Toast Bagel with Lays chips."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T17:20:50.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second, please.",
+      "timestamp": "2025-07-12T17:20:50.102Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Take your time, Jutin. I'm here when you're ready to order.",
+      "timestamp": "2025-07-12T17:20:50.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So",
+      "timestamp": "2025-07-12T17:20:50.102Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Go ahead, Jutin. What can I get for you today?",
+      "timestamp": "2025-07-12T17:20:50.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Just one second.",
+      "timestamp": "2025-07-12T17:20:50.102Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Take another second, Jutin. I'm here when you're ready.",
+      "timestamp": "2025-07-12T17:20:50.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-12T17:20:50.102Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello again, Jutin. Are you ready to place your order now?",
+      "timestamp": "2025-07-12T17:20:50.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "What would you like to order today, Jutin?",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to know. Do you have avocado BLT sandwich?",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We do have an Avocado BLT sandwich. It's made with turkey-bacon, avocado, lettuce, tomato, and roasted tomato spread on a thintastic bagel. Would you like to try that?",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Avocado BLT, you'll need to pick just one bread choice. We have Plain Bagel, Everything Bagel, Asiago Bagel, and many more. Which would you prefer?",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I prefer, which sorry. Do I have a choice of vehicle in that? Hello?",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Avocado BLT, you can choose from various bagels or even a different type of bread. Let me list some options for you: Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, and more. We also have a Gluten-Free Bagel option for an extra dollar. Which one sounds good to",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I want, I want, French toast bagel. Hello?",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, Jutin. The French Toast Bagel is a great choice for your Avocado BLT. Now, you'll need to pick just one lunch side. We have Chips, Cole Slaw, or Lays Chips for an extra dollar. Which would you like?",
+      "timestamp": "2025-07-12T17:20:50.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T17:20:50.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the lunch side, I'll put down Chips for you. Now, would you like to add",
+      "timestamp": "2025-07-12T17:20:50.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I said lease. I said lease sales.",
+      "timestamp": "2025-07-12T17:20:50.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You said \"Lays\" chips, not regular chips. I'll make sure to get that right. So, to confirm, you'd like the Avocado BLT on a French Toast Bagel with Lays chips as your side, correct?",
+      "timestamp": "2025-07-12T17:20:50.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T17:20:50.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I think there might be a bit of a language barrier here. Let me try to understand again. You want to know if we have a specific type of bagel, but I didn't quite catch what you said. Could you please",
+      "timestamp": "2025-07-12T17:20:50.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T17:20:50.104Z"
+    }
+  ]
+}

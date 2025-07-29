@@ -1,0 +1,21 @@
+{
+  "callId": "68714c255560c851d6230342",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-11T17:38:45.222Z",
+    "callEnded": "2025-07-11T17:38:55.682Z",
+    "duration": 9,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "John called Manhattan Bagel but did not place an order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-11T17:38:55.581Z"
+    }
+  ]
+}

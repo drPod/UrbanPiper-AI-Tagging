@@ -1,0 +1,45 @@
+{
+  "callId": "686cc9600245c817843afd0a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T07:31:44.270Z",
+    "callEnded": "2025-07-08T07:32:48.765Z",
+    "duration": 61,
+    "from": "+910000000000",
+    "to": "+910000000000",
+    "summary": "The customer inquired about ordering a Chicken Cuban and hot coffee, but the conversation was cut short due to a misunderstanding about the options available for the Chicken Cuban."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-08T07:32:48.016Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get chicken Cuban and, hot coffee?",
+      "timestamp": "2025-07-08T07:32:48.019Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Chicken Cuban, you'll need to pick just one bread for your sandwich. We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, and many more. Would you like one of these, or should I list more options?",
+      "timestamp": "2025-07-08T07:32:48.019Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Are you sure, like, in chicken Cuban, you I'm having your option of bagel type.",
+      "timestamp": "2025-07-08T07:32:48.019Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see bagel type as an option for the Chicken Cuban. Let me start again. For the Chicken Cuban, you can choose to have it toasted or not, and you can also add cheese or double the protein. Additionally, you'll need to pick a side, such as",
+      "timestamp": "2025-07-08T07:32:48.019Z"
+    }
+  ]
+}

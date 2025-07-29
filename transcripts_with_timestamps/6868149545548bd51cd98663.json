@@ -1,0 +1,81 @@
+{
+  "callId": "6868149545548bd51cd98663",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-04T17:51:17.611Z",
+    "callEnded": "2025-07-04T17:53:37.923Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "The customer inquired about the Manhattan Cheesesteak Sandwich and its customization options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-04T17:53:37.471Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I wanted to order, a manatee and cheese steak sandwich with the hot coffee.",
+      "timestamp": "2025-07-04T17:53:37.471Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it I can help with that The Manhattan Cheesesteak Sandwich is grilled steak roasted peppers grilled onions and cheese on a long roll Would you like to hear available customizations for this sandwich?",
+      "timestamp": "2025-07-04T17:53:37.471Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "E.no.no. Ya",
+      "timestamp": "2025-07-04T17:53:37.471Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright let me go through the available customizations for the Manhattan Cheesesteak Sandwich First we have the bread choice For the bread you can choose exactly one option The default is Multigrain Bread but you can also choose other bagel or bread options Let's start with some popular choices: Multigrain Bread, Asiago, Gluten Free, and Rye Would you like one of these or more options?",
+      "timestamp": "2025-07-04T17:53:37.472Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please tell me which item you are, you know, checking so that I can make it sure on the menu side?",
+      "timestamp": "2025-07-04T17:53:37.476Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm currently looking at the Manhattan Cheesesteak Sandwich on the Lunch section of our menu It's described as grilled ",
+      "timestamp": "2025-07-04T17:53:37.477Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Manhattan. Yeah. So what options I'm having?",
+      "timestamp": "2025-07-04T17:53:37.477Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the",
+      "timestamp": "2025-07-04T17:53:37.478Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Wordt alle opties. Ja, werk, sorry.",
+      "timestamp": "2025-07-04T17:53:37.478Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-04T17:53:37.478Z] assistant: For the Manhattan Cheesesteak Sandwich, here are the available customizations:\n\n1. **Bread Choice**: You can choose your preferred bread or bagel. The default is Multigrain Bread, but you can also select options like Asiago, Gluten Free, or Rye.\n\n2. **Cheese Choice**: The default cheese is American, but you can also choose Provolone or other cheeses available in our cheese list.\n\n3. **Add-ons and Preferences**: You can add extra toppings or condiments like extra cheese, veggies, or how you'd like the sandwich prepared.\n\nWould you like to start with the bread choice for your sandwich?",
+      "timestamp": "2025-07-04T17:53:37.923Z"
+    }
+  ]
+}

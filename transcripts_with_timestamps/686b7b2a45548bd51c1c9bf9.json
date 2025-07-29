@@ -1,0 +1,27 @@
+{
+  "callId": "686b7b2a45548bd51c1c9bf9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-07T07:45:46.681Z",
+    "callEnded": "2025-07-07T07:46:13.555Z",
+    "duration": 25,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-07T07:46:13.438Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Brickfast bundle.",
+      "timestamp": "2025-07-07T07:46:13.438Z"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "callId": "6859831a1be7d3da060ea0a5",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T16:38:50.052Z",
+    "callEnded": "2025-06-23T16:42:14.821Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin ordered an Avocado Toast on a Multigrain Bagel with Mustard, Tomato, Cucumber, Extra Grilled Chicken, and Lox, but the order placement failed due to an internal server error."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T16:42:14.459Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order avocado toast.",
+      "timestamp": "2025-06-23T16:42:14.459Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Avocado Toast, excellent choice. That's toasted multigrain bread with mashed avocado and everything bagel seasoning. Let me get the options for your avocado toast.",
+      "timestamp": "2025-06-23T16:42:14.460Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your avocado toast. I have all the customization options for you. To start, for the Bagel Choice, we have options like Plain, Everything, Asiago, and more. You need to choose exactly one. Which bagel would you like?",
+      "timestamp": "2025-06-23T16:42:14.460Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to use multigree.",
+      "timestamp": "2025-06-23T16:42:14.460Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T16:42:14.460Z] assistant: For the Avocado Toast, you've chosen the Multigrain Bagel. \n\nNext, let's move on to the Condiments. You can choose up to 10 condiments, and options include Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, Tomato Spread, Butter, Cream Cheese, Flavor CC, and Jelly. Which condiments would you like?",
+      "timestamp": "2025-06-23T16:42:14.821Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T16:42:14.461Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like to add Mustard as a condiment to your Avocado Toast. I've got that noted. Next, let's consider adding some vegetables. You can choose up to 11 options from Lettuce, Tomato, Red Onions, Avocado, Spinach, Cucumber, Green Peppers, Capers, Roasted",
+      "timestamp": "2025-06-23T16:42:14.461Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. You can add tomato and cucumber.",
+      "timestamp": "2025-06-23T16:42:14.461Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added Tomato and Cucumber to your Avocado Toast. Next, let's look at adding some Extra Breakfast Meat. You can choose up to 10 options from Extra Bacon, Extra Pork Roll, Extra Sausage, Extra Ham, Extra",
+      "timestamp": "2025-06-23T16:42:14.461Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "We can just add extra grilled chicken.",
+      "timestamp": "2025-06-23T16:42:14.461Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like to add Extra Grilled Chicken to your Avocado Toast. I've got that noted. Next, I'll ask about Lox. You can choose to add Lox if you'd like. Would you",
+      "timestamp": "2025-06-23T16:42:14.461Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "You can add the locks. Yeah. Please go ahead. Add it.",
+      "timestamp": "2025-06-23T16:42:14.462Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added the Lox to your Avocado Toast. Next, let's consider adding a Hard Boiled Egg. You can choose to add one if you'd like. Would you like to add a",
+      "timestamp": "2025-06-23T16:42:14.462Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't need that. It's no. No. I don't no. I don't I don't need that.",
+      "timestamp": "2025-06-23T16:42:14.462Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You don't need a Hard Boiled Egg. No problem. Lastly, I'll ask about adding an egg. You can choose to add 2 eggs, 2 egg whites, 4 eggs, or 4 egg whites if",
+      "timestamp": "2025-06-23T16:42:14.462Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. No. I don't need any anything else. No. No. No. I'm fine without that.",
+      "timestamp": "2025-06-23T16:42:14.462Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you. Your order is an Avocado Toast on a Multigrain Bagel with Mustard, Tomato, Cucumber, Extra Grilled Chicken, and Lox. I'll go ahead and place that for you now. ",
+      "timestamp": "2025-06-23T16:42:14.462Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T16:42:14.463Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize, but it seems like there was an error placing your order. Let me try again. ",
+      "timestamp": "2025-06-23T16:42:14.463Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-23T16:42:14.463Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It seems there's still an issue. Let ",
+      "timestamp": "2025-06-23T16:42:14.464Z"
+    }
+  ]
+}

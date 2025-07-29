@@ -1,0 +1,213 @@
+{
+  "callId": "68714c425560c851d62307cc",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-11T17:39:14.018Z",
+    "callEnded": "2025-07-11T17:43:10.442Z",
+    "duration": 228,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer placed a half dozen bagel order with three plain and three blueberry bagels."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-11T17:43:10.169Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order, half dozen bagel.",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it! For the Half Dozen Bagels, you'll need to pick exactly six bagels. Let's start with some popular ones - we have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, and Egg Everything. How many of each would you like, or should I list more options?",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So how many, bagels I can choose? Six. Right?",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Exactly! You'll need to choose exactly six bagels for your Half Dozen. Let's start with some popular ones - we have Plain, Everything,",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So can I choose different vehicles in six six in within the six?",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, absolutely! You can choose different types of bagels within the six. Let's start with some options - we have Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, and Egg Everything. How many of each would you like, or should I list more options?",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I think, for now, I'm good with the okay. So can I have six plain six blueberry and, sorry, three plain, six, blueberry?",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it! That's three Plain and three Blueberry for your Half Dozen. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it.",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you.",
+      "timestamp": "2025-07-11T17:43:10.170Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order?",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Why, what was taking your time?",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the delay, I was just confirming the details of your order. May I have your name for the order?",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. My name is Jiten.",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I I think, nothing to share about. But, yeah, you can, if, it will be great if I'm having couple of napkins in the order.",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, Jiten. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-11T17:43:10.171Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Not needed.",
+      "timestamp": "2025-07-11T17:43:10.172Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-11T17:43:10.172Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-11T17:43:10.172Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-11T17:43:10.172Z] assistant: Great. Placing that for you now, please hold on.  \n",
+      "timestamp": "2025-07-11T17:43:10.442Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 263560. That's 2, 6, 3, 5, 6, 0.\", 'order_id': '263560', 'call_id': '41dc13fd-f9c3-4056-8454-dd9cf5723a1b', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197fa94-7afe-7c38-6aac-a27109efb57c'}",
+      "timestamp": "2025-07-11T17:43:10.172Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now! The order number is 2, 6, 3, 5, 6, 0, and the total including taxes comes to $12.95. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist you with?",
+      "timestamp": "2025-07-11T17:43:10.172Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hold on, please. I want to I want to know about the price. How many pry what is the price?",
+      "timestamp": "2025-07-11T17:43:10.172Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The total price for your order, including taxes, is twelve dollars and ninety-five cents ($12.95). Let me know if you need any further assistance!",
+      "timestamp": "2025-07-11T17:43:10.172Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. And what was the order ID?",
+      "timestamp": "2025-07-11T17:43:10.173Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The order ID is 2, 6, 3, 5, 6, 0. Let me know if you need help with anything else!",
+      "timestamp": "2025-07-11T17:43:10.173Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you so much.",
+      "timestamp": "2025-07-11T17:43:10.173Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Jiten! Have a great day!",
+      "timestamp": "2025-07-11T17:43:10.173Z"
+    }
+  ]
+}

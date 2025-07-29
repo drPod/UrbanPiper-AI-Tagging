@@ -92,10 +92,14 @@ class TranscriptTagAnalyzer:
             * `customer_happy`: Apply when the customer expresses satisfaction, gratitude, or positive sentiment. This can be explicit ("Thanks, you've been great!") or implied by enthusiastic language.
             * `agent_upsell_success`: Apply when an agent's suggestion to add or upgrade an item is accepted by the customer.
 
+
             **2. Negative Customer Experience**
 
             * `customer_annoyed`: Apply when the customer's words indicate frustration, impatience, or irritation. This can be explicit or implied.
+            * `missed_answer`: Apply when the agent fails to answer a customer's question or address a request, leading to customer confusion or dissatisfaction.
+            * `customer_confused`: Apply when the customer expresses confusion or misunderstanding about the order, menu items, or agent's responses.
             * `order_correction_needed`: Apply when the customer has to correct an item, quantity, or customization after the agent has seemingly confirmed it.
+            * `customer_changed_mind`: Apply when a customer voluntarily changes their order after initially stating it, which is distinct from correcting an agent's mistake.
             * `item_unavailable`: Apply when a customer requests an item and is told it is out of stock or unavailable.
             * `human_requested`: Apply if the customer asks to speak to a person, manager, or human agent.
 
@@ -103,9 +107,18 @@ class TranscriptTagAnalyzer:
 
             * `frequent_repetitions`: Apply if the same piece of information (like an address or menu item) is repeated due to misunderstanding.
             * `technical_issue`: Apply if there is mention of a technical problem, such as a bad connection or difficulty hearing.
+            * `agent_interruptions`: Apply when the agent interrupts the customer or vice versa, leading to a disjointed conversation.
             * `agent_upsell_attempt`: Apply when the agent suggests an additional item (upsell or cross-sell), even if the customer declines. This helps track agent performance separately from the outcome.
             * `customer_menu_question`: Apply when a customer asks for more details about a menu item, such as its ingredients, preparation, or what it comes with.
 
+            **4. Order Quality & Special Cases**
+
+            * `voice_ai_mentioned`: Customer has explicitly acknowledged or
+            * `high_order_value`: Apply when the order total is significantly high, indicating a large or complex order.
+            * `order_cancellation`: Apply when the customer cancels their order during the call and does not proceed with any items.
+            * `missing_items`: Apply when the customer mentions that an item they ordered is missing from their order.
+            * `dietary_request`: Apply when a customer explicitly mentions a dietary restriction or preference, such as vegetarian, vegan, gluten-free, or a specific allergy.
+            * `additional_service_request`: Apply when a customer makes a specific request that is not part of the standard order process, such as asking for extra napkins, utensils, or special packaging.
             -----
 
             **Transcript to Analyze:**

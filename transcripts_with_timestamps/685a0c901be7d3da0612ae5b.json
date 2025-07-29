@@ -1,0 +1,51 @@
+{
+  "callId": "685a0c901be7d3da0612ae5b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-24T02:25:20.496Z",
+    "callEnded": "2025-06-24T02:27:49.609Z",
+    "duration": 180,
+    "from": "+14083338920",
+    "to": "+16204558091",
+    "summary": "Saurabh ordered three bagels from Manhattan Bagel, one for himself, one for his wife, and one for his kid, with various customizations."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Saurabh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-24T02:27:48.280Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I wanted to order, couple of bagels for one for my wife, one for my kids, and one for myself. For my wife, I wanted to order everything bagel, toasted with cream cheese for the kids, cinnamon bagel with, peanut butter and toasted for myself.",
+      "timestamp": "2025-06-24T02:27:48.280Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sesame bagel with, avocado toasted.",
+      "timestamp": "2025-06-24T02:27:48.280Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-24T02:27:48.280Z] assistant: Let me get the options for your bagel choices. I will call the get_modifier_groups tool to get all the options for the bagels. \n\n",
+      "timestamp": "2025-06-24T02:27:49.609Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-24T02:27:48.281Z] assistant: For your wife's everything bagel, I have the following options for the bagel type: Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, Bagel Stick, French Toast ROLL. Since you've chosen an everything bagel, I'll go with that. \n\nFor the spread, let me get the options for you. \n\n",
+      "timestamp": "2025-06-24T02:27:49.609Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your wife's everything bagel, I have the following options for the spread: Butter, Plain Cream Cheese, Vegetable Cream Cheese, Scallion Cream Cheese, Lox Cream Cheese, Strawberry Cream Cheese, Jalapeno Cream Cheese, Honey Almond Cream Cheese, Maple Raisin Cream Cheese, Bacon Scallion Cream Cheese, Olive Pimento Cream Cheese, Low-Fat Vegetable Cream Cheese, Low-Fat Plain Cream Cheese, Hummus, Nutella, Avocado, Peanut Butter, Grape Jelly, Styrawberry Jelly. Since you've chosen cream cheese, I'll go with that. Now, let's move on to your kid's cinnamon bagel. I have the following options for the bagel type: Plain, Everything,",
+      "timestamp": "2025-06-24T02:27:48.281Z"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "callId": "6852b2e3cb9e39794cf5fc24",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T12:36:51.009Z",
+    "callEnded": "2025-06-18T12:44:58.547Z",
+    "duration": 540,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Rahul ordered a Cheese Sandwich and a Cold Brew Iced Coffee from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Rohan, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T12:44:56.281Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello. My name is Rahul.",
+      "timestamp": "2025-06-18T12:44:56.281Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order, please?",
+      "timestamp": "2025-06-18T12:44:56.281Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "My name is Rahul.",
+      "timestamp": "2025-06-18T12:44:56.281Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hi Rahul, what can I get for you today at Manhattan Bagel?",
+      "timestamp": "2025-06-18T12:44:56.283Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I want to order some wrap in my dinner.",
+      "timestamp": "2025-06-18T12:44:56.283Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few wraps for you. We have the Buffalo Grilled Chicken Wrap, the Balsamic Grilled Chicken Wrap, and the Omelet Wrap. Which one of these wraps sounds good to you?",
+      "timestamp": "2025-06-18T12:44:56.284Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have some vegetarian options?",
+      "timestamp": "2025-06-18T12:44:56.284Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I wasn't able to find any vegetarian wraps. Let me try searching for something else. Would you like me to look for vegetarian sandwiches or flatbreads?",
+      "timestamp": "2025-06-18T12:44:56.284Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Tell me sandwiches.",
+      "timestamp": "2025-06-18T12:44:56.285Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few vegetarian sandwich options for you. We have the Avocado Veg Out, the Garden Avocado Egg White Sandwich, and the Cheese Sandwich. The Avocado Veg Out is nine dollars and forty-nine cents, the Garden Avocado Egg White Sandwich is seven dollars and forty-nine cents, and the Cheese Sandwich is seven dollars and ninety-nine cents. Which one of these sandwiches sounds good to you?",
+      "timestamp": "2025-06-18T12:44:56.285Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "But the second one contains egg that is also non vegetarian.",
+      "timestamp": "2025-06-18T12:44:56.285Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You are correct that the Garden Avocado Egg White",
+      "timestamp": "2025-06-18T12:44:56.285Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T12:44:56.285Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few options that are vegetarian. We have the Avocado Veg Out for nine dollars and forty-nine cents. Would you like to try that?",
+      "timestamp": "2025-06-18T12:44:56.285Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is there any other options for vegetative and sedentures?",
+      "timestamp": "2025-06-18T12:44:56.285Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few options that are vegetarian. We have the Avocado Veg Out for nine dollars and forty-nine cents, and the Garden Avocado Egg White Sandwich is not vegetarian since it has egg. Another option is to customize a Cheese Sandwich, which is seven dollars and ninety-nine cents. Which one of these options sounds good to you?",
+      "timestamp": "2025-06-18T12:44:56.286Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Add a cheese sandwich in my order.",
+      "timestamp": "2025-06-18T12:44:56.286Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added a Cheese Sandwich to your order. Your current total is $7.99. Would you like to add any other items or proceed with your order?",
+      "timestamp": "2025-06-18T12:44:56.286Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is there any modifiers in cheese sandwich?",
+      "timestamp": "2025-06-18T12:44:56.286Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, there are several modifiers available for the Cheese Sandwich. What type of cheese would you like on your sandwich? We have American, Swiss, Pepper Jack, Cheddar, Muenster, and Provolone.",
+      "timestamp": "2025-06-18T12:44:56.287Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Go third one.",
+      "timestamp": "2025-06-18T12:44:56.287Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen the third option, which is Pepper Jack cheese. Next, would you like to choose a bread option? We have Plain Bagel, Everything Bagel, Asiago Bagel, Bialy, Cheesy Jalapeno Bacon Roll, Cheesy Hash Brown Roll, and many more. Which one would you like?",
+      "timestamp": "2025-06-18T12:44:56.287Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Go with cheesy",
+      "timestamp": "2025-06-18T12:44:56.287Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen the Cheesy Jalapeno Bacon Roll. Next, would you like to add any lunch sides? We have Chips, Cole Slaw, or Lays Chips. Which one would you like?",
+      "timestamp": "2025-06-18T12:44:56.287Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T12:44:56.287Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen Chips as your side. Next, would you like your sandwich to be toasted, lightly toasted, or not toasted at all?",
+      "timestamp": "2025-06-18T12:44:56.287Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Lightly toasted.",
+      "timestamp": "2025-06-18T12:44:56.287Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T12:44:56.287Z] assistant: You've chosen to have your sandwich lightly toasted. Next, would you like to add any extra cheese? We have an option for extra cheese for $1.49. \n\nAlso, would you like to add any vegetables to your sandwich? We have options like avocado, spinach, cucumber, and more.",
+      "timestamp": "2025-06-18T12:44:58.547Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What are the other options?",
+      "timestamp": "2025-06-18T12:44:56.287Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of vegetables to choose from. You can add lettuce, tomato, onion, avocado, spinach, cucumber, green peppers, roasted red peppers, grilled yellow onions, jalapeno peppers, or capers to your sandwich. Which one of these options sounds good to you?",
+      "timestamp": "2025-06-18T12:44:56.288Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "At Lettuce.",
+      "timestamp": "2025-06-18T12:44:56.288Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T12:44:56.288Z] assistant: I've added lettuce to your Cheese Sandwich. So, to recap, you have a Cheese Sandwich with Pepper Jack cheese, on a Cheesy Jalapeno Bacon Roll, lightly toasted, with chips as your side, and lettuce added to your sandwich. \n\nWould you like to confirm your order or make any changes?",
+      "timestamp": "2025-06-18T12:44:58.547Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Confirm it.",
+      "timestamp": "2025-06-18T12:44:56.288Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully. Your order number is 3 9 8 3 5 4. Your order total is $8.79, which includes a subtotal of $8.79 and $0.80 in tax. Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T12:44:56.288Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope",
+      "timestamp": "2025-06-18T12:44:56.288Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I want to also add some cold drink.",
+      "timestamp": "2025-06-18T12:44:56.288Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few cold drink options for you. We have Ice Coffee or Tea, Hot Coffee or Tea, and Cold Brew Iced Coffee. Which one of these drinks sounds good to you?",
+      "timestamp": "2025-06-18T12:44:56.288Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-18T12:44:56.289Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Go with cold brew iced coffee.",
+      "timestamp": "2025-06-18T12:44:56.289Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added a Cold Brew Iced Coffee to your",
+      "timestamp": "2025-06-18T12:44:56.289Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Go with cold brew iced coffee.",
+      "timestamp": "2025-06-18T12:44:56.289Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen Cold Brew Iced Coffee.",
+      "timestamp": "2025-06-18T12:44:56.289Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Add cold brew.",
+      "timestamp": "2025-06-18T12:44:56.291Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-18T12:44:56.294Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-18T12:44:56.294Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully. Your order number is 2 0 7 4 3 9. Your subtotal is $0.00. The final total with tax will be confirmed shortly. Is there anything else I can help you with?",
+      "timestamp": "2025-06-18T12:44:56.294Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-18T12:44:56.294Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you for calling. Have a great day.",
+      "timestamp": "2025-06-18T12:44:56.294Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Thank you.",
+      "timestamp": "2025-06-18T12:44:56.295Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-18T12:44:56.295Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T12:44:56.295Z"
+    }
+  ]
+}

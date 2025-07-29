@@ -1,0 +1,33 @@
+{
+  "callId": "687a478aa1698f75072a9e1f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T13:09:30.176Z",
+    "callEnded": "2025-07-18T13:09:54.338Z",
+    "duration": 21,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha ordered an Omelet Wrap from Manhattan Bagel but the call ended before customization and payment details could be discussed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T13:09:54.123Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can I get, omelette wrap, please?",
+      "timestamp": "2025-07-18T13:09:54.123Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Omelet Wrap on the menu. I'll add the Omelet Wrap for you. Now, let's customize it. What",
+      "timestamp": "2025-07-18T13:09:54.123Z"
+    }
+  ]
+}

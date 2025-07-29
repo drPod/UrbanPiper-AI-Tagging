@@ -1,0 +1,105 @@
+{
+  "callId": "6872d5e05560c851d64245e8",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T21:38:40.670Z",
+    "callEnded": "2025-07-12T21:40:43.229Z",
+    "duration": 118,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin ordered a customized Chicken Cuban sandwich and a hot coffee."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T21:40:42.116Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order chicken Cuban and, yeah, hot coffee.",
+      "timestamp": "2025-07-12T21:40:42.116Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great choice! The Chicken Cuban sandwich and a hot coffee. Anything else you'd like with that?",
+      "timestamp": "2025-07-12T21:40:42.117Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No.",
+      "timestamp": "2025-07-12T21:40:42.117Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T21:40:42.117Z] assistant: Perfect! I have one Chicken Cuban sandwich and one hot coffee for you. Now let me help you customize each one exactly how you like it.  \n",
+      "timestamp": "2025-07-12T21:40:43.229Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to item customization stage...",
+      "timestamp": "2025-07-12T21:40:42.117Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T21:40:42.117Z] assistant: Let's start with your **Chicken Cuban sandwich**. We'll go through each part to customize it just right.  \n\nFor the **bagel**, you can choose from:  \n- Plain  \n- Everything  \n- Blueberry  \n- Cinnamon Raisin  \n\nWhich one would you like?",
+      "timestamp": "2025-07-12T21:40:43.229Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I I I think the first one.",
+      "timestamp": "2025-07-12T21:40:42.117Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T21:40:42.117Z] assistant: Perfect! Plain bagel. Now for the **cheese**, you can choose:  \n- American  \n- Swiss (+ $0.75)  \n- Cheddar (+ $0.75)  \n- Provolone (+ $0.75)  \n\nWhat would you like?",
+      "timestamp": "2025-07-12T21:40:43.229Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "General.",
+      "timestamp": "2025-07-12T21:40:42.118Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T21:40:42.118Z] assistant: Perfect! American cheese. Now for the **toast**, you can choose:  \n- Toasted  \n- Lightly Toasted  \n- Toasted Dark  \n- No Toast  \n\nHow would you like your sandwich toasted?",
+      "timestamp": "2025-07-12T21:40:43.229Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let me give it to me, like, that poster.",
+      "timestamp": "2025-07-12T21:40:42.118Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-12T21:40:42.118Z] assistant: Perfect! Toasted. Now for the **condiments**, you can choose up to 10 from:  \n- Salt  \n- Pepper  \n- Ketchup  \n- Mayo  \n- Mustard  \n\nWhich ones would you like?",
+      "timestamp": "2025-07-12T21:40:43.229Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Mustard.",
+      "timestamp": "2025-07-12T21:40:42.118Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect! Mustard. Now for the **add vegetables**, you can choose up to 11 from: - Lettuce (+ $1.00) - Tomato (+ $1.00) - Red Onions (+",
+      "timestamp": "2025-07-12T21:40:42.118Z"
+    }
+  ]
+}

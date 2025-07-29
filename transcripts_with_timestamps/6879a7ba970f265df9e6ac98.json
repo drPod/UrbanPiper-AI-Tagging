@@ -1,0 +1,201 @@
+{
+  "callId": "6879a7ba970f265df9e6ac98",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T01:47:38.050Z",
+    "callEnded": "2025-07-18T01:51:57.627Z",
+    "duration": 257,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha placed an order for a customized Avocado BLT Sandwich with Lays chips and various vegetables, which was successfully submitted and confirmed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-18T01:51:57.273Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get avocado beer, the sandwich?",
+      "timestamp": "2025-07-18T01:51:57.273Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Avocado Toast on the menu. I'll add the Avocado Toast for you. Now,",
+      "timestamp": "2025-07-18T01:51:57.273Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I said avocado BLD sandwich.",
+      "timestamp": "2025-07-18T01:51:57.274Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see an \"Avocado Beer Sandwich\" on our menu. We do have an Avocado Toast, which is avocado on a bagel, and we also have beer as a",
+      "timestamp": "2025-07-18T01:51:57.274Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I said I mean, avocado BLT sandwich.",
+      "timestamp": "2025-07-18T01:51:57.274Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I think I understand now. You're looking for an Avocado BLT sandwich. That would be our Avocado BLT Sandwich on the menu. I'll add that for you. Now, would you like to customize it? Perhaps choose a bread option or add any other toppings?",
+      "timestamp": "2025-07-18T01:51:57.274Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sure. Can you add some avocado, spinach, cucumber, green pepper, roasted red pepper, green, yellow onion, jalapeno pepper, capas, lettuce, tomato, onion, and remove bacon.",
+      "timestamp": "2025-07-18T01:51:57.274Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That's quite a customization. So, to confirm, you'd like to add avocado, spinach, cucumber, green pepper, roasted red pepper, grilled yellow onion, jalapeno pepper, capers, lettuce, tomato, and onion to your Avocado BLT Sandwich, and you'd like to remove the bacon. Is that correct?",
+      "timestamp": "2025-07-18T01:51:57.274Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-18T01:51:57.275Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll make sure to add all those items to your Avocado BLT Sandwich and remove the bacon. Now, would you like to choose a side to go with your sandwich? We have chips, coleslaw, or you can upgrade to Lays chips for a small fee.",
+      "timestamp": "2025-07-18T01:51:57.275Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me the late shifts and, lightly toasted.",
+      "timestamp": "2025-07-18T01:51:57.275Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like your Avocado BLT Sandwich to be lightly toasted, and you'd like to choose Lays chips as your side. I'll add that for you. Now, I just need to calculate the total for your order. Just a moment... {\"type\": \"function\", \"name\": \"calculate_order_price\", \"parameters\": {\"order_items\": \"[{\\\"item_name\\\": \\\"Avocado BLT Sandwich\\\", \\\"item_quantity\\\": 1, \\\"modifiers\\\": [{\\\"modifier_group\\\": \\\"Lunch Bread Choice\\\", \\\"selections\\\": [{\\\"option_name\\\": \\\"Lightly Toasted\\\"}]}, {\\\"modifier_group\\\": \\\"Lunch Side\\\", \\\"selections\\\": [{\\\"option_name\\\": \\\"Lays Chips\\\"}]}, {\\\"modifier_group\\\": \\\"Lunch Veggies\\\", \\\"selections\\\": [{\\\"option_name\\\": \\\"Avocado\\\"},",
+      "timestamp": "2025-07-18T01:51:57.275Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give give me give me the output.",
+      "timestamp": "2025-07-18T01:51:57.275Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your Avocado BLT Sandwich with all the customizations and Lays chips will be a total of 21 dollars and 97 cents.",
+      "timestamp": "2025-07-18T01:51:57.275Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can can can you can you, call the the pricing tool again?",
+      "timestamp": "2025-07-18T01:51:57.276Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your Avocado BLT Sandwich with all the customizations and Lays chips will be a total of 21 dollars and 97 cents.",
+      "timestamp": "2025-07-18T01:51:57.276Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Great. Thank you so much.",
+      "timestamp": "2025-07-18T01:51:57.276Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome. It was my pleasure to assist you. Just a moment while I finalize your order... ",
+      "timestamp": "2025-07-18T01:51:57.276Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-18T01:51:57.277Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order?",
+      "timestamp": "2025-07-18T01:51:57.277Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. My name is Akshay.",
+      "timestamp": "2025-07-18T01:51:57.277Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you, Aksha. And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-18T01:51:57.277Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have any. Thank you so much.",
+      "timestamp": "2025-07-18T01:51:57.277Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Aksha. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-18T01:51:57.277Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-18T01:51:57.277Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great. Placing that for you now, please hold on... ",
+      "timestamp": "2025-07-18T01:51:57.277Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 378027. That's 3, 7, 8, 0, 2, 7.\", 'order_id': '378027', 'call_id': 'ac86953d-e1d7-4a15-afbe-83b1f4627bb2', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981b3a-aef6-e352-b08f-dd0853395ae2'}",
+      "timestamp": "2025-07-18T01:51:57.278Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 3, 7, 8, 0, 2, 7. Your total is 21 dollars and 97 cents. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-18T01:51:57.278Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you.",
+      "timestamp": "2025-07-18T01:51:57.278Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Aksha. It was a pleasure assisting you. Have a great day and enjoy your meal!",
+      "timestamp": "2025-07-18T01:51:57.278Z"
+    }
+  ]
+}

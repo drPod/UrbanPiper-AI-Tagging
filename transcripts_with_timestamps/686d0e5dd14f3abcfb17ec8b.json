@@ -1,0 +1,141 @@
+{
+  "callId": "686d0e5dd14f3abcfb17ec8b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T12:26:05.605Z",
+    "callEnded": "2025-07-08T12:29:37.349Z",
+    "duration": 208,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer inquired about the Breakfast Bundle and its customization options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T12:29:36.207Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle.",
+      "timestamp": "2025-07-08T12:29:36.207Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, a Breakfast Bundle. Would you like to hear the available customizations for this item?",
+      "timestamp": "2025-07-08T12:29:36.207Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes, please.",
+      "timestamp": "2025-07-08T12:29:36.207Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). First, let's choose the bagels. We have a variety of options like Plain, Everything, Blueberry, and more. Would you like to hear some of the bagel choices?",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Can you please tell me all the bagel types, are there?",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! We have a wide range of bagels including Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast Bagel, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, and French Toast Roll. There are also premium options like Asiago, California, Cheesy Hashbrown Roll, Bialy, Bagel Stick, Cheesy Jalapeño Bacon Roll, Rainbow Bagel, and Gluten Free. Would you like to hear more about any of these?",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Does it has bagel sticks?",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, we do have Bagel Sticks as an option. They’re a fun and crispy choice! Would you like to include some Bagel Sticks in your dozen?",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. And, how many data types are there?",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have 13 bagel",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Google.",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay,",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I didn't look good.",
+      "timestamp": "2025-07-08T12:29:36.214Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let's get started on your Breakfast Bundle. First, we need to choose 13 bagels. You mentioned you want Bagel Sticks. Would you like to include those in your selection?",
+      "timestamp": "2025-07-08T12:29:36.215Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. How you are getting this data, options name?",
+      "timestamp": "2025-07-08T12:29:36.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of bagel options to choose from. The standard ones include Plain, Everything, Blueberry, Cinnamon",
+      "timestamp": "2025-07-08T12:29:36.215Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me that can you tell me the options and, tabs of spread?",
+      "timestamp": "2025-07-08T12:29:36.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! For the 2 tubs of spread in your Breakfast Bundle, you can choose from options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion, Strawberry, Jalapeño, Honey Almond, Maple Raisin, Bacon Scallion, Olive Pimento, Low-Fat Vegetable, Hummus, Nutella, Avocado, Peanut Butter, and Lox Cream Cheese. Would you like to hear more about any of these?",
+      "timestamp": "2025-07-08T12:29:36.215Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Certainly, please repeat. Slowly, again.",
+      "timestamp": "2025-07-08T12:29:36.215Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Of course! For the 2 tubs of spread in your Breakfast Bundle, the options are: Plain Cream Cheese, Vegetable Cream Cheese, Scallion, Strawberry, Jalapeño, Honey Almond, Maple Raisin, Bacon Scallion, Olive Pimento, Low-Fat Vegetable, Hummus,",
+      "timestamp": "2025-07-08T12:29:36.215Z"
+    }
+  ]
+}

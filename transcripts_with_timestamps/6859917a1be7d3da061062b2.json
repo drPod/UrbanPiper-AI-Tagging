@@ -1,0 +1,195 @@
+{
+  "callId": "6859917a1be7d3da061062b2",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T17:40:10.951Z",
+    "callEnded": "2025-06-23T17:46:43.487Z",
+    "duration": 420,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered a Breakfast Bundle and a hot cappuccino from Manhattan Bagel, customizing the bundle with specific bagel, cream cheese, and muffin choices, and the cappuccino with medium size, skim milk, and Equal sugar."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order hot cappuccino and breakfast bundle.",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I can help you with the hot cappuccino and the Breakfast Bundle. The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. Let me get the options for your bagel choices...",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Bagel Dozen, you need to choose exactly 13 bagels. We have a variety of options such as Plain, Everything, Asiago, Blueberry, and many more. Which 13 bagels would you like?",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking for, five sesame, five, garlic, and three everything.",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, so for the Bagel Dozen, you'd like 5 Sesame, 5 Garlic, and 3 Everything bagels. That's a total of 13 bagels. Now, let's move on to the Choose 2 Tubs of Spread. You need to choose exactly 2 tubs of spread. We have options like Plain Cream Cheese, Vegetable Cream Cheese, Scallion/Onion Chive, and more. Which 2 tubs of spread would you like?",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll go with the one as plain. Second one could be blueberry, if you have it.",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We do have Strawberry, but not Blueberry, as an option for the cream cheese spread. So, for the Choose 2 Tubs of Spread, you'd like one tub of Plain Cream Cheese and one tub of Strawberry cream cheese. Now, let's move on to the Choose",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Now, let's move on to the Choose 4 Muffins. You can choose between 1 to 4 muffins from our options like Blueberry, Corn, Double Chocolate, and more. Which muffins would you like?",
+      "timestamp": "2025-06-23T17:46:42.849Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Two as blueberry, two will be could be, like, chocolate chip.",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Choose 4 Muffins, you'd like 2 Blueberry muffins and 2 Chocolate Chip muffins. Now, let's move on to the Box of Coffee. This is an optional choice, and you can choose up to 1 box of coffee. We have options like House Blend, Decaf, Vanilla Hazelnut, and more. Would you like to add a box of coffee to your order?",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Oh, you can add decaf.",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll add a box of Decaf coffee to your order. Now, let's review your Breakfast Bundle: you have 5 Sesame, 5 Garlic, and 3 Everything bagels, 1 tub of Plain Cream Cheese, 1 tub of Strawberry cream cheese, 2 Blueberry muffins,",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. That that that that's look good to me. We you can go to next step.",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get the options for your hot cappuccino...",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the hot cappuccino, let's start with the size. You can choose from Small (12 ounces), Medium (16 ounces), or Large (20 ounces). Which size would you like?",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll go with the medium size and, also go we'll choose skim milk and, equal sugar and, that's it.",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T17:46:42.850Z] assistant: Alright, so for the hot cappuccino, you'd like a Medium size, Skim milk, and Equal sugar. I've got all your choices noted down. \n\nNow, let me confirm your entire order. You have a Breakfast Bundle with 5 Sesame, 5 Garlic, and 3 Everything bagels, 1 tub of Plain Cream Cheese, 1 tub of Strawberry cream cheese, 2 Blueberry muffins, and 2 Chocolate Chip muffins, and a box of Decaf coffee. And you'd also like to add a Medium hot cappuccino with Skim milk and Equal sugar. \n\nBefore I place your order, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-06-23T17:46:43.487Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Just make sure, the packet of the package of coffee should be tight enough and, should be properly packed so that it should not spill over me. That's it.",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've noted that you'd like the coffee to be packed tightly and properly so that it doesn't spill over. I'll make sure to add that to the special instructions for your order. Now, let me just confirm your order one more time. You have a Breakfast",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. No need to confirm it. You can go ahead. Hello?",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'm still there.",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T17:46:42.850Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. I'm there. Can you please place the order?",
+      "timestamp": "2025-06-23T17:46:42.851Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T17:46:42.851Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you for calling. Have a great day.",
+      "timestamp": "2025-06-23T17:46:42.851Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Yeah. I'm there.",
+      "timestamp": "2025-06-23T17:46:42.851Z"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "callId": "68573c411be7d3da06d9c729",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T23:12:01.906Z",
+    "callEnded": "2025-06-21T23:13:01.448Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer ordered a medium-sized iced tea with no milk and did not specify a sweetener or syrup, but the call ended before the order could be finalized."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Alex, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T23:13:01.156Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-21T23:13:01.156Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll just wait",
+      "timestamp": "2025-06-21T23:13:01.156Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order iced tea.",
+      "timestamp": "2025-06-21T23:13:01.156Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The ice tea, great choice. Let me get the options for your ice tea...",
+      "timestamp": "2025-06-21T23:13:01.157Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your ice tea, what size would you like? We",
+      "timestamp": "2025-06-21T23:13:01.157Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size.",
+      "timestamp": "2025-06-21T23:13:01.157Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The medium size, that's 24oz. Now, let's talk about the milk choice. We have regular milk, half and half, skim, almond, oat milk, or soy. Which one would you like?",
+      "timestamp": "2025-06-21T23:13:01.157Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Nome",
+      "timestamp": "2025-06-21T23:13:01.157Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "No milk, got it. Now, let's move on to the sweetener and syrups. We have a variety of options like sugar, sweet and low, equal, splenda, raw sugar, and some flavored syrups like pumpkin, caramel, hazelnut, and vanilla.",
+      "timestamp": "2025-06-21T23:13:01.158Z"
+    }
+  ]
+}

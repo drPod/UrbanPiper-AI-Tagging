@@ -1,0 +1,75 @@
+{
+  "callId": "685c2c7f32ebb07e59431385",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-25T17:06:07.226Z",
+    "callEnded": "2025-06-25T17:06:51.791Z",
+    "duration": 60,
+    "from": "+13215054148",
+    "to": "+16204558091",
+    "summary": "The user expressed dissatisfaction and the conversation ended abruptly."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Ace Jack, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-25T17:06:51.506Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-25T17:06:51.507Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Ihr Erdlake Bike ist da sind.",
+      "timestamp": "2025-06-25T17:06:51.507Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it. A Baker's Dozen, which is 13 bagels of your choice. Let me check the available options for you. Would you like to choose the type of bagels you'd",
+      "timestamp": "2025-06-25T17:06:51.507Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? I am. I'd like a baker's dozen.",
+      "timestamp": "2025-06-25T17:06:51.507Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! A Baker's Dozen",
+      "timestamp": "2025-06-25T17:06:51.507Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I see that. That's very upsetting.",
+      "timestamp": "2025-06-25T17:06:51.507Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry to hear that. If you'd",
+      "timestamp": "2025-06-25T17:06:51.507Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-25T17:06:51.507Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get t",
+      "timestamp": "2025-06-25T17:06:51.508Z"
+    }
+  ]
+}

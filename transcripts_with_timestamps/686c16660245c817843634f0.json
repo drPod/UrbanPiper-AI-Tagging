@@ -1,0 +1,39 @@
+{
+  "callId": "686c16660245c817843634f0",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-07T18:48:06.447Z",
+    "callEnded": "2025-07-07T18:48:54.847Z",
+    "duration": 47,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-07T18:48:54.621Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What's your order? I'm looking to order, mint oil chillers. Do you have mint oil chillers?",
+      "timestamp": "2025-07-07T18:48:54.621Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-07-07T18:48:54.621Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'm still there. Can you hear me?",
+      "timestamp": "2025-07-07T18:48:54.621Z"
+    }
+  ]
+}

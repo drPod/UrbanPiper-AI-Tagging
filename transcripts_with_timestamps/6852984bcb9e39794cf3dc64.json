@@ -1,0 +1,39 @@
+{
+  "callId": "6852984bcb9e39794cf3dc64",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T10:43:23.769Z",
+    "callEnded": "2025-06-18T10:43:58.528Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Punit inquired about breakfast options at Manhattan Bagel and the agent searched for available items, finding a Box of Sweets, but the call ended before further discussion or ordering."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Punit, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T10:43:58.235Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Say hi. I like to order some, something in breakfast. Can you please suggest me something?",
+      "timestamp": "2025-06-18T10:43:58.235Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have for breakfast. ",
+      "timestamp": "2025-06-18T10:43:58.236Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a Box of Sweets for breakfast. It includes muffins,",
+      "timestamp": "2025-06-18T10:43:58.237Z"
+    }
+  ]
+}

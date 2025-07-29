@@ -1,0 +1,141 @@
+{
+  "callId": "685933fb1be7d3da06043719",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T11:01:15.298Z",
+    "callEnded": "2025-06-23T11:04:00.108Z",
+    "duration": 180,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "Vansh ordered a Breakfast Bundle with customized bagels, spreads, muffins, and a Box of Coffee."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Vansh, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T11:03:59.772Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast banten",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is perfect for a group. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I have all the options for your bundle right here. Ready to customize? For your thirteen bagels, I have Plain, Everything, or Sesame. What would you like?",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me two plain, two sesame.",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like two Plain and two Sesame bagels. That's a total of four bagels so far. I still need nine more bagel choices from you. What about the other nine?",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you tell me bigger choices?",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the bagels, I have Plain, Everything, Asiago, Blueberry, and many more. Let me list them for you: Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll,",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me four, you know, for, and for everything.",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like four Jalapeño Cheddar bagels and four Everything bagels. That's a total of twelve bagels so far, including the two Plain and two Sesame you chose earlier. I still need one more",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And one one whole whole week.",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like one Whole Wheat bagel. That completes your thirteen bagel selection. Now, let's move on to the two tubs of spread. I have options like Plain Cream Cheese, Vegetable Cream Cheese, and more. Which two would you",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me one one vanilla cream cheese and one vegetable cream cheese.",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like one Vanilla Cream Cheese and one Vegetable Cream Cheese. Now, let's move on to the muffins. I have Blueberry, Corn, Double Chocolate, and more. You can choose up to",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me four four four vanilla, four corn.",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like four Corn muffins. Now, let's move on to the Box of",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. 4 four one four vanilla and four corn.",
+      "timestamp": "2025-06-23T11:03:59.773Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like four Vanilla and four Corn muffins, but since you can only choose up to four muffins, let's confirm that you want two Vanilla and two Corn muffins. Now, let's move on to the Box of Coffee. Would you like to add a Box of Coffee to your bundle? I have ",
+      "timestamp": "2025-06-23T11:03:59.774Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Ja. Als eine Hausblende.",
+      "timestamp": "2025-06-23T11:03:59.774Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like to add a House Blend Box of ",
+      "timestamp": "2025-06-23T11:03:59.774Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? Okay. Hello?",
+      "timestamp": "2025-06-23T11:03:59.774Z"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "callId": "6878aefa73d0cf0f7e8f08ae",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T08:06:18.707Z",
+    "callEnded": "2025-07-17T08:12:16.107Z",
+    "duration": 346,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin placed an order for a Manhattan Cheesesteak Sandwich with coleslaw and lightly toasted at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-17T08:12:15.394Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. Can I have, manatee and cheese steak sandwich?",
+      "timestamp": "2025-07-17T08:12:15.394Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Manhattan Cheesesteak Sandwich on the menu. I'll add that for you. Now, let's customize it. You'll need to choose a side. I have chips, coleslaw, or Lays chips for an extra dollar. Which would you like?",
+      "timestamp": "2025-07-17T08:12:15.394Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-17T08:12:15.395Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your side, I've got coleslaw. Now, would you like to add any extra cheese or perhaps toast your sandwich?",
+      "timestamp": "2025-07-17T08:12:15.395Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sorry. Can you repeat?",
+      "timestamp": "2025-07-17T08:12:15.395Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You've chosen the Manhattan Cheesesteak Sandwich with coleslaw as your side. Now, I'd like to offer you some additional options to customize your sandwich. Would you like to add any extra cheese? We have options like American, Swiss, or Cheddar. Or perhaps you'd like your sandwich toasted? We can do lightly toasted, toasted, or toasted dark. Let me know if any of these options appeal to you.",
+      "timestamp": "2025-07-17T08:12:15.395Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Likely toasted is good option.",
+      "timestamp": "2025-07-17T08:12:15.395Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-17T08:12:15.396Z] assistant: I've got that noted. Your Manhattan Cheesesteak Sandwich will be lightly toasted. Now, let me just calculate the total for you. Just a moment... \n\n",
+      "timestamp": "2025-07-17T08:12:16.107Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your Manhattan Cheesesteak Sandwich with coleslaw and lightly toasted will be a total of 11 dollars and 54 cents. Is that all for you today?",
+      "timestamp": "2025-07-17T08:12:15.396Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is my sandwich customization hello? Is my customization done?",
+      "timestamp": "2025-07-17T08:12:15.396Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, your sandwich customization is complete. You've chosen the Manhattan Cheesesteak Sandwich with coleslaw as your side and lightly toasted. Now, I just need to confirm if you'd like to add anything else to your order or if you're all set. Also, I'll go ahead and transition your order to the next ",
+      "timestamp": "2025-07-17T08:12:15.396Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I can I add more more options? Can I hear more options on the sandwich side?",
+      "timestamp": "2025-07-17T08:12:15.397Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Manhattan Cheesesteak Sandwich, we've already covered the main customization options, including the side and toasting. However, if you're looking to add more to your order, I can certainly help with that. We have a variety of items on our menu, such as soups, salads, or additional sandwiches. Would you like to hear some of our popular options",
+      "timestamp": "2025-07-17T08:12:15.397Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So I'm I'm asking about the matter time. The only these are the options which I can customize. Right?",
+      "timestamp": "2025-07-17T08:12:15.397Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Manhattan Cheesesteak Sandwich, the customization options we discussed earlier, such as the side and toasting, are the primary ones available for this specific item. If you're looking to",
+      "timestamp": "2025-07-17T08:12:15.406Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What are the rest?",
+      "timestamp": "2025-07-17T08:12:15.407Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-17T08:12:15.407Z] assistant: For the Manhattan Cheesesteak Sandwich, the additional customization options include:\n\n* Extra cheese: You can choose from American, Swiss, or Cheddar for an extra $1.49.\n* Double the lunch protein: You can add extra steak for $4.99.\n* Add vegetables: You can choose from lettuce, tomato, onion, spinach, and more for $1.00 each.\n* Toast: You can choose from toasted, lightly toasted, or toasted dark.\n\nThese are the additional options available for the Manhattan Cheesesteak Sandwich. Would you like to add any of these to your order?",
+      "timestamp": "2025-07-17T08:12:16.107Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Why you haven't asked me about this earlier?",
+      "timestamp": "2025-07-17T08:12:15.407Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-17T08:12:15.407Z] assistant: You're right, I should have asked about those options earlier. Let me start again from the beginning to ensure we get your order just right.\n\nTo confirm, you'd like to order the Manhattan Cheesesteak Sandwich. For the side, you've chosen coleslaw. Your sandwich will be lightly toasted.\n\nNow, let's go through the additional options:\n\n* Would you like to add extra cheese? We have American, Swiss, or Cheddar for $1.49.\n* Would you like to double the lunch protein? You can add extra steak for $4.99.\n* Would you like to add any vegetables? We have lettuce, tomato, onion, spinach, and more for $1.00 each.\n\nPlease let me know your preferences for these options.",
+      "timestamp": "2025-07-17T08:12:16.107Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. I don't want you anything. Whatever we have discussed earlier, we can go ahead with that.",
+      "timestamp": "2025-07-17T08:12:15.407Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-17T08:12:15.407Z] assistant: We'll go with the original order: the Manhattan Cheesesteak Sandwich with coleslaw as your side and lightly toasted. The total comes out to be $11.54.\n\nJust to confirm, you'd like to proceed with this order, correct? \n\n",
+      "timestamp": "2025-07-17T08:12:16.107Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-17T08:12:15.408Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-17T08:12:15.408Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Before I place this order, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-17T08:12:15.408Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have any. Thank you so much.",
+      "timestamp": "2025-07-17T08:12:15.408Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-17T08:12:15.408Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Not yet.",
+      "timestamp": "2025-07-17T08:12:15.408Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-17T08:12:15.408Z] assistant: Great. Placing that for you now, please hold on...\n\n",
+      "timestamp": "2025-07-17T08:12:16.107Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 530107. That's 5, 3, 0, 1, 0, 7.\", 'order_id': '530107', 'call_id': '1eb8afa0-80a6-4c64-b870-2d322342f167', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0198176f-e983-8b46-b388-d3570717133d'}",
+      "timestamp": "2025-07-17T08:12:15.408Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 5, 3, 0, 1, 0, 7. Your total is $11.54, including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-17T08:12:15.409Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-17T08:12:15.409Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're all set then. It was a pleasure assisting you with your order. Have a great day and enjoy your Manhattan Cheesesteak Sandwich from Manhattan Bagel!",
+      "timestamp": "2025-07-17T08:12:15.409Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-17T08:12:15.409Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Jitin. If you need anything else or have any other questions, feel free to ask. Otherwise, we're all done here. Have a fantastic day and we look forward to serving you again at Manhattan Bagel!",
+      "timestamp": "2025-07-17T08:12:15.409Z"
+    }
+  ]
+}

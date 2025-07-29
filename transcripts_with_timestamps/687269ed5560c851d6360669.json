@@ -1,0 +1,207 @@
+{
+  "callId": "687269ed5560c851d6360669",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T13:58:05.320Z",
+    "callEnded": "2025-07-12T14:01:35.421Z",
+    "duration": 207,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer inquired about ordering from the Manhattan Bagel menu, specifically looking for the Avocado BLT sandwich, and the conversation proceeded to discuss menu items under the 'CATEGORY: Lunch'"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T14:01:34.931Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order the avocado biryani sandwich.",
+      "timestamp": "2025-07-12T14:01:34.931Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see the Avocado BLT sandwich on our menu. However, we do have some great options like the Big City BLT, Avocado Toast, or our Avocado Veg Out. Which of these sounds good to you?",
+      "timestamp": "2025-07-12T14:01:34.931Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I don't understand, like, what menu you are referring because it's there in your menu structure.",
+      "timestamp": "2025-07-12T14:01:34.931Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see the Avocado BLT sandwich on our menu.",
+      "timestamp": "2025-07-12T14:01:34.931Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Okay. Tell me the tell me the first line, of your manage structure.",
+      "timestamp": "2025-07-12T14:01:34.931Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The first line of our menu structure is MANHATTAN BAGEL MENU - AI VALIDATION OPTIMIZED.",
+      "timestamp": "2025-07-12T14:01:34.932Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Now in the same content, okay, do you see lunch?",
+      "timestamp": "2025-07-12T14:01:34.932Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, I see the category \"CATEGORY: Lunch\" in our menu structure.",
+      "timestamp": "2025-07-12T14:01:34.932Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. One second.",
+      "timestamp": "2025-07-12T14:01:34.932Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I see the \"Chelsea Grilled Chicken\" and \"Manhattan",
+      "timestamp": "2025-07-12T14:01:34.932Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-12T14:01:34.932Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I",
+      "timestamp": "2025-07-12T14:01:34.932Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. The first one is Chelsea grilled chicken. Right?",
+      "timestamp": "2025-07-12T14:01:34.932Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The first item under the",
+      "timestamp": "2025-07-12T14:01:34.933Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "First",
+      "timestamp": "2025-07-12T14:01:34.933Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The first item under the \"CATEGORY: Lunch\" is indeed the \"Chelsea Grilled Chicken\" for $10.49. It comes with Grilled Chicken, roasted peppers, pepper jack cheese, and",
+      "timestamp": "2025-07-12T14:01:34.933Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is the second item? What is the second item?",
+      "timestamp": "2025-07-12T14:01:34.933Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The second item under",
+      "timestamp": "2025-07-12T14:01:34.933Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T14:01:34.933Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The second item under the",
+      "timestamp": "2025-07-12T14:01:34.933Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-12T14:01:34.933Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The second item under the \"CATEGORY: Lunch\" is the \"Manhattan Cheesesteak Sandwich\" for $10.49. It comes with grilled steak, roasted peppers, grilled onions, and",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is third item? What is third item?",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The third item under the \"CATEGORY: Lunch\" is the \"Balsamic Grilled Chicken Wrap\" for $10.49. It comes with Grilled",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Nice.",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The third item under the \"CATEGORY: Lunch\" is the \"Balsamic Grilled Chicken Wrap\" for $10.49. It comes with Grilled Chicken, lettuce, tomato, roasted red peppers, Provolone Cheese, and balsamic dressing in a tortilla.",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. So modified are wrap choice, lunch side, double lunch protein, lunch veggie. Right? And then, lunch bread option.",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The modifiers for the",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Correct.",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The modifiers for the Balsamic Grilled Chicken Wrap are: 1. Wrap Choice (mandatory: choose 1) - options are Flour or Wheat 2. Lunch Side (mandatory: choose 1) - options are Chips, Cole Slaw, or Lays Chips for $1.00 extra 3. Double Lunch Protein (optional: choose up to 1) - option is Double Lunch Protein for $4.99 extra 4. Lunch Veggies (optional: choose up to 1)",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Oke, oke.",
+      "timestamp": "2025-07-12T14:01:34.934Z"
+    }
+  ]
+}

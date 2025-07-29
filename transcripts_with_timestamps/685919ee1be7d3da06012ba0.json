@@ -1,0 +1,105 @@
+{
+  "callId": "685919ee1be7d3da06012ba0",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T09:10:06.084Z",
+    "callEnded": "2025-06-23T09:11:28.805Z",
+    "duration": 120,
+    "from": "+916377554613",
+    "to": "+17209999031",
+    "summary": "The customer ordered a French Toast BAGEL from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey.",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "What can I get for you today?",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "How can I help you today?",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What do you have?",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of bagels, sandwiches, and drinks. What sounds good to you?",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Let's try the baker.",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a dozen flavors. What kind of bagel would you like?",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Tell me about them.",
+      "timestamp": "2025-06-23T09:11:27.799Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices...",
+      "timestamp": "2025-06-23T09:11:27.800Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You can choose from a variety of bagels. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole",
+      "timestamp": "2025-06-23T09:11:27.800Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No French toast.",
+      "timestamp": "2025-06-23T09:11:27.802Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order...",
+      "timestamp": "2025-06-23T09:11:27.802Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Call ended before tool response was received",
+      "timestamp": "2025-06-23T09:11:27.802Z"
+    }
+  ]
+}

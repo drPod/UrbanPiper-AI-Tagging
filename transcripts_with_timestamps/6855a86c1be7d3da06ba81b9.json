@@ -1,0 +1,45 @@
+{
+  "callId": "6855a86c1be7d3da06ba81b9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T18:29:00.498Z",
+    "callEnded": "2025-06-20T18:29:32.987Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav inquired about the price of a hot coffee at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T18:29:32.828Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get the hot coffee price, please?",
+      "timestamp": "2025-06-20T18:29:32.828Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check the price of a hot coffee for you.",
+      "timestamp": "2025-06-20T18:29:32.828Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Found 3 item(s) for your search: HOT Coffee or Tea , Ice Coffee or Tea, Hot Latte. See 'item_details' for more information.",
+      "timestamp": "2025-06-20T18:29:32.828Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The price of a hot coffee is $1.99. Would you like to add anything else to your order, such as a pastry or a bagel?",
+      "timestamp": "2025-06-20T18:29:32.828Z"
+    }
+  ]
+}

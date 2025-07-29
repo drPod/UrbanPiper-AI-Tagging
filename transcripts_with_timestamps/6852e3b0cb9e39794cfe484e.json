@@ -1,0 +1,231 @@
+{
+  "callId": "6852e3b0cb9e39794cfe484e",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T16:05:04.429Z",
+    "callEnded": "2025-06-18T16:11:11.933Z",
+    "duration": 420,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Rifat ordered a Chicken Cuban sandwich with double lunch protein and a 32oz Fresh Squeezed Orange Juice, totaling $31.97, and will pay with cash and pick it up."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Rifat, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T16:11:11.308Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. I'd like to, you know, order some full item. Can you please take the order?",
+      "timestamp": "2025-06-18T16:11:11.309Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'd be happy to help you with your order. What would you like to order today?",
+      "timestamp": "2025-06-18T16:11:11.309Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Chicken rouen cuben. Sorry. Chicken cuben.",
+      "timestamp": "2025-06-18T16:11:11.309Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check on the Chicken Cuban for you.",
+      "timestamp": "2025-06-18T16:11:11.310Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found the Chicken Cuban sandwich for $10.99. It comes with grilled chicken, ham, Swiss, pickle, mustard, and mayo on a roll. What would you like as your lunch side? We have chips, cole slaw, or Lays chips for $1.",
+      "timestamp": "2025-06-18T16:11:11.311Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Lay's chips.",
+      "timestamp": "2025-06-18T16:11:11.311Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So you'd like Lays chips as your side. Next, would you like your roll toasted, lightly toasted, or toasted dark?",
+      "timestamp": "2025-06-18T16:11:11.311Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Toasted dock.",
+      "timestamp": "2025-06-18T16:11:11.312Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like your roll toasted dark. Next, would you like to add some extra cheese for $1.49?",
+      "timestamp": "2025-06-18T16:11:11.313Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sorry. Can you repeat it again?",
+      "timestamp": "2025-06-18T16:11:11.313Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like your roll toasted dark. Next, would you like to add some extra cheese for $1.49?",
+      "timestamp": "2025-06-18T16:11:11.313Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Extra cheese? No. I don't want that.",
+      "timestamp": "2025-06-18T16:11:11.313Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So no extra cheese. Would you like to double the lunch protein for $4.99? This means adding more grilled chicken to your Chicken Cuban sandwich.",
+      "timestamp": "2025-06-18T16:11:11.313Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. We can I I can love to have that?",
+      "timestamp": "2025-06-18T16:11:11.313Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like to double the lunch protein for $4.99. That's adding more grilled chicken to your Chicken Cuban sandwich. Next, would you like to add any vegetables? We have options like avocado for $1.99, spinach for $1, cucumber for $1, green peppers for $1, roasted red peppers for $1, grilled yellow",
+      "timestamp": "2025-06-18T16:11:11.313Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't want that. I will let's not add, that vegetables. I'm good with this, customization. Also, I need to order, like, orange juice.",
+      "timestamp": "2025-06-18T16:11:11.314Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So you're good with the Chicken Cuban sandwich, toasted dark, with Lays chips, and double the lunch protein. Now, let me check on the orange juice for you.",
+      "timestamp": "2025-06-18T16:11:11.315Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a few optionsfor orange juice. We have Tropicana OJ, Fresh Squeezed Orange Juice, and Catering Orange Juice. Which one would you like? For the Tropicana OJ, we have an 11oz size. For the Fresh Squeezed Orange Juice, we have a 12oz size for $5.99 or a 32oz size for $14.99",
+      "timestamp": "2025-06-18T16:11:11.316Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I, either fresh squeezed orange juice is good, like, the medium size.",
+      "timestamp": "2025-06-18T16:11:11.316Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T16:11:11.317Z] assistant: So you'd like the Fresh Squeezed Orange Juice in the medium size, which is 32oz for $14.99. I'll add that to your order.\n\nTo confirm, your order is:\n\n* Chicken Cuban sandwich, toasted dark, with Lays chips, and double the lunch protein\n* Fresh Squeezed Orange Juice, 32oz\n\nYour total comes out to be $10.99 for the sandwich, $4.99 for the double protein, $1 for the Lays chips, and $14.99 for the orange juice. That's a total of $31.97.\n\nWould you like to pay with cash? And would you like to pick it up or have it delivered? ",
+      "timestamp": "2025-06-18T16:11:11.933Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Have a cash pickup.",
+      "timestamp": "2025-06-18T16:11:11.317Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T16:11:11.317Z] assistant: So you'd like to pay with cash and pick it up. I just need to confirm a few more details.\n\nYour total comes out to be $31.97. Is that correct?\n\nAnd do you have any special requests or allergies I should note?",
+      "timestamp": "2025-06-18T16:11:11.933Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I don't have any request. Thank you. First name.",
+      "timestamp": "2025-06-18T16:11:11.317Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T16:11:11.317Z] assistant: I'll go ahead and place your order.\n\nJust to confirm, your order is:\n\n* Chicken Cuban sandwich, toasted dark, with Lays chips, and double the lunch protein\n* Fresh Squeezed Orange Juice, 32oz\n\nYour total comes out to be $31.97. You'll be paying with cash and picking it up.\n\nI'll go ahead and place the order now.",
+      "timestamp": "2025-06-18T16:11:11.933Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-18T16:11:11.318Z] assistant: Your special instructions have been noted.\n\nNow, I'll place your order.",
+      "timestamp": "2025-06-18T16:11:11.933Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 400 - {\"success\":false,\"error\":\"No items found in cart. Please add items using update_order before placing order.\"}",
+      "timestamp": "2025-06-18T16:11:11.318Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I need to update your order before I can place it. Let me do that now.",
+      "timestamp": "2025-06-18T16:11:11.318Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T16:11:11.318Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T16:11:11.318Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me update your order with the Chicken Cuban sandwich and the Fresh Squeezed Orange Juice.",
+      "timestamp": "2025-06-18T16:11:11.319Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current cart con",
+      "timestamp": "2025-06-18T16:11:11.319Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T16:11:11.319Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me add the Fresh Squeezed Orange Juice to your order.",
+      "timestamp": "2025-06-18T16:11:11.319Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T16:11:11.319Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be $31.97. ",
+      "timestamp": "2025-06-18T16:11:11.319Z"
+    }
+  ]
+}

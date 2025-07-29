@@ -1,0 +1,105 @@
+{
+  "callId": "68791462970f265df9dee19f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T15:18:58.813Z",
+    "callEnded": "2025-07-17T15:20:35.746Z",
+    "duration": 94,
+    "from": "+353872628050",
+    "to": "+441313810000",
+    "summary": "The customer inquired about the store's hours and menu, and expressed interest in ordering for the next day."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-17T15:20:35.292Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. Where did you say you were from?",
+      "timestamp": "2025-07-17T15:20:35.293Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We are from the Manhattan Bagel store located at 1350 Galloping Hill Rd, Union, NJ 07083, USA.",
+      "timestamp": "2025-07-17T15:20:35.293Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. And what time do you open at today?",
+      "timestamp": "2025-07-17T15:20:35.293Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We are open today from 6:00 AM to 3:00 PM.",
+      "timestamp": "2025-07-17T15:20:35.293Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And your feet, Bob?",
+      "timestamp": "2025-07-17T15:20:35.293Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We're open today from 6:00 AM to 3:00 PM.",
+      "timestamp": "2025-07-17T15:20:35.293Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I don't understand. When do you close?",
+      "timestamp": "2025-07-17T15:20:35.293Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We close at 3:00 PM today.",
+      "timestamp": "2025-07-17T15:20:35.294Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Thank you. And what about tomorrow?",
+      "timestamp": "2025-07-17T15:20:35.294Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We are open 7 days a week, so tomorrow we will also be open from 6:00 AM to 3:00 PM.",
+      "timestamp": "2025-07-17T15:20:35.294Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Great. Can I order for 01:00 tomorrow?",
+      "timestamp": "2025-07-17T15:20:35.294Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For orders, we typically have a cut-off time of 2:45 PM, which is 15 minutes before closing. However, since you're asking about ordering for tomorrow, I can help you with that. What would you like to order for 1:00 PM tomorrow?",
+      "timestamp": "2025-07-17T15:20:35.294Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Well, what do you have on the menu? I don't have anything in front of me.",
+      "timestamp": "2025-07-17T15:20:35.294Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of items on our menu, including breakfast sandwiches, bagels, coffee, and more. What type of food are you in the mood for? Would you like something for breakfast, or perhaps a",
+      "timestamp": "2025-07-17T15:20:35.294Z"
+    }
+  ]
+}

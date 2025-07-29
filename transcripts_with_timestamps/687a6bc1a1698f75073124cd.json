@@ -1,0 +1,57 @@
+{
+  "callId": "687a6bc1a1698f75073124cd",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T15:44:01.041Z",
+    "callEnded": "2025-07-18T15:44:50.870Z",
+    "duration": 46,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Aksha ordered 2 brownies from Manhattan Bagel and the order was successfully placed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T15:44:50.664Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I need two basted brownie.",
+      "timestamp": "2025-07-18T15:44:50.664Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Pastry on the menu, just confirming it's available. For your Pastry, I have Blueberry, Brownie, Chocolate Chip, and Crumb Cake. You've chosen Brownie. I'll add 2 Brownies for you. Would you like anything else today?",
+      "timestamp": "2025-07-18T15:44:50.664Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-18T15:44:50.664Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:44:50.664Z] assistant: Just a moment while I add that up... \n\n",
+      "timestamp": "2025-07-18T15:44:50.870Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:44:50.664Z] assistant: Your total for 2 Brownies comes to 7 dollars and 68 cents including tax. Great! We're about to submit your order. Let me know if you want to make any changes or add anything. Otherwise, we'll proceed with placing your order.\n\n",
+      "timestamp": "2025-07-18T15:44:50.870Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Call ended before tool response was received",
+      "timestamp": "2025-07-18T15:44:50.664Z"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "callId": "686b65c445548bd51c18ee38",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-07T06:14:28.274Z",
+    "callEnded": "2025-07-07T06:18:40.046Z",
+    "duration": 249,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin placed an order for a Breakfast Bundle and a Fresh Squeezed Orange Juice at Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-07T06:18:39.751Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm going to order the first bundle and, orange juke.",
+      "timestamp": "2025-07-07T06:18:39.751Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, one Breakfast Bundle and a Fresh Squeezed Orange Juice. For the Breakfast Bundle, I'll need to get a few things. First, I'll need to get 13 bagels. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalapeno Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, Bagel Stick, and egg. Which 13 would you like? Also, for the",
+      "timestamp": "2025-07-07T06:18:39.751Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Yeah. So I want, 10 plain bagels and, one, cinnamon raisin bagels.",
+      "timestamp": "2025-07-07T06:18:39.751Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you'd like 10 Plain bagels and 1 Cinnamon Raisin bagel, and 2 tubs of cream cheese. We have Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable, Scallion/Onion Chive, Storemade Scallion, Storemade Lox Spread, Storemade Maple Raisin, Storemade Bacon Scallion, Strawberry, Honey Almond, Jalapeño Cream Cheese, and Philadelphia 8oz. Which 2 cream cheeses would you like?",
+      "timestamp": "2025-07-07T06:18:39.751Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, plain and vanilla.",
+      "timestamp": "2025-07-07T06:18:39.751Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you'd like 10 Plain bagels, 1 Cinnamon Raisin bagel, and 2 tubs of cream cheese, with the cream cheeses being Plain and Vegetable. Also, you'd like to add 4 muffins. We have Blueberry, Corn, Double Chocolate, Chocolate Chip, Cinnamon Chip, and Cranberry Orange. Which 4 muffins would you like?",
+      "timestamp": "2025-07-07T06:18:39.751Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to add chocolate chip.",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Breakfast Bundle, you'd like 10 Plain bagels, 1 Cinnamon Raisin bagel, 2 tubs of cream cheese with Plain and Vegetable, and 4 Chocolate Chip muffins. Now, let's move on to the Fresh Squeezed Orange Juice. We have two sizes available: 12oz and 32oz. Which size would you like?",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size.",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I think you meant to say you'd like the 32oz size, as that's the larger of the two options. So, to confirm, you'd like the 32oz Fresh Squeezed Orange Juice. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Now that's this is good.",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you. ",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. I have your",
+      "timestamp": "2025-07-07T06:18:39.752Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Mhmm.",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great. Placing that for you now, please hold on. ",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 402649. That's 4, 0, 2, 6, 4, 9.\", 'order_id': '402649', 'call_id': 'ac9f6aa2-f7eb-483c-a51c-00b64b308283', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197e388-e900-ddd3-b34c-13ada5308f39'}",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now ! The order number is 4, 0, 2, 6, 4, 9, and the total including taxes comes to $23.99. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment.",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. How I I'm here. How about the text link?",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You should",
+      "timestamp": "2025-07-07T06:18:39.753Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can are you sending me the link?",
+      "timestamp": "2025-07-07T06:18:39.754Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-07T06:18:39.754Z"
+    }
+  ]
+}

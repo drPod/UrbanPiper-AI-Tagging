@@ -1,0 +1,81 @@
+{
+  "callId": "686d1260d14f3abcfb184125",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T12:43:12.554Z",
+    "callEnded": "2025-07-08T12:44:53.298Z",
+    "duration": 100,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer inquired about the Breakfast Bundle and apple juice but could not find apple-related items on the menu."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T12:44:52.103Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle.",
+      "timestamp": "2025-07-08T12:44:52.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, a Breakfast Bundle. Let me get that started for you. First, I need to choose 13 bagels for the bundle. We have a wide variety to choose from, including Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, and many more. Would you like to hear some options to start with?",
+      "timestamp": "2025-07-08T12:44:52.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please tell me all the bigger types? And I want all 13 sorry. All five as blueberry, five as multigrain, and, rest three as vanilla.",
+      "timestamp": "2025-07-08T12:44:52.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see a Vanilla bagel on our menu. Let me share some options: Plain, Everything, Blueberry, Chocolate Chip, Cinnamon Raisin, Egg, Garlic, French",
+      "timestamp": "2025-07-08T12:44:52.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have apple juice?",
+      "timestamp": "2025-07-08T12:44:52.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We don't have apple juice on our menu. Let me share some options: Tropicana OJ, Fresh Squeezed Orange Juice, and we also have a variety of other beverages like coffee, tea, and lemonade. Would you like to hear more options or choose from these?",
+      "timestamp": "2025-07-08T12:44:52.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I want apple juice only.",
+      "timestamp": "2025-07-08T12:44:52.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but we don't have apple juice available on our menu. Our juice options include Tropicana OJ and Fresh Squeezed Orange Juice. Would you like to choose one of these instead?",
+      "timestamp": "2025-07-08T12:44:52.104Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "You don't have anything related to Apple?",
+      "timestamp": "2025-07-08T12:44:52.104Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see any apple-related items on our menu. Let me share some options: We have Tropicana OJ, Fresh Squeezed Orange Juice, and a variety of other beverages like coffee, tea, and lemonade. Would you like to",
+      "timestamp": "2025-07-08T12:44:52.105Z"
+    }
+  ]
+}

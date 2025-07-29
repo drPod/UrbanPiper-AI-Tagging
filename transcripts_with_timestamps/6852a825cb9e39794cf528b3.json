@@ -1,0 +1,129 @@
+{
+  "callId": "6852a825cb9e39794cf528b3",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-18T11:51:01.089Z",
+    "callEnded": "2025-06-18T11:53:51.575Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Radz ordered an Original Classic sandwich for pickup from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Tom, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-18T11:53:51.241Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Halo my name israt",
+      "timestamp": "2025-06-18T11:53:51.241Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Nice to meet you, Radz. I'm Emily, and I'll be happy to help you with your order today. Before we get started, may I just confirm that I have your name correct? You'd like me to call you Radz, right?",
+      "timestamp": "2025-06-18T11:53:51.242Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T11:53:51.242Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-18T11:53:51.242Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a Single Bagel for one dollar and forty-nine cents. What type of bagel would you like? We have many options such as Plain, Everything, Asiago, Blueberry, and more. Which one sounds good to you?",
+      "timestamp": "2025-06-18T11:53:51.243Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Air on to ada pupot Madinah",
+      "timestamp": "2025-06-18T11:53:51.243Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'd be happy to help you with that. What kind of food are you in the mood for? We have a variety of options, including sandwiches, salads, and of course,",
+      "timestamp": "2025-06-18T11:53:51.244Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you all got a red? I want break.",
+      "timestamp": "2025-06-18T11:53:51.244Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a Box of Sweets that includes breakfast",
+      "timestamp": "2025-06-18T11:53:51.245Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want breakfast sandwich.",
+      "timestamp": "2025-06-18T11:53:51.245Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found several great options for you! Our popular breakfast sandwiches include the Original Classic for seven dollars and forty-nine cents, the Egg & Cheese for four",
+      "timestamp": "2025-06-18T11:53:51.246Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Please yeah. Please add that in order.",
+      "timestamp": "2025-06-18T11:53:51.246Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your current order now has an Original Classic sandwich for seven dollars and forty-nine cents. Would you like to add anything else?",
+      "timestamp": "2025-06-18T11:53:51.247Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Nothing.",
+      "timestamp": "2025-06-18T11:53:51.247Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me confirm your order. You have an Original Classic sandwich for seven dollars and forty-nine cents, and you'd like to pick it up. Is that correct?",
+      "timestamp": "2025-06-18T11:53:51.248Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. Yes.",
+      "timestamp": "2025-06-18T11:53:51.248Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 1 3 1 5 0 7. Your order total is",
+      "timestamp": "2025-06-18T11:53:51.249Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Tell you.",
+      "timestamp": "2025-06-18T11:53:51.249Z"
+    }
+  ]
+}

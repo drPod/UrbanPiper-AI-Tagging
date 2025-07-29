@@ -1,0 +1,57 @@
+{
+  "callId": "68792bad970f265df9e31ba1",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T16:58:21.739Z",
+    "callEnded": "2025-07-17T16:59:20.446Z",
+    "duration": 50,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer initiated an order at Manhattan Bagel but the call ended before the order was placed, with the customer reminding the agent to ask for their name."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-17T16:59:20.100Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-07-17T16:59:20.100Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello! Welcome to Manhattan Bagel, I am BagelBot. What would you like to order today?",
+      "timestamp": "2025-07-17T16:59:20.100Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Actually, I'm looking to order some refreshing hard drink.",
+      "timestamp": "2025-07-17T16:59:20.100Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of refreshing drinks to choose from. What type of drink are you in the mood for? We have coffee, tea, hot chocolate, frozen drinks, and more.",
+      "timestamp": "2025-07-17T16:59:20.102Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "You have asked you have forgot to ask my name, actually.",
+      "timestamp": "2025-07-17T16:59:20.103Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Before we proceed with your order, may I have your name, please?",
+      "timestamp": "2025-07-17T16:59:20.103Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "callId": "6871fcb95560c851d6267d65",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T06:12:09.693Z",
+    "callEnded": "2025-07-12T06:13:10.736Z",
+    "duration": 57,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer inquired about a vanilla bagel but ended up ordering a Breakfast Bundle after being informed that vanilla bagel was not available."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-12T06:13:10.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Bagel box. I need a vanilla bagel with, lightly toasted and plain cream cheese with some vegetables, lettuce, tomato, and, onion.",
+      "timestamp": "2025-07-12T06:13:10.126Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see vanilla bagel on our menu. However, we do have some great options like Plain, Everything, Sesame, and Cinnamon Raisin. Which one of these sounds good to you? And I can definitely get that lightly toasted with plain cream cheese and add some",
+      "timestamp": "2025-07-12T06:13:10.126Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So can I have, breakfast bundle?",
+      "timestamp": "2025-07-12T06:13:10.127Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is a great choice. For the Breakfast Bundle, we'll need to pick exactly thirteen bagels together. Let's start with some popular ones - we have Plain, Everything, Sesame, and Cinnamon Raisin. How",
+      "timestamp": "2025-07-12T06:13:10.127Z"
+    }
+  ]
+}

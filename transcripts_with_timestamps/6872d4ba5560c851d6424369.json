@@ -1,0 +1,99 @@
+{
+  "callId": "6872d4ba5560c851d6424369",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T21:33:46.509Z",
+    "callEnded": "2025-07-12T21:35:43.862Z",
+    "duration": 115,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "Jitin placed an order for a lightly toasted Cinnamon Raisin bagel with vegetable cream cheese and a Diet Coke from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T21:35:43.613Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order cinnamon raisin bacon, lightly toasted with vegetable cream cheese.",
+      "timestamp": "2025-07-12T21:35:43.613Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect That's our Fresh Bagel with Spread - a Cinnamon Raisin bagel lightly toasted with vegetable cream cheese Anything else you'd like",
+      "timestamp": "2025-07-12T21:35:43.613Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Also, I need, Diet Coke.",
+      "timestamp": "2025-07-12T21:35:43.613Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great choice The Diet Coke and the Cinnamon Raisin bagel lightly toasted with vegetable cream cheese Anything else you'd like",
+      "timestamp": "2025-07-12T21:35:43.613Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-12T21:35:43.614Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect I have one Cinnamon Raisin bagel lightly toasted with vegetable cream cheese and one Diet Coke Now let me help you customize each one exactly how you like it",
+      "timestamp": "2025-07-12T21:35:43.614Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-12T21:35:43.614Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to item customization stage...",
+      "timestamp": "2025-07-12T21:35:43.621Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-12T21:35:43.624Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 932875. That's 9, 3, 2, 8, 7, 5.\", 'order_id': '932875', 'call_id': '376abf2c-4f72-492a-a58f-0b7520480b47', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01980090-2498-bc86-db3c-da0011373e9f'}",
+      "timestamp": "2025-07-12T21:35:43.624Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is placed successfully Your order number is 9, 3, 2, 8, 7, 5. The total including taxes comes to $8.97. You'll receive an SMS with a payment link shortly. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-12T21:35:43.625Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-12T21:35:43.625Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Thank you for choosing Manhattan Bagel. Have a great day!",
+      "timestamp": "2025-07-12T21:35:43.625Z"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "callId": "685c072132ebb07e593c14e8",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-25T14:26:41.597Z",
+    "callEnded": "2025-06-25T14:29:24.614Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The user ordered a Breakfast Bundle and customized it with 13 plain bagels, two tubs of spread (Vanilla Cream Cheese and Strawberry), and four muffins."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome back to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-25T14:29:23.690Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle.",
+      "timestamp": "2025-06-25T14:29:23.690Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-25T14:29:23.691Z] assistant: Got it. The Breakfast Bundle is a great choice. It includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). \n\nWould you like to add 4oz of premium Acme smoked nova to make it extra special for an additional $9.99?",
+      "timestamp": "2025-06-25T14:29:24.614Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let's start with the",
+      "timestamp": "2025-06-25T14:29:23.691Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't want it.",
+      "timestamp": "2025-06-25T14:29:23.691Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-25T14:29:23.691Z] assistant: Okay, got it. We'll skip the smoked nova. Now, let's start customizing your Breakfast Bundle. First up, the Bagel Dozen. You need to select exactly 13 bagels. Here are your options: Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Egg, Egg Everything, Garlic, French Toast BAGEL, Gluten Free, Jalepeño Cheddar, Multigrain Bagel, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, Sesame, Super Cinnamon, Honey Whole Wheat, Honey Whole Wheat Everything, Bialy, and Bagel Stick. \n\nWhat would you like to choose for your bagels?",
+      "timestamp": "2025-06-25T14:29:24.614Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So wait. Wait. Okay. Yeah. I'll go with the, all 13 as apple bagels.",
+      "timestamp": "2025-06-25T14:29:23.692Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but we don't have an option called \"apple bagels\" in the Bagel Dozen selection. Here are the available options again: Plain,",
+      "timestamp": "2025-06-25T14:29:23.692Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So then go with the 13 bagel, 13 plain bagel. Okay?",
+      "timestamp": "2025-06-25T14:29:23.692Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, got it. You'll have 13 Plain Bagels. Next, we need to choose 2 Tubs of Spread. The options are: Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion (Chunky), Storemade",
+      "timestamp": "2025-06-25T14:29:23.692Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So one vanilla cream cheese and, strawberry.",
+      "timestamp": "2025-06-25T14:29:23.692Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, got it. You'll have one Vanilla Cream Cheese and one Strawberry. Next, we need to choose 4 Muffins.",
+      "timestamp": "2025-06-25T14:29:23.692Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Do do you really have the vanilla green keys? Tell me.",
+      "timestamp": "2025-06-25T14:29:23.693Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, but we don't have a \"Guava Lime Cream Cheese\" option. The available spreads are: Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion",
+      "timestamp": "2025-06-25T14:29:23.693Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "When so when when I when I mentioned the greens vanilla green teas, you said, okay. So you you did not validated my option. Why?",
+      "timestamp": "2025-06-25T14:29:23.693Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're absolutely right to clarify, and I appreciate your attention to detail. Let me double-check the options for the \"Choose 2 Tubs of Spread\" group. The available options are: Plain Cream Cheese, Vegetable Cream Cheese, Store Made Vegetable (Chunky), Scallion/Onion Chive, Storemade Scallion",
+      "timestamp": "2025-06-25T14:29:23.693Z"
+    }
+  ]
+}

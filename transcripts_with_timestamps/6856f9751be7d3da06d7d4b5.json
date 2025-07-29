@@ -1,0 +1,99 @@
+{
+  "callId": "6856f9751be7d3da06d7d4b5",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T18:27:01.931Z",
+    "callEnded": "2025-06-21T18:28:53.153Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin ordered an Omelet Wrap with Grilled Chicken, American Cheese, Mustard, Green Peppers, and a Wheat tortilla, but the order placement failed due to technical issues."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T18:28:52.865Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Omelette wrap.",
+      "timestamp": "2025-06-21T18:28:52.865Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Omelet Wrap, excellent choice. That's one of our popular items with 3 eggs, cheese, and your choice of meat in a tortilla. Let me get the options for your omelet wrap...",
+      "timestamp": "2025-06-21T18:28:52.865Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Omelet Wrap, let's start with the meat. We have several options like Bacon, Pork Roll, Sausage, Ham, Steak, Deli Turkey, Turkey Bacon, Turkey Sausage, Pastrami, and Grilled Chicken. Which one would you like?",
+      "timestamp": "2025-06-21T18:28:52.866Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Grilled chicken. I want American cheese, mustard condiment, green pepper as vegetable, and wheat tortilla.",
+      "timestamp": "2025-06-21T18:28:52.866Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, for your Omelet Wrap, you'd like to have Grilled Chicken, American Cheese, Mustard as the condiment, Green Peppers as the vegetable, and a Wheat tortilla. Perfect, let me add that to your order...",
+      "timestamp": "2025-06-21T18:28:52.866Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $13.98",
+      "timestamp": "2025-06-21T18:28:52.866Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the Omelet Wrap to your order with Grilled Chicken, American Cheese, Mustard, Green Peppers, and a Wheat tortilla. Your total comes out to be $13.98. What else can I get for you today?",
+      "timestamp": "2025-06-21T18:28:52.867Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And that's all. You can place the order now.",
+      "timestamp": "2025-06-21T18:28:52.867Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-21T18:28:52.867Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: Tool timed out",
+      "timestamp": "2025-06-21T18:28:52.867Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize, but it seems like there was an issue with placing your order. Let me try again. Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-21T18:28:52.867Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-21T18:28:52.868Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize, but it seems like there",
+      "timestamp": "2025-06-21T18:28:52.868Z"
+    }
+  ]
+}

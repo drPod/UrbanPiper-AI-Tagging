@@ -1,0 +1,81 @@
+{
+  "callId": "686dc85cd14f3abcfb262d69",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T01:39:40.699Z",
+    "callEnded": "2025-07-09T01:41:32.479Z",
+    "duration": 109,
+    "from": "+19737032606",
+    "to": "+16204558091",
+    "summary": "The customer placed an order for multiple bagel sandwiches, a soda, and a Snapple."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Akram Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T01:41:31.992Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get a Taylor ham, egg, and cheese on a plain bagel? One plain bagel with cream cheese, one Manhattan cheesesteak, one Pepsi can soda. Let me also get, one snap of lemon.",
+      "timestamp": "2025-07-09T01:41:31.992Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And let me also have a Taylor ham, egg, and cheese on a plain toasted scoop bagel. One toasted sesame bagel with vegetable cream cheese. That's it.",
+      "timestamp": "2025-07-09T01:41:31.992Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me go through your order step by step to make sure everything is perfect. First, you'd like a Taylor Ham Egg & Cheese on a plain bagel. For this, I need to confirm the bagel is plain and that you'd like it toasted. You also want it scooped, so I'll note that. Next, you'd like one plain bagel with cream cheese. I'll make sure to get the cream cheese flavor you want and check if you'd like it on a toasted or untoasted bagel. Then, you want one Manhattan Cheesesteak. I'll confirm the bread choice",
+      "timestamp": "2025-07-09T01:41:31.992Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "#",
+      "timestamp": "2025-07-09T01:41:31.992Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I have your order for the Taylor Ham Egg & Cheese on a plain bagel, one plain bagel with cream cheese, one Manhattan Cheesesteak, one Pepsi can soda, one Snapple lemon, one Taylor Ham Egg & Cheese on a plain toasted scooped bagel, and one toasted ",
+      "timestamp": "2025-07-09T01:41:31.992Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-07-09T01:41:31.992Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I am with you.",
+      "timestamp": "2025-07-09T01:41:31.992Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, let me make sure I have everything right. You'd like two Taylor Ham Egg & Cheese sandwiches—one on a plain bagel and one on a plain toasted scooped bagel. You also want a plain bagel with",
+      "timestamp": "2025-07-09T01:41:31.993Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "4",
+      "timestamp": "2025-07-09T01:41:31.993Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T01:41:31.993Z"
+    }
+  ]
+}

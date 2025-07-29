@@ -1,0 +1,105 @@
+{
+  "callId": "6855b77f1be7d3da06bb7a6f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-20T19:33:19.288Z",
+    "callEnded": "2025-06-20T19:34:44.016Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer, Gaurav, inquired about a hot latte at Manhattan Bagel but the call ended abruptly without completing the order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, Welcome to Manhattan Bagel. It is great to see you again. How can I help you today?",
+      "timestamp": "2025-06-20T19:34:43.655Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get hot latte, please?",
+      "timestamp": "2025-06-20T19:34:43.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what I can find for you. ",
+      "timestamp": "2025-06-20T19:34:43.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:34:43.655Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:34:43.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:34:43.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:34:43.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:34:43.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a hot latte for $3.99. What size would you like? We have small, medium, or large.",
+      "timestamp": "2025-06-20T19:34:43.656Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-20T19:34:43.657Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. I'm still with you.",
+      "timestamp": "2025-06-20T19:34:43.657Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what I can find for you. ",
+      "timestamp": "2025-06-20T19:34:43.657Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm searching for \"hot latte\" in our menu. Give me just a moment...",
+      "timestamp": "2025-06-20T19:34:43.657Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I found a hot latte for $3.99. What size would you like? We have small, medium, or large.",
+      "timestamp": "2025-06-20T19:34:43.657Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I was just wanting to check why",
+      "timestamp": "2025-06-20T19:34:43.657Z"
+    }
+  ]
+}

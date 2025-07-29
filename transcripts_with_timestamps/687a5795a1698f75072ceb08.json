@@ -1,0 +1,45 @@
+{
+  "callId": "687a5795a1698f75072ceb08",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T14:17:57.181Z",
+    "callEnded": "2025-07-18T14:18:42.715Z",
+    "duration": 43,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer attempted to order a Palmouse Egg Sandwich, which was not found on the menu, and the agent offered to help with alternative egg sandwich options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T14:18:42.365Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I have palm mouse egg sandwich, please?",
+      "timestamp": "2025-07-18T14:18:42.365Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Palmouse Egg Sandwich on the menu, just confirming it's available. Now, I'll help you customize it. For your bagel, I have Plain, Everything, Sesame, or Blueberry. Want to hear",
+      "timestamp": "2025-07-18T14:18:42.366Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please, check the menu again properly? Because I think it's not there.",
+      "timestamp": "2025-07-18T14:18:42.366Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check the menu again. I've checked the menu, and it seems that \"Palmouse Egg Sandwich\" is not available. We have other egg sandwich options like the Original",
+      "timestamp": "2025-07-18T14:18:42.367Z"
+    }
+  ]
+}

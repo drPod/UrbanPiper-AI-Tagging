@@ -1,0 +1,57 @@
+{
+  "callId": "685a951ef664fde5010eff1f",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-24T12:07:58.330Z",
+    "callEnded": "2025-06-24T12:09:15.945Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin placed an order for a Big Breakfast Burrito at Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-24T12:09:15.754Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Allô.",
+      "timestamp": "2025-06-24T12:09:15.754Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello. Welcome to",
+      "timestamp": "2025-06-24T12:09:15.754Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? Hello? Can you hear me?",
+      "timestamp": "2025-06-24T12:09:15.754Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can hear you just fine, Jitin. How can I help you with your order today?",
+      "timestamp": "2025-06-24T12:09:15.754Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I like to order big breakfast burrito. Hello?",
+      "timestamp": "2025-06-24T12:09:15.754Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Big Breakfast Burrito, excellent choice. That's one of our hearty options with bacon, sausage, eggs, salsa, jalapeño cream",
+      "timestamp": "2025-06-24T12:09:15.754Z"
+    }
+  ]
+}

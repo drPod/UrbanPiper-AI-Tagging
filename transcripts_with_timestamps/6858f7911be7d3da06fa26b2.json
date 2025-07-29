@@ -1,0 +1,63 @@
+{
+  "callId": "6858f7911be7d3da06fa26b2",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T06:43:29.600Z",
+    "callEnded": "2025-06-23T06:45:11.242Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jiten inquired about the price of the Big Breakfast Burrito and the sizes available for hot coffee at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T06:45:11.035Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is the price of big breakfast burrito?",
+      "timestamp": "2025-06-23T06:45:11.035Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Big Breakfast Burrito is priced at $9.49. It comes with bacon, sausage, scrambled eggs, salsa, jalapeño cream cheese, cheddar cheese, and a hash brown in a flour tortilla. Would you like to order one?",
+      "timestamp": "2025-06-23T06:45:11.035Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And, what are the sizes you have in coffee? Like, if I want, hot coffee, can you tell me the size?",
+      "timestamp": "2025-06-23T06:45:11.035Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-23T06:45:11.035Z] assistant: For hot coffee, we have a variety of sizes. Let me get the options for you... \n\nWe have small, medium, and large sizes for our hot coffee. Which one would you like?",
+      "timestamp": "2025-06-23T06:45:11.242Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And what is the, you know, exact, you know, size? Can can you tell me, like, how much, it will, contain coffee on the device?",
+      "timestamp": "2025-06-23T06:45:11.036Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Our hot coffee sizes are based on ounces. We have a small size which is 12 ounces, a medium size which is 16 ounces, a large size which is 20 ounces, and an extra large size which is 24 ounces. Which one of these sizes sounds good to you?",
+      "timestamp": "2025-06-23T06:45:11.036Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T06:45:11.036Z"
+    }
+  ]
+}

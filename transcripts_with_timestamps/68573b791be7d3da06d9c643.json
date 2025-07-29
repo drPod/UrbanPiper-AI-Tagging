@@ -1,0 +1,27 @@
+{
+  "callId": "68573b791be7d3da06d9c643",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T23:08:41.432Z",
+    "callEnded": "2025-06-21T23:09:13.436Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The call to Manhattan Bagel ended without placing an order as the customer did not respond with their order details."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Alex, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T23:09:13.335Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-21T23:09:13.335Z"
+    }
+  ]
+}

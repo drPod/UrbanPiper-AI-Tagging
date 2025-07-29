@@ -1,0 +1,129 @@
+{
+  "callId": "6878570c73d0cf0f7e893cb9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T01:51:08.164Z",
+    "callEnded": "2025-07-17T01:52:42.633Z",
+    "duration": 91,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer, Jitin, called Manhattan Bagel but did not need to place an order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-17T01:52:42.322Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is the time currently?",
+      "timestamp": "2025-07-17T01:52:42.322Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The current time is 8:51 PM.",
+      "timestamp": "2025-07-17T01:52:42.322Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Eight to 01:50PM, and it is IST. Right?",
+      "timestamp": "2025-07-17T01:52:42.322Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The current time is 8:51 PM, and yes, it is currently evening.",
+      "timestamp": "2025-07-17T01:52:42.322Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Is it IST, PST? What time zone you are in?",
+      "timestamp": "2025-07-17T01:52:42.323Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I am in the Eastern Time Zone (ET).",
+      "timestamp": "2025-07-17T01:52:42.323Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. And city? It is Chicago or what?",
+      "timestamp": "2025-07-17T01:52:42.323Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The store is located in Union, New Jersey.",
+      "timestamp": "2025-07-17T01:52:42.323Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-07-17T01:52:42.323Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, are you ready to place your order or do you have any questions about our menu?",
+      "timestamp": "2025-07-17T01:52:42.323Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-17T01:52:42.324Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's get started then.",
+      "timestamp": "2025-07-17T01:52:42.324Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have no. I don't have any questions about Gmail.",
+      "timestamp": "2025-07-17T01:52:42.324Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "What would you",
+      "timestamp": "2025-07-17T01:52:42.324Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So",
+      "timestamp": "2025-07-17T01:52:42.324Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, what can I get for you today? Would you like to order something from our menu?",
+      "timestamp": "2025-07-17T01:52:42.325Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't need anything from you right now.",
+      "timestamp": "2025-07-17T01:52:42.325Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-17T01:52:42.325Z"
+    }
+  ]
+}

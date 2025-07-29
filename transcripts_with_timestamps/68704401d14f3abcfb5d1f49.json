@@ -1,0 +1,75 @@
+{
+  "callId": "68704401d14f3abcfb5d1f49",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-10T22:51:45.013Z",
+    "callEnded": "2025-07-10T22:52:57.870Z",
+    "duration": 70,
+    "from": "+16023807900",
+    "to": "+16204558091",
+    "summary": "The customer called to inquire about the status of their order, but unfortunately, the order was not found in the system."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-10T22:52:56.520Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I placed an order earlier, but I didn't get it.",
+      "timestamp": "2025-07-10T22:52:56.521Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'd be happy to help you with that. To check on your order, could you please tell me the full order ID or the last four digits of your order ID?",
+      "timestamp": "2025-07-10T22:52:56.521Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "It's 8 9 10.",
+      "timestamp": "2025-07-10T22:52:56.521Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check on that for you. ",
+      "timestamp": "2025-07-10T22:52:56.522Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize, but it seems that the order number \"8910\" is not found in our system. If you could provide more details or check your order confirmation, I'd be happy to try and assist you further.",
+      "timestamp": "2025-07-10T22:52:56.523Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can you try order number, 138910?",
+      "timestamp": "2025-07-10T22:52:56.523Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check on that for you. ",
+      "timestamp": "2025-07-10T22:52:56.523Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize, but it seems that the order number \"138910\" is not found in our system. If you could provide more details or check your order confirmation, I'd be happy to try and assist you further.",
+      "timestamp": "2025-07-10T22:52:56.524Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Thank you.",
+      "timestamp": "2025-07-10T22:52:56.525Z"
+    }
+  ]
+}

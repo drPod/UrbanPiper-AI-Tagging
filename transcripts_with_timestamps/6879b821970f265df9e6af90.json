@@ -1,0 +1,45 @@
+{
+  "callId": "6879b821970f265df9e6af90",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T02:57:37.568Z",
+    "callEnded": "2025-07-18T02:58:41.707Z",
+    "duration": 61,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The customer attempted to order a Big Breakfast Burrito but was informed it was out of stock and offered alternative breakfast options."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Aksha Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T02:58:41.446Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. Can I get big breakfast burrito?",
+      "timestamp": "2025-07-18T02:58:41.447Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That would be our Big Breakfast Burrito on the menu. I'll add the Big Breakfast Burrito for you. Now, let's customize it. The Big Breakfast Burrito comes with bacon, sausage, scrambled eggs, salsa, jalapeno cream cheese, cheddar cheese, and a hash brown in a flour tortilla. Would you like to make any changes or add anything to it?",
+      "timestamp": "2025-07-18T02:58:41.447Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you, check the menu? Because whether it's stock in or stock out, I don't know.",
+      "timestamp": "2025-07-18T02:58:41.447Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. According to our menu, the Big Breakfast Burrito is currently out of stock. I apologize for the inconvenience. We have other breakfast options available, such as the Original Classic, Spinach Bacon Croissant, or the Farmhouse Egg Sandwich. Which one of ",
+      "timestamp": "2025-07-18T02:58:41.447Z"
+    }
+  ]
+}

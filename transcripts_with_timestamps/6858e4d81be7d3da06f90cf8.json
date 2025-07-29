@@ -1,0 +1,57 @@
+{
+  "callId": "6858e4d81be7d3da06f90cf8",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T05:23:36.787Z",
+    "callEnded": "2025-06-23T05:25:25.556Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jiten inquired about ordering a vegetarian sandwich with cheddar cheese and avocado on a toasted bagel for his wife."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T05:25:25.340Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order, a sandwich which has plain cream cheese, grilled chicken, and avocado or bagel. Can you please get me a sandwich?",
+      "timestamp": "2025-06-23T05:25:25.340Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have for you. We have a few options that might fit what you're looking for. One of our popular items is the Avocado Veg Out sandwich, which comes with avocado, spinach, tomato, onions, lettuce, cucumber, and veggie cream cheese on a sesame bagel.",
+      "timestamp": "2025-06-23T05:25:25.340Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Actually, my wife is looking for some sandwich, you know, option, which is vegetarian and also has, some cheddar cheese and, yeah, a little toasted.",
+      "timestamp": "2025-06-23T05:25:25.340Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For a vegetarian sandwich with cheddar cheese and toasted, I think our Avocado Toast might be a great option. It comes with avocado, everything bagel seasoning on multigrain toast or any bagel, and we can definitely add cheddar cheese to it. We can also toast it for you. Would you like to try that?",
+      "timestamp": "2025-06-23T05:25:25.340Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Are you sure, like, you have the tendency with avocado?",
+      "timestamp": "2025-06-23T05:25:25.340Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your bagel choices... We do have a Cheese Bagel that comes with two slices of cheese on a bagel, and we can add avocado to it. We can also toast it for you. Would you like to try that?",
+      "timestamp": "2025-06-23T05:25:25.340Z"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "callId": "6858f6d21be7d3da06fa115b",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T06:40:18.188Z",
+    "callEnded": "2025-06-23T06:42:58.315Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jiten ordered a medium hot decaf coffee with Half & Half from Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T06:42:57.961Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order hot coffee.",
+      "timestamp": "2025-06-23T06:42:57.961Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The hot coffee. Let me get the options for your coffee... ",
+      "timestamp": "2025-06-23T06:42:57.961Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the size of your hot coffee. We have Small 12oz, Medium 16oz, Large 20oz, and X Large 24oz. Which one would you like?",
+      "timestamp": "2025-06-23T06:42:57.961Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want, medium size.",
+      "timestamp": "2025-06-23T06:42:57.961Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "A medium 16oz hot coffee. Now, let's talk about the roast. We have House Blend, Vanilla Hazelnut Blend, Dark Roast, Decaf, and Tea. Which roast would you prefer?",
+      "timestamp": "2025-06-23T06:42:57.961Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T06:42:57.962Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Decaf it is. Next, would you like to add any milk to your decaf coffee? We have Regular Milk, Half & Half, Skim, Almond, Oat Milk, and Soy. Which one would you like?",
+      "timestamp": "2025-06-23T06:42:57.962Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Love to have half and half milk.",
+      "timestamp": "2025-06-23T06:42:57.962Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Half & Half in your decaf coffee. Now, let's consider sweeteners and syrups. We have Sugar, Sweet & Low, Equal, Splenda, Raw Sugar, and various syrups like Pumpkin, Caramel, Hazelnut, and Vanilla. Would you like to add any of these to your coffee?",
+      "timestamp": "2025-06-23T06:42:57.962Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I'm good with this much, only.",
+      "timestamp": "2025-06-23T06:42:57.962Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to recap, you'd like a medium 16oz hot decaf coffee with Half & Half, and no additional sweeteners or syrups. I'll go ahead and add that to your order. ",
+      "timestamp": "2025-06-23T06:42:57.962Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $4.98",
+      "timestamp": "2025-06-23T06:42:57.963Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total comes out to be $2.49. Would you like to place your order or add anything else?",
+      "timestamp": "2025-06-23T06:42:57.963Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. For now, this much is fine.",
+      "timestamp": "2025-06-23T06:42:57.963Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you... ",
+      "timestamp": "2025-06-23T06:42:57.963Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 587160. That's 5, 8, 7, 1, 6, 0. Total: $5.48 (subtotal 4.98 dollars plus 0.50 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-23T06:42:57.963Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Order placed successfully. Your order number is 5, 8, 7, 1, 6, 0. Your total comes out to be 4 dollars and 98 cents plus 0 dollars and 50 cents tax. Thank you for your order, Jiten. Have a great day.",
+      "timestamp": "2025-06-23T06:42:57.963Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T06:42:57.964Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Jiten. It was a pleasure helping you with your order. If you need anything else or have any other questions, feel free to ask. Otherwise, we'll get your medium hot decaf coffee with Half & Half ready for you. Have a great day and we'll see you soon.",
+      "timestamp": "2025-06-23T06:42:57.964Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-23T06:42:57.964Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It was nice assisting you. Have a great day and enjoy your coffee. Bye for now. ",
+      "timestamp": "2025-06-23T06:42:57.964Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-23T06:42:57.964Z"
+    }
+  ]
+}

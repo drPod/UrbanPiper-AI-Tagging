@@ -1,0 +1,177 @@
+{
+  "callId": "686d2fccd14f3abcfb1c787c",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-08T14:48:44.881Z",
+    "callEnded": "2025-07-08T14:51:10.893Z",
+    "duration": 144,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "The customer placed a Breakfast Bundle order and confirmed the details before finalizing the order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello M G Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I order a breakfast bundle?",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese (your choice of flavors), and 4 muffins (your choice). Would you like to hear the available bagel options first?",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me, 4 Sesame, four everything, four Jalapeno, and one California.",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it! For the bagels, you'll have four sesame, four everything, four jalapeño, and one California. Would you like to choose the flavors for the two tubs of cream cheese next?",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me one, plane and one scallion.",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, your cream cheese flavors will be one plain and one scallion. Now, for the muffins, would you like to hear the available options?",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me all chocolate.",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, you'll have four chocolate muffins. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's all.",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, so I have the Breakfast Bundle with four sesame, four everything, four jalapeño, and one California bagels, one plain and one scallion cream cheese, and four chocolate muffins. Is that all for you today?",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "That's all, Kumble.",
+      "timestamp": "2025-07-08T14:51:10.423Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-08T14:51:10.423Z] assistant: Perfect, let me get that all put together for you. \n\n",
+      "timestamp": "2025-07-08T14:51:10.893Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright M G. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-08T14:51:10.424Z] assistant: Great. Placing that for you now, please hold on.\n\n\n",
+      "timestamp": "2025-07-08T14:51:10.893Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 101170. That's 1, 0, 1, 1, 7, 0.\", 'order_id': '101170', 'call_id': '37a80c61-6db9-4e0c-8306-d00660f1fdbe', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197ea84-7429-883d-3062-603bd3f281bd'}",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now! The order number is 1, 0, 1, 1, 7, 0, and the total including taxes comes to $48.25. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can assist you with today?",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it. Thank you.",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome! Have a great day!",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Thank you.",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome! Have a great day!",
+      "timestamp": "2025-07-08T14:51:10.424Z"
+    }
+  ]
+}

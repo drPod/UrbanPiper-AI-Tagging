@@ -1,0 +1,45 @@
+{
+  "callId": "68722e8b5560c851d62fb4f9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T09:44:43.289Z",
+    "callEnded": "2025-07-12T09:45:22.164Z",
+    "duration": 33,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "The customer attempted to order an Avocado BLT Sandwich, which is not on the menu, and the conversation was cut short."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T09:45:22.008Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Looking to order a big, avocado BLT sandwich.",
+      "timestamp": "2025-07-12T09:45:22.008Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Garden Avocado Egg White Sandwich, you'll need to pick just one bagel for your sandwich. We have Plain, Everything,",
+      "timestamp": "2025-07-12T09:45:22.009Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I said avocado BLD sandwich.",
+      "timestamp": "2025-07-12T09:45:22.009Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Avocado BLT Sandwich on our menu. However, we do have some great options like the Big City BLT,",
+      "timestamp": "2025-07-12T09:45:22.009Z"
+    }
+  ]
+}

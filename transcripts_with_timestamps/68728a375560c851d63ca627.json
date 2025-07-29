@@ -1,0 +1,57 @@
+{
+  "callId": "68728a375560c851d63ca627",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T16:15:51.437Z",
+    "callEnded": "2025-07-12T16:16:37.637Z",
+    "duration": 44,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jutin ordered a Spicy Grilled Chicken Wrap from Manhattan Bagel"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T16:16:36.707Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have, spicy, grilled chicken?",
+      "timestamp": "2025-07-12T16:16:36.708Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We do have a Spicy Grilled Chicken Wrap. It's grilled chicken, lettuce, tomato, roasted red peppers, Provolone Cheese, and",
+      "timestamp": "2025-07-12T16:16:36.708Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And what is the price?",
+      "timestamp": "2025-07-12T16:16:36.708Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Spicy Grilled Chicken Wrap is $10.49. You'll need to pick just one wrap choice for your Spicy Grilled Chicken Wrap. We have Flour or Wheat. Which would you prefer?",
+      "timestamp": "2025-07-12T16:16:36.708Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Bye.",
+      "timestamp": "2025-07-12T16:16:36.709Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'll need to pick just one lunch side for",
+      "timestamp": "2025-07-12T16:16:36.709Z"
+    }
+  ]
+}

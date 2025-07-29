@@ -1,0 +1,75 @@
+{
+  "callId": "68583a8b1be7d3da06f5be69",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-22T17:16:59.686Z",
+    "callEnded": "2025-06-22T17:19:41.632Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer inquired about ordering Avocado Toast and discussed bagel options with the assistant."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jiten, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-22T17:19:41.182Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Looking to order avocado toast.",
+      "timestamp": "2025-06-22T17:19:41.182Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Avocado Toast, excellent choice. That's one of our popular items, with fresh avocado spread on multigrain toast or any bagel of your choice. Let me get the options for your avocado toast...",
+      "timestamp": "2025-06-22T17:19:41.182Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Avocado Toast, let's start with the **Bagel Choice**. We have Plain, Everything, Asiago, Blueberry, California, Cheesy Jalepeño Bacon Roll, Cheesy Hashbrown Roll, Chocolate Chip, Cinnamon Raisin, Croissant, Egg, Egg Everything, English Muffin, French Toast BAGEL, French Toast ROLL, Garlic, Gluten Free, Honey Whole Wheat, Honey Whole Wheat Everything, Jalepeño Cheddar, Marble Rye Bread, Multigrain Bagel, Multigrain Bread, Onion, Poppy, Pumpernickel, Rainbow Bagel, Rye, Roll, Salt, ",
+      "timestamp": "2025-06-22T17:19:41.183Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Understood. Okay. Okay. Okay. Okay. Fine. Fine. Fine. Understood. So can I get the, English muffin and, blueberry, two bagels?",
+      "timestamp": "2025-06-22T17:19:41.184Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Avocado Toast, you'd like to have it on an **English Muffin** and also a **Blueberry** bagel. Let's move on to the **Condiments**. We have Salt, Pepper, Ketchup, Mayo, Mustard, Hot Sauce, Tomato Spread, Butter, Cream Cheese, Flavor CC, and Jelly. Which one of these would you like to add?",
+      "timestamp": "2025-06-22T17:19:41.184Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "But, but, I want to know, can I, select more than one bagel? Like, you might you you just did that.",
+      "timestamp": "2025-06-22T17:19:41.184Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You want to know if you can select more than one bagel option. Yes, you can definitely choose multiple bagel types for your Avocado Toast. So, you've already mentioned English Muffin and Blueberry. Would you like to add any other bagel types from the list, such as Everything, Asiago, or maybe a Croissant?",
+      "timestamp": "2025-06-22T17:19:41.184Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hold on, please. One second. Let me check how many bagels I can select in avocado toast.",
+      "timestamp": "2025-06-22T17:19:41.184Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me just check that for you. For the Avocado Toast, you can actually choose **one** bagel type. I apologize for the confusion earlier when I seemed to allow multiple selections. To confirm, you can pick one bagel from the options like English Muffin, Blueberry, Everything, or any other that you prefer. Which one would you like to go with?",
+      "timestamp": "2025-06-22T17:19:41.184Z"
+    }
+  ]
+}

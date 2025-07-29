@@ -1,0 +1,105 @@
+{
+  "callId": "6856a6781be7d3da06ca701d",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T12:32:56.882Z",
+    "callEnded": "2025-06-21T12:34:39.679Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Jitin placed an order for a medium hot latte with half and half milk and whipped cream for pickup at the Union, NJ location."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T12:34:39.436Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order hot latte, medium size, half and half milk.",
+      "timestamp": "2025-06-21T12:34:39.436Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "A medium hot",
+      "timestamp": "2025-06-21T12:34:39.436Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And, the screen. The screen as well. Yeah.",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like a medium hot latte with half and half milk and whipped cream, correct? Let me just add that to your order. ",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $0.00",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $0.00. What else can I get you?",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it for now.",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, so I've got your medium hot latte with half and half milk and whipped cream. Before I place the order, I just want to confirm a few details. Your name is Jitin, right? And you'd like to pick up your order at our Union, NJ location? Also, do you have any special requests or allergies I should note? ",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added your special instructions to the order.",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't have any. Thank you so much for asking.",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added that to your order. Now, let me just place this order for you. ",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully! Your order number is 674179. Total: $0.00. Special instructions: None. Thank you for your order!",
+      "timestamp": "2025-06-21T12:34:39.437Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order has been placed successfully. Your order number is 674179. We'll have your medium hot latte with half and half milk and whipped cream ready for pickup at our Union, NJ location. If you need any further assistance, feel free to ask. Have a great day, Jitin! ",
+      "timestamp": "2025-06-21T12:34:39.438Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-21T12:34:39.438Z"
+    }
+  ]
+}

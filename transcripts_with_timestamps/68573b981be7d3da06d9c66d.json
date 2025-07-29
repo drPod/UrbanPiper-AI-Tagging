@@ -1,0 +1,153 @@
+{
+  "callId": "68573b981be7d3da06d9c66d",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T23:09:12.485Z",
+    "callEnded": "2025-06-21T23:11:21.618Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The customer attempted to order a Medium 24oz Unsweetened Ice Tea, but the call ended due to technical difficulties with placing the order."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Alex, Welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T23:11:21.326Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order iced tea unsweetened.",
+      "timestamp": "2025-06-21T23:11:21.326Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Ice Tea Unsweetened, great choice. Let me get the options for you. We have a few flavors for our iced tea. Let me see what we have.",
+      "timestamp": "2025-06-21T23:11:21.326Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the size of your Ice Tea Unsweetened. We have Small 16oz, Medium 24oz, and Large 32oz. Which size would you like?",
+      "timestamp": "2025-06-21T23:11:21.326Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size.",
+      "timestamp": "2025-06-21T23:11:21.326Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "A Medium 24oz Ice Tea Unsweetened, great choice. Now, let's move on to the Milk Choice. We have Regular Milk, Half & Half, Skim, Almond, Oat Milk, and Soy. Which milk would you",
+      "timestamp": "2025-06-21T23:11:21.326Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I don't I I don't need milk. I said I don't need milk. I need unsweetened.",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-06-21T23:11:21.327Z] assistant: You're right, you did order an Unsweetened Ice Tea, so you wouldn't need any milk or sweetener. Let's move on to the next option. We have a variety of Sweetener & Syrups, but since you've ordered Unsweetened, I'll skip that for now. \n\nFor your Ice Tea, would you like to confirm that you'd like the Medium 24oz Unsweetened Ice Tea as is?",
+      "timestamp": "2025-06-21T23:11:21.618Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Iya",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order. ",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll make sure the kitchen knows you'd like your Ice Tea Unsweetened. ",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I've added your special instructions to the order.",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you. ",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your cart is empty. Please add items to your cart before placing an order.",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "It seems like there was an issue with your order. Let me try again to add your Medium 24oz Unsweetened Ice Tea to the cart. ",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the issue earlier with placing your order. Let me try again to add your Medium 24oz Unsweetened Ice Tea to the cart. ",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "ERROR: 500 - Internal Server Error",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's try to place your order again. ",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your cart is empty. Please add items to your cart before placing an order.",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I apologize for the inconvenience, but it seems like we're having some technical difficulties with your order. I'm going to go ahead and hang up the call now. ",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-21T23:11:21.327Z"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "callId": "6866ba1712c193450e1978a9",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-03T17:12:55.165Z",
+    "callEnded": "2025-07-03T17:16:06.790Z",
+    "duration": 240,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "Jitin placed an order for a Garlic Bagel with strawberry spread and grilled chicken, toasted."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm Emily an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-03T17:16:06.341Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? Can you hear me?",
+      "timestamp": "2025-07-03T17:16:06.341Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, I can hear you clearly. Hello! Welcome to Manhattan Bagel. What would you like to order today?",
+      "timestamp": "2025-07-03T17:16:06.341Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "My name is Jitin, and I would like to order some, bagel with, like, garlic bagel and, grilled chicken and dark dark toasted and one coffee as well.",
+      "timestamp": "2025-07-03T17:16:06.342Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-03T17:16:06.342Z] assistant: Got it, Jitin! You'd like a Garlic Bagel with grilled chicken, and you'd like it toasted. Let me check our menu to make sure I have the details right.\n\nFor the Garlic Bagel, you can choose from a variety of spreads or additional toppings. Would you like to hear the available options for spreads or any extra additions to your bagel?",
+      "timestamp": "2025-07-03T17:16:06.790Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sorry. Pardon? Can you please repeat it again?",
+      "timestamp": "2025-07-03T17:16:06.342Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-03T17:16:06.342Z] assistant: Of course! You'd like a Garlic Bagel with grilled chicken, and you'd like it toasted. \n\nWould you like to hear the available options for spreads or any extra additions to your bagel?",
+      "timestamp": "2025-07-03T17:16:06.790Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "As in, what",
+      "timestamp": "2025-07-03T17:16:06.343Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure thing! For your Garlic Bagel, you can choose from a variety of spreads like plain cream cheese, scallion cream cheese, strawberry, or even something like jalapeño or honey almond. You can also add extras",
+      "timestamp": "2025-07-03T17:16:06.343Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can I okay? Can I have this Friday?",
+      "timestamp": "2025-07-03T17:16:06.343Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'm sorry, I didn't catch that. Could you please repeat what spread you'd like on your Garlic Bagel?",
+      "timestamp": "2025-07-03T17:16:06.343Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Strawberry.",
+      "timestamp": "2025-07-03T17:16:06.343Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-03T17:16:06.343Z] assistant: Great choice! Your Garlic Bagel will have strawberry spread and grilled chicken, and it'll be toasted. \n\nIs there anything else I can get for you, Jitin?",
+      "timestamp": "2025-07-03T17:16:06.790Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it. Thank you so much.",
+      "timestamp": "2025-07-03T17:16:06.343Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-03T17:16:06.343Z] assistant: Alright, Jitin, I've got your order for a Garlic Bagel with strawberry spread, grilled chicken, and it'll be toasted. \n\nLet me just confirm your order one last time. Is there anything else I can get for you?",
+      "timestamp": "2025-07-03T17:16:06.790Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. All good for now.",
+      "timestamp": "2025-07-03T17:16:06.343Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Got it, Jitin! Your order for a Garlic Bagel with strawberry spread and grilled chicken, toasted, is all set. Thank you for choosing Manhattan Bagel. Have a great day!",
+      "timestamp": "2025-07-03T17:16:06.343Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Thank you.",
+      "timestamp": "2025-07-03T17:16:06.344Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome! Enjoy your Garlic Bagel, Jitin. See you soon! Have a great day!",
+      "timestamp": "2025-07-03T17:16:06.344Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Bye bye. Is it my my order is done?",
+      "timestamp": "2025-07-03T17:16:06.344Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is all set, Jitin! We'll have it ready for you to pick up shortly. Say goodbye to me now, and have a wonderful day!",
+      "timestamp": "2025-07-03T17:16:06.344Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "What is the order ID?",
+      "timestamp": "2025-07-03T17:16:06.344Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'll receive your order ID shortly via confirmation message. If you need it right now, I can look it up for you. Would you like me to do that?",
+      "timestamp": "2025-07-03T17:16:06.344Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. Can you please tell me daughter?",
+      "timestamp": "2025-07-03T17:16:06.344Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Sure, I can help with that. Could you please provide me with the last four digits",
+      "timestamp": "2025-07-03T17:16:06.344Z"
+    }
+  ]
+}

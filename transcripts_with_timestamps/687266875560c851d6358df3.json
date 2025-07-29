@@ -1,0 +1,57 @@
+{
+  "callId": "687266875560c851d6358df3",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-12T13:43:35.535Z",
+    "callEnded": "2025-07-12T13:44:49.829Z",
+    "duration": 72,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer attempted to order an Avocado BLT Sandwich and Manhattan Cheesestick, but both items were not found on the menu by BagelBot."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jutin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-12T13:44:49.625Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi, BagelBot. I would like to order avocado BLT sandwich.",
+      "timestamp": "2025-07-12T13:44:49.625Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Avocado Bagelty Sandwich on our menu. However, we do have some great options like the Avocado Toast, or our Egg and Cheese sandwich. Which of these sounds good to you?",
+      "timestamp": "2025-07-12T13:44:49.625Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please check your menu, because it's there in the avocado BLT sandwich under the sandwich section?",
+      "timestamp": "2025-07-12T13:44:49.625Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Avocado BLT Sandwich on our menu. However, we do have some great options like the Avocado Toast, or our Big City BLT. Which of these sounds good to you?",
+      "timestamp": "2025-07-12T13:44:49.625Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Can I have then, Manhattan cheese stick?",
+      "timestamp": "2025-07-12T13:44:49.625Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Manhattan Cheesestick on our menu. However, we do have some great options like the Manhattan Bagel Menu, which includes a variety of bagels, sandwiches, and other items. We also have a Chelsea Grilled Chicken, Manhattan Cheesesteak Sandwich, and",
+      "timestamp": "2025-07-12T13:44:49.626Z"
+    }
+  ]
+}

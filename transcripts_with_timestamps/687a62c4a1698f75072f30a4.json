@@ -1,0 +1,177 @@
+{
+  "callId": "687a62c4a1698f75072f30a4",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T15:05:40.690Z",
+    "callEnded": "2025-07-18T15:08:20.739Z",
+    "duration": 154,
+    "from": "+12169566636",
+    "to": "+16204558091",
+    "summary": "The customer, Edward Richards, placed an order for a dozen bagels with cream cheese through Manhattan Bagel's ordering system."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to place an order.",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'd be happy to help you with that. What would you like to order today?",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm ordering a dozen bagels, six blueberries, six cinnamon.",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That will be our Dozen Bagels on the menu, just confirming it's available. For your dozen bagels, I have you down for six Blueberry and six Cinnamon Raisin. Would you like them sliced?",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes, please.",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:08:20.277Z] assistant: I've added the slicing option to your order. So, to confirm, you'd like a dozen bagels, six Blueberry and six Cinnamon Raisin, all sliced. I'll go ahead and calculate the total for you. Just a moment... \n\n",
+      "timestamp": "2025-07-18T15:08:20.738Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your total for the dozen bagels, six Blueberry and six Cinnamon Raisin, all sliced, comes to 20 dollars and 34 cents including tax. Would you like to make any changes or add anything else to your order?",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you please add some cream cheese?",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I can add some cream cheese to your order. We have a variety of cream cheese flavors. For your dozen bagels, I recommend our Tub of Manhattan Bagel Plain Cream Cheese. It's 6 ounces and costs $5.99. Would you like to add that to your order?",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "也 随",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-18T15:08:20.277Z] assistant: I've added the Tub of Manhattan Bagel Plain Cream Cheese to your order. Let me recalculate the total for you. Just a moment...\n\n",
+      "timestamp": "2025-07-18T15:08:20.738Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your updated total comes to 26 dollars and 92 cents including tax. Is there anything else you'd like to add to your order, or would you like to proceed with the payment?",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Proceed with payment.",
+      "timestamp": "2025-07-18T15:08:20.277Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "May I have your name for the order?",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Edward Richard.",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you.",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Edward. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I trust you.",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Great. Placing that for you now, please hold on... ",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 569163. That's 5, 6, 9, 1, 6, 3.\", 'order_id': '569163', 'call_id': '8c884184-c3a4-4ca5-a147-f9470f4c614c', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981e13-b2cf-80ec-d478-95eabfd3503d'}",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 5, 6, 9, 1, 6, 3. Your total is 26 dollars and 92 cents including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. Thank you.",
+      "timestamp": "2025-07-18T15:08:20.278Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Edward. It was a pleasure assisting you with your order. Have a great day and enjoy your bagels!",
+      "timestamp": "2025-07-18T15:08:20.279Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Thank you.",
+      "timestamp": "2025-07-18T15:08:20.279Z"
+    }
+  ]
+}

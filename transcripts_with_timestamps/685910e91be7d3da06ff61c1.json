@@ -1,0 +1,93 @@
+{
+  "callId": "685910e91be7d3da06ff61c1",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T08:31:37.040Z",
+    "callEnded": "2025-06-23T08:32:59.135Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle from Manhattan Bagel and began customizing the thirteen bagels included in the bundle."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T08:32:58.897Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Breakfast bundle.",
+      "timestamp": "2025-06-23T08:32:58.897Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle, great choice. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T08:32:58.897Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-23T08:32:58.897Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me see what we have for your bagel choices...",
+      "timestamp": "2025-06-23T08:32:58.898Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello?",
+      "timestamp": "2025-06-23T08:32:58.898Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "First, for the thirteen bagels in your Bagel Dozen. Popular choices are Plain, Everything, or Sesame. What would you like for those?",
+      "timestamp": "2025-06-23T08:32:58.898Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Tell me how many datas I can select.",
+      "timestamp": "2025-06-23T08:32:58.898Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You can choose up to thirteen bagels, and you can mix and match different types.",
+      "timestamp": "2025-06-23T08:32:58.898Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay.",
+      "timestamp": "2025-06-23T08:32:58.898Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's start with the bagels. You can choose from Plain, Everything, Sesame, and more. Which ones would you like?",
+      "timestamp": "2025-06-23T08:32:58.898Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "One second.",
+      "timestamp": "2025-06-23T08:32:58.898Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll wait.",
+      "timestamp": "2025-06-23T08:32:58.898Z"
+    }
+  ]
+}

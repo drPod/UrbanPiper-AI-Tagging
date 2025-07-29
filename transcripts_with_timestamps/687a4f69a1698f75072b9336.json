@@ -1,0 +1,39 @@
+{
+  "callId": "687a4f69a1698f75072b9336",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-18T13:43:05.250Z",
+    "callEnded": "2025-07-18T13:44:08.376Z",
+    "duration": 57,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin ordered an Omelet Wrap from Manhattan Bagel and began customizing it with the agent's assistance."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-18T13:44:08.151Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order omelette wrap. Can you please check?",
+      "timestamp": "2025-07-18T13:44:08.151Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check that for you. We have an Omelet Wrap on our menu. That would be our Omelet Wrap on the menu. I'll add the Omelet Wrap for you. Now, let's customize it. For the Omelet Wrap, you can choose your meat, cheese, and other options. What kind of meat would you like? We have bacon, pork roll, sausage, ham, steak, deli turkey, turkey bacon, or turkey sausage.",
+      "timestamp": "2025-07-18T13:44:08.151Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-07-18T13:44:08.151Z"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "callId": "68591d811be7d3da0601bab6",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T09:25:21.069Z",
+    "callEnded": "2025-06-23T09:27:06.666Z",
+    "duration": 120,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Gaurav ordered a Breakfast Bundle from Manhattan Bagel with specific customizations for the bagels and spreads, but the call ended before completion."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T09:27:06.503Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T09:27:06.503Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is perfect for a group. It comes with thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T09:27:06.503Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I have all the options for you. First, for the thirteen bagels in your Bagel Dozen, popular choices are Plain, Everything, or Sesame. What would you like for those? You can choose a variety if you'd like.",
+      "timestamp": "2025-06-23T09:27:06.504Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So I'll go with the 13 as sesame bagel. Sorry. Five as sesame and five as garlic.",
+      "timestamp": "2025-06-23T09:27:06.504Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like five Sesame bagels and five Garlic bagels. That leaves three more bagels to choose. What would you like for the remaining three bagels?",
+      "timestamp": "2025-06-23T09:27:06.504Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "As a plain member.",
+      "timestamp": "2025-06-23T09:27:06.504Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like the remaining three bagels to be Plain. So, to confirm, you have five Sesame, five Garlic, and three Plain bagels. Next, for your two tubs of spread, we have options like Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive. Which two spreads would you like?",
+      "timestamp": "2025-06-23T09:27:06.504Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I will choose one vegetable. Second one is vanilla.",
+      "timestamp": "2025-06-23T09:27:06.504Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like one tub of Vegetable Cream Cheese and one tub of Vanilla spread, but I think there might be some confusion - we don't have Vanilla as an option for the spreads. We do have other flavors like Strawberry, Honey Almond, or Jalapeño Cream Cheese. Would",
+      "timestamp": "2025-06-23T09:27:06.504Z"
+    }
+  ]
+}

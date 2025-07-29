@@ -1,0 +1,171 @@
+{
+  "callId": "6877da9e73d0cf0f7e860ef0",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T17:00:14.469Z",
+    "callEnded": "2025-07-16T17:03:33.811Z",
+    "duration": 196,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "Jitin placed an order for an Asiago bagel with grilled chicken, butter, and lettuce, and the order was successfully submitted with an order number and total price provided."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-16T17:03:32.251Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me, iced tea, please.",
+      "timestamp": "2025-07-16T17:03:32.251Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We have a variety of hot teas to choose from. I have Lipton Black Tea, Lipton Decaf Tea, Chamomile Tea, Earl Grey, English Breakfast, Lemon Ginger, and Green Tea. Which one of these sounds good to you, or would you like to hear more about our tea options?",
+      "timestamp": "2025-07-16T17:03:32.251Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have okay. Do you have apple juice? Do you have apple juice?",
+      "timestamp": "2025-07-16T17:03:32.251Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We do have apple juice. It's part of our beverage menu. Would you like to order an apple juice, or would you like me to tell you a little bit more about our size options and prices?",
+      "timestamp": "2025-07-16T17:03:32.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you okay. So I want, a Tiago vehicle, lightly toasted and, with some grilled chicken, also want to have butter as, you know, side.",
+      "timestamp": "2025-07-16T17:03:32.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So you'd like to order an Asiago bagel, lightly toasted, with grilled chicken and butter. Just to confirm, you'd like the Asiago bagel as the base, lightly toasted, with grilled chicken as the protein, and butter as a spread, is that correct?",
+      "timestamp": "2025-07-16T17:03:32.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-16T17:03:32.252Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your Asiago bagel, I just need to confirm a few more details. Would you like any cheese on your bagel, such as American, Swiss, or Cheddar? And would you like any vegetables, like lettuce, tomato, or spinach?",
+      "timestamp": "2025-07-16T17:03:32.252Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Just add letters. That's it.",
+      "timestamp": "2025-07-16T17:03:32.252Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T17:03:32.252Z] assistant: So, to recap, you'd like an Asiago bagel, lightly toasted, with grilled chicken, butter, and lettuce. I'll go ahead and add that to your order.\n\nNow, I just need to calculate the total for you. Just a moment, please... \n\n",
+      "timestamp": "2025-07-16T17:03:33.811Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I didn't find the \"Asiago Bagel\" item in our menu. We do have an \"Asiago\" option under our bagel choices, though. Would you like me to add an Asiago bagel to your order instead?",
+      "timestamp": "2025-07-16T17:03:32.253Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-16T17:03:32.253Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T17:03:32.253Z] assistant: So, to confirm, you'd like an Asiago bagel, lightly toasted, with grilled chicken, butter, and lettuce. I'll go ahead and add that to your order.\n\nNow, I just need to calculate the total for you. Just a moment, please... \n\n",
+      "timestamp": "2025-07-16T17:03:33.811Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T17:03:32.253Z] assistant: Your total comes out to be $8.24. I'll go ahead and put that order in for you. \n\nNow, I'll transition you to the next stage to complete your order. Just a moment, please... \n\n",
+      "timestamp": "2025-07-16T17:03:33.811Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage with total pricing of the ordered item with taxes",
+      "timestamp": "2025-07-16T17:03:32.254Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-16T17:03:32.254Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it.",
+      "timestamp": "2025-07-16T17:03:32.254Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright Jitin. Would you like me to read back your order with all the details?",
+      "timestamp": "2025-07-16T17:03:32.254Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-16T17:03:32.254Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-16T17:03:32.254Z] assistant: Great. Placing that for you now, please hold on...\n\n",
+      "timestamp": "2025-07-16T17:03:33.811Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 418690. That's 4, 1, 8, 6, 9, 0.\", 'order_id': '418690', 'call_id': '4e27bc9e-bcc6-4bf3-9162-5297c0b3b59a', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '01981430-66f8-4a27-1de6-1626c9bb88f9'}",
+      "timestamp": "2025-07-16T17:03:32.254Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order number is 4, 1, 8, 6, 9, 0. Your total is $8 and 24 cents, including tax. Your order will remain on hold until payment is completed. You'll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-16T17:03:32.255Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are",
+      "timestamp": "2025-07-16T17:03:32.255Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-07-16T17:03:32.257Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're",
+      "timestamp": "2025-07-16T17:03:32.257Z"
+    }
+  ]
+}

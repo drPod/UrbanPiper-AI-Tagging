@@ -1,0 +1,225 @@
+{
+  "callId": "68593b3a1be7d3da0604cfa5",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T11:32:10.597Z",
+    "callEnded": "2025-06-23T11:36:57.300Z",
+    "duration": 300,
+    "from": "+918949862707",
+    "to": "+16204558091",
+    "summary": "The customer ordered a Breakfast Bundle with twelve Garlic bagels, one Everything bagel, two tubs of Plain and Vegetable cream cheese, two Blueberry muffins, two Corn muffins, and a Box of Decaf Coffee."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Gaurav, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T11:36:56.854Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T11:36:56.854Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get",
+      "timestamp": "2025-06-23T11:36:56.854Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Like, to order Bigfoot wonders.",
+      "timestamp": "2025-06-23T11:36:56.854Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle is perfect for a group. It includes thirteen bagels, two tubs of cream cheese, four muffins, and a box of coffee. Let me get all the customization options for you...",
+      "timestamp": "2025-06-23T11:36:56.854Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your thirteen bagels, popular choices are Plain, Everything, or Sesame. What would you like?",
+      "timestamp": "2025-06-23T11:36:56.854Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Three planes, five SMA.",
+      "timestamp": "2025-06-23T11:36:56.854Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me confirm that for you.",
+      "timestamp": "2025-06-23T11:36:56.854Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And, six.",
+      "timestamp": "2025-06-23T11:36:56.855Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like three Plain, five Sesame, and six... which type for the last six?",
+      "timestamp": "2025-06-23T11:36:56.855Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Six as everything.",
+      "timestamp": "2025-06-23T11:36:56.855Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like three Plain, five Sesame, and six Everything bagels. Next, for your two tubs of spread, we have options like Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive. Which two would you like?",
+      "timestamp": "2025-06-23T11:36:56.855Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "So I think I have exceeded exceeded the, you know, bagel count. Right? I it it counted, as the total is, like, 14 in my case. Isn't it?",
+      "timestamp": "2025-06-23T11:36:56.855Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me get the options for your muffins... ",
+      "timestamp": "2025-06-23T11:36:56.855Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? Can you hear me?",
+      "timestamp": "2025-06-23T11:36:56.855Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, I can hear you.",
+      "timestamp": "2025-06-23T11:36:56.855Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm saying, that the vague the vague vague options, which I select, like, five three eight and plus six fourteen. Right? But I should have only go with 13.",
+      "timestamp": "2025-06-23T11:36:56.855Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're right, the total number of bagels you selected exceeds thirteen. Let's start again with the bagel selection to ensure we get exactly thirteen. Which types would you like?",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. 12 is garlic.",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "And two as everything.",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like twelve Garlic bagels and one Everything bagel, right? That's a total of thirteen bagels. Next, for your two tubs of spread, we have options like Plain Cream Cheese, Vegetable Cream Cheese, or Scallion/Onion Chive. Which two would you like?",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Clean and everything.",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your spreads, you've chosen Plain Cream Cheese and... Everything isn't an option for spreads, but we do have Scallion/Onion Chive. Would you like to replace Everything with Scallion/Onion Chive or choose a different spread",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Plain and plain vegetable. Plain or vegetable.",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You'd like two tubs of spread, and you've chosen Plain Cream Cheese and Vegetable Cream Cheese. Next, for your four muffins, we have options like Blueberry, Corn, Double Chocolate, and more. Which ones would you like?",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Two blueberries, two corn. Hello?",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you'd like two Blueberry muffins and two Corn muffins. Lastly, for your Box of Coffee, would you like to add House Blend, Decaf, or another option?",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'll choose, decaf.",
+      "timestamp": "2025-06-23T11:36:56.856Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me add that to your order... ",
+      "timestamp": "2025-06-23T11:36:56.857Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T11:36:56.857Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes. I'm still there.",
+      "timestamp": "2025-06-23T11:36:56.857Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T11:36:56.857Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "",
+      "timestamp": "2025-06-23T11:36:56.857Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I hope you are still with me!",
+      "timestamp": "2025-06-23T11:36:56.857Z"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "callId": "6868d71745548bd51ce090e2",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-05T07:41:11.723Z",
+    "callEnded": "2025-07-05T07:42:52.617Z",
+    "duration": 98,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": "Jitin placed an order for a medium hot coffee with half and half milk, regular sugar, and whipped cream."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-05T07:42:52.216Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order hot coffee.",
+      "timestamp": "2025-07-05T07:42:52.216Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One hot coffee. First things first, I'll need to get a size for that. It comes with exactly one of the following sizes: Small 12oz, Medium 16oz, Large 20oz, or X Large 24oz. Which size would you like?",
+      "timestamp": "2025-07-05T07:42:52.216Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah. I'll go with this medium size, half enough milk and, regular sugar. If you can get me whipped cream as well, and that's it.",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One medium hot coffee with half and half milk and regular sugar. I'll also make sure to get that sugar-free for you. Just to confirm, you'd like to add whipped cream to your coffee, correct?",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes.",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, so I have a medium hot coffee with half and half milk, regular sugar, and whipped cream. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "For now, that's it.",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you. ",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I don't need that.",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-05T07:42:52.217Z] assistant: Great. Placing that for you now, please hold on.\n\nNow, I will submit your order. \n\n(Please wait for a moment)\n\nYour order is all set! The order number is 18908, and the total comes to $4.50. We'll have that ready for you shortly. Thanks for calling! \n\n",
+      "timestamp": "2025-07-05T07:42:52.617Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-05T07:42:52.217Z"
+    }
+  ]
+}

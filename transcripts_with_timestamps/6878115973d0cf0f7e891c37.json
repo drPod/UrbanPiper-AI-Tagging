@@ -1,0 +1,21 @@
+{
+  "callId": "6878115973d0cf0f7e891c37",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-16T20:53:45.097Z",
+    "callEnded": "2025-07-16T20:54:00.562Z",
+    "duration": 13,
+    "from": "+910000000000",
+    "to": "+910000000000",
+    "summary": "The call was an introductory greeting from BagelBot, an AI assistant at Manhattan Bagel, offering assistance to the customer."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-16T20:53:59.989Z"
+    }
+  ]
+}

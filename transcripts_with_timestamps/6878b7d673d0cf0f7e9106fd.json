@@ -1,0 +1,69 @@
+{
+  "callId": "6878b7d673d0cf0f7e9106fd",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-17T08:44:06.190Z",
+    "callEnded": "2025-07-17T08:45:16.720Z",
+    "duration": 66,
+    "from": "+447495721189",
+    "to": "+441313810000",
+    "summary": "The customer attempted to place a large order for 50 bagels but had difficulty following the conversation due to the speaking speed and ultimately ended the call."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello there, Welcome to Manhattan Bagel, I'm BagelBot an AI Assistant, and How can I assist you today?",
+      "timestamp": "2025-07-17T08:45:16.474Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. I would like to place an order, please.",
+      "timestamp": "2025-07-17T08:45:16.475Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'd be happy to help you with that. What would you like to order today?",
+      "timestamp": "2025-07-17T08:45:16.475Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I would like to order 50 bagels.",
+      "timestamp": "2025-07-17T08:45:16.475Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "That's a large order. For 50 bagels, I have a few options. I can offer you our Half Dozen Bagels, which is 6 bagels of your choice, or our Dozen Bagels, which is 13 bagels of your choice. We also have a special deal on our Baker's Dozen Value Pack, which includes 13 bagels and 2 tubs of spread. Which one of these options",
+      "timestamp": "2025-07-17T08:45:16.475Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sorry. Can you can you slow down the level eight four a little bit?",
+      "timestamp": "2025-07-17T08:45:16.475Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I'll slow down a bit. Let's take it one step at a time. You'd like to order 50 bagels, and I was explaining our options for bulk bagel orders. We have a Half Dozen, which is 6 bagels, a Dozen, which is 13 bagels, and a Baker's Dozen Value Pack, which includes 13",
+      "timestamp": "2025-07-17T08:45:16.475Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sorry. Can you repeat this, but can you triple the speed of your speaking?",
+      "timestamp": "2025-07-17T08:45:16.475Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-17T08:45:16.475Z"
+    }
+  ]
+}

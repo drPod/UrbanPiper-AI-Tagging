@@ -1,0 +1,237 @@
+{
+  "callId": "6868edb545548bd51ce59ef3",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-05T09:17:41.713Z",
+    "callEnded": "2025-07-05T09:23:30.077Z",
+    "duration": 345,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "M G ordered a breakfast bundle with a specific selection of bagels, cream cheese, and muffins"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello M G Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-05T09:23:28.438Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can I get a breakfast bundle?",
+      "timestamp": "2025-07-05T09:23:28.438Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "A breakfast bundle sounds like a great choice. To confirm, a breakfast bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can also add 4oz of premium Acme smoked nova for an extra $9.99. Would you like to add the nova to your bundle?",
+      "timestamp": "2025-07-05T09:23:28.438Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Not right now.",
+      "timestamp": "2025-07-05T09:23:28.438Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the bagels, you can choose from our variety of flavors. We have plain, everything, asiago, blueberry, and many more. Which 13 bagels would you like to include in your bundle?",
+      "timestamp": "2025-07-05T09:23:28.439Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me four asiago, four plate, four blueberry.",
+      "timestamp": "2025-07-05T09:23:28.439Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, for your breakfast bundle, I have 4 Asiago bagels, 4 Plain bagels, and 4 Blueberry bagels. That's a total of 12 bagels. You still need to choose 1 more bagel to complete your bundle of 13. Which type would you like for",
+      "timestamp": "2025-07-05T09:23:28.439Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me give me four assessment.",
+      "timestamp": "2025-07-05T09:23:28.440Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, for your breakfast bundle, I have 4 Asiago bagels, 4 Plain bagels, 4 Blueberry bagels, and 1 Sesame bagel. Now, let's move on to the cream cheese. You get to choose 2 tubs of cream cheese.",
+      "timestamp": "2025-07-05T09:23:28.440Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Can you repeat can you repeat the bigger choices?",
+      "timestamp": "2025-07-05T09:23:28.441Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your breakfast bundle, you've chosen 4 Asiago bagels, 4 Plain bagels, 4 Blueberry bagels, and 1 Sesame bagel. Now, let's move on to the cream",
+      "timestamp": "2025-07-05T09:23:28.442Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. I said four sesame. Can you give me four sesame?",
+      "timestamp": "2025-07-05T09:23:28.442Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, for your breakfast bundle, I have 4 Asiago bagels, 4 Plain bagels, 4 Blueberry bagels, and 4 Sesame bagels, and 1 more bagel to choose. You still need to choose 1 more bagel to complete your bundle of 13. Which type would you like for the last one?",
+      "timestamp": "2025-07-05T09:23:28.443Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "How many do I have right now?",
+      "timestamp": "2025-07-05T09:23:28.444Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me recap your bagel choices. You currently have 4 Asiago bagels, 4 Plain bagels, 4 Blueberry bagels, and 1 Sesame bagel was incorrect, you actually said 4 Sesame bagels. So, that's a total of 4 + 4 + 4 + 4 = 16 bagels. You have already exceeded the 13 bagels included in the bundle. Would you like to adjust your selection to fit the 13 bagel limit?",
+      "timestamp": "2025-07-05T09:23:28.444Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me can can you just refresh me?",
+      "timestamp": "2025-07-05T09:23:28.444Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let's adjust your bagel selection to fit the 13 bagel limit. You had 4 Asiago, 4 Plain, 4 Blueberry, and 4 Sesame. To get to 13, I can reduce the Sesame bagels to 1. So, your new total would be: 4 Asiago, 4 Plain, 4 Blueberry, and 1 Sesame. This combination adds up to 13 bagels. How does that sound?",
+      "timestamp": "2025-07-05T09:23:28.446Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Sounds okay.",
+      "timestamp": "2025-07-05T09:23:28.447Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Now that we have your bagel selection finalized, let's move on to the cream cheese. You get to choose 2 tubs of cream cheese for your breakfast bundle. We have a variety of flavors to choose from, such as Plain, Strawberry, Scallion, and Honey Almond. Which two flavors would you like?",
+      "timestamp": "2025-07-05T09:23:28.447Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Give me brown and black.",
+      "timestamp": "2025-07-05T09:23:28.447Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I don't see Brown and Black as options for our cream cheese flavors. We have Plain, Strawberry, Scallion, and Honey Almond. Which two of these flavors would you like for your breakfast bundle?",
+      "timestamp": "2025-07-05T09:23:28.447Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me honey almond and, blueberry.",
+      "timestamp": "2025-07-05T09:23:28.447Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "We don't have a Blueberry cream cheese option. We have Plain, Strawberry, Scallion, and Honey Almond. You've already chosen the Honey Almond,",
+      "timestamp": "2025-07-05T09:23:28.447Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Scallion and give me scallion next.",
+      "timestamp": "2025-07-05T09:23:28.448Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, for your cream cheese, you'd like to have Honey Almond and Scallion. Now, let's move on to the muffins. You get to choose 4 muffins for your breakfast bundle. We have a variety of flavors such as Blueberry, Double Chocolate, Cinnamon Chip, and Cranberry Orange. Which 4 muffin flavors would you like?",
+      "timestamp": "2025-07-05T09:23:28.448Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "To Seniman",
+      "timestamp": "2025-07-05T09:23:28.448Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I",
+      "timestamp": "2025-07-05T09:23:28.448Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Six. Go on. And one.",
+      "timestamp": "2025-07-05T09:23:28.448Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your muffin selection, you've chosen 2 Corn muffins, and 1 Chocolate Chip muffin, and you still need to choose 1 more muffin to complete your selection of 4.",
+      "timestamp": "2025-07-05T09:23:28.449Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. I said I said two chocolate two corn, four chocolate chip, and one blueberry.",
+      "timestamp": "2025-07-05T09:23:28.449Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, for your muffin selection, you would like 2 Chocolate Chip muffins, 2 Corn muffins, but you also mentioned 4 Chocolate Chip and 1 Blueberry, which exceeds the 4 muffin limit. Let me try to clarify: would you like 2 Chocolate Chip, 2 Corn, or do you want to adjust to something else within the 4 muffin limit?",
+      "timestamp": "2025-07-05T09:23:28.449Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Give me two of my shift to Gong.",
+      "timestamp": "2025-07-05T09:23:28.449Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-05T09:23:28.449Z] assistant: So, for your muffin selection, you'd like 2 Chocolate Chip muffins and 2 Corn muffins. I've got that updated.\n\nTo recap, your breakfast bundle includes:\n\n* 4 Asiago bagels\n* 4 Plain bagels\n* 4 Blueberry bagels\n* 1 Sesame bagel\n* 2 tubs of cream cheese: Honey Almond and Scallion\n* 4 muffins: 2 Chocolate Chip and 2 Corn\n\nIs there anything else you'd like to add or change?",
+      "timestamp": "2025-07-05T09:23:30.077Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-05T09:23:28.450Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect, let me get that all put together for you. ",
+      "timestamp": "2025-07-05T09:23:28.450Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-05T09:23:28.450Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And may I have the name for this order?",
+      "timestamp": "2025-07-05T09:23:28.451Z"
+    }
+  ]
+}

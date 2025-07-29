@@ -1,0 +1,45 @@
+{
+  "callId": "6868dab845548bd51ce15d59",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-05T07:56:40.645Z",
+    "callEnded": "2025-07-05T07:57:51.931Z",
+    "duration": 69,
+    "from": "+919686500112",
+    "to": "+16204558091",
+    "summary": "The customer ordered a Breakfast Bundle from Manhattan Bagel without adding any smoked nova."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello M G Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-05T07:57:51.699Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hi. Can I order a breakfast bundle?",
+      "timestamp": "2025-07-05T07:57:51.699Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Breakfast Bundle includes 13 fresh-baked Manhattan Bagels, 2 tubs of cream cheese, and 4 muffins. You can also add 4oz of premium Acme smoked nova for an extra $9.99. Would you like to add the nova to your bundle?",
+      "timestamp": "2025-07-05T07:57:51.699Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-05T07:57:51.699Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-05T07:57:51.700Z] assistant: For the 13 bagels, which ones would you like? We have a variety to choose from, such as Plain, Everything, Asiago, Blueberry, and many more. \n\nAlso, for the 2 tubs of cream cheese, would you like to choose from our options like Plain, Vegetable, or Scallion? \n\nAnd for the 4 muffins, we have Blueberry, Corn, Double Chocolate, and Cinnamon Chip. Which ones would you like?",
+      "timestamp": "2025-07-05T07:57:51.931Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "callId": "68599fb31be7d3da06116625",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-23T18:40:51.129Z",
+    "callEnded": "2025-06-23T18:41:19.775Z",
+    "duration": 60,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "The call was a greeting and introduction to Manhattan Bagel, with no specific order placed."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-23T18:41:18.618Z"
+    }
+  ]
+}

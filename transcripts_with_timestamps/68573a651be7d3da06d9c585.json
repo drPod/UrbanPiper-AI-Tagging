@@ -1,0 +1,129 @@
+{
+  "callId": "68573a651be7d3da06d9c585",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-06-21T23:04:05.704Z",
+    "callEnded": "2025-06-21T23:06:42.932Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+17209999031",
+    "summary": "Alex ordered an unsweetened ice tea and the order was successfully placed"
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Alex, welcome to Manhattan Bagel. It's great to see you again. What would you like to order?",
+      "timestamp": "2025-06-21T23:06:42.644Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I want to order iced tea unsweet can I get that?",
+      "timestamp": "2025-06-21T23:06:42.644Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "One ice tea, unsweet. Let me get the options for your ice tea...",
+      "timestamp": "2025-06-21T23:06:42.645Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your ice tea, what size would you like? We have small, 16 ounces for $2.49, medium, 24 ounces for $2.99, or large, 32 ounces for $3",
+      "timestamp": "2025-06-21T23:06:42.645Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Medium size. Medium size.",
+      "timestamp": "2025-06-21T23:06:42.646Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, you'd like a medium size, which is 24 ounces for $2.99. Now, let's talk about the milk choice. We have regular milk, half and half, skim, almond milk for an extra $0.50, oat milk for an extra $0.80, or soy milk for an extra $1. Which one of these would you like?",
+      "timestamp": "2025-06-21T23:06:42.646Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I don't want milk. I just want unsweetened iced tea.",
+      "timestamp": "2025-06-21T23:06:42.646Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For your unsweetened ice tea, you've chosen a medium size, 24 ounces. Now, I just need to confirm a few more things. Would you like to add any sweeteners or syrups to your tea? We have options like sugar, sweet and low, equal, splenda, or raw sugar, all at no extra cost. Or if you'd like something a bit different, we have flavored syrups like pumpkin, caramel, or hazelnut for an extra $0",
+      "timestamp": "2025-06-21T23:06:42.646Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. No. No. No. No. I don't want anything. I just said, I need unsweetened iced tea.",
+      "timestamp": "2025-06-21T23:06:42.647Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "So, to confirm, you would like a medium-sized, 24-ounce unsweetened ice tea, with no milk or additional sweeteners. Perfect, let me add that to your order...",
+      "timestamp": "2025-06-21T23:06:42.647Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Added 1 item(s) to your cart. Total: $6.48",
+      "timestamp": "2025-06-21T23:06:42.647Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, I've added the unsweetened ice tea to your order. Your total comes out to be $6.48. Would you like to place this order for pickup or is there something else I can get for you?",
+      "timestamp": "2025-06-21T23:06:42.648Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. That's it. You can place the order now.",
+      "timestamp": "2025-06-21T23:06:42.648Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, let me get this order placed for you...",
+      "timestamp": "2025-06-21T23:06:42.648Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 171901. That's 1, 7, 1, 9, 0, 1. Total: $7.13 (subtotal 6.48 dollars plus 0.65 dollars tax). Thank you for your order!",
+      "timestamp": "2025-06-21T23:06:42.649Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is placed. Your order number is 1, 7, 1, 9, 0, 1. Your total comes out to be $6.48 for the items, plus $0.65 in tax, making it a total of $7.13. We'll have that ready for you shortly. Thank you for your order!",
+      "timestamp": "2025-06-21T23:06:42.649Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. Great. Thank you so much. Bye.",
+      "timestamp": "2025-06-21T23:06:42.649Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "You're welcome, Alex. It was a pleasure helping you with your order. Have a great day and we'll see you soon to pick up your unsweetened ice tea. Bye for now.",
+      "timestamp": "2025-06-21T23:06:42.650Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-06-21T23:06:42.650Z"
+    }
+  ]
+}

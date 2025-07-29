@@ -1,0 +1,57 @@
+{
+  "callId": "686e7f67d14f3abcfb38329a",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T14:40:39.890Z",
+    "callEnded": "2025-07-09T14:41:20.332Z",
+    "duration": 37,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "The user inquired about Diet Coke availability and pricing."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T14:41:20.058Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hello? Can you hear me?",
+      "timestamp": "2025-07-09T14:41:20.058Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello, I can hear you clearly. What would you like to order today?",
+      "timestamp": "2025-07-09T14:41:20.059Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Do you have Diet Coke?",
+      "timestamp": "2025-07-09T14:41:20.059Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Yes, we have Diet Coke. It's available in a 12 ounce can for one ninety-nine. Would you like to order one?",
+      "timestamp": "2025-07-09T14:41:20.059Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Okay. So what is the drive stroke?",
+      "timestamp": "2025-07-09T14:41:20.060Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Diet Coke is a 12 ounce can available for one ",
+      "timestamp": "2025-07-09T14:41:20.060Z"
+    }
+  ]
+}

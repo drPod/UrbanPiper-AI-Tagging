@@ -1,0 +1,147 @@
+{
+  "callId": "686eb0a0d14f3abcfb3e4f61",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-09T18:10:40.639Z",
+    "callEnded": "2025-07-09T18:12:32.078Z",
+    "duration": 109,
+    "from": "919780032269",
+    "to": "918035740152",
+    "summary": "John placed a successful order for an 11oz Tropicana Orange Juice for pickup at Manhattan Bagel."
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello John Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-09T18:12:31.640Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Hey. Hi. I'd like to order breakfast, sorry, Tropicana, OZ, orange juice.",
+      "timestamp": "2025-07-09T18:12:31.640Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, one Tropicana Orange Juice. You'll need to pick just one size for that. We have 11 ounce, and 46 ounce. Which size would you prefer?",
+      "timestamp": "2025-07-09T18:12:31.640Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "11 ounce.",
+      "timestamp": "2025-07-09T18:12:31.640Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Perfect. Is there anything else I can get for you today?",
+      "timestamp": "2025-07-09T18:12:31.640Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Não.",
+      "timestamp": "2025-07-09T18:12:31.640Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Okay, so I have the 11 ounce Tropicana Orange Juice. Is that all for you today?",
+      "timestamp": "2025-07-09T18:12:31.640Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yes, please.",
+      "timestamp": "2025-07-09T18:12:31.640Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T18:12:31.640Z] assistant: Perfect, let me get that all put together for you.\n",
+      "timestamp": "2025-07-09T18:12:32.078Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Moving to ordering summarization stage...",
+      "timestamp": "2025-07-09T18:12:31.641Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright John. I have your order all ready. Would you like me to read it back to you with all the details before we place it?",
+      "timestamp": "2025-07-09T18:12:31.641Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No.",
+      "timestamp": "2025-07-09T18:12:31.641Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "And before I place this, do you have any special requests or allergies I should note for the kitchen?",
+      "timestamp": "2025-07-09T18:12:31.641Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. As of now, I don't have any.",
+      "timestamp": "2025-07-09T18:12:31.641Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Alright, ready to place this order for pickup?",
+      "timestamp": "2025-07-09T18:12:31.641Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yep.",
+      "timestamp": "2025-07-09T18:12:31.641Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T18:12:31.643Z] assistant: Great. Placing that for you now, please hold on.\n",
+      "timestamp": "2025-07-09T18:12:32.078Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "{'message': \"Speak naturally, clearly and slowly price and order number like (seven, eight, one, two, three, one) and tax to the user(in dollar and cents). Order placed successfully! Your order number is 167065. That's 1, 6, 7, 0, 6, 5.\", 'order_id': '167065', 'call_id': '0b8d061d-ec03-4901-bda3-a8a43650e21c', 'responseType': 'tool-response', 'agentReaction': 'speaks-once', 'api_response': '0197f063-2a73-aade-e21f-496ede659b7f'}",
+      "timestamp": "2025-07-09T18:12:31.644Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Your order is created successfully now! The order number is 1, 6, 7, 0, 6, 5, and the total including taxes comes to eleven dollars and twenty-two cents. Your order will remain on hold until payment is completed. You’ll receive an SMS shortly with a link to complete your payment. Is there anything else I can help you with today?",
+      "timestamp": "2025-07-09T18:12:31.644Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. All good. Thank you.",
+      "timestamp": "2025-07-09T18:12:31.644Z"
+    },
+    {
+      "role": "Unknown",
+      "originalRole": "unknown",
+      "text": "[2025-07-09T18:12:31.644Z] assistant: You’re very welcome! Thank you for choosing Manhattan Bagel. Have a great day!\n",
+      "timestamp": "2025-07-09T18:12:32.078Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "OK",
+      "timestamp": "2025-07-09T18:12:31.644Z"
+    }
+  ]
+}

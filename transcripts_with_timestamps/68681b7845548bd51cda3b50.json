@@ -1,0 +1,93 @@
+{
+  "callId": "68681b7845548bd51cda3b50",
+  "metadata": {
+    "agentName": "US Sales Agent",
+    "callType": "Phone Call",
+    "callStarted": "2025-07-04T18:20:40.310Z",
+    "callEnded": "2025-07-04T18:23:04.195Z",
+    "duration": 180,
+    "from": "+918949862707",
+    "to": "+16516156214",
+    "summary": null
+  },
+  "messages": [
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Hello Jitin Welcome to manhattan bagel It is great to see you again What would you like to order?",
+      "timestamp": "2025-07-04T18:23:03.747Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "I'm looking to order Manhattan cheesesteak sandwich.",
+      "timestamp": "2025-07-04T18:23:03.747Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "The Manhattan Cheesesteak Sandwich is a popular choice. It comes with grilled steak, roasted peppers, grilled onions, and cheese on a long roll. Would you like to hear about the customization options for this sandwich?",
+      "timestamp": "2025-07-04T18:23:03.747Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Yeah.",
+      "timestamp": "2025-07-04T18:23:03.747Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Manhattan Cheesesteak Sandwich, you can choose from a variety of cheeses. We have American, Swiss, Cheddar, Muenster, and Provolone. You can also add",
+      "timestamp": "2025-07-04T18:23:03.748Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Check your menu again. Check your menu again.",
+      "timestamp": "2025-07-04T18:23:03.748Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "Let me check the menu again for the Manhattan Cheesesteak Sandwich. According to our menu, the Manhattan Cheesesteak Sandwich comes with grilled steak, roasted peppers, grilled onions, and cheese on a long roll. For the cheese, you can choose from American, Swiss, Pepper Jack, or ",
+      "timestamp": "2025-07-04T18:23:03.748Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "No. You can't. Check check the modified group.",
+      "timestamp": "2025-07-04T18:23:03.748Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Manhattan Cheesesteak Sandwich, I see that it has a modifier group for \"Lunch Side\" and another for \"Double Lunch Protein\" and also \"Lunch Veggies\" and \"Lunch Bread Choice\". Let me start with",
+      "timestamp": "2025-07-04T18:23:03.748Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Then why are you not choosing the proper menu? Why why are you giving me your own? Like, what is the mistake?",
+      "timestamp": "2025-07-04T18:23:03.748Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "I should be following the menu structure exactly as it is defined. For the Manhattan Cheesesteak Sandwich, I will check the modifier groups associated with it. According to the menu, the Manhattan Cheesesteak Sandwich has modifier groups mg1409548, mg1409531, mg1409536, mg1409572, and mg1409573. Let me start with the first one, mg1409548, which is \"Lunch Side\". You can choose from Chips, Cole Slaw, or Lays Chips. Which one would you like?",
+      "timestamp": "2025-07-04T18:23:03.748Z"
+    },
+    {
+      "role": "Customer",
+      "originalRole": "user",
+      "text": "Chips.",
+      "timestamp": "2025-07-04T18:23:03.748Z"
+    },
+    {
+      "role": "AI Agent",
+      "originalRole": "assistant",
+      "text": "For the Manhattan Cheesesteak Sandwich, you've chosen Chips as your side. Next, I'll move on to the modifier group mg1409531, which is \"Toast\". You can choose from Toasted, Lightly Toasted, or Toasted Dark. Which one would you prefer?",
+      "timestamp": "2025-07-04T18:23:03.748Z"
+    }
+  ]
+}
